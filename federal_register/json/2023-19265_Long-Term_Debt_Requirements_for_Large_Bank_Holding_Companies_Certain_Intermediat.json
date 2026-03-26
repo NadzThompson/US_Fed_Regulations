@@ -1,0 +1,139 @@
+{
+  "doc_id": "usfed.fr.2023-19265",
+  "title": "Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions",
+  "short_title": "2023-19265",
+  "slug": "2023-19265",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Proposed Rule",
+  "nova_tier": 3,
+  "authority_class": "guidance_interpretive",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "2023-19265",
+  "citation": "88 FR 64524",
+  "publication_date": "2023-09-19",
+  "effective_date_start": null,
+  "abstract": "The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation are issuing a proposed rule for comment that would require certain large depository institution holding companies, U.S. intermediate holding companies of foreign banking organizations, and certain insured depository institutions, to issue and maintain outstanding a minimum amount of long-term debt. The proposed rule would improve the resolvability of ",
+  "action": "Notice of proposed rulemaking with request for public comment.",
+  "html_url": "https://www.federalregister.gov/documents/2023/09/19/2023-19265/long-term-debt-requirements-for-large-bank-holding-companies-certain-intermediate-holding-companies",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2023-09-19/pdf/2023-19265.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 3,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 54,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 216,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 217,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 238,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 252,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 324,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 374,
+      "title": 12
+    }
+  ],
+  "docket_ids": [
+    "Docket ID OCC-2023-0011",
+    "Regulations P, Q, LL, and YY",
+    "Docket No. [R-1815"
+  ],
+  "regulation_id_numbers": [
+    "1557-AF21",
+    "3064-AF86",
+    "7100-AG66"
+  ],
+  "page_length": 56,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2023/09/19/2023-19265/long-term-debt-requirements-for-large-bank-holding-companies-certain-intermediate-holding-companies",
+  "canonical_url": "https://www.federalregister.gov/documents/2023/09/19/2023-19265/long-term-debt-requirements-for-large-bank-holding-companies-certain-intermediate-holding-companies",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:31Z",
+  "include_in_primary_corpus": false,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2023-19265",
+  "title_normalized": "Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Proposed Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.3,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2023-09-19",
+  "document_date_raw": "2023-09-19",
+  "word_count_raw_body": 14000,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 216, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 217, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 238, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 252, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 3, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 324, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 374, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 54, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": true,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": true,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": true,
+  "normalized_text_sha256": "6b75c9aeb1b3b4a719f559bbdeddbee038ba2df5bf1a4dd99c1f624e7ee8bfcd",
+  "normalized_md_path": "federal_register/md/2023-19265_Long-Term_Debt_Requirements_for_Large_Bank_Holding_Companies_Certain_Intermediat.md",
+  "canonical_json_path": "federal_register/json/2023-19265_Long-Term_Debt_Requirements_for_Large_Bank_Holding_Companies_Certain_Intermediat.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "2023-19265 Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insured Depository Institutions Notice of proposed rulemaking with request for public comment. The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation are issuing a proposed rule for comment that would re",
+  "vector_text_prefix": "Federal Reserve Proposed Rule 2023-19265: Long-Term Debt Requirements for Large Bank Holding Companies, Certain Intermediate Holding Companies of Foreign Banking Organizations, and Large Insur",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

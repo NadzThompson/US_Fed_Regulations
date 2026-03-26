@@ -1,0 +1,18 @@
+# Bank Holding Companies and Change in Bank Control
+
+**Final Rule** | 65 FR 3785 | Published 2000-01-25
+**Effective:** 2000-03-11
+**Document Number:** 00-1646
+
+---
+
+## Action
+
+Interim rule with request for public comments.
+
+## Abstract
+
+The Board of Governors of the Federal Reserve System is adopting on an interim basis effective March 11, 2000, and soliciting comment on a rule that establishes procedures for bank holding companies as well as foreign banks that operate a branch, agency, or commercial lending company in the United States to elect to become financial holding companies. The interim rule includes amended definitions of terms in existing Subpart A that are applicable to the new Subpart. The Board is promulgating this rule to implement provisions of the recently enacted Gramm-Leach-Bliley Act that enable bank holding companies and foreign banks that meet applicable statutory requirements to become financial holding companies and thereby engage in a broader range of financial and other activities than are permissible for bank holding companies. The new Subpart sets forth the procedures by which bank holding companies and foreign banks may submit to the Board an election to become a financial holding company and describes the period in which the Board will act on financial holding company elections. This Subpart also enumerates the criteria that bank holding companies and foreign banks must meet in order to qualify as a financial holding company. In addition, the newly added sections set forth the limitations that the Board will apply to financial holding companies that fail to maintain compliance with applicable capital, management, and CRA criteria. The Board has promulgated this Subpart on an interim basis, effective on March 11, 2000, in order to allow bank holding companies and foreign banks that meet applicable qualifications to become financial holding companies as soon as possible following the effective date of the relevant provisions of the Gramm-Leach-Bliley Act. The Board will allow bank holding companies and foreign banks to file elections in anticipation of the effective date of the Act and the interim rule and will review elections as promptly as possible after the effective date. The Board anticipates that as soon as March 13, 2000, the Board will begin notifying qualifying companies that elections filed in accordance with the interim rule are effective. This will enable companies that the Board determines qualify as financial holding companies to take advantage of the new powers granted by the Gramm-Leach-Bliley Act as early as March 13, 2000, which is the first business day following the effective date of the financial holding company provisions of the Act. The Board solicits comments on all aspects of the interim rule and will amend the rule as appropriate in response to comments received.
+
+**Federal Register:** [https://www.federalregister.gov/documents/2000/01/25/00-1646/bank-holding-companies-and-change-in-bank-control](https://www.federalregister.gov/documents/2000/01/25/00-1646/bank-holding-companies-and-change-in-bank-control)
+**PDF:** [https://www.govinfo.gov/content/pkg/FR-2000-01-25/pdf/00-1646.pdf](https://www.govinfo.gov/content/pkg/FR-2000-01-25/pdf/00-1646.pdf)

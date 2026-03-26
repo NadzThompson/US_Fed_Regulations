@@ -1,0 +1,383 @@
+# PART 201 — EXTENSIONS OF CREDIT BY FEDERAL RESERVE BANKS (REGULATION A)
+
+**Regulation A** | 12 CFR Part 201 | Current as of 2026-03-09
+
+**Authority:** 12 U.S.C. 248(i)-(j) , 343 et seq., 347a, 347b, 347c, 348 et seq., 357, 374, 374a, and 461.
+
+**Source:** 45 FR 54010 , Aug. 14, 1980, unless otherwise noted.
+
+---
+
+## § 201.1 Authority, purpose and scope.
+
+  ( a ) Authority. This part is issued under the authority of sections 10A, 10B, 11(i), 11(j), 13, 13A, 14(d), and 19 of the Federal Reserve Act ( 12 U.S.C. 248(i)-(j) , 343 et seq. , 347a, 347b, 347c, 348 et seq., 357, 374, 374a, and 461).
+
+  ( b ) Purpose and scope. This part establishes rules under which a Federal Reserve Bank may extend credit to depository institutions and others. Except as otherwise provided, this part applies to United States branches and agencies of foreign banks that are subject to reserve requirements under Regulation D ( 12 CFR part 204 ) in the same manner and to the same extent as this part applies to depository institutions. The Federal Reserve System extends credit with due regard to the basic objectives of monetary policy and the maintenance of a sound and orderly financial system.
+
+## § 201.2 Definitions.
+
+For purposes of this part, the following definitions shall apply:
+
+  ( a ) Appropriate federal banking agency has the same meaning as in section 3 of the Federal Deposit Insurance Act (FDI Act) ( 12 U.S.C. 1813(q) ).
+
+  ( b ) Critically undercapitalized insured depository institution means any insured depository institution as defined in section 3 of the FDI Act ( 12 U.S.C. 1813(c)(2) ) that is deemed to be critically undercapitalized under section 38 of the FDI Act ( 12 U.S.C. 1831o(b)(1)(E) ) and its implementing regulations.
+
+  ( c )
+
+    ( 1 ) Depository institution means an institution that maintains reservable transaction accounts or nonpersonal time deposits and is:
+
+      ( i ) An insured bank as defined in section 3 of the FDI Act ( 12 U.S.C. 1813(h) ) or a bank that is eligible to make application to become an insured bank under section 5 of such act ( 12 U.S.C. 1815 );
+
+      ( ii ) A mutual savings bank as defined in section 3 of the FDI Act ( 12 U.S.C. 1813(f) ) or a bank that is eligible to make application to become an insured bank under section 5 of such act ( 12 U.S.C. 1815 );
+
+      ( iii ) A savings bank as defined in section 3 of the FDI Act ( 12 U.S.C. 1813(g) ) or a bank that is eligible to make application to become an insured bank under section 5 of such act ( 12 U.S.C. 1815 );
+
+      ( iv ) An insured credit union as defined in section 101 of the Federal Credit Union Act ( 12 U.S.C. 1752(7) ) or a credit union that is eligible to make application to become an insured credit union pursuant to section 201 of such act ( 12 U.S.C. 1781 );
+
+      ( v ) A member as defined in section 2 of the Federal Home Loan Bank Act ( 12 U.S.C. 1422(4) ); or
+
+      ( vi ) A savings association as defined in section 3 of the FDI Act ( 12 U.S.C. 1813(b) ) that is an insured depository institution as defined in section 3 of the act ( 12 U.S.C. 1813(c)(2) ) or is eligible to apply to become an insured depository institution under section 5 of the act ( 12 U.S.C. 15(a) ).
+
+    ( 2 ) The term depository institution does not include a financial institution that is not required to maintain reserves under § 204.1(c)(4) of Regulation D ( 12 CFR 204.1(c)(4) ) because it is organized solely to do business with other financial institutions, is owned primarily by the financial institutions with which it does business, and does not do business with the general public.
+
+  ( d ) Transaction account and nonpersonal time deposit have the meanings specified in Regulation D ( 12 CFR part 204 ).
+
+  ( e ) Undercapitalized insured depository institution means any insured depository institution as defined in section 3 of the FDI Act ( 12 U.S.C. 1813(c)(2) ) that:
+
+    ( 1 ) Is not a critically undercapitalized insured depository institution; and
+
+    ( 2 )
+
+      ( i ) Is deemed to be undercapitalized under section 38 of the FDI Act ( 12 U.S.C. 1831o(b)(1)(C) ) and its implementing regulations; or
+
+      ( ii ) Has received from its appropriate federal banking agency a composite CAMELS rating of 5 under the Uniform Financial Institutions Rating System (or an equivalent rating by its appropriate federal banking agency under a comparable rating system) as of the most recent examination of such institution.
+
+  ( f ) Viable, with respect to a depository institution, means that the Board of Governors or the appropriate federal banking agency has determined, giving due regard to the economic conditions and circumstances in the market in which the institution operates, that the institution is not critically undercapitalized, is not expected to become critically undercapitalized, and is not expected to be placed in conservatorship or receivership. Although there are a number of criteria that may be used to determine viability, the Board of Governors believes that ordinarily an undercapitalized insured depository institution is viable if the appropriate federal banking agency has accepted a capital restoration plan for the depository institution under 12 U.S.C. 1831o(e)(2) and the depository institution is complying with that plan.
+
+## § 201.3 Extensions of credit generally.
+
+  ( a ) Advances to and discounts for a depository institution.
+
+    ( 1 ) A Federal Reserve Bank may lend to a depository institution either by making an advance secured by acceptable collateral under § 201.4 of this part or by discounting certain types of paper. A Federal Reserve Bank generally extends credit by making an advance.
+
+    ( 2 ) An advance to a depository institution must be secured to the satisfaction of the Federal Reserve Bank that makes the advance. Satisfactory collateral generally includes United States government and federal-agency securities, and, if of acceptable quality, mortgage notes covering one-to four-family residences, state and local government securities, and business, consumer, and other customer notes.
+
+    ( 3 ) If a Federal Reserve Bank concludes that a discount would meet the needs of a depository institution or an institution described in section 13A of the Federal Reserve Act ( 12 U.S.C. 349 ) more effectively, the Reserve Bank may discount any paper indorsed by the institution, provided the paper meets the requirements specified in the Federal Reserve Act.
+
+  ( b ) No obligation to make advances or discounts. This section does not entitle any person or entity to obtain any credit or any increase, renewal or extension of maturity of any credit from a Federal Reserve Bank.
+
+  ( c ) Information requirements.
+
+    ( 1 ) Before extending credit to a depository institution, a Federal Reserve Bank should determine if the institution is an undercapitalized insured depository institution or a critically undercapitalized insured depository institution and, if so, follow the lending procedures specified in § 201.5 .
+
+    ( 2 ) Each Federal Reserve Bank shall require any information it believes appropriate or desirable to ensure that assets tendered as collateral for advances or for discount are acceptable and that the borrower uses the credit provided in a manner consistent with this part.
+
+    ( 3 ) Each Federal Reserve Bank shall:
+
+      ( i ) Keep itself informed of the general character and amount of the loans and investments of a depository institution as provided in section 4(8) of the Federal Reserve Act ( 12 U.S.C. 301 ); and
+
+      ( ii ) Consider such information in determining whether to extend credit.
+
+  ( d ) Indirect credit for others. Except for depository institutions that receive primary credit as described in § 201.4(a) , no depository institution shall act as the medium or agent of another depository institution in receiving Federal Reserve credit except with the permission of the Federal Reserve Bank extending credit.
+
+## § 201.4 Availability and terms of credit.
+
+  ( a ) Primary credit. A Federal Reserve Bank may extend primary credit on a very short-term basis, usually overnight, as a backup source of funding to a depository institution that is in generally sound financial condition in the judgment of the Reserve Bank. Such primary credit ordinarily is extended with minimal administrative burden on the borrower. A Federal Reserve Bank also may extend primary credit with maturities up to a few weeks as a backup source of funding to a depository institution if, in the judgment of the Reserve Bank, the depository institution is in generally sound financial condition and cannot obtain such credit in the market on reasonable terms. Credit extended under the primary credit program is granted at the primary credit rate.
+
+  ( b ) Secondary credit. A Federal Reserve Bank may extend secondary credit on a very short-term basis, usually overnight, as a backup source of funding to a depository institution that is not eligible for primary credit if, in the judgment of the Reserve Bank, such a credit extension would be consistent with a timely return to a reliance on market funding sources. A Federal Reserve Bank also may extend longer-term secondary credit if the Reserve Bank determines that such credit would facilitate the orderly resolution of serious financial difficulties of a depository institution. Credit extended under the secondary credit program is granted at a rate above the primary credit rate.
+
+  ( c ) Seasonal credit. A Federal Reserve Bank may extend seasonal credit for periods longer than those permitted under primary credit to assist a smaller depository institution in meeting regular needs for funds arising from expected patterns of movement in its deposits and loans. An interest rate that varies with the level of short-term market interest rates is applied to seasonal credit.
+
+    ( 1 ) A Federal Reserve Bank may extend seasonal credit only if:
+
+      ( i ) The depository institution's seasonal needs exceed a threshold that the institution is expected to meet from other sources of liquidity (this threshold is calculated as a certain percentage, established by the Board of Governors, of the institution's average total deposits in the preceding calendar year); and
+
+      ( ii ) The Federal Reserve Bank is satisfied that the institution's qualifying need for funds is seasonal and will persist for at least four weeks.
+
+    ( 2 ) The Board may establish special terms for seasonal credit when depository institutions are experiencing unusual seasonal demands for credit in a period of liquidity strain.
+
+  ( d ) Emergency credit for others —
+
+    ( 1 ) Authorization to extend credit. In unusual and exigent circumstances, the Board, by the affirmative vote of not less than five members, [ 1 ] may authorize any Federal Reserve Bank, subject to such conditions and during such periods as the Board may determine, to extend credit to any participant in a program or facility with broad-based eligibility established and operated in accordance with this paragraph (d) .
+
+    ( 2 ) Approval of the Secretary of the Treasury. A program or facility may not be established under this paragraph (d) without obtaining the prior approval of the Secretary of the Treasury.
+
+    ( 3 ) Disclosure of justification and terms. As soon as is reasonably practicable, and no later than 7 days after a program or facility is authorized under this paragraph (d) , the Board and the authorized Federal Reserve Bank or Federal Reserve Banks, as appropriate, will make publicly available a description of the program or facility, a description of the market or sector of the financial system to which the program or facility is intended to provide liquidity, a description of the unusual and exigent circumstances that exist, the intended effect of the program or facility, and the terms and conditions for participation in the program or facility. In addition, within the same 7-day period, the Board will provide a copy of this information to the Committee on Banking, Housing and Urban Affairs of the U.S. Senate and the Committee on Financial Services of the U.S. House of Representatives.
+
+    ( 4 ) Broad-based eligibility.
+
+      ( i ) A program or facility established under this paragraph (d) must have broad-based eligibility in accordance with terms established by the Board.
+
+      ( ii ) For purposes of this paragraph (d) , a program or facility has broad-based eligibility only if the program or facility is designed to provide liquidity to an identifiable market or sector of the financial system;
+
+      ( iii ) A program or facility will not be considered to have broad-based eligibility for purposes of this paragraph (d) if:
+
+        ( A ) The program or facility is designed for the purpose of assisting one or more specific companies avoid bankruptcy, resolution under Title II of Dodd-Frank Wall Street Reform and Consumer Protection Act ( Pub. L. 111-203 , 12 U.S.C. 5381 et seq. ), or any other Federal or State insolvency proceeding, including by removing assets from the balance sheet of one or more such company;
+
+        ( B ) The program or facility is designed for the purpose of aiding one or more failing financial companies; or
+
+        ( C ) Fewer than five persons or entities would be eligible to participate in the program or facility.
+
+      ( iv ) A Federal Reserve Bank may extend credit through a program or facility with broad-based eligibility established under this paragraph (d) through such mechanism or vehicle as the Board determines would facilitate the extension of such credit.
+
+    ( 5 ) Insolvency.
+
+      ( i ) A Federal Reserve Bank may not extend credit through a program or facility established under this paragraph (d) to any person or entity that is insolvent or to any person or entity that is borrowing for the purpose of lending the proceeds of the loan to a person or entity that is insolvent.
+
+      ( ii ) Before extending credit through a program or facility established under this paragraph (d) to any person or entity, the Federal Reserve Bank must obtain evidence that the person or entity is not insolvent.
+
+      ( iii ) A person or entity is “insolvent” for purposes of this paragraph (d) if:
+
+        ( A ) The person or entity is in bankruptcy, resolution under Title II of Public Law 111-203 ( 12 U.S.C. 5381 et seq. ) or any other Federal or State insolvency proceeding;
+
+        ( B ) The person or entity is generally not paying its undisputed debts as they become due during the 90 days preceding the date of borrowing under the program or facility; or
+
+        ( C ) The Board or Federal Reserve Bank otherwise determines that the person or entity is insolvent.
+
+      ( iv ) For purposes of meeting the requirements of this paragraph (d)(5) , the Board or Federal Reserve Bank, as relevant, may rely on:
+
+        ( A ) A written certification from the person or from the chief executive officer or other authorized officer of the entity, at the time the person or entity initially borrows under the program or facility, that the person or entity is not in bankruptcy, resolution under Title II of Public Law 111-203 ( 12 U.S.C. 5381 et seq. ) or any other Federal or State insolvency proceeding, and has not failed to generally pay its undisputed debts as they become due during the 90 days preceding the date of borrowing under the program or facility;
+
+        ( B ) Recent audited financial statements of the person or entity; or
+
+        ( C ) Other information that the Board or the Federal Reserve Bank may determine to be relevant.
+
+      ( v ) A person or officer (or successor of either) that submits a written certification under this subparagraph must immediately notify the lending Federal Reserve Bank if the information in the certification changes.
+
+      ( vi ) Upon a finding by the Board or a Federal Reserve Bank that a participant, including a participant that has provided a certification under this paragraph (d)(5) , is or has become insolvent, that participant is not eligible for any new extension of credit from a program or facility established under this paragraph (d) until such time as the Board or a Federal Reserve Bank determines that such participant is no longer insolvent.
+
+      ( vii ) If a participant or person has provided a certification under this paragraph (d)(5) or paragraph (d)(8)(ii) of this section that includes a knowing material misrepresentation in the certification, all extensions of credit made pursuant to this paragraph (d) that are outstanding to the relevant participant shall become immediately due and payable, and all accrued interest, fees and penalties shall become immediately due and payable. The Board or the lending Federal Reserve Bank will also refer the matter to the relevant law enforcement authorities for investigation and action in accordance with applicable criminal and civil law.
+
+    ( 6 ) Indorsement or other security.
+
+      ( i ) All credit extended under a program or facility established under this paragraph (d) must be indorsed or otherwise secured, in each case, to the satisfaction of the lending Federal Reserve Bank.
+
+      ( ii ) In determining whether an extension of credit under any program or facility established under this paragraph (d) is secured to its satisfaction, a Federal Reserve Bank must, prior to or at the time the credit is initially extended, assign a lendable value to all collateral for the program or facility, consistent with sound risk management practices and to ensure protection for the taxpayer.
+
+    ( 7 ) Penalty rate and fees.
+
+      ( i ) The Board will determine the interest rate to be charged on any credit extended through a program or facility established under this section in accordance with this paragraph (d) and the provisions of section 14, subdivision (d) of the Federal Reserve Act ( 12 U.S.C. 357 ). The Board may determine the interest rate by auction or such other method as the Board determines in accordance with section 14, subdivision (d) of the Federal Reserve Act ( 12 U.S.C. 357 ).
+
+      ( ii ) The interest rate established for credit extended through a program or facility established under this section will be set at a penalty level that:
+
+        ( A ) Is a premium to the market rate in normal circumstances;
+
+        ( B ) Affords liquidity in unusual and exigent circumstances; and
+
+        ( C ) Encourages repayment of the credit and discourages use of the program or facility as the unusual and exigent circumstances that motivated the program or facility recede and economic conditions normalize.
+
+      ( iii ) In determining the rate, the Board will consider the condition of affected markets and the financial system generally, the historical rate of interest for loans of comparable terms and maturity during normal times, the purpose of the program or facility, the risk of repayment, the collateral supporting the credit, the duration, terms and amount of the credit, and any other factor that the Board determines to be relevant to ensuring that the taxpayer is appropriately compensated for the risks associated with the credit extended under the program or facility and the purposes of this paragraph (d) are fulfilled.
+
+      ( iv ) In addition to the rate established and charged under this paragraph (d)(7) , the Board may require the payment of any fees, penalties, charges or other consideration the Board determines to be appropriate to protect and appropriately compensate the taxpayer for the risks associated with the credit extended under the program or facility.
+
+    ( 8 ) Evidence regarding unavailability of adequate credit accommodation.
+
+      ( i ) Each lending Federal Reserve Bank must obtain evidence that, under the prevailing circumstances, participants in a program or facility established under this paragraph (d) are unable to secure adequate credit accommodations from other banking institutions.
+
+      ( ii ) Evidence required under this paragraph (d)(8) may be based on economic conditions in the market or markets intended to be addressed by the program or facility, a written certification from the person or from the chief executive officer or other authorized officer of the entity at the time the person or entity initially borrows under the program or facility, or other evidence from participants or other sources.
+
+    ( 9 ) Termination of program or facility.
+
+      ( i ) A program or facility established under this paragraph (d) shall cease extending new credit no later than one year after the date of the first extension of credit under the program or facility or the date of any extension of the program or facility by the Board under paragraph (d)(9)(ii) of this section.
+
+      ( ii ) A program or facility may be renewed upon the vote of not less than five members of the Board [ 2 ] that unusual and exigent circumstances continue to exist and the program or facility continues to appropriately provide liquidity to the financial system, and the approval of the Secretary of the Treasury.
+
+      ( iii ) The Board shall make the disclosures required under paragraph (d)(3) of this section to the public and the relevant congressional committees no later than 7 days after renewing a program or facility under this paragraph (d)(9) .
+
+      ( iv ) The Board may at any time terminate a program or facility established under this paragraph (d) . To ensure that the program or facility under this paragraph (d) is terminated in a timely and orderly fashion, the Board will periodically review, no less frequently than once every 6 months, the existence of unusual and exigent circumstances, the extent of usage of the program or facility, the extent to which the continuing authorization of the program or facility facilitates restoring or sustaining confidence in the identified financial markets, the ongoing need for the liquidity support provided by such program or facility, and such other factors as the Board may deem to be appropriate. The Board will terminate lending under a program or facility promptly upon finding that conditions no longer warrant the continuation of the program or facility or that continuation of the program or facility is no longer appropriate.
+
+      ( v ) A program or facility that has been terminated will cease extending new credit and will collect existing loans pursuant to the applicable terms and conditions.
+
+    ( 10 ) Reporting requirements. The Board will comply with the reporting requirements of 12 U.S.C. 248(s) and 12 U.S.C. 343(3)(C) pursuant to their terms.
+
+    ( 11 ) No obligation to extend credit. This paragraph (d) does not entitle any person or entity to obtain any credit or any increase, renewal or extension of maturity of any credit from a Federal Reserve Bank.
+
+    ( 12 ) Participation in programs and facilities and vendor selection.
+
+      ( i ) Participation in any program or facility under this paragraph (d) shall not be limited or conditioned on the basis of any legally prohibited basis, such as the race, religion, color, gender, national origin, age or disability of the borrower.
+
+      ( ii ) The selection of any third-party vendor used in the design, marketing or implementation of any program or facility under this paragraph (d) shall be without regard to the race, religion, color, gender, national origin, age or disability of the vendor or any principal shareholder of the vendor, and, to the extent possible and consistent with law, shall involve a process designed to support equal opportunity and diversity.
+
+    ( 13 ) Short-term emergency credit secured solely by United States or agency obligations. In unusual and exigent circumstances and after consultation with the Board, a Federal Reserve Bank may extend credit under section 13(13) of the Federal Reserve Act if the collateral used to secure such credit consists solely of obligations of, or obligations fully guaranteed as to principal and interest by, the United States or an agency thereof. Prior to extending credit under this paragraph (d)(13) , the Federal Reserve Bank must obtain evidence that credit is not available from other sources and failure to obtain such credit would adversely affect the economy. Credit extended under this paragraph (d)(13) may not be extended for a term exceeding 90 days, must be extended at a rate above the highest rate in effect for advances to depository institutions as determined in accordance with section 14(d) of the Federal Reserve Act, and is subject to such limitations and conditions as provided by the Board.
+
+  ( e ) Term auction facility.
+
+    ( 1 ) A Federal Reserve Bank may make an advance to a depository institution pursuant to an auction conducted under this paragraph and at the rate specified in § 201.51(e) if, in the judgment of the Reserve Bank, the depository institution is in generally sound financial condition and is expected to remain in that condition during the term of the advance. An auction under this paragraph shall be conducted subject to such conditions, including conditions regarding the participants, size and duration of the facility, minimum bid amount, maximum bid amount, term of advance, minimum bid rate, use of proceeds, and schedule of auction dates, as the Board may establish from time to time in connection with the term auction facility. The Board may appoint one or more Reserve Banks or others to conduct the auction.
+
+    ( 2 ) Authorization for the term auction facility established by § 201.4(e)(1) shall expire on such date as set by the Board.
+
+[ 1 ] Unless fewer are authorized pursuant to section 11(r) of the Federal Reserve Act. 12 U.S.C. 248(r) .
+
+[ 2 ] Unless fewer are authorized pursuant to section 11(r) of the Federal Reserve Act. 12 U.S.C. 248(r) .
+
+## § 201.5 Limitations on availability and assessments.
+
+  ( a ) Lending to undercapitalized insured depository institutions. A Federal Reserve Bank may make or have outstanding advances to or discounts for a depository institution that it knows to be an undercapitalized insured depository institution, only:
+
+    ( 1 ) If, in any 120-day period, advances or discounts from any Federal Reserve Bank to that depository institution are not outstanding for more than 60 days during which the institution is an undercapitalized insured depository institution; or
+
+    ( 2 ) During the 60 calendar days after the receipt of a written certification from the chairman of the Board of Governors or the head of the appropriate federal banking agency that the borrowing depository institution is viable; or
+
+    ( 3 ) After consultation with the Board of Governors. In unusual circumstances, when prior consultation with the Board is not possible, a Federal Reserve Bank should consult with the Board as soon as possible after extending credit that requires consultation under this paragraph (a)(3) .
+
+  ( b ) Lending to critically undercapitalized insured depository institutions. A Federal Reserve Bank may make or have outstanding advances to or discounts for a depository institution that it knows to be a critically undercapitalized insured depository institution only:
+
+    ( 1 ) During the 5-day period beginning on the date the institution became a critically undercapitalized insured depository institution; or
+
+    ( 2 ) After consultation with the Board of Governors. In unusual circumstances, when prior consultation with the Board is not possible, a Federal Reserve Bank should consult with the Board as soon as possible after extending credit that requires consultation under this paragraph (b)(2) .
+
+  ( c ) Assessments. The Board of Governors will assess the Federal Reserve Banks for any amount that the Board pays to the FDIC due to any excess loss in accordance with section 10B(b) of the Federal Reserve Act. Each Federal Reserve Bank shall be assessed that portion of the amount that the Board of Governors pays to the FDIC that is attributable to an extension of credit by that Federal Reserve Bank, up to 1 percent of its capital as reported at the beginning of the calendar year in which the assessment is made. The Board of Governors will assess all of the Federal Reserve Banks for the remainder of the amount it pays to the FDIC in the ratio that the capital of each Federal Reserve Bank bears to the total capital of all Federal Reserve Banks at the beginning of the calendar year in which the assessment is made, provided, however, that if any assessment exceeds 50 percent of the total capital and surplus of all Federal Reserve Banks, whether to distribute the excess over such 50 percent shall be made at the discretion of the Board of Governors.
+
+## § 201.51 Interest rates applicable to credit extended by a Federal Reserve Bank. [3]
+
+  ( a ) Primary credit. The interest rate at each Federal Reserve Bank for primary credit provided to depository institutions under § 201.4(a) is 3.75 percent.
+
+  ( b ) Secondary credit. The interest rate at each Federal Reserve Bank for secondary credit provided to depository institutions under § 201.4(b) is 4.25 percent.
+
+  ( c ) Seasonal credit. The rate for seasonal credit extended to depository institutions under § 201.4(c) is a flexible rate that takes into account rates on market sources of funds.
+
+  ( d ) Primary credit rate in a financial emergency.
+
+    ( 1 ) The primary credit rate at a Federal Reserve Bank is the target federal funds rate of the Federal Open Market Committee or, if the Federal Open Market Committee has set a target range for the federal funds rate, the rate corresponding to the top of the target range, if:
+
+      ( i ) In a financial emergency the Reserve Bank has established the primary credit rate at that rate; and
+
+      ( ii ) The Chairman of the Board of Governors (or, in the Chairman's absence, his authorized designee) certifies that a quorum of the Board is not available to act on the Reserve Bank's rate establishment.
+
+    ( 2 ) For purposes of this paragraph (d) , a financial emergency is a significant disruption to the U.S. money markets resulting from an act of war, military or terrorist attack, natural disaster, or other catastrophic event.
+
+  ( e ) Term auction facility. The interest rate on advances to depository institutions made pursuant to an auction under § 201.4(e) is the rate at which all bids at that auction may be fulfilled, up to the maximum auction amount and subject to any minimum bid rate and other conditions as set by the Board.
+
+For Federal Register citations affecting § 201.51 , see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov .
+
+[ 3 ] The primary, secondary, and seasonal credit rates described in this section apply to both advances and discounts made under the primary, secondary, and seasonal credit programs, respectively.
+
+## § 201.104 Eligibility of consumer loans and finance company paper.
+
+  ( a ) The Board of Governors has clarified and modified its position with respect to the eligibility of consumer loans and finance company paper for discount with and as collateral for advances by the reserve banks.
+
+  ( b ) Section 13, paragraph 2, of the Federal Reserve Act authorizes a Federal Reserve Bank, under certain conditions, to discount for member banks
+
+* * * notes, drafts, and bills of exchange arising out of actual commercial transactions; that is, notes, drafts, and bills of exchange issued or drawn for agricultural, industrial, or commercial purposes, or the proceeds of which have been used, or are to be used, for such purposes, the Board of Governors of the Federal Reserve System to have the right to determine or define the character of the paper thus eligible for discount, within the meaning of this Act.
+
+  ( c ) It continues to be the opinion of the Board that borrowing for the purpose of purchasing goods is borrowing for a commercial purpose, whether the borrower intends to use the goods himself or to resell them. Hence, loans made to enable consumers to purchase automobiles or other goods should be included under commercial, agricultural, and industrial paper within the meaning of the Federal Reserve Act, and as such are eligible for discounting with the Reserve Banks and as security for advances from the Reserve Banks under section 13, paragraph 8, of the Federal Reserve Act as long as they conform to requirements with respect to maturity and other matters. This applies equally to loans made directly by banks to consumers and to paper accepted by banks from dealers or finance companies. It also applies to notes of finance companies themselves as long as the proceeds of such notes are used to finance the purchase of consumer goods or for other purposes which are eligible within the meaning of the Federal Reserve Act.
+
+  ( d ) If there is any question as to whether the proceeds of a note of a finance company have been or are to be used for a commercial, agricultural, or industrial purpose, a financial statement of the finance company reflecting an excess of notes receivable which appear eligible for rediscount (without regard to maturity) over total current liabilities (i.e., notes due within 1 year) may be taken as an indication of eligibility. Where information is lacking as to whether direct consumer loans by a finance company are for eligible purposes, it may be assumed that 50 percent of such loans are “notes receivable which appear eligible for rediscount”. In addition, that language should be regarded as including notes given for the purchase of mobile homes that are acquired by a finance company from a dealer-seller of such homes.
+
+  ( e ) The principles stated above apply not only to notes of a finance company engaged in making consumer loans but also to notes of a finance company engaged in making loans for other eligible purposes, including business and agricultural loans. Under section 13a of the Federal Reserve Act, paper representing loans to finance the production, marketing, and carrying of agricultural products or the breeding, raising, fattening, or marketing of livestock is eligible for discount if the paper has a maturity of not exceeding 9 months. Consequently, a note of a finance company the proceeds of which are used by it to make loans for such purposes is eligible for discount or as security for a Federal Reserve advance, and such a note, unlike the note of a finance company making consumer loans, may have a maturity of up to 9 months.
+
+## § 201.107 Eligibility of demand paper for discount and as security for advances by Reserve Banks.
+
+  ( a ) The Board of Governors has reconsidered a ruling made in 1917 that demand notes are ineligible for discount under the provisions of the Federal Reserve Act. (1917 Federal Reserve Bulletin 378.)
+
+  ( b ) The basis of that ruling was the provision in the second paragraph of section 13 of the Federal Reserve Act that notes, drafts, and bills of exchange must have a maturity at the time of discount of not more than 90 days, exclusive of grace. The ruling stated that
+
+a demand note or bill is not eligible under the provisions of the act, since it is not in terms payable within the prescribed 90 days, but, at the option of the holder, may not be presented for payment until after that time.
+
+  ( c ) It is well settled as a matter of law, however, that demand paper is due and payable on the date of its issue. The generally accepted legal view is stated in Beutel's Brannan on Negotiable Instruments Law, at page 305, as follows:
+
+The words on demand serve the same purpose as words making instruments payable at a specified time. They fix maturity of the obligation and do not make demand necessary, but mean that the instrument is due, payable and matured when made and delivered.
+
+  ( d ) Accordingly, the Board has concluded that, since demand paper is due and payable on the date of its issue, it satisfies the maturity requirements of the statute. Demand paper which otherwise meets the eligibility requirements of the Federal Reserve Act and this part Regulation A, therefore, is eligible for discount and as security for advances by Reserve Banks.
+
+## § 201.108 Obligations eligible as collateral for advances.
+
+  ( a ) Section 3(a) of Pub. L. 90-505, approved September 21, 1968, amended the eighth paragraph of section 13 of the Federal Reserve Act ( 12 U.S.C. 347 ) to authorize advances thereunder to member banks “secured by such obligations as are eligible for purchase under section 14(b) of this Act.” The relevant part of such paragraph had previously referred only to “notes * * * eligible * * * for purchase”, which the Board had construed as not including obligations generally regarded as securities. (See 1962 Federal Reserve Bulletin 690, § 201.103(d) .)
+
+  ( b ) Under section 14(b) direct obligations of, and obligations fully guaranteed as to principal and interest by, the United States are eligible for purchase by Reserve Banks. Such obligations include certificates issued by the trustees of Penn Central Transportation Co. that are fully guaranteed by the Secretary of Transportation. Under section 14(b) direct obligations of, and obligations fully guaranteed as to principal and interest by, any agency of the United States are also eligible for purchase by Reserve Banks. Following are the principal agency obligations eligible as collateral for advances:
+
+    ( 1 ) Federal Intermediate Credit Bank debentures;
+
+    ( 2 ) Federal Home Loan Bank notes and bonds;
+
+    ( 3 ) Federal Land Bank bonds;
+
+    ( 4 ) Bank for Cooperative debentures;
+
+    ( 5 ) Federal National Mortgage Association notes, debentures and guaranteed certificates of participation;
+
+    ( 6 ) Obligations of or fully guaranteed by the Government National Mortgage Association;
+
+    ( 7 ) Merchant Marine bonds;
+
+    ( 8 ) Export-Import Bank notes and guaranteed participation certificates;
+
+    ( 9 ) Farmers Home Administration insured notes;
+
+    ( 10 ) Notes fully guaranteed as to principal and interest by the Small Business Administration;
+
+    ( 11 ) Federal Housing Administration debentures;
+
+    ( 12 ) District of Columbia Armory Board bonds;
+
+    ( 13 ) Tennessee Valley Authority bonds and notes;
+
+    ( 14 ) Bonds and notes of local urban renewal or public housing agencies fully supported as to principal and interest by the full faith and credit of the United States pursuant to section 302 of the Housing Act of 1961 ( 42 U.S.C. 1421a(c) , 1452(c) ).
+
+    ( 15 ) Commodity Credit Corporation certificates of interest in a price-support loan pool.
+
+    ( 16 ) Federal Home Loan Mortgage Corporation notes, debentures, and guaranteed certificates of participation.
+
+    ( 17 ) U.S. Postal Service obligations.
+
+    ( 18 ) Participation certificates evidencing undivided interests in purchase contracts entered into by the General Services Administration.
+
+    ( 19 ) Obligations entered into by the Secretary of Health, Education, and Welfare under the Public Health Service Act, as amended by the Medical Facilities Construction and Modernization Amendments of 1970.
+
+    ( 20 ) Obligations guaranteed by the Overseas Private Investment Corp., pursuant to the provisions of the Foreign Assistance Act of 1961, as amended.
+
+  ( c ) Nothing less than a full guarantee of principal and interest by a Federal agency will make an obligation eligible. For example, mortgage loans insured by the Federal Housing Administration are not eligible since the insurance contract is not equivalent to an unconditional guarantee and does not fully cover interest payable on the loan. Obligations of international institutions, such as the Inter-American Development Bank and the International Bank for Reconstruction and Development, are also not eligible, since such institutions are not agencies of the United States.
+
+  ( d ) Also eligible for purchase under section 14(b) are “bills, notes, revenue bonds, and warrants with a maturity from date of purchase of not exceeding 6 months, issued in anticipation of the collection of taxes or in anticipation of the receipt of assured revenues by any State, county, district, political subdivision, or municipality in the continental United States, including irrigation, drainage and reclamation districts.” [ 5 ] In determining the eligibility of such obligations as collateral for advances, but the Reserve Bank will satisfy itself that sufficient tax or other assured revenues earmarked for payment of such obligations will be available for that purpose at maturity, or within 6 months from the date of the advance if no maturity is stated. Payments due from Federal, State or other governmental units may, in the Reserve Bank's discretion, be regarded as “other assured revenues”; but neither the proceeds of a prospective issue of securities nor future tolls, rents or similar collections for the voluntary use of government property for non-governmental purposes will normally be so regarded. Obligations with original maturities exceeding 1 year would not ordinarily be self-liquidating as contemplated by the statute, unless at the time of issue provision is made for a redemption or sinking fund that will be sufficient to pay such obligations at maturity.
+
+[ 4 ] [Reserved]
+
+[ 5 ] Paragraph 3 of section 1 of the Federal Reserve Act ( 12 U.S.C. 221 ) defines the continental United States to mean “the States of the United States and the District of Columbia”, thus including Alaska and Hawaii.
+
+## § 201.109 Eligibility for discount of mortgage company notes.
+
+  ( a ) The question has arisen whether notes issued by mortgage banking companies to finance their acquisition and temporary holding of real estate mortgages are eligible for discount by Reserve Banks.
+
+  ( b ) Under section 13 of the Federal Reserve Act the Board has authority to define what are “agricultural, industrial, or commercial purposes”, which is the statutory criterion for determining the eligibility of notes and drafts for discount. However, such definition may not include paper “covering merely investments or issued or drawn for the purpose of carrying or trading in stocks, bonds, or other investment securities”.
+
+  ( c ) The legislative history of section 13 suggests that Congress intended to make eligible for discount “any paper drawn for a legitimate business purpose of any kind” [ 6 ] and that the Board, in determining what paper is eligible, should place a “broad and adaptable construction” [ 7 ] upon the terms in section 13. It may also be noted that Congress apparently considered paper issued to carry investment securities as paper issued for a “commercial purpose”, since it specifically prohibited the Board from making such paper eligible for discount. If “commercial” is broad enough to encompass investment banking, it would also seem to include mortgage banking.
+
+  ( d ) In providing for the discount of commercial paper by Reserve Banks, Congress obviously intended to facilitate the current financing of agriculture, industry, and commerce, as opposed to long-term investment. [ 8 ] In the main, trading in stocks and bonds is investment-oriented; most securities transactions do not directly affect the production or distribution of goods and services. Mortgage banking, on the other hand, is essential to the construction industry and thus more closely related to industry and commerce. Although investment bankers also perform similar functions with respect to newly issued securities, Congress saw fit to deny eligibility to all paper issued to finance the carrying of securities. Congress did not distinguish between newly issued and outstanding securities, perhaps covering the larger area in order to make certain that the area of principal concern (i.e., trading in outstanding stocks and bonds) was fully included. Speculation was also a major Congressional concern, but speculation is not a material element in mortgage banking operations. Mortgage loans would not therefore seem to be within the purpose underlying the exclusions from eligibility in section 13.
+
+  ( e ) Section 201.3(a) provides that a negotiable note maturing in 90 days or less is not eligible for discount if the proceeds are used “for permanent or fixed investments of any kind, such as land, buildings or machinery, or for any other fixed capital purpose”. However, the proceeds of a mortgage company's commercial paper are not used by it for any permanent or fixed capital purpose, but only to carry temporarily an inventory of mortgage loans pending their “packaging” for sale to permanent investors that are usually recurrent customers.
+
+  ( f ) In view of the foregoing considerations the Board concluded that notes issued to finance such temporary “warehousing” of real estate mortgage loans are notes issued for an industrial or commercial purpose, that such mortgage loans do not constitute “investment securities”, as that term is used in section 13, and that the temporary holding of such mortgages in these circumstances is not a permanent investment by the mortgage banking company. Accordingly, the Board held that notes having not more than 90 days to run which are issued to finance the temporary holding of mortgage loans are eligible for discount by Reserve Banks.
+
+[ 6 ] House Report No. 69, 63d Cong., p. 48.
+
+[ 7 ] 50 Cong. Rec. 4675 (1913) (remarks of Rep. Phelan).
+
+[ 8 ] 50 Cong. Rec. 5021 (1913) (remarks of Rep. Thompson of Oklahoma); 50 Cong. Rec. 4731-32 (1913) (remarks of Rep. Borland).
+
+## § 201.110 Goods held by persons employed by owner.
+
+  ( a ) The Board has been asked to review an Interpretation it issued in 1933 concerning the eligibility for rediscount by a Federal Reserve Bank of bankers' acceptances issued against field warehouse receipts where the custodian of the goods is a present or former employee of the borrower. [¶ 1445 Published Interpretations, 1933 BULLETIN 188] The Board determined at that time that the acceptances were not eligible because such receipts do not comply with the requirement of section 13 of the Federal Reserve Act that a banker's acceptance be “secured at the time of acceptance by a warehouse receipt or other such document conveying or securing title covering readily marketable staples,” nor with the requirement of section XI of the Board's Regulation A that it be “secured at the time of acceptance by a warehouse, terminal, or other similar receipt, conveying security title to such staples, issued by a party independent of the customer.”
+
+  The requirement that the receipt be “issued by a party independent of the customer” was deleted from Regulation A in 1973, and thus the primary issue for the Board's consideration is whether a field warehouse receipt is a document “securing title” to readily marketable staples.
+
+  ( b ) While bankers' acceptances secured by field warehouse receipts are rarely offered for rediscount or as collateral for an advance, the issue of “eligibility” is still significant. If an ineligible acceptance is discounted and then sold by a member bank, the proceeds are deemed to be “deposits” under § 204.1(f) of Regulation D and are subject to reserve requirements.
+
+  ( c ) In reviewing this matter, the Board has taken into consideration the changes that have occurred in commercial law and practice since 1933. Modern commercial law, embodied in the Uniform Commercial Code, refers to “perfecting security interests” rather than “securing title” to goods. The Board believes that if, under State law, the issuance of a field warehouse receipt provides the lender with a perfected security interest in the goods, the receipt should be regarded as a document “securing title” to goods for the purposes of section 13 of the Federal Reserve Act. It should be noted, however, that the mere existence of a perfected security interest alone is not sufficient; the Act requires that the acceptance be secured by a warehouse receipt or its equivalent.
+
+  ( d ) Under the U.C.C., evidence of an agreement between the secured party and the debtor must exist before a security interest can attach. [U.C.C. section 9-202.] This agreement may be evidence by: (1) A written security agreement signed by the debtor, or (2) the collateral being placed in the possession of the secured party or his agent [U.C.C. section 9-203]. Generally, a security interest is perfected by the filing of a financing statement, [U.C.C. section 9-302.] However, if the collateral is in the possession of a bailee, then perfection can be achieved by:
+
+    ( 1 ) Having warehouse receipts issued in the name of the secured party;
+
+    ( 2 ) notifying the bailee of the secured party's interest; or
+
+    ( 3 ) having a financing statement filed. [U.C.C. section 9-304(3).]
+
+  ( e ) If the field warehousing operation is properly conducted, a security interest in the goods is perfected when a warehouse receipt is issued in the name of the secured party (the lending bank). Therefore, warehouse receipts issued pursuant to a bona fide field warehousing operation satisfy the legal requirements of section 13 of the Federal Reserve Act. Moreover, in a properly conducted field warehousing operation, the warehouse manager will be trained, bonded, supervised and audited by the field warehousing company. This procedure tends to insure that he will not be impermissibly controlled by his former (or sometimes present) employer, the borrower, even though he may look to the borrower for reemployment at some future time. A prudent lender will, of course, carefully review the field warehousing operation to ensure that stated procedures are satisfactory and that they are actually being followed. The lender may also wish to review the field warehousing company's fidelity bonds and legal liability insurance policies to ensure that they provide satisfactory protection to the lender.
+
+  ( f ) If the warehousing operation is not conducted properly, however, and the manager remains under the control of the borrower, the security interest may be lost. Consequently, the lender may wish to require a written security agreement and the filing of a financing statement to insure that the lender will have a perfected security interest even if it is later determined that the field warehousing operation was not properly conducted. It should be noted however, that the Federal Reserve Act clearly requires that the bankers' acceptance be secured by a warehouse receipt in order to satisfy the requirements of eligibility, and a written security agreement and a filed financing statement, while desirable, cannot serve as a substitute for a warehouse receipt.
+
+  ( g ) This Interpretation is based on facts that have been presented in regard to field warehousing operations conducted by established, professional field warehouse companies, and it does not necessarily apply to all field warehousing operations. Thus ¶ 1430 and ¶ 1440 of the Published Interpretations [1918 BULLETIN 31 and 1918 BULLETIN 862] maintain their validity with regard to corporations formed for the purpose of conducting limited field warehousing operations. Furthermore, the prohibition contained in ¶ 1435 Published Interpretations [1918 BULLETIN 634] that “the borrower shall not have access to the premises and shall exercise no control over the goods stored” retains its validity, except that access for inspection purposes is still permitted under ¶ 1450 [1926 BULLETIN 666]. The purpose for the acceptance transaction must be proper and cannot be for speculation [¶ 1400, 1919 BULLETIN 858] or for the purpose of furnishing working capital [¶ 1405, 1922 BULLETIN 52].
+
+  ( h ) This interpretation supersedes only the previous ¶ 1445 of the Published Interpretations [1933 BULLETIN 188], and is not intended to affect any other Board Interpretation regarding field warehousing.
+
+( 12 U.S.C. 342 et seq. )

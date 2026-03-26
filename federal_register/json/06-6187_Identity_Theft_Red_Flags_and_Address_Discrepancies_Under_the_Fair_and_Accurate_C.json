@@ -1,0 +1,133 @@
+{
+  "doc_id": "usfed.fr.06-6187",
+  "title": "Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transactions Act of 2003",
+  "short_title": "06-6187",
+  "slug": "06-6187",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Proposed Rule",
+  "nova_tier": 2,
+  "authority_class": "guidance_interpretive",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "06-6187",
+  "citation": "71 FR 40786",
+  "publication_date": "2006-07-18",
+  "effective_date_start": null,
+  "abstract": "The OCC, Board, FDIC, OTS, NCUA and FTC (the Agencies) request comment on a proposal that would implement sections 114 and 315 of the Fair and Accurate Credit Transactions Act of 2003 (FACT Act). As required by section 114, the Agencies are jointly proposing guidelines for financial institutions and creditors identifying patterns, practices, and specific forms of activity, that indicate the possible existence of identity theft. The Agencies also are proposing joint regulations requiring each fin",
+  "action": "Joint notice of proposed rulemaking.",
+  "html_url": "https://www.federalregister.gov/documents/2006/07/18/06-6187/identity-theft-red-flags-and-address-discrepancies-under-the-fair-and-accurate-credit-transactions",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2006-07-18/pdf/06-6187.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 41,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 222,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 334,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 364,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 571,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 717,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 681,
+      "title": 16
+    }
+  ],
+  "docket_ids": [
+    "Docket No. 06-07",
+    "Docket No. R-1255",
+    "No. 2006-19"
+  ],
+  "regulation_id_numbers": [
+    "1550-AC04",
+    "1557-AC87",
+    "3064-AD00",
+    "3084-AA94"
+  ],
+  "page_length": 41,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2006/07/18/06-6187/identity-theft-red-flags-and-address-discrepancies-under-the-fair-and-accurate-credit-transactions",
+  "canonical_url": "https://www.federalregister.gov/documents/2006/07/18/06-6187/identity-theft-red-flags-and-address-discrepancies-under-the-fair-and-accurate-credit-transactions",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:20Z",
+  "include_in_primary_corpus": false,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 06-6187",
+  "title_normalized": "Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transactions Act of 2003",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Proposed Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.6,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2006-07-18",
+  "document_date_raw": "2006-07-18",
+  "word_count_raw_body": 10250,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 222, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 334, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 364, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 41, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 571, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 681, 'title': 16}",
+    "{'chapter': None, 'citation_url': None, 'part': 717, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": false,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": false,
+  "normalized_text_sha256": "1d95d5443f71643299b784698960610cb77d11bf6162a08c414fee3044b74b1a",
+  "normalized_md_path": "federal_register/md/06-6187_Identity_Theft_Red_Flags_and_Address_Discrepancies_Under_the_Fair_and_Accurate_C.md",
+  "canonical_json_path": "federal_register/json/06-6187_Identity_Theft_Red_Flags_and_Address_Discrepancies_Under_the_Fair_and_Accurate_C.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "06-6187 Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transactions Act of 2003 Joint notice of proposed rulemaking. The OCC, Board, FDIC, OTS, NCUA and FTC (the Agencies) request comment on a proposal that would implement sections 114 and 315 of the Fair and Accurate Credit Transactions Act of 2003 (FACT Act). As r",
+  "vector_text_prefix": "Federal Reserve Proposed Rule 06-6187: Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transactions Act of 2003",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

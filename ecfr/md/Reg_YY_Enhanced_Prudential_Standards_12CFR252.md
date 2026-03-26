@@ -1,0 +1,4981 @@
+# PART 252 — ENHANCED PRUDENTIAL STANDARDS (REGULATION YY)
+
+**Regulation YY** | 12 CFR Part 252 | Current as of 2026-03-09
+
+**Authority:** 12 U.S.C. 321-338a , 481-486 , 1467a , 1818 , 1828 , 1831n , 1831o , 1831p-1 , 1831w , 1835 , 1844(b) , 1844(c) , 3101 et seq., 3101 note, 3904, 3906-3909, 4808, 5361, 5362, 5365, 5366, 5367, 5368, 5371.
+
+**Source:** 77 FR 62391 , Oct. 12, 2012, unless otherwise noted.
+
+---
+
+## § 252.1 Authority and purpose.
+
+  ( a ) Authority. This part is issued by the Board of Governors of the Federal Reserve System (the Board) under sections 162, 165, 167, and 168 of Title I of the Dodd-Frank Wall Street Reform and Consumer Protection Act (the Dodd-Frank Act) ( Pub. L. 111-203 , 124 Stat. 1376, 1423-1432, 12 U.S.C. 5362 , 5365 , 5367 , and 5368 ); section 9 of the Federal Reserve Act ( 12 U.S.C. 321-338a ); section 5(b) of the Bank Holding Company Act ( 12 U.S.C. 1844(b) ); sections 8 and 39 of the Federal Deposit Insurance Act ( 12 U.S.C. 1818(b) and 1831p-1 ); the International Banking Act ( 12 U.S.C. 3101 et seq. ); the Foreign Bank Supervision Enhancement Act ( 12 U.S.C. 3101 note ); and 12 U.S.C. 3904 , 3906-3909 , and 4808 .
+
+  ( b ) Purpose. This part implements certain provisions of section 165 of the Dodd-Frank Act ( 12 U.S.C. 5365 ), which require the Board to establish enhanced prudential standards for certain bank holding companies, foreign banking organizations, nonbank financial companies supervised by the Board, and certain other companies.
+
+## § 252.2 Definitions.
+
+Unless otherwise specified, the following definitions apply for purposes of this part:
+
+  Affiliate has the same meaning as in section 2(k) of the Bank Holding Company Act ( 12 U.S.C. 1841(k) ) and 12 CFR 225.2(a) .
+
+  Applicable accounting standards means GAAP, international financial reporting standards, or such other accounting standards that a company uses in the ordinary course of its business in preparing its consolidated financial statements.
+
+  Average combined U.S. assets means the average of combined U.S. assets for the four most recent calendar quarters or, if the banking organization has not reported combined U.S. assets for each of the four most recent calendar quarters, the combined U.S. assets for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+  Average cross-jurisdictional activity means the average of cross-jurisdictional activity for the four most recent calendar quarters or, if the banking organization has not reported cross-jurisdictional activity for each of the four most recent calendar quarters, the cross-jurisdictional activity for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+  Average off-balance sheet exposure means the average of off-balance sheet exposure for the four most recent calendar quarters or, if the banking organization has not reported total exposure and total consolidated assets or combined U.S. assets, as applicable, for each of the four most recent calendar quarters, the off-balance sheet exposure for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+  Average total consolidated assets means the average of total consolidated assets for the four most recent calendar quarters or, if the banking organization has not reported total consolidated assets for each of the four most recent calendar quarters, the total consolidated assets for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+  Average total nonbank assets means the average of total nonbank assets for the four most recent calendar quarters or, if the banking organization has not reported or calculated total nonbank assets for each of the four most recent calendar quarters, the total nonbank assets for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+  Average U.S. non-branch assets means the average of U.S. non-branch assets for the four most recent calendar quarters or, if the banking organization has not reported the total consolidated assets of its top-tier U.S. subsidiaries for each of the four most recent calendar quarters, the U.S. non-branch assets for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+  Average weighted short-term wholesale funding means the average of weighted short-term wholesale funding for each of the four most recent calendar quarters or, if the banking organization has not reported weighted short-term wholesale funding for each of the four most recent calendar quarters, the weighted short-term wholesale funding for the most recent calendar quarter or average of the most recent calendar quarters, as applicable.
+
+  Bank holding company has the same meaning as in section 2(a) of the Bank Holding Company Act ( 12 U.S.C. 1841(a) ) and 12 CFR 225.2(c) .
+
+  Banking organization means:
+
+    ( 1 ) A bank holding company that is a U.S. bank holding company;
+
+    ( 2 ) A U.S. intermediate holding company; or
+
+    ( 3 ) A foreign banking organization.
+
+  Board means the Board of Governors of the Federal Reserve System.
+
+  Category II bank holding company means a U.S. bank holding company identified as a Category II banking organization pursuant to § 252.5 .
+
+  Category II foreign banking organization means a foreign banking organization identified as a Category II banking organization pursuant to § 252.5 .
+
+  Category II U.S. intermediate holding company means a U.S. intermediate holding company identified as a Category II banking organization pursuant to § 252.5 .
+
+  Category III bank holding company means a U.S. bank holding company identified as a Category III banking organization pursuant to § 252.5 .
+
+  Category III foreign banking organization means a foreign banking organization identified as a Category III banking organization pursuant to § 252.5 .
+
+  Category III U.S. intermediate holding company means a U.S. intermediate holding company identified as a Category III banking organization pursuant to § 252.5 .
+
+  Category IV bank holding company means a U.S. bank holding company identified as a Category IV banking organization pursuant to § 252.5 .
+
+  Category IV foreign banking organization means a foreign banking organization identified as a Category IV banking organization pursuant to § 252.5 .
+
+  Category IV U.S. intermediate holding company means a U.S. intermediate holding company identified as a Category IV banking organization pursuant to § 252.5 .
+
+  Combined U.S. assets means the sum of the consolidated assets of each top-tier U.S. subsidiary of the foreign banking organization (excluding any section 2(h)(2) company, if applicable) and the total assets of each U.S. branch and U.S. agency of the foreign banking organization, as reported by the foreign banking organization on the FR Y-15 or FR Y-7Q.
+
+  Combined U.S. operations means:
+
+    ( 1 ) The U.S. branches and agencies of the foreign banking organization; and
+
+    ( 2 ) The U.S. subsidiaries of the foreign banking organization (excluding any section 2(h)(2) company, if applicable) and subsidiaries of such U.S. subsidiaries.
+
+  Company means a corporation, partnership, limited liability company, depository institution, business trust, special purpose entity, association, or similar organization.
+
+  Control has the same meaning as in section 2(a) of the Bank Holding Company Act ( 12 U.S.C. 1841(a) ), and the terms controlled and controlling shall be construed consistently with the term control.
+
+  Council means the Financial Stability Oversight Council established by section 111 of the Dodd-Frank Act ( 12 U.S.C. 5321 ).
+
+  Credit enhancement means a qualified financial contract of the type set forth in section 210(c)(8)(D)(ii)(XII), (iii)(X), (iv)(V), (v)(VI), or (vi)(VI) of Title II of the Dodd-Frank Act ( 12 U.S.C. 5390(c)(8)(D)(ii)(XII) , (iii)(X), (iv)(V), (v)(VI), or (vi)(VI)) or a credit enhancement that the Federal Deposit Insurance Corporation determines by regulation is a qualified financial contract pursuant to section 210(c)(8)(D)(i) of Title II of the Act ( 12 U.S.C. 5390(c)(8)(D)(i) ).
+
+  Cross-jurisdictional activity. The cross-jurisdictional activity of a banking organization is equal to the cross-jurisdictional activity of the banking organization as reported on the FR Y-15.
+
+  Depository institution has the same meaning as in section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) ).
+
+  DPC branch subsidiary means any subsidiary of a U.S. branch or a U.S. agency acquired, or formed to hold assets acquired, in the ordinary course of business and for the sole purpose of securing or collecting debt previously contracted in good faith by that branch or agency.
+
+  Foreign banking organization has the same meaning as in 12 CFR 211.21(o) , provided that if the top-tier foreign banking organization is incorporated in or organized under the laws of any State, the foreign banking organization shall not be treated as a foreign banking organization for purposes of this part.
+
+  FR Y-7 means the Annual Report of Foreign Banking Organizations reporting form.
+
+  FR Y-7Q means the Capital and Asset Report for Foreign Banking Organizations reporting form.
+
+  FR Y-9C means the Consolidated Financial Statements for Holding Companies reporting form.
+
+  FR Y-9LP means the Parent Company Only Financial Statements of Large Holding Companies.
+
+  FR Y-15 means the Systemic Risk Report.
+
+  Global methodology means the assessment methodology and the higher loss absorbency requirement for global systemically important banks issued by the Basel Committee on Banking Supervision, as updated from time to time.
+
+  Global systemically important banking organization means a global systemically important bank, as such term is defined in the global methodology.
+
+  Global systemically important BHC means a bank holding company identified as a global systemically important BHC pursuant to 12 CFR 217.402 .
+
+  Global systemically important foreign banking organization means a top-tier foreign banking organization that is identified as a global systemically important foreign banking organization under § 252.147(b)(4) or § 252.153(b)(4) of this part .
+
+  GAAP means generally accepted accounting principles as used in the United States.
+
+  Home country, with respect to a foreign banking organization, means the country in which the foreign banking organization is chartered or incorporated.
+
+  Home country resolution authority, with respect to a foreign banking organization, means the governmental entity or entities that under the laws of the foreign banking organization's home county has responsibility for the resolution of the top-tier foreign banking organization.
+
+  Home-country supervisor, with respect to a foreign banking organization, means the governmental entity or entities that under the laws of the foreign banking organization's home county has responsibility for the supervision and regulation of the top-tier foreign banking organization.
+
+  Nonbank financial company supervised by the Board means a company that the Council has determined under section 113 of the Dodd-Frank Act ( 12 U.S.C. 5323 ) shall be supervised by the Board and for which such determination is still in effect.
+
+  Non-U.S. affiliate means any affiliate of a foreign banking organization that is incorporated or organized in a country other than the United States.
+
+  Off-balance sheet exposure.
+
+    ( 1 ) The off-balance sheet exposure of a U.S. bank holding company or U.S. intermediate holding company is equal to:
+
+      ( i ) The total exposure of such banking organization, as reported by the banking organization on the FR Y-15; minus
+
+      ( ii ) The total consolidated assets of such banking organization for the same calendar quarter.
+
+    ( 2 ) The off-balance sheet exposure of a foreign banking organization is equal to:
+
+      ( i ) The total exposure of the combined U.S. operations of the foreign banking organization, as reported by the foreign banking organization on the FR Y-15; minus
+
+      ( ii ) The combined U.S. assets of the foreign banking organization for the same calendar quarter.
+
+  Publicly traded means an instrument that is traded on:
+
+    ( 1 ) Any exchange registered with the U.S. Securities and Exchange Commission as a national securities exchange under section 6 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78f ); or
+
+    ( 2 ) Any non-U.S.-based securities exchange that:
+
+      ( i ) Is registered with, or approved by, a non-U.S. national securities regulatory authority; and
+
+      ( ii ) Provides a liquid, two-way market for the instrument in question, meaning that there are enough independent bona fide offers to buy and sell so that a sales price reasonably related to the last sales price or current bona fide competitive bid and offer quotations can be determined promptly and a trade can be settled at such price within a reasonable time period conforming with trade custom.
+
+    ( 3 ) A company can rely on its determination that a particular non-U.S.-based securities exchange provides a liquid two-way market unless the Board determines that the exchange does not provide a liquid two-way market.
+
+  Section 2(h)(2) company has the same meaning as in section 2(h)(2) of the Bank Holding Company Act ( 12 U.S.C. 1841(h)(2) ).
+
+  State means any state, commonwealth, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
+
+  State member bank has the same meaning as in 12 CFR 208.2(g) .
+
+  Subsidiary has the same meaning as in section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813 ).
+
+  Top-tier foreign banking organization, with respect to a foreign bank, means the top-tier foreign banking organization or, alternatively, a subsidiary of the top-tier foreign banking organization designated by the Board.
+
+  Total consolidated assets.
+
+    ( 1 ) Total consolidated assets of a U.S. bank holding company or a U.S. intermediate holding company is equal to the total consolidated assets of such banking organization calculated based on the average of the balances as of the close of business for each day for the calendar quarter or an average of the balances as of the close of business on each Wednesday during the calendar quarter, as reported on the FR Y-9C.
+
+    ( 2 ) Total consolidated assets of a foreign banking organization is equal to the total consolidated assets of the foreign banking organization, as reported on the FR Y-7Q.
+
+    ( 3 ) Total consolidated assets of a state member bank is equal to the total consolidated assets as reported by a state member bank on its Consolidated Report of Condition and Income (Call Report).
+
+  Total nonbank assets.
+
+    ( 1 ) Total nonbank assets of a U.S. bank holding company or U.S. intermediate holding company is equal to the total nonbank assets of such banking organization, as reported on the FR Y-9LP.
+
+    ( 2 ) Total nonbank assets of a foreign banking organization is equal to:
+
+      ( i ) The sum of the total nonbank assets of any U.S. intermediate holding company, if any, as reported on the FR Y-9LP; plus
+
+      ( ii ) The assets of the foreign banking organization's nonbank U.S. subsidiaries excluding the U.S. intermediate holding company, if any; plus
+
+      ( iii ) The sum of the foreign banking organization's equity investments in unconsolidated U.S. subsidiaries, excluding equity investments in any section 2(h)(2) company; minus
+
+      ( iv ) The assets of any section 2(h)(2) company.
+
+  U.S. agency has the same meaning as the term “agency” in § 211.21(b) of this chapter .
+
+  U.S. bank holding company means a bank holding company that is:
+
+    ( 1 ) Incorporated in or organized under the laws of the United States or any State; and
+
+    ( 2 ) Not a consolidated subsidiary of a bank holding company that is incorporated in or organized under the laws of the United States or any State.
+
+  U.S. branch has the same meaning as the term “branch” in § 211.21(e) of this chapter .
+
+  U.S. branches and agencies means the U.S. branches and U.S. agencies of a foreign banking organization.
+
+  U.S. government agency means an agency or instrumentality of the United States whose obligations are fully and explicitly guaranteed as to the timely payment of principal and interest by the full faith and credit of the United States.
+
+  U.S. government-sponsored enterprise means an entity originally established or chartered by the U.S. government to serve public purposes specified by the U.S. Congress, but whose obligations are not explicitly guaranteed by the full faith and credit of the United States.
+
+  U.S. intermediate holding company means a top-tier U.S. company that is required to be established pursuant to § 252.147 or § 252.153 .
+
+  U.S. non-branch assets. U.S. non-branch assets are equal to the sum of the consolidated assets of each top-tier U.S. subsidiary of the foreign banking organization (excluding any section 2(h)(2) company and DPC branch subsidiary, if applicable) as reported on the FR Y-7Q. In calculating U.S. non-branch assets, a foreign banking organization must reduce its U.S. non-branch assets by the amount corresponding to balances and transactions between a top-tier U.S. subsidiary and any other top-tier U.S. subsidiary (excluding any 2(h)(2) company or DPC branch subsidiary) to the extent such items are not already eliminated in consolidation.
+
+  U.S. subsidiary means any subsidiary that is incorporated in or organized under the laws of the United States or any State, commonwealth, territory, or possession of the United States, the Commonwealth of Puerto Rico, the Commonwealth of the North Mariana Islands, American Samoa, Guam, or the United States Virgin Islands.
+
+  Weighted short-term wholesale funding is equal to the weighted short-term wholesale funding of a banking organization, as reported on the FR Y-15.
+
+## § 252.3 Reservation of authority.
+
+  ( a ) In general. Nothing in this part limits the authority of the Board under any provision of law or regulation to impose on any company additional enhanced prudential standards, including, but not limited to, additional risk-based or leverage capital or liquidity requirements, leverage limits, limits on exposures to single counterparties, risk-management requirements, stress tests, or other requirements or restrictions the Board deems necessary to carry out the purposes of this part or Title I of the Dodd-Frank Act, or to take supervisory or enforcement action, including action to address unsafe and unsound practices or conditions, or violations of law or regulation.
+
+  ( b ) Modifications or extensions of this part. The Board may extend or accelerate any compliance date of this part if the Board determines that such extension or acceleration is appropriate. In determining whether an extension or acceleration is appropriate, the Board will consider the effect of the modification on financial stability, the period of time for which the modification would be necessary to facilitate compliance with this part, and the actions the company is taking to come into compliance with this part.
+
+  ( c ) Reservation of authority for certain foreign banking organizations. The Board may permit a foreign banking organization to comply with the requirements of this part through a subsidiary. In making this determination, the Board shall consider:
+
+    ( 1 ) The ownership structure of the foreign banking organization, including whether the foreign banking organization is owned or controlled by a foreign government;
+
+    ( 2 ) Whether the action would be consistent with the purposes of this part; and
+
+    ( 3 ) Any other factors that the Board determines are relevant.
+
+## § 252.4 Nonbank financial companies supervised by the Board.
+
+  ( a ) U.S. nonbank financial companies supervised by the Board. The Board will establish enhanced prudential standards for a nonbank financial company supervised by the Board that is incorporated in or organized under the laws of the United States or any State (U.S. nonbank financial company) by rule or order. In establishing such standards, the Board will consider the factors set forth in sections 165(a)(2) and (b)(3) of the Dodd-Frank Act, including:
+
+    ( 1 ) The nature, scope, size, scale, concentration, interconnectedness, and mix of the activities of the U.S. nonbank financial company;
+
+    ( 2 ) The degree to which the U.S. nonbank financial company is already regulated by one or more primary financial regulatory agencies; and
+
+    ( 3 ) Any other risk-related factor that the Board determines is appropriate.
+
+  ( b ) Foreign nonbank financial companies supervised by the Board. The Board will establish enhanced prudential standards for a nonbank financial company supervised by the Board that is organized or incorporated in a country other than the United States (foreign nonbank financial company) by rule or order. In establishing such standards, the Board will consider the factors set forth in sections 165(a)(2), (b)(2), and (b)(3) of the Dodd-Frank Act, including:
+
+    ( 1 ) The nature, scope, size, scale, concentration, interconnectedness, and mix of the activities of the foreign nonbank financial company;
+
+    ( 2 ) The extent to which the foreign nonbank financial company is subject to prudential standards on a consolidated basis in its home country that are administered and enforced by a comparable foreign supervisory authority; and
+
+    ( 3 ) Any other risk-related factor that the Board determines is appropriate.
+
+## § 252.5 Categorization of banking organizations.
+
+  ( a ) General.
+
+    ( 1 ) A U.S. bank holding company with average total consolidated assets of $100 billion or more must determine its category among the four categories described in paragraphs (b) through (e) of this section at least quarterly.
+
+    ( 2 ) A U.S. intermediate holding company with average total consolidated assets of $100 billion or more must determine its category among the three categories described in paragraphs (c) through (e) of this section at least quarterly.
+
+    ( 3 ) A foreign banking organization with average total consolidated assets of $100 billion or more and average combined U.S. assets of $100 billion or more must determine its category among the three categories described in paragraphs (c) through (e) of this section at least quarterly.
+
+  ( b ) Global systemically important BHC. A banking organization is a global systemically important BHC if it is identified as a global systemically important BHC pursuant to 12 CFR 217.402 .
+
+  ( c ) Category II.
+
+    ( 1 ) A banking organization is a Category II banking organization if the banking organization:
+
+      ( i ) Has:
+
+        ( A )
+
+          ( 1 ) For a U.S. bank holding company or a U.S. intermediate holding company, $700 billion or more in average total consolidated assets;
+
+          ( 2 ) For a foreign banking organization, $700 billion or more in average combined U.S. assets; or
+
+        ( B )
+
+          ( 1 ) $75 billion or more in average cross-jurisdictional activity; and
+
+          ( 2 )
+
+            ( i ) For a U.S. bank holding company or a U.S. intermediate holding company, $100 billion or more in average total consolidated assets; or
+
+            ( ii ) For a foreign banking organization, $100 billion or more in average combined U.S. assets; and
+
+      ( ii ) Is not a global systemically important BHC.
+
+    ( 2 ) After meeting the criteria in paragraph (c)(1) of this section, a banking organization continues to be a Category II banking organization until the banking organization:
+
+      ( i ) Has:
+
+        ( A )
+
+          ( 1 ) For a U.S. bank holding company or a U.S. intermediate holding company, less than $700 billion in total consolidated assets for each of the four most recent calendar quarters; or
+
+          ( 2 ) For a foreign banking organization, less than $700 billion in combined U.S. assets for each of the four most recent calendar quarters; and
+
+        ( B ) Less than $75 billion in cross-jurisdictional activity for each of the four most recent calendar quarters;
+
+      ( ii ) Has:
+
+        ( A ) For a U.S. bank holding company or a U.S. intermediate holding company, less than $100 billion in total consolidated assets for each of the four most recent calendar quarters;
+
+        ( B ) For a foreign banking organization, less than $100 billion in combined U.S. assets for each of the four most recent calendar quarters; or
+
+      ( iii ) Meets the criteria in paragraph (b) to be a global systemically important BHC.
+
+  ( d ) Category III.
+
+    ( 1 ) A banking organization is a Category III banking organization if the banking organization:
+
+      ( i ) Has:
+
+        ( A )
+
+          ( 1 ) For a U.S. bank holding company or a U.S. intermediate holding company, $250 billion or more in average total consolidated assets; or
+
+          ( 2 ) For a foreign banking organization, $250 billion or more in average combined U.S. assets; or
+
+        ( B )
+
+          ( 1 )
+
+            ( i ) For a U.S. bank holding company or a U.S. intermediate holding company, $100 billion or more in average total consolidated assets; or
+
+            ( ii ) For a foreign banking organization, $100 billion or more in average combined U.S. assets; and
+
+          ( 2 ) At least:
+
+            ( i ) $75 billion in average total nonbank assets;
+
+            ( ii ) $75 billion in average weighted short-term wholesale funding; or
+
+            ( iii ) $75 billion in average off-balance sheet exposure;
+
+      ( ii ) Is not a global systemically important BHC; and
+
+      ( iii ) Is not a Category II banking organization.
+
+    ( 2 ) After meeting the criteria in paragraph (d)(1) of this section, a banking organization continues to be a Category III banking organization until the banking organization:
+
+      ( i ) Has:
+
+        ( A )
+
+          ( 1 ) For a U.S. bank holding company or a U.S. intermediate holding company, less than $250 billion in total consolidated assets for each of the four most recent calendar quarters; or
+
+          ( 2 ) For a foreign banking organization, less than $250 billion in combined U.S. assets for each of the four most recent calendar quarters;
+
+        ( B ) Less than $75 billion in total nonbank assets for each of the four most recent calendar quarters;
+
+        ( C ) Less than $75 billion in weighted short-term wholesale funding for each of the four most recent calendar quarters; and
+
+        ( D ) Less than $75 billion in off-balance sheet exposure for each of the four most recent calendar quarters; or
+
+      ( ii ) Has:
+
+        ( A ) For a U.S. bank holding company or a U.S. intermediate holding company, less than $100 billion in total consolidated assets for each of the four most recent calendar quarters; or
+
+        ( B ) For a foreign banking organization, less than $100 billion in combined U.S. assets for each of the four most recent calendar quarters;
+
+      ( iii ) Meets the criteria in paragraph (b) of this section to be a global systemically important BHC; or
+
+      ( iv ) Meets the criteria in paragraph (c)(1) of this section to be a Category II banking organization.
+
+  ( e ) Category IV.
+
+    ( 1 ) A banking organization is a Category IV banking organization if the banking organization:
+
+      ( i ) Is not global systemically important BHC;
+
+      ( ii ) Is not a Category II banking organization;
+
+      ( iii ) Is not a Category III banking organization; and
+
+      ( iv ) Has:
+
+        ( A ) For a U.S. bank holding company or a U.S. intermediate holding company, average total consolidated assets of $100 billion or more; or
+
+        ( B ) For a foreign banking organization, average combined U.S. assets of $100 billion or more.
+
+    ( 2 ) After meeting the criteria in paragraph (e)(1), a banking organization continues to be a Category IV banking organization until the banking organization:
+
+      ( i ) Has:
+
+        ( A ) For a U.S. bank holding company or a U.S. intermediate holding company, less than $100 billion in total consolidated assets for each of the four most recent calendar quarters;
+
+        ( B ) For a foreign banking organization, less than $100 billion in combined U.S. assets for each of the four most recent calendar quarters;
+
+      ( ii ) Meets the criteria in paragraph (b) of this section to be a global systemically important BHC;
+
+      ( iii ) Meets the criteria in paragraph (c)(1) of this section to be a Category II banking organization; or
+
+      ( iv ) Meets the criteria in paragraph (d)(1) of this section to be a Category III banking organization.
+
+## § 252.10 [Reserved]
+
+## § 252.11 Authority and purpose.
+
+  ( a ) Authority. 12 U.S.C. 321-338a , 1818 , 1831p-1 , 3906-3909 , 5365 .
+
+  ( b ) Purpose. This subpart implements section 165(i)(2) of the Dodd-Frank Act ( 12 U.S.C. 5365(i)(2) ), which requires state member banks with total consolidated assets of greater than $250 billion to conduct stress tests. This subpart also establishes definitions of stress tests and related terms, methodologies for conducting stress tests, and reporting and disclosure requirements.
+
+## § 252.12 Definitions.
+
+For purposes of this subpart, the following definitions apply:
+
+  Advanced approaches means the regulatory capital requirements at 12 CFR 217, subpart E , as applicable, and any successor regulation.
+
+  Asset threshold means average total consolidated assets of greater than $250 billion.
+
+  Baseline scenario means a set of conditions that affect the U.S. economy or the financial condition of a state member bank, and that reflect the consensus views of the economic and financial outlook.
+
+  Capital action has the same meaning as in 12 CFR 225.8(d) ).
+
+  Covered company subsidiary means a state member bank that is a subsidiary of a covered company as defined in subpart F of this part .
+
+  Planning horizon means the period of at least nine consecutive quarters, beginning on the first day of a stress test cycle over which the relevant projections extend.
+
+  Pre-provision net revenue means the sum of net interest income and non-interest income less expenses before adjusting for loss provisions.
+
+  Provision for credit losses means:
+
+    ( 1 ) With respect to a state member bank that has adopted the current expected credit losses methodology under GAAP, the provision for credit losses, as would be reported by the state member bank on the Call Report in the current stress test cycle; and
+
+    ( 2 ) With respect to a state member bank that has not adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses as would be reported by the state member bank on the Call Report in the current stress test cycle.
+
+  Regulatory capital ratio means a capital ratio for which the Board has established minimum requirements for the state member bank by regulation or order, including, as applicable, the state member bank's regulatory capital ratios calculated under 12 CFR part 217 and the deductions required under 12 CFR 248.12 ; except that the state member bank shall not use the advanced approaches to calculate its regulatory capital ratios.
+
+  Scenarios are those sets of conditions that affect the U.S. economy or the financial condition of a state member bank that the Board determines are appropriate for use in the company-run stress tests, including, but not limited to baseline and severely adverse scenarios.
+
+  Severely adverse scenario means a set of conditions that affect the U.S. economy or the financial condition of a state member bank and that overall are significantly more severe than those associated with the baseline scenario and may include trading or other additional components.
+
+  Stress test means a process to assess the potential impact of scenarios on the consolidated earnings, losses, and capital of a state member bank over the planning horizon, taking into account the current condition, risks, exposures, strategies, and activities.
+
+  Stress test cycle means the period beginning on January 1 of a calendar year and ending on December 31 of that year.
+
+  Subsidiary has the same meaning as in 12 CFR 225.2(o) .
+
+## § 252.13 Applicability.
+
+  ( a ) Scope —
+
+    ( 1 ) Applicability. Except as provided in paragraph (b) of this section, this subpart applies to any state member bank with average total consolidated assets of greater than $250 billion.
+
+    ( 2 ) Ongoing applicability. A state member bank (including any successor company) that is subject to any requirement in this subpart shall remain subject to any such requirement unless and until its total consolidated assets fall below $250 billion for each of four consecutive quarters, effective on the as-of date of the fourth consecutive Call Report.
+
+  ( b ) Transition period.
+
+    ( 1 ) A state member bank that exceeds the asset threshold for the first time on or before September 30 of a calendar year must comply with the requirements of this subpart beginning on January 1 of the second calendar year after the state member bank becomes subject to this subpart, unless that time is extended by the Board in writing.
+
+    ( 2 ) A state member bank that exceeds the asset threshold for the first time after September 30 of a calendar year must comply with the requirements of this subpart beginning on January 1 of the third year after the state member bank becomes subject to this subpart, unless that time is extended by the Board in writing.
+
+## § 252.14 Stress test.
+
+  ( a ) In general.
+
+    ( 1 ) A state member bank must conduct a stress test as required under this subpart.
+
+    ( 2 ) Frequency —
+
+      ( i ) General. Except as provided in paragraph (a)(2)(ii) of this section, a state member bank must conduct a stress test according to the frequency in table 1 to § 252.14(a)(2)(i) .
+
+Table 1 to § 252.14 ( a )(2)( i )
+
+      ( ii ) Change in frequency. The Board may require a state member bank to conduct a stress test on a more or less frequent basis than would be required under paragraph (a)(2)(i) of this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
+
+    ( 3 ) Notice and response —
+
+      ( i ) Notification of change in frequency. If the Board requires a state member bank to change the frequency of the stress test under paragraph (a)(2)(ii) of this section, the Board will notify the state member bank in writing and provide a discussion of the basis for its determination.
+
+      ( ii ) Request for reconsideration and Board response. Within 14 calendar days of receipt of a notification under paragraph (a)(3)(i) of this section, a state member bank may request in writing that the Board reconsider the requirement to conduct a stress test on a more or less frequent basis than would be required under paragraph (a)(2)(i) of this section. A state member bank's request for reconsideration must include an explanation as to why the request for reconsideration should be granted. The Board will respond in writing within 14 calendar days of receipt of the company's request.
+
+  ( b ) Scenarios provided by the Board —
+
+    ( 1 ) In general. In conducting a stress test under this section, a state member bank must, at a minimum, use the scenarios provided by the Board. Except as provided in paragraphs (b)(2) and (3) of this section, the Board will provide a description of the scenarios no later than February 15 of each calendar year.
+
+    ( 2 ) Additional components.
+
+      ( i ) The Board may require a state member bank with significant trading activity, as determined by the Board and specified in the Capital Assessments and Stress Testing report (FR Y-14), to include a trading and counterparty component in its severely adverse scenario in the stress test required by this section. The Board may also require a state member bank that is subject to 12 CFR part 217, subpart F or that is a subsidiary of a bank holding company that is subject to section § 252.54(b)(2)(i) to include a trading and counterparty component in the state member bank's severely adverse scenario in the stress test required by this section. The data used in this component must be as of a date between October 1 of the previous calendar year and March 1 of the calendar year in which the stress test is performed, and the Board will communicate the as-of date and a description of the component to the company no later than March 1 of that calendar year.
+
+      ( ii ) The Board may require a state member bank to include one or more additional components in its severely adverse scenario in the stress test required by this section based on the state member bank's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
+
+    ( 3 ) Additional scenarios. The Board may require a state member bank to include one or more additional scenarios in the stress test required by this section based on the state member bank's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
+
+    ( 4 ) Notice and response —
+
+      ( i ) Notification of additional component or scenario. If the Board requires a state member bank to include one or more additional components in its severely adverse scenario under paragraph (b)(2) of this section or to use one or more additional scenarios under paragraph (b)(3) of this section, the Board will notify the company in writing by December 31 and include a discussion of the basis for its determination.
+
+      ( ii ) Request for reconsideration and Board response. Within 14 calendar days of receipt of a notification under paragraph (b)(4)(i) of this section, the state member bank may request in writing that the Board reconsider the requirement that the company include the additional component(s) or additional scenario(s), including an explanation as to why the request for reconsideration should be granted. The Board will respond in writing within 14 calendar days of receipt of the company's request.
+
+      ( iii ) Description of component. The Board will provide the state member bank with a description of any additional component(s) or additional scenario(s) by March 1.
+
+## § 252.15 Methodologies and practices.
+
+  ( a ) Potential impact on capital. In conducting a stress test under § 252.14 , for each quarter of the planning horizon, a state member bank must estimate the following for each scenario required to be used:
+
+    ( 1 ) Losses, pre-provision net revenue, provision for credit losses, and net income; and
+
+    ( 2 ) The potential impact on the regulatory capital levels and ratios applicable to the covered bank, and any other capital ratios specified by the Board, incorporating the effects of any capital action over the planning horizon and maintenance of an allowance for loan losses or adjusted allowance for credit losses, as appropriate, for credit exposures throughout the planning horizon.
+
+  ( b ) Controls and oversight of stress testing processes —
+
+    ( 1 ) In general. The senior management of a state member bank must establish and maintain a system of controls, oversight, and documentation, including policies and procedures, that are designed to ensure that its stress testing processes are effective in meeting the requirements in this subpart. These policies and procedures must, at a minimum, describe the company's stress testing practices and methodologies, and processes for validating and updating the company's stress test practices and methodologies consistent with applicable laws and regulations.
+
+    ( 2 ) Oversight of stress testing processes. The board of directors, or a committee thereof, of a state member bank must review and approve the policies and procedures of the stress testing processes as frequently as economic conditions or the condition of the company may warrant, but no less than each year that a stress test is conducted. The board of directors and senior management of the state member bank must receive a summary of the results of the stress test conducted under this section.
+
+    ( 3 ) Role of stress testing results. The board of directors and senior management of a state member bank must consider the results of the stress test in the normal course of business, including but not limited to, the state member bank's capital planning, assessment of capital adequacy, and risk management practices.
+
+## § 252.16 Reports of stress test results.
+
+  ( a ) Reports to the Board of stress test results —
+
+    ( 1 ) General. A state member bank must report the results of the stress test to the Board in the manner and form prescribed by the Board, in accordance with paragraphs (a)(2) of this section.
+
+    ( 2 ) Timing. For each stress test cycle in which a stress test is conducted:
+
+      ( i ) A state member bank that is a covered company subsidiary must report the results of the stress test to the Board by April 5, unless that time is extended by the Board in writing; and
+
+      ( ii ) A state member bank that is not a covered company subsidiary must report the results of the stress test to the Board by July 31, unless that time is extended by the Board in writing.
+
+  ( b ) Contents of reports. The report required under paragraph (a) of this section must include the following information for the baseline scenario, severely adverse scenario, and any other scenario required under § 252.14(b)(3) :
+
+    ( 1 ) A description of the types of risks being included in the stress test;
+
+    ( 2 ) A summary description of the methodologies used in the stress test; and
+
+    ( 3 ) For each quarter of the planning horizon, estimates of aggregate losses, pre-provision net revenue, provision for credit losses, net income, and regulatory capital ratios;
+
+  ( c ) Confidential treatment of information submitted. The confidentiality of information submitted to the Board under this subpart and related materials shall be determined in accordance with applicable exemptions under the Freedom of Information Act ( 5 U.S.C. 552(b) ) and the Board's Rules Regarding Availability of Information ( 12 CFR part 261 ).
+
+## § 252.17 Disclosure of stress test results.
+
+  ( a ) Public disclosure of results —
+
+    ( 1 ) General. A state member bank must publicly disclose a summary of the results of the stress test required under this subpart.
+
+    ( 2 ) Timing. For each stress test cycle in which a stress test is conducted:
+
+      ( i ) A state member bank that is a covered company subsidiary must publicly disclose a summary of the results of the stress test within 15 calendar days after the Board discloses the results of its supervisory stress test of the covered company pursuant to § 252.46(b) , unless that time is extended by the Board in writing; and
+
+      ( ii ) A state member bank that is not a covered company subsidiary must publicly disclose a summary of the results of the stress test in the period beginning on October 15 and ending on October 31, unless that time is extended by the Board in writing.
+
+    ( 3 ) Disclosure method. The summary required under this section may be disclosed on the website of a state member bank, or in any other forum that is reasonably accessible to the public.
+
+  ( b ) Summary of results —
+
+    ( 1 ) State member banks that are subsidiaries of bank holding companies. A state member bank that is a subsidiary of a bank holding company satisfies the public disclosure requirements under this subpart if the bank holding company publicly discloses summary results of its stress test pursuant to this section or § 252.58 , unless the Board determines that the disclosures at the holding company level do not adequately capture the potential impact of the scenarios on the capital of the state member bank and requires the state member bank to make public disclosures.
+
+    ( 2 ) State member banks that are not subsidiaries of bank holding companies. A state member bank that is not a subsidiary of a bank holding company or that is required to make disclosures under paragraph (b)(1) of this section must publicly disclose, at a minimum, the following information regarding the severely adverse scenario:
+
+      ( i ) A description of the types of risks being included in the stress test;
+
+      ( ii ) A summary description of the methodologies used in the stress test;
+
+      ( iii ) Estimates of—
+
+        ( A ) Aggregate losses;
+
+        ( B ) Pre-provision net revenue
+
+        ( C ) Provision for credit losses;
+
+        ( D ) Net income; and
+
+        ( E ) Pro forma regulatory capital ratios and any other capital ratios specified by the Board; and
+
+      ( iv ) An explanation of the most significant causes for the changes in regulatory capital ratios.
+
+  ( c ) Content of results.
+
+    ( 1 ) The disclosure of aggregate losses, pre-provision net revenue, provision for credit losses, and net income that is required under paragraph (b) of this section must be on a cumulative basis over the planning horizon.
+
+    ( 2 ) The disclosure of pro forma regulatory capital ratios and any other capital ratios specified by the Board that is required under paragraph (b) of this section must include the beginning value, ending value and minimum value of each ratio over the planning horizon.
+
+## § 252.20 [Reserved]
+
+## § 252.21 Applicability.
+
+  ( a ) General applicability. A bank holding company must comply with the risk-committee requirements set forth in this subpart beginning on the first day of the ninth quarter following the date on which its average total consolidated assets equal or exceed $50 billion.
+
+  ( b ) Cessation of requirements. A bank holding company will remain subject to the requirements of this subpart until the earlier of the date on which:
+
+    ( 1 ) Its total consolidated assets are below $50 billion for each of four consecutive calendar quarters; and
+
+    ( 2 ) It becomes subject to the requirements of subpart D of this part .
+
+## § 252.22 Risk committee requirement for bank holding companies with total consolidated assets of $50 billion or more.
+
+  ( a ) Risk committee —
+
+    ( 1 ) General. A bank holding company subject to this subpart must maintain a risk committee that approves and periodically reviews the risk-management policies of the bank holding company's global operations and oversees the operation of the bank holding company's global risk-management framework.
+
+    ( 2 ) Risk-management framework. The bank holding company's global risk-management framework must be commensurate with its structure, risk profile, complexity, activities, and size, and must include:
+
+      ( i ) Policies and procedures establishing risk-management governance, risk-management procedures, and risk-control infrastructure for its global operations; and
+
+      ( ii ) Processes and systems for implementing and monitoring compliance with such policies and procedures, including:
+
+        ( A ) Processes and systems for identifying and reporting risks and risk-management deficiencies, including regarding emerging risks, and ensuring effective and timely implementation of actions to address emerging risks and risk-management deficiencies for its global operations;
+
+        ( B ) Processes and systems for establishing managerial and employee responsibility for risk management;
+
+        ( C ) Processes and systems for ensuring the independence of the risk-management function; and
+
+        ( D ) Processes and systems to integrate risk management and associated controls with management goals and its compensation structure for its global operations.
+
+    ( 3 ) Corporate governance requirements. The risk committee must:
+
+      ( i ) Have a formal, written charter that is approved by the bank holding company's board of directors;
+
+      ( ii ) Be an independent committee of the board of directors that has, as its sole and exclusive function, responsibility for the risk-management policies of the bank holding company's global operations and oversight of the operation of the bank holding company's global risk-management framework;
+
+      ( iii ) Report directly to the bank holding company's board of directors;
+
+      ( iv ) Receive and review regular reports on a not less than a quarterly basis from the bank holding company's chief risk officer provided pursuant to paragraph (b)(3)(ii) of this section; and
+
+      ( v ) Meet at least quarterly, or more frequently as needed, and fully document and maintain records of its proceedings, including risk-management decisions.
+
+    ( 4 ) Minimum member requirements. The risk committee must:
+
+      ( i ) Include at least one member having experience in identifying, assessing, and managing risk exposures of large, complex financial firms; and
+
+      ( ii ) Be chaired by a director who:
+
+        ( A ) Is not an officer or employee of the bank holding company and has not been an officer or employee of the bank holding company during the previous three years;
+
+        ( B ) Is not a member of the immediate family, as defined in 12 CFR 225.41(b)(3) , of a person who is, or has been within the last three years, an executive officer of the bank holding company, as defined in 12 CFR 215.2(e)(1) ; and
+
+        ( C )
+
+          ( 1 ) Is an independent director under Item 407 of the Securities and Exchange Commission's Regulation S-K ( 17 CFR 229.407(a) ), if the bank holding company has an outstanding class of securities traded on an exchange registered with the U.S. Securities and Exchange Commission as a national securities exchange under section 6 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78f ) (national securities exchange); or
+
+          ( 2 ) Would qualify as an independent director under the listing standards of a national securities exchange, as demonstrated to the satisfaction of the Board, if the bank holding company does not have an outstanding class of securities traded on a national securities exchange.
+
+  ( b ) Chief risk officer —
+
+    ( 1 ) General. A bank holding company subject to this subpart must appoint a chief risk officer with experience in identifying, assessing, and managing risk exposures of large, complex financial firms.
+
+    ( 2 ) Responsibilities.
+
+      ( i ) The chief risk officer is responsible for overseeing:
+
+        ( A ) The establishment of risk limits on an enterprise-wide basis and the monitoring of compliance with such limits;
+
+        ( B ) The implementation of and ongoing compliance with the policies and procedures set forth in paragraph (a)(2)(i) of this section and the development and implementation of the processes and systems set forth in paragraph (a)(2)(ii) of this section; and
+
+        ( C ) The management of risks and risk controls within the parameters of the company's risk-control framework, and monitoring and testing of the company's risk controls.
+
+      ( ii ) The chief risk officer is responsible for reporting risk-management deficiencies and emerging risks to the risk committee and resolving risk-management deficiencies in a timely manner.
+
+    ( 3 ) Corporate governance requirements.
+
+      ( i ) The bank holding company must ensure that the compensation and other incentives provided to the chief risk officer are consistent with providing an objective assessment of the risks taken by the bank holding company; and
+
+      ( ii ) The chief risk officer must report directly to both the risk committee and chief executive officer of the company.
+
+## § 252.30 Scope.
+
+This subpart applies to bank holding companies with average total consolidated assets of $100 billion or more.
+
+## § 252.31 Applicability.
+
+  ( a ) Applicability —
+
+    ( 1 ) Initial applicability. Subject to paragraph (c) of this section, a bank holding company must comply with the risk-management and risk-committee requirements set forth in § 252.33 and the liquidity risk-management and liquidity stress test requirements set forth in §§ 252.34 and 252.35 no later than the first day of the fifth quarter following the date on which its average total consolidated assets equal or exceed $100 billion.
+
+    ( 2 ) Changes in requirements following a change in category. A bank holding company with average total consolidated assets of $100 billion or more that changes from one category of banking organization described in § 252.5(b) through (e) to another of such categories must comply with the requirements applicable to the new category no later than on the first day of the second quarter following the change in the bank holding company's category.
+
+  ( b ) Cessation of requirements. Except as provided in paragraph (c) of this section, a bank holding company is subject to the risk-management and risk committee requirements set forth in § 252.33 and the liquidity risk-management and liquidity stress test requirements set forth in §§ 252.34 and 252.35 until its total consolidated assets are below $100 billion for each of four consecutive calendar quarters.
+
+  ( c ) Applicability for bank holding companies that are subsidiaries of foreign banking organizations. If a bank holding company that has average total consolidated assets of $100 billion or more is controlled by a foreign banking organization, the U.S. intermediate holding company established or designated by the foreign banking organization must comply with the risk-management and risk committee requirements set forth in § 252.153(e)(3) and the liquidity risk-management and liquidity stress test requirements set forth in § 252.153(e)(4) .
+
+## § 252.32 Risk-based and leverage capital and stress test requirements.
+
+A bank holding company subject to this subpart must comply with, and hold capital commensurate with the requirements of, any regulations adopted by the Board relating to capital planning and stress tests, in accordance with the applicability provisions set forth therein.
+
+## § 252.33 Risk-management and risk committee requirements.
+
+  ( a ) Risk committee —
+
+    ( 1 ) General. A bank holding company subject to this subpart must maintain a risk committee that approves and periodically reviews the risk-management policies of the bank holding company's global operations and oversees the operation of the bank holding company's global risk-management framework. The risk committee's responsibilities include liquidity risk-management as set forth in § 252.34(b) .
+
+    ( 2 ) Risk-management framework. The bank holding company's global risk-management framework must be commensurate with its structure, risk profile, complexity, activities, and size and must include:
+
+      ( i ) Policies and procedures establishing risk-management governance, risk-management procedures, and risk-control infrastructure for its global operations; and
+
+      ( ii ) Processes and systems for implementing and monitoring compliance with such policies and procedures, including:
+
+        ( A ) Processes and systems for identifying and reporting risks and risk-management deficiencies, including regarding emerging risks, and ensuring effective and timely implementation of actions to address emerging risks and risk-management deficiencies for its global operations;
+
+        ( B ) Processes and systems for establishing managerial and employee responsibility for risk management;
+
+        ( C ) Processes and systems for ensuring the independence of the risk-management function; and
+
+        ( D ) Processes and systems to integrate risk management and associated controls with management goals and its compensation structure for its global operations.
+
+    ( 3 ) Corporate governance requirements. The risk committee must:
+
+      ( i ) Have a formal, written charter that is approved by the bank holding company's board of directors;
+
+      ( ii ) Be an independent committee of the board of directors that has, as its sole and exclusive function, responsibility for the risk-management policies of the bank holding company's global operations and oversight of the operation of the bank holding company's global risk-management framework;
+
+      ( iii ) Report directly to the bank holding company's board of directors;
+
+      ( iv ) Receive and review regular reports on not less than a quarterly basis from the bank holding company's chief risk officer provided pursuant to paragraph (b)(3)(ii) of this section; and
+
+      ( v ) Meet at least quarterly, or more frequently as needed, and fully document and maintain records of its proceedings, including risk-management decisions.
+
+    ( 4 ) Minimum member requirements. The risk committee must:
+
+      ( i ) Include at least one member having experience in identifying, assessing, and managing risk exposures of large, complex financial firms; and
+
+      ( ii ) Be chaired by a director who:
+
+        ( A ) Is not an officer or employee of the bank holding company and has not been an officer or employee of the bank holding company during the previous three years;
+
+        ( B ) Is not a member of the immediate family, as defined in section 225.41(b)(3) of the Board's Regulation Y ( 12 CFR 225.41(b)(3) ), of a person who is, or has been within the last three years, an executive officer of the bank holding company, as defined in section 215.2(e)(1) of the Board's Regulation O ( 12 CFR 215.2(e)(1) ); and
+
+        ( C )
+
+          ( 1 ) Is an independent director under Item 407 of the Securities and Exchange Commission's Regulation S-K ( 17 CFR 229.407(a) ), if the bank holding company has an outstanding class of securities traded on an exchange registered with the U.S. Securities and Exchange Commission as a national securities exchange under section 6 of the Securities Exchange Act of 1934 ( 15 U.S.C. 78f ) (national securities exchange); or
+
+          ( 2 ) Would qualify as an independent director under the listing standards of a national securities exchange, as demonstrated to the satisfaction of the Board, if the bank holding company does not have an outstanding class of securities traded on a national securities exchange.
+
+  ( b ) Chief risk officer —
+
+    ( 1 ) General. A bank holding company subject to this subpart must appoint a chief risk officer with experience in identifying, assessing, and managing risk exposures of large, complex financial firms.
+
+    ( 2 ) Responsibilities.
+
+      ( i ) The chief risk officer is responsible for overseeing:
+
+        ( A ) The establishment of risk limits on an enterprise-wide basis and the monitoring of compliance with such limits;
+
+        ( B ) The implementation of and ongoing compliance with the policies and procedures set forth in paragraph (a)(2)(i) of this section and the development and implementation of the processes and systems set forth in paragraph (a)(2)(ii) of this section; and
+
+        ( C ) The management of risks and risk controls within the parameters of the company's risk control framework, and monitoring and testing of the company's risk controls.
+
+      ( ii ) The chief risk officer is responsible for reporting risk-management deficiencies and emerging risks to the risk committee and resolving risk-management deficiencies in a timely manner.
+
+    ( 3 ) Corporate governance requirements.
+
+      ( i ) The bank holding company must ensure that the compensation and other incentives provided to the chief risk officer are consistent with providing an objective assessment of the risks taken by the bank holding company; and
+
+      ( ii ) The chief risk officer must report directly to both the risk committee and chief executive officer of the company.
+
+## § 252.34 Liquidity risk-management requirements.
+
+  ( a ) Responsibilities of the board of directors —
+
+    ( 1 ) Liquidity risk tolerance. The board of directors of a bank holding company that is subject to this subpart must:
+
+      ( i ) Approve the acceptable level of liquidity risk that the bank holding company may assume in connection with its operating strategies (liquidity risk tolerance) at least annually, taking into account the bank holding company's capital structure, risk profile, complexity, activities, and size; and
+
+      ( ii ) Receive and review at least semi-annually information provided by senior management to determine whether the bank holding company is operating in accordance with its established liquidity risk tolerance.
+
+    ( 2 ) Liquidity risk-management strategies, policies, and procedures. The board of directors must approve and periodically review the liquidity risk-management strategies, policies, and procedures established by senior management pursuant to paragraph (c)(1) of this section.
+
+  ( b ) Responsibilities of the risk committee. The risk committee (or a designated subcommittee of such committee composed of members of the board of directors) must approve the contingency funding plan described in paragraph (f) of this section at least annually, and must approve any material revisions to the plan prior to the implementation of such revisions.
+
+  ( c ) Responsibilities of senior management —
+
+    ( 1 ) Liquidity risk.
+
+      ( i ) Senior management of a bank holding company subject to this subpart must establish and implement strategies, policies, and procedures designed to effectively manage the risk that the bank holding company's financial condition or safety and soundness would be adversely affected by its inability or the market's perception of its inability to meet its cash and collateral obligations (liquidity risk). The board of directors must approve the strategies, policies, and procedures pursuant to paragraph (a)(2) of this section.
+
+      ( ii ) Senior management must oversee the development and implementation of liquidity risk measurement and reporting systems, including those required by this section and § 252.35 .
+
+      ( iii ) Senior management must determine at least quarterly whether the bank holding company is operating in accordance with such policies and procedures and whether the bank holding company is in compliance with this section and § 252.35 (or more often, if changes in market conditions or the liquidity position, risk profile, or financial condition warrant), and establish procedures regarding the preparation of such information.
+
+    ( 2 ) Liquidity risk tolerance. Senior management must report to the board of directors or the risk committee regarding the bank holding company's liquidity risk profile and liquidity risk tolerance at least quarterly (or more often, if changes in market conditions or the liquidity position, risk profile, or financial condition of the company warrant).
+
+    ( 3 ) Business lines or products.
+
+      ( i ) Senior management must approve new products and business lines and evaluate the liquidity costs, benefits, and risks of each new business line and each new product that could have a significant effect on the company's liquidity risk profile. The approval is required before the company implements the business line or offers the product. In determining whether to approve the new business line or product, senior management must consider whether the liquidity risk of the new business line or product (under both current and stressed conditions) is within the company's established liquidity risk tolerance.
+
+      ( ii ) Senior management must review at least annually significant business lines and products to determine whether any line or product creates or has created any unanticipated liquidity risk, and to determine whether the liquidity risk of each strategy or product is within the company's established liquidity risk tolerance.
+
+    ( 4 ) Cash-flow projections. Senior management must review the cash-flow projections produced under paragraph (e) of this section at least quarterly (or more often, if changes in market conditions or the liquidity position, risk profile, or financial condition of the bank holding company warrant) to ensure that the liquidity risk is within the established liquidity risk tolerance.
+
+    ( 5 ) Liquidity risk limits. Senior management must establish liquidity risk limits as set forth in paragraph (g) of this section and review the company's compliance with those limits at least quarterly (or more often, if changes in market conditions or the liquidity position, risk profile, or financial condition of the company warrant).
+
+    ( 6 ) Liquidity stress testing. Senior management must:
+
+      ( i ) Approve the liquidity stress testing practices, methodologies, and assumptions required in § 252.35(a) at least quarterly, and whenever the bank holding company materially revises its liquidity stress testing practices, methodologies or assumptions;
+
+      ( ii ) Review the liquidity stress testing results produced under § 252.35(a) at least quarterly;
+
+      ( iii ) Review the independent review of the liquidity stress tests under § 252.34(d) periodically; and
+
+      ( iv ) Approve the size and composition of the liquidity buffer established under § 252.35(b) at least quarterly.
+
+  ( d ) Independent review function.
+
+    ( 1 ) A bank holding company subject to this subpart must establish and maintain a review function that is independent of management functions that execute funding to evaluate its liquidity risk management.
+
+    ( 2 ) The independent review function must:
+
+      ( i ) Regularly, but no less frequently than annually, review and evaluate the adequacy and effectiveness of the company's liquidity risk-management processes, including its liquidity stress test processes and assumptions;
+
+      ( ii ) Assess whether the company's liquidity risk-management function complies with applicable laws and regulations, and sound business practices; and
+
+      ( iii ) Report material liquidity risk-management issues to the board of directors or the risk committee in writing for corrective action, to the extent permitted by applicable law.
+
+  ( e ) Cash-flow projections.
+
+    ( 1 ) A bank holding company subject to this subpart must produce comprehensive cash-flow projections that project cash flows arising from assets, liabilities, and off-balance sheet exposures over, at a minimum, short- and long-term time horizons. The bank holding company must update short-term cash-flow projections daily and must update longer-term cash-flow projections at least monthly.
+
+    ( 2 ) The bank holding company must establish a methodology for making cash-flow projections that results in projections that:
+
+      ( i ) Include cash flows arising from contractual maturities, intercompany transactions, new business, funding renewals, customer options, and other potential events that may impact liquidity;
+
+      ( ii ) Include reasonable assumptions regarding the future behavior of assets, liabilities, and off-balance sheet exposures;
+
+      ( iii ) Identify and quantify discrete and cumulative cash flow mismatches over these time periods; and
+
+      ( iv ) Include sufficient detail to reflect the capital structure, risk profile, complexity, currency exposure, activities, and size of the bank holding company and include analyses by business line, currency, or legal entity as appropriate.
+
+    ( 3 ) The bank holding company must adequately document its methodology for making cash flow projections and the included assumptions and submit such documentation to the risk committee.
+
+  ( f ) Contingency funding plan —
+
+    ( 1 ) General. A bank holding company subject to this subpart must establish and maintain a contingency funding plan that sets out the company's strategies for addressing liquidity needs during liquidity stress events. The contingency funding plan must be commensurate with the company's capital structure, risk profile, complexity, activities, size, and established liquidity risk tolerance. The company must update the contingency funding plan at least annually, and when changes to market and idiosyncratic conditions warrant.
+
+    ( 2 ) Components of the contingency funding plan —
+
+      ( i ) Quantitative assessment. The contingency funding plan must:
+
+        ( A ) Identify liquidity stress events that could have a significant impact on the bank holding company's liquidity;
+
+        ( B ) Assess the level and nature of the impact on the bank holding company's liquidity that may occur during identified liquidity stress events;
+
+        ( C ) Identify the circumstances in which the bank holding company would implement its action plan described in paragraph (f)(2)(ii)(A) of this section, which circumstances must include failure to meet any minimum liquidity requirement imposed by the Board;
+
+        ( D ) Assess available funding sources and needs during the identified liquidity stress events;
+
+        ( E ) Identify alternative funding sources that may be used during the identified liquidity stress events; and
+
+        ( F ) Incorporate information generated by the liquidity stress testing required under § 252.35(a) .
+
+      ( ii ) Liquidity event management process. The contingency funding plan must include an event management process that sets out the bank holding company's procedures for managing liquidity during identified liquidity stress events. The liquidity event management process must:
+
+        ( A ) Include an action plan that clearly describes the strategies the company will use to respond to liquidity shortfalls for identified liquidity stress events, including the methods that the company will use to access alternative funding sources;
+
+        ( B ) Identify a liquidity stress event management team that would execute the action plan described in paragraph (f)(2)(ii)(A) of this section;
+
+        ( C ) Specify the process, responsibilities, and triggers for invoking the contingency funding plan, describe the decision-making process during the identified liquidity stress events, and describe the process for executing contingency measures identified in the action plan; and
+
+        ( D ) Provide a mechanism that ensures effective reporting and communication within the bank holding company and with outside parties, including the Board and other relevant supervisors, counterparties, and other stakeholders.
+
+      ( iii ) Monitoring. The contingency funding plan must include procedures for monitoring emerging liquidity stress events. The procedures must identify early warning indicators that are tailored to the company's capital structure, risk profile, complexity, activities, and size.
+
+      ( iv ) Testing. The bank holding company must periodically test:
+
+        ( A ) The components of the contingency funding plan to assess the plan's reliability during liquidity stress events;
+
+        ( B ) The operational elements of the contingency funding plan, including operational simulations to test communications, coordination, and decision-making by relevant management; and
+
+        ( C ) The methods the bank holding company will use to access alternative funding sources to determine whether these funding sources will be readily available when needed.
+
+  ( g ) Liquidity risk limits —
+
+    ( 1 ) General. A bank holding company must monitor sources of liquidity risk and establish limits on liquidity risk that are consistent with the company's established liquidity risk tolerance and that reflect the company's capital structure, risk profile, complexity, activities, and size.
+
+    ( 2 ) Liquidity risk limits established by a global systemically important BHC, Category II bank holding company, or Category III bank holding company. If the bank holding company is a global systemically important BHC, Category II bank holding company, or Category III bank holding company, liquidity risk limits established under paragraph (g)(1) of this section must include limits on:
+
+      ( i ) Concentrations in sources of funding by instrument type, single counterparty, counterparty type, secured and unsecured funding, and as applicable, other forms of liquidity risk;
+
+      ( ii ) The amount of liabilities that mature within various time horizons; and
+
+      ( iii ) Off-balance sheet exposures and other exposures that could create funding needs during liquidity stress events.
+
+  ( h ) Collateral, legal entity, and intraday liquidity risk monitoring. A bank holding company subject to this subpart must establish and maintain procedures for monitoring liquidity risk as set forth in this paragraph.
+
+    ( 1 ) Collateral. The bank holding company must establish and maintain policies and procedures to monitor assets that have been, or are available to be, pledged as collateral in connection with transactions to which it or its affiliates are counterparties. These policies and procedures must provide that the bank holding company:
+
+      ( i ) Calculates all of its collateral positions according to the frequency specified in paragraph (h)(1)(i)(A) or (B) of this section, or as directed by the Board, specifying the value of pledged assets relative to the amount of security required under the relevant contracts and the value of unencumbered assets available to be pledged;
+
+        ( A ) If the bank holding company is not a Category IV bank holding company, on at least a weekly basis; or
+
+        ( B ) If the bank holding company is a Category IV bank holding company, on at least a monthly basis;
+
+      ( ii ) Monitors the levels of unencumbered assets available to be pledged by legal entity, jurisdiction, and currency exposure;
+
+      ( iii ) Monitors shifts in the bank holding company's funding patterns, such as shifts between intraday, overnight, and term pledging of collateral; and
+
+      ( iv ) Tracks operational and timing requirements associated with accessing collateral at its physical location (for example, the custodian or securities settlement system that holds the collateral).
+
+    ( 2 ) Legal entities, currencies, and business lines. The bank holding company must establish and maintain procedures for monitoring and controlling liquidity risk exposures and funding needs within and across significant legal entities, currencies, and business lines, taking into account legal and regulatory restrictions on the transfer of liquidity between legal entities.
+
+    ( 3 ) Intraday exposures. The bank holding company must establish and maintain procedures for monitoring intraday liquidity risk exposures that are consistent with the bank holding company's capital structure, risk profile, complexity, activities, and size. If the bank holding company is a global systemically important BHC, Category II bank holding company, or a Category III bank holding company, these procedures must address how the management of the bank holding company will:
+
+      ( i ) Monitor and measure expected daily gross liquidity inflows and outflows;
+
+      ( ii ) Manage and transfer collateral to obtain intraday credit;
+
+      ( iii ) Identify and prioritize time-specific obligations so that the bank holding company can meet these obligations as expected and settle less critical obligations as soon as possible;
+
+      ( iv ) Manage the issuance of credit to customers where necessary; and
+
+      ( v ) Consider the amounts of collateral and liquidity needed to meet payment systems obligations when assessing the bank holding company's overall liquidity needs.
+
+## § 252.35 Liquidity stress testing and buffer requirements.
+
+  ( a ) Liquidity stress testing requirement —
+
+    ( 1 ) General. A bank holding company subject to this subpart must conduct stress tests to assess the potential impact of the liquidity stress scenarios set forth in paragraph (a)(3) of this section on its cash flows, liquidity position, profitability, and solvency, taking into account its current liquidity condition, risks, exposures, strategies, and activities.
+
+      ( i ) The bank holding company must take into consideration its balance sheet exposures, off-balance sheet exposures, size, risk profile, complexity, business lines, organizational structure, and other characteristics of the bank holding company that affect its liquidity risk profile in conducting its stress test.
+
+      ( ii ) In conducting a liquidity stress test using the scenarios described in paragraphs (a)(3)(i) and (iii) of this section, the bank holding company must address the potential direct adverse impact of associated market disruptions on the bank holding company and incorporate the potential actions of other market participants experiencing liquidity stresses under the market disruptions that would adversely affect the bank holding company.
+
+    ( 2 ) Frequency. The bank holding company must perform the liquidity stress tests required under paragraph (a)(1) of this section according to the frequency specified in paragraph (a)(2)(i) or (ii), or as directed by the Board:
+
+      ( i ) If the bank holding company is not a Category IV bank holding company, at least monthly; or
+
+      ( ii ) If the bank holding company is a Category IV bank holding company, at least quarterly.
+
+    ( 3 ) Stress scenarios.
+
+      ( i ) Each liquidity stress test conducted under paragraph (a)(1) of this section must include, at a minimum:
+
+        ( A ) A scenario reflecting adverse market conditions;
+
+        ( B ) A scenario reflecting an idiosyncratic stress event for the bank holding company; and
+
+        ( C ) A scenario reflecting combined market and idiosyncratic stresses.
+
+      ( ii ) The bank holding company must incorporate additional liquidity stress scenarios into its liquidity stress test, as appropriate, based on its financial condition, size, complexity, risk profile, scope of operations, or activities. The Board may require the bank holding company to vary the underlying assumptions and stress scenarios.
+
+    ( 4 ) Planning horizon. Each stress test conducted under paragraph (a)(1) of this section must include an overnight planning horizon, a 30-day planning horizon, a 90-day planning horizon, a one-year planning horizon, and any other planning horizons that are relevant to the bank holding company's liquidity risk profile. For purposes of this section, a “planning horizon” is the period over which the relevant stressed projections extend. The bank holding company must use the results of the stress test over the 30-day planning horizon to calculate the size of the liquidity buffer under paragraph (b) of this section.
+
+    ( 5 ) Requirements for assets used as cash-flow sources in a stress test.
+
+      ( i ) To the extent an asset is used as a cash flow source to offset projected funding needs during the planning horizon in a liquidity stress test, the fair market value of the asset must be discounted to reflect any credit risk and market volatility of the asset.
+
+      ( ii ) Assets used as cash-flow sources during a planning horizon must be diversified by collateral, counterparty, borrowing capacity, and other factors associated with the liquidity risk of the assets.
+
+      ( iii ) A line of credit does not qualify as a cash flow source for purposes of a stress test with a planning horizon of 30 days or less. A line of credit may qualify as a cash flow source for purposes of a stress test with a planning horizon that exceeds 30 days.
+
+    ( 6 ) Tailoring. Stress testing must be tailored to, and provide sufficient detail to reflect, a bank holding company's capital structure, risk profile, complexity, activities, and size.
+
+    ( 7 ) Governance —
+
+      ( i ) Policies and procedures. A bank holding company subject to this subpart must establish and maintain policies and procedures governing its liquidity stress testing practices, methodologies, and assumptions that provide for the incorporation of the results of liquidity stress tests in future stress testing and for the enhancement of stress testing practices over time.
+
+      ( ii ) Controls and oversight. A bank holding company subject to this subpart must establish and maintain a system of controls and oversight that is designed to ensure that its liquidity stress testing processes are effective in meeting the requirements of this section. The controls and oversight must ensure that each liquidity stress test appropriately incorporates conservative assumptions with respect to the stress scenario in paragraph (a)(3) of this section and other elements of the stress test process, taking into consideration the bank holding company's capital structure, risk profile, complexity, activities, size, business lines, legal entity or jurisdiction, and other relevant factors. The assumptions must be approved by the chief risk officer and be subject to the independent review under § 252.34(d) of this subpart .
+
+      ( iii ) Management information systems. The bank holding company must maintain management information systems and data processes sufficient to enable it to effectively and reliably collect, sort, and aggregate data and other information related to liquidity stress testing.
+
+    ( 8 ) Notice and response. If the Board determines that a bank holding company must conduct liquidity stress tests according to a frequency other than the frequency provided in paragraphs (a)(2)(i) and (ii) of this section, the Board will notify the bank holding company before the change in frequency takes effect, and describe the basis for its determination. Within 14 calendar days of receipt of a notification under this paragraph, the bank holding company may request in writing that the Board reconsider the requirement. The Board will respond in writing to the company's request for reconsideration prior to requiring the company conduct liquidity stress tests according to a frequency other than the frequency provided in paragraphs (a)(2)(i) and (ii) of this section.
+
+  ( b ) Liquidity buffer requirement.
+
+    ( 1 ) A bank holding company subject to this subpart must maintain a liquidity buffer that is sufficient to meet the projected net stressed cash-flow need over the 30-day planning horizon of a liquidity stress test conducted in accordance with paragraph (a) of this section under each scenario set forth in paragraph (a)(3)(i) through (iii) of this section.
+
+    ( 2 ) Net stressed cash-flow need. The net stressed cash-flow need for a bank holding company is the difference between the amount of its cash-flow need and the amount of its cash flow sources over the 30-day planning horizon.
+
+    ( 3 ) Asset requirements. The liquidity buffer must consist of highly liquid assets that are unencumbered, as defined in paragraph (b)(3)(ii) of this section:
+
+      ( i ) Highly liquid asset. A highly liquid asset includes:
+
+        ( A ) Cash;
+
+        ( B ) Assets that meet the criteria for high quality liquid assets as defined in 12 CFR 249.20 ; or
+
+        ( C ) Any other asset that the bank holding company demonstrates to the satisfaction of the Board:
+
+          ( 1 ) Has low credit risk and low market risk;
+
+          ( 2 ) Is traded in an active secondary two-way market that has committed market makers and independent bona fide offers to buy and sell so that a price reasonably related to the last sales price or current bona fide competitive bid and offer quotations can be determined within one day and settled at that price within a reasonable time period conforming with trade custom; and
+
+          ( 3 ) Is a type of asset that investors historically have purchased in periods of financial market distress during which market liquidity has been impaired.
+
+      ( ii ) Unencumbered. An asset is unencumbered if it:
+
+        ( A ) Is free of legal, regulatory, contractual, or other restrictions on the ability of such company promptly to liquidate, sell or transfer the asset; and
+
+        ( B ) Is either:
+
+          ( 1 ) Not pledged or used to secure or provide credit enhancement to any transaction; or
+
+          ( 2 ) Pledged to a central bank or a U.S. government-sponsored enterprise, to the extent potential credit secured by the asset is not currently extended by such central bank or U.S. government-sponsored enterprise or any of its consolidated subsidiaries.
+
+      ( iii ) Calculating the amount of a highly liquid asset. In calculating the amount of a highly liquid asset included in the liquidity buffer, the bank holding company must discount the fair market value of the asset to reflect any credit risk and market price volatility of the asset.
+
+      ( iv ) Operational requirements. With respect to the liquidity buffer, the bank holding company must:
+
+        ( A ) Establish and implement policies and procedures that require highly liquid assets comprising the liquidity buffer to be under the control of the management function in the bank holding company that is charged with managing liquidity risk; and
+
+        ( B ) Demonstrate the capability to monetize a highly liquid asset under each scenario required under § 252.35(a)(3) .
+
+      ( v ) Diversification. The liquidity buffer must not contain significant concentrations of highly liquid assets by issuer, business sector, region, or other factor related to the bank holding company's risk, except with respect to cash and securities issued or guaranteed by the United States, a U.S. government agency, or a U.S. government-sponsored enterprise.
+
+## § 252.40 [Reserved]
+
+## § 252.41 Authority and purpose.
+
+  ( a ) Authority. 12 U.S.C. 321-338a , 1818 , 1831p-1 , 1844(b) , 1844(c) , 5361 , 5365 , 5366 , sec. 401(e), Pub. L. 115-174 , 132 Stat. 1296.
+
+  ( b ) Purpose. This subpart implements section 165 of the Dodd-Frank Act ( 12 U.S.C. 5365 ) and section 401(e) of the Economic Growth, Regulatory Relief, and Consumer Protection Act, which requires the Board to conduct annual analyses of nonbank financial companies supervised by the Board and bank holding companies with $100 billion or more in total consolidated assets to evaluate whether such companies have the capital, on a total consolidated basis, necessary to absorb losses as a result of adverse economic conditions.
+
+## § 252.42 Definitions.
+
+For purposes of this subpart E, the following definitions apply:
+
+  Advanced approaches means the risk-weighted assets calculation methodologies at 12 CFR part 217, subpart E , as applicable, and any successor regulation.
+
+  Baseline scenario means a set of conditions that affect the U.S. economy or the financial condition of a covered company and that reflect the consensus views of the economic and financial outlook.
+
+  Covered company means:
+
+    ( 1 ) A U.S. bank holding company with average total consolidated assets of $100 billion or more;
+
+    ( 2 ) A U.S. intermediate holding company subject to this section pursuant to § 252.153 ; and
+
+    ( 3 ) A nonbank financial company supervised by the Board.
+
+  Foreign banking organization has the same meaning as in 12 CFR 211.21(o) .
+
+  Pre-provision net revenue means the sum of net interest income and non-interest income less expenses before adjusting for loss provisions.
+
+  Planning horizon means the period of at least nine consecutive quarters, beginning on the first day of a stress test cycle over which the relevant projections extend.
+
+  Provision for credit losses means:
+
+    ( 1 ) With respect to a covered company that has adopted the current expected credit losses methodology under GAAP, the provision for credit losses, as would be reported by the covered company on the FR Y-9C in the current stress test cycle; and,
+
+    ( 2 ) With respect to a covered company that has not adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses as would be reported by the covered company on the FR Y-9C in the current stress test cycle.
+
+  Regulatory capital ratio means a capital ratio for which the Board has established minimum requirements for the company by regulation or order, including, as applicable, the company's regulatory capital ratios calculated under 12 CFR part 217 and the deductions required under 12 CFR 248.12 ; except that the company shall not use the advanced approaches to calculate its regulatory capital ratios.
+
+  Scenarios are those sets of conditions that affect the U.S. economy or the financial condition of a covered company that the Board determines are appropriate for use in the supervisory stress tests, including, but not limited to, baseline and severely adverse scenarios.
+
+  Severely adverse scenario means a set of conditions that affect the U.S. economy or the financial condition of a covered company and that overall are significantly more severe than those associated with the baseline scenario and may include trading or other additional components.
+
+  Stress test cycle means the period beginning on January 1 of a calendar year and ending on December 31 of that year.
+
+  Subsidiary has the same meaning as in 12 CFR 225.2 .
+
+## § 252.43 Applicability.
+
+  ( a ) Scope —
+
+    ( 1 ) Applicability. Except as provided in paragraph (b) of this section, this subpart applies to any covered company, which includes:
+
+      ( i ) Any U.S. bank holding company with average total consolidated assets of $100 billion or more;
+
+      ( ii ) Any U.S. intermediate holding company subject to this section pursuant to § 252.153 ; and
+
+      ( iii ) Any nonbank financial company supervised by the Board that is made subject to this section pursuant to a rule or order of the Board.
+
+    ( 2 ) Ongoing applicability. A bank holding company or U.S. intermediate holding company (including any successor company) that is subject to any requirement in this subpart shall remain subject to any such requirement unless and until its total consolidated assets fall below $100 billion for each of four consecutive quarters.
+
+  ( b ) Transitional arrangements.
+
+    ( 1 ) A bank holding company that becomes a covered company on or before September 30 of a calendar year must comply with the requirements of this subpart beginning on January 1 of the second calendar year after the bank holding company becomes a covered company, unless that time is extended by the Board in writing.
+
+    ( 2 ) A bank holding company that becomes a covered company after September 30 of a calendar year must comply with the requirements of this subpart beginning on January 1 of the third calendar year after the bank holding company becomes a covered company, unless that time is extended by the Board in writing.
+
+## § 252.44 Analysis conducted by the Board.
+
+  ( a ) In general.
+
+    ( 1 ) The Board will conduct an analysis of each covered company's capital, on a total consolidated basis, taking into account all relevant exposures and activities of that covered company, to evaluate the ability of the covered company to absorb losses in specified economic and financial conditions.
+
+    ( 2 ) The analysis will include an assessment of the projected losses, net income, and pro forma capital levels and regulatory capital ratios and other capital ratios for the covered company and use such analytical techniques that the Board determines are appropriate to identify, measure, and monitor risks of the covered company that may affect the financial stability of the United States.
+
+    ( 3 ) In conducting the analysis, the Board will not incorporate changes to a firm's business plan that are likely to have a material impact on the covered company's capital adequacy and funding profile in its projections of losses, net income, pro forma capital levels, and capital ratios.
+
+  ( b ) Economic and financial scenarios related to the Board's analysis. The Board will conduct its analysis using a minimum of two different scenarios, including a baseline scenario and a severely adverse scenario. The Board will notify covered companies of the scenarios that the Board will apply to conduct the analysis for each stress test cycle to which the covered company is subject by no later than February 15 of that year, except with respect to trading or any other components of the scenarios and any additional scenarios that the Board will apply to conduct the analysis, which will be communicated by no later than March 1 of that year.
+
+  ( c ) In conducting a stress test under this section, the Board will make the following assumptions regarding a covered company's capital actions over the planning horizon:
+
+    ( 1 ) The covered company will not pay any dividends on any instruments that qualify as common equity tier 1 capital;
+
+    ( 2 ) The covered company will make payments on instruments that qualify as additional tier 1 capital or tier 2 capital equal to the stated dividend, interest, or principal due on such instrument;
+
+    ( 3 ) The covered company will not make a redemption or repurchase of any capital instrument that is eligible for inclusion in the numerator of a regulatory capital ratio; and
+
+    ( 4 ) The covered company will not make any issuances of common stock or preferred stock.
+
+  ( d ) Frequency of analysis conducted by the Board —
+
+    ( 1 ) General. Except as provided in paragraph (d)(2) of this section, the Board will conduct its analysis of a covered company according to the frequency in Table 1 to § 252.44(d)(1) .
+
+Table 1 to § 252.44 ( d )(1)
+
+    ( 2 ) Change in frequency.
+
+      ( i ) The Board may conduct a stress test of a covered company on a more or less frequent basis than would be required under paragraph (d)(1) of this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
+
+      ( ii ) A Category IV bank holding company or Category IV U.S. intermediate holding company may elect to have the Board conduct a stress test with respect to the company in a year ending in an odd number by providing notice to the Board and the appropriate Federal Reserve Bank by January 15 of that year. Notwithstanding the previous sentence, such a company may elect to have the Board conduct a stress test with respect to the company in the year 2021 by providing notice to the Board and the appropriate Federal Reserve Bank by April 5, 2021.
+
+    ( 3 ) Notice and response —
+
+      ( i ) Notification of change in frequency. If the Board determines to change the frequency of the stress test under paragraph (d)(2)(i) of this section, the Board will notify the company in writing and provide a discussion of the basis for its determination.
+
+      ( ii ) Request for reconsideration and Board response. Within 14 calendar days of receipt of a notification under paragraph (d)(3)(i) of this section, a covered company may request in writing that the Board reconsider the requirement to conduct a stress test on a more or less frequent basis than would be required under paragraph (d)(1) of this section. A covered company's request for reconsideration must include an explanation as to why the request for reconsideration should be granted. The Board will respond in writing within 14 calendar days of receipt of the company's request.
+
+## § 252.45 Data and information required to be submitted in support of the Board's analyses.
+
+  ( a ) Regular submissions. Each covered company must submit to the Board such data, on a consolidated basis, that the Board determines is necessary in order for the Board to derive the relevant pro forma estimates of the covered company over the planning horizon under the scenarios described in § 252.44(b) .
+
+  ( b ) Additional submissions required by the Board. The Board may require a covered company to submit any other information on a consolidated basis that the Board deems necessary in order to:
+
+    ( 1 ) Ensure that the Board has sufficient information to conduct its analysis under this subpart; and
+
+    ( 2 ) Project a company's pre-provision net revenue, losses, provision for credit losses, and net income; and pro forma capital levels, regulatory capital ratios, and any other capital ratio specified by the Board under the scenarios described in § 252.44(b) .
+
+  ( c ) Confidential treatment of information submitted. The confidentiality of information submitted to the Board under this subpart and related materials shall be determined in accordance with the Freedom of Information Act ( 5 U.S.C. 552(b) ) and the Board's Rules Regarding Availability of Information ( 12 CFR part 261 ).
+
+## § 252.46 Review of the Board's analysis; publication of summary results.
+
+  ( a ) Review of results. Based on the results of the analysis conducted under this subpart, the Board will conduct an evaluation to determine whether the covered company has the capital, on a total consolidated basis, necessary to absorb losses and continue its operation by maintaining ready access to funding, meeting its obligations to creditors and other counterparties, and continuing to serve as a credit intermediary under baseline, adverse and severely adverse scenarios, and any additional scenarios.
+
+  ( b ) Publication of results by the Board.
+
+    ( 1 ) The Board will publicly disclose a summary of the results of the Board's analyses of a covered company by June 30 of the calendar year in which the stress test was conducted pursuant to § 252.44 .
+
+    ( 2 ) The Board will notify companies of the date on which it expects to publicly disclose a summary of the Board's analyses pursuant to paragraph (b)(1) of this section at least 14 calendar days prior to the expected disclosure date.
+
+## § 252.47 Corporate use of stress test results.
+
+  ( a ) In general. The board of directors and senior management of each covered company must consider the results of the analysis conducted by the Board under this subpart, as appropriate:
+
+    ( 1 ) As part of the covered company's capital plan and capital planning process, including when making changes to the covered company's capital structure (including the level and composition of capital);
+
+    ( 2 ) When assessing the covered company's exposures, concentrations, and risk positions; and
+
+    ( 3 ) In the development or implementation of any plans of the covered company for recovery or resolution.
+
+  ( b ) Resolution plan updates. Each covered company must update its resolution plan as the Board determines appropriate, based on the results of the Board's analyses of the covered company under this subpart.
+
+## § 252.50 [Reserved]
+
+## § 252.51 Authority and purpose.
+
+  ( a ) Authority. 12 U.S.C. 321-338a , 1818 , 1831p-1 , 1844(b) , 1844(c) , 5361 , 5365 , 5366 .
+
+  ( b ) Purpose. This subpart establishes the requirement for a covered company to conduct stress tests. This subpart also establishes definitions of stress test and related terms, methodologies for conducting stress tests, and reporting and disclosure requirements.
+
+## § 252.52 Definitions.
+
+For purposes of this subpart, the following definitions apply:
+
+  Advanced approaches means the risk-weighted assets calculation methodologies at 12 CFR part 217, subpart E , as applicable, and any successor regulation.
+
+  Baseline scenario means a set of conditions that affect the U.S. economy or the financial condition of a covered company and that reflect the consensus views of the economic and financial outlook.
+
+  Capital action has the same meaning as in 12 CFR 225.8(d) .
+
+  Covered company means:
+
+    ( 1 ) A global systemically important BHC;
+
+    ( 2 ) A Category II bank holding company;
+
+    ( 3 ) A Category III bank holding company;
+
+    ( 4 ) A Category II U.S. intermediate holding company subject to this section pursuant to § 252.153 ;
+
+    ( 5 ) A Category III U.S. intermediate holding company subject to this section pursuant to § 252.153 ; and
+
+    ( 6 ) A nonbank financial company supervised by the Board that is made subject to this section pursuant to a rule or order of the Board.
+
+  Foreign banking organization has the same meaning as in 12 CFR 211.21(o) .
+
+  Planning horizon means the period of at least nine consecutive quarters, beginning on the first day of a stress test cycle over which the relevant projections extend.
+
+  Pre-provision net revenue means the sum of net interest income and non-interest income less expenses before adjusting for loss provisions.
+
+  Provision for credit losses means:
+
+    ( 1 ) With respect to a covered company that has adopted the current expected credit losses methodology under GAAP, the provision for credit losses, as would be reported by the covered company on the FR Y-9C in the current stress test cycle; and
+
+    ( 2 ) With respect to a covered company that has not adopted the current expected credit losses methodology under GAAP, the provision for loan and lease losses as would be reported by the covered company on the FR Y-9C in the current stress test cycle.
+
+  Regulatory capital ratio means a capital ratio for which the Board has established minimum requirements for the company by regulation or order, including, as applicable, the company's regulatory capital ratios calculated under 12 CFR part 217 and the deductions required under 12 CFR 248.12 ; except that the company shall not use the advanced approaches to calculate its regulatory capital ratios.
+
+  Scenarios are those sets of conditions that affect the U.S. economy or the financial condition of a covered company that the Board determines are appropriate for use in the company-run stress tests, including, but not limited to, baseline and severely adverse scenarios.
+
+  Severely adverse scenario means a set of conditions that affect the U.S. economy or the financial condition of a covered company and that overall are significantly more severe than those associated with the baseline scenario and may include trading or other additional components.
+
+  Stress test means a process to assess the potential impact of scenarios on the consolidated earnings, losses, and capital of a covered company over the planning horizon, taking into account its current condition, risks, exposures, strategies, and activities.
+
+  Stress test cycle means the period beginning on January 1 of a calendar year and ending on December 31 of that year.
+
+  Subsidiary has the same meaning as in 12 CFR 225.2 .
+
+## § 252.53 Applicability.
+
+  ( a ) Scope —
+
+    ( 1 ) Applicability. Except as provided in paragraphs (a)(3) and (b) of this section, this subpart applies to any covered company, which includes:
+
+      ( i ) Any global systemically important BHC;
+
+      ( ii ) Any Category II bank holding company;
+
+      ( iii ) Any Category III bank holding company;
+
+      ( iv ) Any Category II U.S. intermediate holding company subject to this section pursuant to § 252.153 ;
+
+      ( v ) Any Category III U.S. intermediate holding company subject to this section pursuant to § 252.153 ; and
+
+      ( vi ) Any nonbank financial company supervised by the Board that is made subject to this section pursuant to a rule or order of the Board.
+
+    ( 2 ) Ongoing applicability.
+
+      ( i ) A bank holding company (including any successor company) that is subject to any requirement in this subpart shall remain subject to any such requirement unless and until the bank holding company:
+
+        ( A ) Is not a global systemically important BHC;
+
+        ( B ) Is not a Category II bank holding company; and
+
+        ( C ) Is not a Category III bank holding company.
+
+      ( ii ) A U.S. intermediate holding company (including any successor company) that is subject to any requirement in this subpart shall remain subject to any such requirement unless and until the U.S. intermediate holding company:
+
+        ( A ) Is not a Category II U.S. intermediate holding company; and
+
+        ( B ) Is not a Category III U.S. intermediate holding company.
+
+    ( 3 ) Insurance bank holding companies. Notwithstanding any other provision of this paragraph (a) , this subpart does not apply to a covered company that is a bank holding company that is subject to part 217, subpart J, of this chapter.
+
+  ( b ) Transitional arrangements.
+
+    ( 1 ) A company that becomes a covered company on or before September 30 of a calendar year must comply with the requirements of this subpart beginning on January 1 of the second calendar year after the company becomes a covered company, unless that time is extended by the Board in writing.
+
+    ( 2 ) A company that becomes a covered company after September 30 of a calendar year must comply with the requirements of this subpart beginning on January 1 of the third calendar year after the company becomes a covered company, unless that time is extended by the Board in writing.
+
+## § 252.54 Stress test.
+
+  ( a ) Stress test —
+
+    ( 1 ) In general. A covered company must conduct a stress test as required under this subpart.
+
+    ( 2 ) Frequency —
+
+      ( i ) General. Except as provided in paragraph (a)(2)(ii) of this section, a covered company must conduct a stress test according to the frequency in Table 1 to § 252.54(a)(2)(i) .
+
+Table 1 to § 252.54 ( a )(2)( i )
+
+      ( ii ) Change in frequency. The Board may require a covered company to conduct a stress test on a more or less frequent basis than would be required under paragraph (a)(2)(i) of this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
+
+    ( 3 ) Notice and response —
+
+      ( i ) Notification of change in frequency. If the Board requires a covered company to change the frequency of the stress test under paragraph (a)(2)(ii) of this section, the Board will notify the company in writing and provide a discussion of the basis for its determination.
+
+      ( ii ) Request for reconsideration and Board response. Within 14 calendar days of receipt of a notification under paragraph (a)(3)(i) of this section, a covered company may request in writing that the Board reconsider the requirement to conduct a stress test on a more or less frequent basis than would be required under paragraph (a)(2)(i) of this section. A covered company's request for reconsideration must include an explanation as to why the request for reconsideration should be granted. The Board will respond in writing within 14 calendar days of receipt of the company's request.
+
+  ( b ) Scenarios provided by the Board —
+
+    ( 1 ) In general. In conducting a stress test under this section, a covered company must, at a minimum, use the scenarios provided by the Board. Except as provided in paragraphs (b)(2) and (3) of this section, the Board will provide a description of the scenarios to each covered company no later than February 15 of the calendar year in which the stress test is performed pursuant to this section.
+
+    ( 2 ) Additional components.
+
+      ( i ) The Board may require a covered company with significant trading activity to include a trading and counterparty component in its severely adverse scenario in the stress test required by this section. The data used in this component must be as of a date selected by the Board between October 1 of the previous calendar year and March 1 of the calendar year in which the stress test is performed pursuant to this section, and the Board will communicate the as-of date and a description of the component to the company no later than March 1 of the calendar year in which the stress test is performed pursuant to this section. A covered company has significant trading activity if it has:
+
+        ( A ) Aggregate trading assets and liabilities of $50 billion or more, or aggregate trading assets and liabilities equal to 10 percent or more of total consolidated assets;
+
+        ( B ) Is not a Category IV bank holding company.
+
+      ( ii ) The Board may require a covered company to include one or more additional components in its severely adverse scenario in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
+
+    ( 3 ) Additional scenarios. The Board may require a covered company to use one or more additional scenarios in the stress test required by this section based on the company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy.
+
+    ( 4 ) Notice and response —
+
+      ( i ) Notification of additional component. If the Board requires a covered company to include one or more additional components in its adverse and severely adverse scenarios under paragraph (b)(2) of this section or to use one or more additional scenarios under paragraph (b)(3) of this section, the Board will notify the company in writing. The Board will provide such notification no later than December 31 of the preceding calendar year. The notification will include a general description of the additional component(s) or additional scenario(s) and the basis for requiring the company to include the additional component(s) or additional scenario(s).
+
+      ( ii ) Request for reconsideration and Board response. Within 14 calendar days of receipt of a notification under this paragraph, the covered company may request in writing that the Board reconsider the requirement that the company include the additional component(s) or additional scenario(s), including an explanation as to why the request for reconsideration should be granted. The Board will respond in writing within 14 calendar days of receipt of the company's request.
+
+      ( iii ) Description of component. The Board will provide the covered company with a description of any additional component(s) or additional scenario(s) by March 1 of the calendar year in which the stress test is performed pursuant to this section.
+
+## § 252.55 [Reserved]
+
+## § 252.56 Methodologies and practices.
+
+  ( a ) Potential impact on capital. In conducting a stress test under § 252.54 , for each quarter of the planning horizon, a covered company must estimate the following for each scenario required to be used:
+
+    ( 1 ) Losses, pre-provision net revenue, provision for credit losses, and net income; and
+
+    ( 2 ) The potential impact on the regulatory capital levels and ratios applicable to the covered bank, and any other capital ratios specified by the Board, and in doing so must:
+
+      ( i ) Incorporate the effects of any capital action over the planning horizon and maintenance of an allowance for loan losses or adjusted allowance for credit losses, as appropriate, for credit exposures throughout the planning horizon; and
+
+      ( ii ) Exclude the impacts of changes to a firm's business plan that are likely to have a material impact on the covered company's capital adequacy and funding profile.
+
+  ( b ) Assumptions regarding capital actions. In conducting a stress test under § 252.54 , a covered company is required to make the following assumptions regarding its capital actions over the planning horizon:
+
+    ( 1 ) The covered company will not pay any dividends on any instruments that qualify as common equity tier 1 capital;
+
+    ( 2 ) The covered company will make payments on instruments that qualify as additional tier 1 capital or tier 2 capital equal to the stated dividend, interest, or principal due on such instrument;
+
+    ( 3 ) The covered company will not make a redemption or repurchase of any capital instrument that is eligible for inclusion in the numerator of a regulatory capital ratio; and
+
+    ( 4 ) The covered company will not make any issuances of common stock or preferred stock.
+
+  ( c ) Controls and oversight of stress testing processes —
+
+    ( 1 ) In general. The senior management of a covered company must establish and maintain a system of controls, oversight, and documentation, including policies and procedures, that are designed to ensure that its stress testing processes are effective in meeting the requirements in this subpart. These policies and procedures must, at a minimum, describe the covered company's stress testing practices and methodologies, and processes for validating and updating the company's stress test practices and methodologies consistent with applicable laws and regulations.
+
+    ( 2 ) Oversight of stress testing processes. The board of directors, or a committee thereof, of a covered company must review and approve the policies and procedures of the stress testing processes as frequently as economic conditions or the condition of the covered company may warrant, but no less than each year a stress test is conducted. The board of directors and senior management of the covered company must receive a summary of the results of any stress test conducted under this subpart.
+
+    ( 3 ) Role of stress testing results. The board of directors and senior management of each covered company must consider the results of the analysis it conducts under this subpart, as appropriate:
+
+      ( i ) As part of the covered company's capital plan and capital planning process, including when making changes to the covered company's capital structure (including the level and composition of capital);
+
+      ( ii ) When assessing the covered company's exposures, concentrations, and risk positions; and
+
+      ( iii ) In the development or implementation of any plans of the covered company for recovery or resolution.
+
+## § 252.57 Reports of stress test results.
+
+  ( a ) Reports to the Board of stress test results. A covered company must report the results of the stress test required under § 252.54 to the Board in the manner and form prescribed by the Board. Such results must be submitted by April 5 of the calendar year in which the stress test is conducted pursuant to § 252.54 , unless that time is extended by the Board in writing.
+
+  ( b ) Confidential treatment of information submitted. The confidentiality of information submitted to the Board under this subpart and related materials shall be determined in accordance with applicable exemptions under the Freedom of Information Act ( 5 U.S.C. 552(b) ) and the Board's Rules Regarding Availability of Information ( 12 CFR part 261 ).
+
+## § 252.58 Disclosure of stress test results.
+
+  ( a ) Public disclosure of results —
+
+    ( 1 ) In general. A covered company must publicly disclose a summary of the results of the stress test required under § 252.54 within the period that is 15 calendar days after the Board publicly discloses the results of its supervisory stress test of the covered company pursuant to § 252.46(b) , unless that time is extended by the Board in writing.
+
+    ( 2 ) Disclosure method. The summary required under this section may be disclosed on the Web site of a covered company, or in any other forum that is reasonably accessible to the public.
+
+  ( b ) Summary of results. The summary results must, at a minimum, contain the following information regarding the severely adverse scenario:
+
+    ( 1 ) A description of the types of risks included in the stress test;
+
+    ( 2 ) A general description of the methodologies used in the stress test, including those employed to estimate losses, revenues, provision for credit losses, and changes in capital positions over the planning horizon.
+
+    ( 3 ) Estimates of—
+
+      ( i ) Pre-provision net revenue and other revenue;
+
+      ( ii ) Provision for credit losses, realized losses or gains on available-for-sale and held-to-maturity securities, trading and counterparty losses or gains;
+
+      ( iii ) Net income before taxes;
+
+      ( iv ) Loan losses (dollar amount and as a percentage of average portfolio balance) in the aggregate and by subportfolio, including: Domestic closed-end first-lien mortgages; domestic junior lien mortgages and home equity lines of credit; commercial and industrial loans; commercial real estate loans; credit card exposures; other consumer loans; and all other loans; and
+
+      ( v ) Pro forma regulatory capital ratios and any other capital ratios specified by the Board;
+
+    ( 4 ) An explanation of the most significant causes for the changes in regulatory capital ratios; and
+
+    ( 5 ) With respect to any depository institution subsidiary that is subject to stress testing requirements pursuant to 12 U.S.C. 5365(i)(2) , as implemented by subpart B of this part , 12 CFR part 46 (OCC) , or 12 CFR part 325, subpart C (FDIC), changes over the planning horizon in regulatory capital ratios and any other capital ratios specified by the Board and an explanation of the most significant causes for the changes in regulatory capital ratios.
+
+  ( c ) Content of results.
+
+    ( 1 ) The following disclosures required under paragraph (b) of this section must be on a cumulative basis over the planning horizon:
+
+      ( i ) Pre-provision net revenue and other revenue;
+
+      ( ii ) Provision for credit losses, realized losses/gains on available-for-sale and held-to-maturity securities, trading and counterparty losses, and other losses or gain;
+
+      ( iii ) Net income before taxes; and
+
+      ( iv ) Loan losses in the aggregate and by subportfolio.
+
+    ( 2 ) The disclosure of pro forma regulatory capital ratios and any other capital ratios specified by the Board that is required under paragraph (b) of this section must include the beginning value, ending value, and minimum value of each ratio over the planning horizon.
+
+## § 252.60 Applicability.
+
+  ( a ) General applicability. This subpart applies to any U.S. bank holding company that is identified as a global systemically important BHC.
+
+  ( b ) Initial applicability. A global systemically important BHC shall be subject to the requirements of this subpart beginning on the later of:
+
+    ( 1 ) January 1, 2019; or
+
+    ( 2 ) 1095 days (three years) after the date on which the company becomes a global systemically important BHC.
+
+## § 252.61 Definitions.
+
+For purposes of this subpart:
+
+  Additional tier 1 capital has the same meaning as in 12 CFR 217.20(c) .
+
+  Common equity tier 1 capital has the same meaning as in 12 CFR 217.20(b) .
+
+  Common equity tier 1 capital ratio has the same meaning as in 12 CFR 217.10(b)(1) and 12 CFR 217.10(c) , as applicable.
+
+  Common equity tier 1 minority interest has the same meaning as in 12 CFR 217.2 .
+
+  Default right
+
+    ( 1 ) Means any:
+
+      ( i ) Right of a party, whether contractual or otherwise (including rights incorporated by reference to any other contract, agreement or document, and rights afforded by statute, civil code, regulation and common law), to liquidate, terminate, cancel, rescind, or accelerate the agreement or transactions thereunder, set off or net amounts owing in respect thereto (except rights related to same-day payment netting), exercise remedies in respect of collateral or other credit support or property related thereto (including the purchase and sale of property), demand payment or delivery thereunder or in respect thereof (other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure), suspend, delay or defer payment or performance thereunder, modify the obligations of a party thereunder or any similar rights; and
+
+      ( ii ) Right or contractual provision that alters the amount of collateral or margin that must be provided with respect to an exposure thereunder, including by altering any initial amount, threshold amount, variation margin, minimum transfer amount, the margin value of collateral or any similar amount, that entitles a party to demand the return of any collateral or margin transferred by it to the other party or a custodian or that modifies a transferee's right to reuse collateral or margin (if such right previously existed), or any similar rights, in each case, other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure; and
+
+    ( 2 ) Does not include any right under a contract that allows a party to terminate the contract on demand or at its option at a specified time, or from time to time, without the need to show cause.
+
+  Discretionary bonus payment has the same meaning as under 12 CFR 217.2 .
+
+  Distribution has the same meaning as under 12 CFR 217.2 .
+
+  Eligible debt security means, with respect to a global systemically important BHC:
+
+    ( 1 ) A debt instrument that:
+
+      ( i ) Is paid in, and issued by the global systemically important BHC;
+
+      ( ii ) Is not secured, not guaranteed by the global systemically important BHC or a subsidiary of the global systemically important BHC, and is not subject to any other arrangement that legally or economically enhances the seniority of the instrument;
+
+      ( iii ) Has a maturity of greater than or equal to 365 days (one year) from the date of issuance;
+
+      ( iv ) Is governed by the laws of the United States or any State thereof;
+
+      ( v ) Does not provide the holder of the instrument a contractual right to accelerate payment of principal or interest on the instrument, except a right that is exercisable on one or more dates that are specified in the instrument or in the event of:
+
+        ( A ) A receivership, insolvency, liquidation, or similar proceeding of the global systemically important BHC; or
+
+        ( B ) A failure of the global systemically important BHC to pay principal or interest on the instrument when due and payable that continues for 30 days or more;
+
+      ( vi ) Does not have a credit-sensitive feature, such as an interest rate that is reset periodically based in whole or in part on the global systemically important BHC's credit quality, but may have an interest rate that is adjusted periodically independent of the global systemically important BHC's credit quality, in relation to general market interest rates or similar adjustments;
+
+      ( vii ) Is not a structured note; and
+
+      ( viii ) Does not provide that the instrument may be converted into or exchanged for equity of the global systemically important BHC; and
+
+    ( 2 ) A debt instrument issued prior to December 31, 2016 that:
+
+      ( i ) Is paid in, and issued by the global systemically important BHC;
+
+      ( ii ) Is not secured, not guaranteed by the global systemically important BHC or a subsidiary of the global systemically important BHC, and is not subject to any other arrangement that legally or economically enhances the seniority of the instrument;
+
+      ( iii ) Has a maturity of greater than or equal to 365 days (one year) from the date of issuance;
+
+      ( iv ) Does not have a credit-sensitive feature, such as an interest rate that is reset periodically based in whole or in part on the global systemically important BHC's credit quality, but may have an interest rate that is adjusted periodically independent of the global systemically important BHC's credit quality, in relation to general market interest rates or similar adjustments;
+
+      ( v ) Is not a structured note; and
+
+      ( vi ) Does not provide that the instrument may be converted into or exchanged for equity of the global systemically important BHC.
+
+  External TLAC risk-weighted buffer means, with respect to a global systemically important BHC, the sum of 2.5 percent, any applicable countercyclical capital buffer under 12 CFR 217.11(b) (expressed as a percentage), and the global systemically important BHC's method 1 capital surcharge.
+
+  GAAP means generally accepted accounting principles as used in the United States.
+
+  Global systemically important BHC has the same meaning as in 12 CFR 217.2 .
+
+  GSIB surcharge has the same meaning as in 12 CFR 217.2 .
+
+  Method 1 capital surcharge means, with respect to a global systemically important BHC, the most recent method 1 capital surcharge (expressed as a percentage) the global systemically important BHC was required to calculate pursuant to subpart H of Regulation Q ( 12 CFR 217.400 through 217.406 ).
+
+  Outstanding eligible external long-term debt amount is defined in § 252.62(b) .
+
+  Person has the same meaning as in 12 CFR 225.2 .
+
+  Qualified financial contract has the same meaning as in section 210(c)(8)(D) of Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5390(c)(8)(D) ).
+
+  Structured note means a debt instrument that:
+
+    ( 1 ) Has a principal amount, redemption amount, or stated maturity that is subject to reduction based on the performance of any asset, entity, index, or embedded derivative or similar embedded feature;
+
+    ( 2 ) Has an embedded derivative or similar embedded feature that is linked to one or more equity securities, commodities, assets, or entities;
+
+    ( 3 ) Does not specify a minimum principal amount that becomes due upon acceleration or early termination; or
+
+    ( 4 ) Is not classified as debt under GAAP, provided that an instrument is not a structured note solely because it is one or both of the following:
+
+      ( i ) An instrument that is not denominated in U.S. dollars; or
+
+      ( ii ) An instrument where interest payments are based on an interest rate index.
+
+  Supplementary leverage ratio has the same meaning as in 12 CFR 217.10(c)(4) .
+
+  Tier 1 minority interest has the same meaning as in 12 CFR 217.2 .
+
+  Tier 2 capital has the same meaning as in 12 CFR 217.20(d) .
+
+  Total leverage exposure has the same meaning as in 12 CFR 217.10(c)(4)(ii) .
+
+  Total risk-weighted assets means the greater of total risk-weighted assets as calculated under 12 CFR part 217, subpart D (the standardized approach) or 12 CFR part 217, subpart E (the internal ratings-based and advanced measurement approaches).
+
+## § 252.62 External long-term debt requirement.
+
+  ( a ) External long-term debt requirement. Except as provided under paragraph (c) of this section, a global systemically important BHC must maintain an outstanding eligible external long-term debt amount that is no less than the amount equal to the greater of:
+
+    ( 1 ) The global systemically important BHC's total risk-weighted assets multiplied by the sum of 6 percent plus the global systemically important BHC's GSIB surcharge (expressed as a percentage); and
+
+    ( 2 ) 4.5 percent of the global systemically important BHC's total leverage exposure.
+
+  ( b ) Outstanding eligible external long-term debt amount.
+
+    ( 1 ) A global systemically important BHC's outstanding eligible external long-term debt amount is the sum of:
+
+      ( i ) One hundred (100) percent of the amount due to be paid of unpaid principal of the outstanding eligible debt securities issued by the global systemically important BHC in greater than or equal to 730 days (two years);
+
+      ( ii ) Fifty (50) percent of the amount due to be paid of unpaid principal of the outstanding eligible debt securities issued by the global systemically important BHC in greater than or equal to 365 days (one year) and less than 730 days (two years); and
+
+      ( iii ) Zero (0) percent of the amount due to be paid of unpaid principal of the outstanding eligible debt securities issued by the global systemically important BHC in less than 365 days (one year).
+
+    ( 2 ) For purposes of paragraph (b)(1) of this section, the date on which principal is due to be paid on an outstanding eligible debt security is calculated from the earlier of:
+
+      ( i ) The date on which payment of principal is required under the terms governing the instrument, without respect to any right of the holder to accelerate payment of principal; and
+
+      ( ii ) The date the holder of the instrument first has the contractual right to request or require payment of the amount of principal, provided that, with respect to a right that is exercisable on one or more dates that are specified in the instrument only on the occurrence of an event (other than an event of a receivership, insolvency, liquidation, or similar proceeding of the global systemically important BHC, or a failure of the global systemically important BHC to pay principal or interest on the instrument when due), the date for the outstanding eligible debt security under this paragraph (b)(2)(ii) will be calculated as if the event has occurred.
+
+    ( 3 ) After notice and response proceedings consistent with 12 CFR part 263, subpart E , the Board may order a global systemically important BHC to exclude from its outstanding eligible long-term debt amount any debt security with one or more features that would significantly impair the ability of such debt security to take losses.
+
+  ( c ) Redemption and repurchase. A global systemically important BHC may not redeem or repurchase any outstanding eligible debt security without the prior approval of the Board if, immediately after the redemption or repurchase, the global systemically important BHC would not meet its external long-term debt requirement under paragraph (a) of this section, or its external total loss-absorbing capacity requirement under § 252.63(a) .
+
+## § 252.63 External total loss-absorbing capacity requirement and buffer.
+
+  ( a ) External total loss-absorbing capacity requirement. A global systemically important BHC must maintain an outstanding external total loss-absorbing capacity amount that is no less than the amount equal to the greater of:
+
+    ( 1 ) 18 percent of the global systemically important BHC's total risk-weighted assets; and
+
+    ( 2 ) 7.5 percent of the global systemically important BHC's total leverage exposure.
+
+  ( b ) Outstanding external total loss-absorbing capacity amount. A global systemically important BHC's outstanding external total loss-absorbing capacity amount is the sum of:
+
+    ( 1 ) The global systemically important BHC's common equity tier 1 capital (excluding any common equity tier 1 minority interest);
+
+    ( 2 ) The global systemically important BHC's additional tier 1 capital (excluding any tier 1 minority interest); and
+
+    ( 3 ) The global systemically important BHC's outstanding eligible external long-term debt amount plus 50 percent of the amount due to be paid of unpaid principal of outstanding eligible debt securities issued by the global systemically important BHC in, as calculated in § 252.62(b)(2) , greater than or equal to 365 days (one year) but less than 730 days (two years).
+
+  ( c ) External TLAC buffer —
+
+    ( 1 ) Composition of the external TLAC risk-weighted buffer. The external TLAC risk-weighted buffer is composed solely of common equity tier 1 capital.
+
+    ( 2 ) Definitions. For purposes of this paragraph, the following definitions apply:
+
+      ( i ) Eligible retained income. The eligible retained income of a global systemically important BHC is the greater of:
+
+        ( A ) The global systemically important BHC's net income, calculated in accordance with the instructions to the FR Y-9C, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income; and
+
+        ( B ) The average of the global systemically important BHC's net income, calculated in accordance with the instructions to the FR Y-9C, for the four calendar quarters preceding the current calendar quarter.
+
+      ( ii ) Maximum external TLAC risk-weighted payout ratio. The maximum external TLAC risk-weighted payout ratio is the percentage of eligible retained income that a global systemically important BHC can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum external TLAC risk-weighted payout ratio is based on the global systemically important BHC's external TLAC risk-weighted buffer level, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 252.63 .
+
+      ( iii ) Maximum external TLAC risk-weighted payout amount. A global systemically important BHC's maximum external TLAC risk-weighted payout amount for the current calendar quarter is equal to the global systemically important BHC's eligible retained income, multiplied by the applicable maximum external TLAC risk-weighted payout ratio, as set forth in Table 1 to § 252.63 .
+
+      ( iv ) Maximum external TLAC leverage payout ratio. The maximum external TLAC leverage payout ratio is the percentage of eligible retained income that a global systemically important BHC can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum external TLAC leverage payout ratio is based on the global systemically important BHC's external TLAC leverage buffer level, calculated as of the last day of the previous calendar quarter, as set forth in Table 2 to § 252.63 .
+
+      ( v ) Maximum external TLAC leverage payout amount. A global systemically important BHC's maximum external TLAC leverage payout amount for the current calendar quarter is equal to the global systemically important BHC's eligible retained income, multiplied by the applicable maximum TLAC leverage payout ratio, as set forth in Table 2 to § 252.63 .
+
+    ( 3 ) Calculation of the external TLAC risk-weighted buffer level.
+
+      ( i ) A global systemically important BHC's external TLAC risk-weighted buffer level is equal to the global systemically important BHC's common equity tier 1 capital ratio (expressed as a percentage) minus the greater of zero and the following amount:
+
+        ( A ) 18 percent; minus
+
+        ( B ) The ratio (expressed as a percentage) of the global systemically important BHC's additional tier 1 capital (excluding any tier 1 minority interest) to its total risk-weighted assets; and minus
+
+        ( C ) The ratio (expressed as a percentage) of the global systemically important BHC's outstanding eligible external long-term debt amount plus 50 percent of the amount of unpaid principal of outstanding eligible debt securities issued by the global systemically important BHC due to be paid in, as calculated in § 252.62(b)(2) , greater than or equal to 365 days (one year) but less than 730 days (two years) to total risk-weighted assets.
+
+      ( ii ) Notwithstanding paragraph (c)(3)(i) of this section, if the ratio (expressed as a percentage) of a global systemically important BHC's external total loss-absorbing capacity amount as calculated under paragraph (b) of this section to its risk-weighted assets is less than or equal to 18 percent, the global systemically important BHC's external TLAC risk-weighted buffer level is zero.
+
+    ( 4 ) Limits on distributions and discretionary bonus payments.
+
+      ( i ) A global systemically important BHC shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed the maximum external TLAC risk-weighted payout amount or the maximum external TLAC leverage payout amount.
+
+      ( ii ) A global systemically important BHC with an external TLAC risk-weighted buffer level that is greater than the external TLAC risk-weighted buffer and an external TLAC leverage buffer that is greater than 2.0 percent, in accordance with paragraph (c)(5) of this section, is not subject to a maximum external TLAC risk-weighted payout amount or a maximum external TLAC leverage payout amount.
+
+      ( iii ) Except as provided in paragraph (c)(4)(iv) of this section, a global systemically important BHC may not make distributions or discretionary bonus payments during the current calendar quarter if the global systemically important BHC's:
+
+        ( A ) Eligible retained income is negative; and
+
+        ( B ) External TLAC risk-weighted buffer level was less than the external TLAC risk-weighted buffer as of the end of the previous calendar quarter or external TLAC leverage buffer level was less than 2.0 percent as of the end of the previous calendar quarter.
+
+      ( iv ) Notwithstanding the limitations in paragraphs (c)(4)(i) through (iii) of this section, the Board may permit a global systemically important BHC to make a distribution or discretionary bonus payment upon a request of the global systemically important BHC, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the global systemically important BHC. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
+
+      ( v )
+
+        ( A ) A global systemically important BHC is subject to the lowest of the maximum payout amounts as determined under 12 CFR 217.11(a)(2) , the maximum external TLAC risk-weighted payout amount as determined under this paragraph, and the maximum external TLAC leverage payout amount as determined under this paragraph.
+
+        ( B ) Additional limitations on distributions may apply to a global systemically important BHC under 12 CFR 225.4 , 225.8 , and 263.202 .
+
+    ( 5 ) External TLAC leverage buffer —
+
+      ( i ) General. A global systemically important BHC is subject to the lower of the maximum external TLAC risk-weighted payout amount as determined under paragraph (c)(2)(iii) of this section and the maximum external TLAC leverage payout amount as determined under paragraph (c)(2)(v) of this section.
+
+      ( ii ) Composition of the external TLAC leverage buffer. The external TLAC leverage buffer is composed solely of tier 1 capital.
+
+      ( iii ) Calculation of the external TLAC leverage buffer level.
+
+        ( A ) A global systemically important BHC's external TLAC leverage buffer level is equal to the global systemically important BHC's supplementary leverage ratio (expressed as a percentage) minus the greater of zero and the following amount:
+
+          ( 1 ) 7.5 percent; minus
+
+          ( 2 ) The ratio (expressed as a percentage) of the global systemically important BHC's outstanding eligible external long-term debt amount plus 50 percent of the amount of unpaid principal of outstanding eligible debt securities issued by the global systemically important BHC due to be paid in in, as calculated in § 252.62(b)(2) , greater than or equal to 365 days (one year) but less than 730 days (two years) to total leverage exposure.
+
+        ( B ) Notwithstanding paragraph (c)(5)(iii) of this section, if the ratio (expressed as a percentage) of a global systemically important BHC's external total loss-absorbing capacity amount as calculated under paragraph (b) of this section to its total leverage exposure is less than or equal to 7.5 percent, the global systemically important BHC's external TLAC leverage buffer level is zero.
+
+Table 1 to § 252.63 —Calculation of Maximum External TLAC Risk-Weighted Payout Amount
+
+Table 2 to § 252.63 —Calculation of Maximum External TLAC Leverage Payout Amount
+
+## § 252.64 Restrictions on corporate practices of U.S. global systemically important banking organizations.
+
+  ( a ) Prohibited corporate practices. A global systemically important BHC may not directly:
+
+    ( 1 ) Issue any debt instrument with an original maturity of less than 365 days (one year), including short term deposits and demand deposits, to any person, unless the person is a subsidiary of the global systemically important BHC;
+
+    ( 2 ) Issue any instrument, or enter into any related contract, with respect to which the holder of the instrument has a contractual right to offset debt owed by the holder or its affiliates to a subsidiary of the global systemically important BHC against the amount, or a portion of the amount, owed by the global systemically important BHC under the instrument;
+
+    ( 3 ) Enter into a qualified financial contract that is not a credit enhancement with a person that is not a subsidiary of the global systemically important BHC;
+
+    ( 4 ) Enter into an agreement in which the global systemically important BHC guarantees a liability of a subsidiary of the global systemically important BHC if such liability permits the exercise of a default right that is related, directly or indirectly, to the global systemically important BHC becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding other than a receivership proceeding under Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5381 through 5394 ) unless the liability is subject to requirements of the Board restricting such default rights or subject to any similar requirements of another U.S. federal banking agency; or
+
+    ( 5 ) Enter into, or otherwise begin to benefit from, any agreement that provides for its liabilities to be guaranteed by any of its subsidiaries.
+
+  ( b ) Limit on unrelated liabilities.
+
+    ( 1 ) The aggregate amount, on an unconsolidated basis, of unrelated liabilities of a global systemically important BHC owed to persons that are not affiliates of the global systemically important BHC may not exceed 5 percent of the systemically important BHC's external total loss-absorbing capacity amount, as calculated under § 252.63(b) .
+
+    ( 2 ) For purposes of paragraph (b)(1) of this section, an unrelated liability is any non-contingent liability of the global systemically important BHC owed to a person that is not an affiliate of the global systemically important BHC other than:
+
+      ( i ) The instruments that are used to satisfy the global systemically important BHC's external total loss-absorbing capacity amount, as calculated under § 252.63(b) ;
+
+      ( ii ) Any dividend or other liability arising from the instruments that are used to satisfy the global systemically important BHC's external total loss-absorbing capacity amount, as calculated under § 252.63(b) ;
+
+      ( iii ) An eligible debt security that does not provide the holder of the instrument with a currently exercisable right to require immediate payment of the total or remaining principal amount; and
+
+      ( iv ) A secured liability, to the extent that it is secured, or a liability that otherwise represents a claim that would be senior to eligible debt securities in Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5390(b) ) and the Bankruptcy Code ( 11 U.S.C. 507 ).
+
+  ( c ) A Covered BHC is not subject to paragraph (b) of this section if all of the eligible debt securities issued by the Covered BHC would represent the most subordinated debt claim in a receivership, insolvency, liquidation, or similar proceeding of the Covered BHC.
+
+## § 252.65 Disclosure requirements.
+
+  ( a ) A global systemically important BHC must publicly disclose a description of the financial consequences to unsecured debtholders of the global systemically important BHC entering into a resolution proceeding in which the global systemically important BHC is the only entity that would be subject to the resolution proceeding.
+
+  ( b ) A global systemically important BHC must provide the disclosure required by paragraph (a) of this section:
+
+    ( 1 ) In the offering documents for all of its eligible debt securities; and
+
+    ( 2 ) Either:
+
+      ( i ) On the global systemically important BHC's Web site; or
+
+      ( ii ) In more than one public financial report or other public regulatory reports, provided that the global systemically important BHC publicly provides a summary table specifically indicating the location(s) of this disclosure.
+
+## § 252.70 Applicability and general provisions.
+
+  ( a ) In general.
+
+    ( 1 ) This subpart establishes single counterparty credit limits for a covered company.
+
+    ( 2 ) For purposes of this subpart:
+
+      ( i ) Covered company means:
+
+        ( A ) A global systemically important BHC;
+
+        ( B ) A Category II bank holding company; and
+
+        ( C ) A Category III bank holding company;
+
+      ( ii ) Major covered company means any covered company that is a global systemically important BHC.
+
+  ( b ) Credit exposure limits.
+
+    ( 1 ) Section 252.72 establishes credit exposure limits for a covered company and a major covered company.
+
+    ( 2 ) A covered company is required to calculate its aggregate net credit exposure, gross credit exposure, and net credit exposure to a counterparty using the methods in this subpart.
+
+  ( c ) Applicability of this subpart.
+
+    ( 1 )
+
+      ( i ) A company that is a covered company as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.72 , beginning on July 1, 2020, unless that time is extended by the Board in writing.
+
+      ( ii ) Notwithstanding paragraph (c)(1)(i) of this section, a company that is a major covered company as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.72 , beginning on January 1, 2020, unless that time is extended by the Board in writing.
+
+    ( 2 ) A covered company that becomes subject to this subpart after October 5, 2018 must comply with the requirements of this subpart beginning on the first day of the ninth calendar quarter after it becomes a covered company, unless that time is accelerated or extended by the Board in writing.
+
+  ( d ) Cessation of requirements.
+
+    ( 1 ) Any company that becomes a covered company will remain subject to the requirements of this subpart unless and until:
+
+      ( i ) The covered company is not a global systemically important BHC;
+
+      ( ii ) The covered company is not a Category II bank holding company; and
+
+      ( iii ) The covered company is not a Category III bank holding company.
+
+    ( 2 ) A covered company that has ceased to be a major covered company for purposes of § 252.72(b) is no longer subject to the requirements of § 252.72(b) beginning on the first day of the calendar quarter following the reporting date on which it ceased to be a major covered company; provided that the covered company remains subject to the requirements of this subpart, unless it ceases to be a covered company pursuant to paragraph (d)(1) of this section.
+
+## § 252.71 Definitions.
+
+Unless defined in this section, terms that are set forth in § 252.2 of this part and used in this subpart have the definitions assigned in § 252.2 . For purposes of this subpart:
+
+  ( a ) Adjusted market value means:
+
+    ( 1 ) With respect to the value of cash, securities, or other eligible collateral transferred by the covered company to a counterparty, the sum of:
+
+      ( i ) The market value of the cash, securities, or other eligible collateral; and
+
+      ( ii ) The product of the market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in Table 1 to § 217.132 of the Board's Regulation Q ( 12 CFR 217.132 ); and
+
+    ( 2 ) With respect to cash, securities, or other eligible collateral received by the covered company from a counterparty:
+
+      ( i ) The market value of the cash, securities, or other eligible collateral; minus
+
+      ( ii ) The market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in Table 1 to § 217.132 of the Board's Regulation Q ( 12 CFR 217.132 ).
+
+    ( 3 ) Prior to calculating the adjusted market value pursuant to paragraphs (a)(1) and (2) of this section, with regard to a transaction that meets the definition of “repo-style transaction” in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ), the covered company would first multiply the applicable collateral haircuts in Table 1 to § 217.132 of the Board's Regulation Q ( 12 CFR 217.132 ) by the square root of 1 ⁄ 2 .
+
+  ( b ) Affiliate means, with respect to a company:
+
+    ( 1 ) Any subsidiary of the company and any other company that is consolidated with the company under applicable accounting standards; or
+
+    ( 2 ) For a company that is not subject to principles or standards referenced in paragraph (b)(1) of this section, any subsidiary of the company and any other company that would be consolidated with the company, if consolidation would have occurred if such principles or standards had applied.
+
+  ( c ) Aggregate net credit exposure means the sum of all net credit exposures of a covered company and all of its subsidiaries to a single counterparty as calculated under this subpart.
+
+  ( d ) Bank-eligible investments means investment securities that a national bank is permitted to purchase, sell, deal in, underwrite, and hold under 12 U.S.C. 24 (Seventh) and 12 CFR part 1 .
+
+  ( e ) Counterparty means, with respect to a credit transaction:
+
+    ( 1 ) With respect to a natural person, the natural person, and, if the credit exposure of the covered company to such natural person exceeds 5 percent of the covered company's tier 1 capital, the natural person and members of the person's immediate family collectively;
+
+    ( 2 ) With respect to any company that is not a subsidiary of the covered company, the company and its affiliates collectively;
+
+    ( 3 ) With respect to a State, the State and all of its agencies, instrumentalities, and political subdivisions (including any municipalities) collectively;
+
+    ( 4 ) With respect to a foreign sovereign entity that is not assigned a zero percent risk weight under the standardized approach in the Board's Regulation Q ( 12 CFR part 217, subpart D ), the foreign sovereign entity and all of its agencies and instrumentalities (but not including any political subdivision) collectively; and
+
+    ( 5 ) With respect to a political subdivision of a foreign sovereign entity such as a state, province, or municipality, any political subdivision of the foreign sovereign entity and all of such political subdivision's agencies and instrumentalities, collectively. [ 1 ]
+
+  ( f ) Covered company is defined in § 252.70(a)(2)(i) of this subpart .
+
+  ( g ) Credit derivative has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( h ) Credit transaction means, with respect to a counterparty:
+
+    ( 1 ) Any extension of credit to the counterparty, including loans, deposits, and lines of credit, but excluding uncommitted lines of credit;
+
+    ( 2 ) Any repurchase agreement or reverse repurchase agreement with the counterparty;
+
+    ( 3 ) Any securities lending or securities borrowing transaction with the counterparty;
+
+    ( 4 ) Any guarantee, acceptance, or letter of credit (including any endorsement, confirmed letter of credit, or standby letter of credit) issued on behalf of the counterparty;
+
+    ( 5 ) Any purchase of securities issued by or other investment in the counterparty;
+
+    ( 6 ) Any credit exposure to the counterparty in connection with a derivative transaction between the covered company and the counterparty;
+
+    ( 7 ) Any credit exposure to the counterparty in connection with a credit derivative or equity derivative between the covered company and a third party, the reference asset of which is an obligation or equity security of, or equity investment in, the counterparty; and
+
+    ( 8 ) Any transaction that is the functional equivalent of the above, and any other similar transaction that the Board, by regulation or order, determines to be a credit transaction for purposes of this subpart.
+
+  ( i ) Depository institution has the same meaning as in section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) ).
+
+  ( j ) Derivative transaction means any transaction that is a contract, agreement, swap, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets.
+
+  ( k ) Eligible collateral means collateral in which, notwithstanding the prior security interest of any custodial agent, the covered company has a perfected, first priority security interest (or the legal equivalent thereof, if outside of the United States), with the exception of cash on deposit, and is in the form of:
+
+    ( 1 ) Cash on deposit with the covered company or a subsidiary of the covered company (including cash in foreign currency or U.S. dollars held for the covered company by a custodian or trustee, whether inside or outside of the United States);
+
+    ( 2 ) Debt securities (other than mortgage- or asset-backed securities and resecuritization securities, unless those securities are issued by a U.S. government-sponsored enterprise) that are bank-eligible investments and that are investment grade, except for any debt securities issued by the covered company or any subsidiary of the covered company;
+
+    ( 3 ) Equity securities that are publicly traded, except for any equity securities issued by the covered company or any subsidiary of the covered company;
+
+    ( 4 ) Convertible bonds that are publicly traded, except for any convertible bonds issued by the covered company or any subsidiary of the covered company; or
+
+    ( 5 ) Gold bullion.
+
+  ( l ) Eligible credit derivative means a single-name credit derivative or a standard, non-tranched index credit derivative, provided that:
+
+    ( 1 ) The contract meets the requirements of an eligible guarantee and has been confirmed by the protection purchaser and the protection provider;
+
+    ( 2 ) Any assignment of the contract has been confirmed by all relevant parties;
+
+    ( 3 ) If the credit derivative is a credit default swap, the contract includes the following credit events:
+
+      ( i ) Failure to pay any amount due under the terms of the reference exposure, subject to any applicable minimal payment threshold that is consistent with standard market practice and with a grace period that is closely in line with the grace period of the reference exposure; and
+
+      ( ii ) Receivership, insolvency, liquidation, conservatorship, or inability of the reference exposure issuer to pay its debts, or its failure or admission in writing of its inability generally to pay its debts as they become due, and similar events;
+
+    ( 4 ) The terms and conditions dictating the manner in which the contract is to be settled are incorporated into the contract;
+
+    ( 5 ) If the contract allows for cash settlement, the contract incorporates a robust valuation process to estimate loss reliably and specifies a reasonable period for obtaining post-credit event valuations of the reference exposure;
+
+    ( 6 ) If the contract requires the protection purchaser to transfer an exposure to the protection provider at settlement, the terms of at least one of the exposures that is permitted to be transferred under the contract provide that any required consent to transfer may not be unreasonably withheld; and
+
+    ( 7 ) If the credit derivative is a credit default swap, the contract clearly identifies the parties responsible for determining whether a credit event has occurred, specifies that this determination is not the sole responsibility of the protection provider, and gives the protection purchaser the right to notify the protection provider of the occurrence of a credit event.
+
+  ( m ) Eligible equity derivative means an equity derivative, provided that:
+
+    ( 1 ) The derivative contract has been confirmed by all relevant parties;
+
+    ( 2 ) Any assignment of the derivative contract has been confirmed by all relevant parties; and
+
+    ( 3 ) The terms and conditions dictating the manner in which the derivative contract is to be settled are incorporated into the contract.
+
+  ( n ) Eligible guarantee has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( o ) Eligible guarantor has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( p ) Equity derivative has the same meaning as “equity derivative contract” in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( q ) Exempt counterparty means an entity that is identified as exempt from the requirements of this subpart under § 252.77 , or that is otherwise excluded from this subpart, including any sovereign entity assigned a zero percent risk weight under the standardized approach in the Board's Regulation Q ( 12 CFR part 217, subpart D ).
+
+  ( r ) Financial entity means:
+
+    ( 1 )
+
+      ( i ) A bank holding company or an affiliate thereof; a savings and loan holding company as defined in section 10(n) of the Home Owners' Loan Act ( 12 U.S.C. 1467a(n) ); a U.S. intermediate holding company established or designated for purposes of compliance with this part; or a nonbank financial company supervised by the Board;
+
+      ( ii ) A depository institution as defined in section 3(c) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) ); an organization that is organized under the laws of a foreign country and that engages directly in the business of banking outside the United States; a federal credit union or state credit union as defined in section 2 of the Federal Credit Union Act ( 12 U.S.C. 1752(1) and (6) ); a national association, state member bank, or state nonmember bank that is not a depository institution; an institution that functions solely in a trust or fiduciary capacity as described in section 2(c)(2)(D) of the Bank Holding Company Act ( 12 U.S.C. 1841(c)(2)(D) ); an industrial loan company, an industrial bank, or other similar institution described in section 2(c)(2)(H) of the Bank Holding Company Act ( 12 U.S.C. 1841(c)(2)(H) );
+
+      ( iii ) An entity that is state-licensed or registered as:
+
+        ( A ) A credit or lending entity, including a finance company; money lender; installment lender; consumer lender or lending company; mortgage lender, broker, or bank; motor vehicle title pledge lender; payday or deferred deposit lender; premium finance company; commercial finance or lending company; or commercial mortgage company; except entities registered or licensed solely on account of financing the entity's direct sales of goods or services to customers;
+
+        ( B ) A money services business, including a check casher; money transmitter; currency dealer or exchange; or money order or traveler's check issuer;
+
+      ( iv ) Any person registered with the Commodity Futures Trading Commission as a swap dealer or major swap participant pursuant to the Commodity Exchange Act of 1936 ( 7 U.S.C. 1 et seq. ), or an entity that is registered with the U.S. Securities and Exchange Commission as a security-based swap dealer or a major security-based swap participant pursuant to the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq. );
+
+      ( v ) A securities holding company as defined in section 618 of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 1850a ); a broker or dealer as defined in sections 3(a)(4) and 3(a)(5) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a)(4)-(5) ); an investment adviser as defined in section 202(a) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b-2(a) ); an investment company registered with the U.S. Securities and Exchange Commission under the Investment Company Act of 1940 ( 15 U.S.C. 80a-1 et seq. ); or a company that has elected to be regulated as a business development company pursuant to section 54(a) of the Investment Company Act of 1940 ( 15 U.S.C. 80a-53(a) );
+
+      ( vi ) A private fund as defined in section 202(a) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b-2(a) ); an entity that would be an investment company under section 3 of the Investment Company Act of 1940 ( 15 U.S.C. 80a-3 ) but for section 3(c)(5)(C); or an entity that is deemed not to be an investment company under section 3 of the Investment Company Act of 1940 pursuant to Investment Company Act Rule 3a-7 ( 17 CFR 270.3a-7 ) of the U.S. Securities and Exchange Commission;
+
+      ( vii ) A commodity pool, a commodity pool operator, or a commodity trading advisor as defined, respectively, in sections 1a(10), 1a(11), and 1a(12) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(10) , 1a(11) , and 1a(12) ); a floor broker, a floor trader, or introducing broker as defined, respectively, in sections 1a(22), 1a(23) and 1a(31) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(22) , 1a(23) , and 1a(31) ); or a futures commission merchant as defined in section 1a(28) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(28) );
+
+      ( viii ) An employee benefit plan as defined in paragraphs (3) and (32) of section 3 of the Employee Retirement Income and Security Act of 1974 ( 29 U.S.C. 1002 );
+
+      ( ix ) An entity that is organized as an insurance company, primarily engaged in writing insurance or reinsuring risks underwritten by insurance companies, or is subject to supervision as such by a State insurance regulator or foreign insurance regulator;
+
+      ( x ) Any designated financial market utility, as defined in section 803 of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5462 ); and
+
+      ( xi ) An entity that would be a financial entity described in paragraphs (r)(1)(i) through (x) of this section, if it were organized under the laws of the United States or any State thereof; and
+
+    ( 2 ) Provided that, for purposes of this subpart, “financial entity” does not include any counterparty that is a foreign sovereign entity or multilateral development bank.
+
+  ( s ) Foreign sovereign entity means a sovereign entity other than the United States government and the entity's agencies, departments, ministries, and central bank collectively.
+
+  ( t ) Gross credit exposure means, with respect to any credit transaction, the credit exposure of the covered company before adjusting, pursuant to § 252.74 , for the effect of any eligible collateral, eligible guarantee, eligible credit derivative, eligible equity derivative, other eligible hedge, and any unused portion of certain extensions of credit.
+
+  ( u ) Immediate family means the spouse of an individual, the individual's minor children, and any of the individual's children (including adults) residing in the individual's home.
+
+  ( v ) Intraday credit exposure means credit exposure of a covered company to a counterparty that by its terms is to be repaid, sold, or terminated by the end of its business day in the United States.
+
+  ( w ) Investment grade has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( x ) Major counterparty means any counterparty that is or includes:
+
+    ( 1 ) A major covered company;
+
+    ( 2 ) A top-tier foreign banking organization that meets the requirements of § 252.172(c)(3) through (5) ; or
+
+    ( 3 ) Any nonbank financial company supervised by the Board.
+
+  ( y ) Major covered company is defined in § 252.70(a)(2)(ii) of this subpart .
+
+  ( z ) Multilateral development bank has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( aa ) Net credit exposure means, with respect to any credit transaction, the gross credit exposure of a covered company and all of its subsidiaries calculated under § 252.73 , as adjusted in accordance with § 252.74 .
+
+  ( bb ) Qualifying central counterparty has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( cc ) Qualifying master netting agreement has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( dd ) Securities financing transaction means any repurchase agreement, reverse repurchase agreement, securities borrowing transaction, or securities lending transaction.
+
+  ( ee ) Short sale means any sale of a security which the seller does not own or any sale which is consummated by the delivery of a security borrowed by, or for the account of, the seller.
+
+  ( ff ) Sovereign entity means a central national government (including the U.S. government) or an agency, department, ministry, or central bank, but not including any political subdivision such as a state, province, or municipality.
+
+  ( gg ) Subsidiary. A company is a subsidiary of another company if:
+
+    ( 1 ) The company is consolidated by the other company under applicable accounting standards; or
+
+    ( 2 ) For a company that is not subject to principles or standards referenced in paragraph (gg)(1) of this definition, consolidation would have occurred if such principles or standards had applied.
+
+  ( hh ) Tier 1 capital means common equity tier 1 capital and additional tier 1 capital, as defined in the Board's Regulation Q ( 12 CFR part 217 ) and as reported by the bank holding company on the most recent FR Y-9C report on a consolidated basis.
+
+  ( ii ) Total consolidated assets. A company's total consolidated assets are determined based on:
+
+    ( 1 ) The average of the bank holding company's total consolidated assets in the four most recent consecutive quarters as reported quarterly on the FR Y-9C; or
+
+    ( 2 ) If the bank holding company has not filed an FR Y-9C for each of the four most recent consecutive quarters, the average of the bank holding company's total consolidated assets, as reported on the company's FR Y-9C, for the most recent quarter or consecutive quarters, as applicable.
+
+[ 1 ] In addition, under § 252.76 , under certain circumstances, a covered company is required to aggregate its net credit exposure to one or more counterparties for all purposes under this subpart.
+
+## § 252.72 Credit exposure limits.
+
+  ( a ) General limit on aggregate net credit exposure. No covered company may have an aggregate net credit exposure to any counterparty that exceeds 25 percent of the tier 1 capital of the covered company.
+
+  ( b ) Limit on aggregate net credit exposure of major covered companies to major counterparties. No major covered company may have aggregate net credit exposure to any major counterparty that exceeds 15 percent of the tier 1 capital of the major covered company.
+
+## § 252.73 Gross credit exposure.
+
+  ( a ) Calculation of gross credit exposure. The amount of gross credit exposure of a covered company to a counterparty with respect to a credit transaction is, in the case of:
+
+    ( 1 ) A deposit of the covered company held by the counterparty, loan by a covered company to the counterparty, and lease in which the covered company is the lessor and the counterparty is the lessee, equal to the amount owed by the counterparty to the covered company under the transaction.
+
+    ( 2 ) A debt security or debt investment held by the covered company that is issued by the counterparty, equal to:
+
+      ( i ) The market value of the securities, for trading and available-for-sale securities; and
+
+      ( ii ) The amortized purchase price of the securities or investments, for securities or investments held to maturity.
+
+    ( 3 ) An equity security held by the covered company that is issued by the counterparty, equity investment in a counterparty, and other direct investments in a counterparty, equal to the market value.
+
+    ( 4 ) A securities financing transaction must be valued using any of the methods that the covered company is authorized to use under the Board's Regulation Q ( 12 CFR part 217, subparts D and E ) to value such transactions:
+
+      ( i )
+
+        ( A ) As calculated for each transaction, in the case of a securities financing transaction between the covered company and the counterparty that is not subject to a bilateral netting agreement or does not meet the definition of “repo-style transaction” in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ); or
+
+        ( B ) As calculated for a netting set, in the case of a securities financing transaction between the covered company and the counterparty that is subject to a bilateral netting agreement with that counterparty and meets the definition of “repo-style transaction” in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 );
+
+      ( ii ) For purposes of paragraph (a)(4)(i) of this section, the covered company must:
+
+        ( A ) Assign a value of zero to any security received from the counterparty that does not meet the definition of “eligible collateral” in § 252.71(k) ; and
+
+        ( B ) Include the value of securities that are eligible collateral received by the covered company from the counterparty (including any exempt counterparty), calculated in accordance with paragraphs (a)(4)(i) through (iv) of this section, when calculating its gross credit exposure to the issuer of those securities;
+
+      ( iii ) Notwithstanding paragraphs (a)(4)(i) and (ii) of this section and with respect to each credit transaction, a covered company's gross credit exposure to a collateral issuer under this paragraph (a)(4) is limited to the covered company's gross credit exposure to the counterparty on the credit transaction; and
+
+      ( iv ) In cases where the covered company receives eligible collateral from a counterparty in addition to the cash or securities received from that counterparty, the counterparty may reduce its gross credit exposure to that counterparty in accordance with § 252.74(b) .
+
+    ( 5 ) A committed credit line extended by a covered company to a counterparty, equal to the face amount of the committed credit line.
+
+    ( 6 ) A guarantee or letter of credit issued by a covered company on behalf of a counterparty, equal to the maximum potential loss to the covered company on the transaction.
+
+    ( 7 ) A derivative transaction must be valued using any of the methods that the covered company is authorized to use under the Board's Regulation Q ( 12 CFR part 217, subparts D and E ) to value such transactions:
+
+      ( i )
+
+        ( A ) As calculated for each transaction, in the case of a derivative transaction between the covered company and the counterparty, including an equity derivative but excluding a credit derivative described in paragraph (a)(8) of this section, that is not subject to a qualifying master netting agreement; or
+
+        ( B ) As calculated for a netting set, in the case of a derivative transaction between the covered company and the counterparty, including an equity derivative but excluding a credit derivative described in paragraph (a)(8) of this section, that is subject to a qualifying master netting agreement.
+
+      ( ii ) In cases where a covered company is required to recognize an exposure to an eligible guarantor pursuant to § 252.74(d) , the covered company must exclude the relevant derivative transaction when calculating its gross exposure to the original counterparty under this section.
+
+    ( 8 ) A credit derivative between the covered company and a third party where the covered company is the protection provider and the reference asset is an obligation or debt security of the counterparty, equal to the maximum potential loss to the covered company on the transaction.
+
+  ( b ) Investments in and exposures to securitization vehicles, investment funds, and other special purpose vehicles that are not subsidiaries. Notwithstanding paragraph (a) of this section, a covered company must calculate pursuant to § 252.75 its gross credit exposure due to any investment in the debt or equity of, and any credit derivative or equity derivative between the covered company and a third party where the covered company is the protection provider and the reference asset is an obligation or equity security of, or equity investment in, a securitization vehicle, investment fund, and other special purpose vehicle that is not a subsidiary of the covered company.
+
+  ( c ) Attribution rule. Notwithstanding any other requirement in this subpart, a covered company must treat any transaction with any natural person or entity as a credit transaction with another party, to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, the other party.
+
+## § 252.74 Net credit exposure.
+
+  ( a ) In general. For purposes of this subpart, a covered company must calculate its net credit exposure to a counterparty by adjusting its gross credit exposure to that counterparty in accordance with the rules set forth in this section.
+
+  ( b ) Eligible collateral.
+
+    ( 1 ) In computing its net credit exposure to a counterparty for any credit transaction other than a securities financing transaction, a covered company must reduce its gross credit exposure on the transaction by the adjusted market value of any eligible collateral.
+
+    ( 2 ) A covered company that reduces its gross credit exposure to a counterparty as required under paragraph (b)(1) of this section must include the adjusted market value of the eligible collateral, when calculating its gross credit exposure to the collateral issuer.
+
+    ( 3 ) Notwithstanding paragraph (b)(2) of this section, a covered company's gross credit exposure to a collateral issuer under this paragraph (b) is limited to:
+
+      ( i ) Its gross credit exposure to the counterparty on the credit transaction, or
+
+      ( ii ) In the case of an exempt counterparty, the gross credit exposure that would have been attributable to that exempt counterparty on the credit transaction if valued in accordance with § 252.73(a) .
+
+  ( c ) Eligible guarantees.
+
+    ( 1 ) In calculating net credit exposure to a counterparty for any credit transaction, a covered company must reduce its gross credit exposure to the counterparty by the amount of any eligible guarantee from an eligible guarantor that covers the transaction.
+
+    ( 2 ) A covered company that reduces its gross credit exposure to a counterparty as required under paragraph (c)(1) of this section must include the amount of eligible guarantees when calculating its gross credit exposure to the eligible guarantor.
+
+    ( 3 ) Notwithstanding paragraph (c)(2) of this section, a covered company's gross credit exposure to an eligible guarantor with respect to an eligible guarantee under this paragraph (c) is limited to:
+
+      ( i ) Its gross credit exposure to the counterparty on the credit transaction prior to recognition of the eligible guarantee, or
+
+      ( ii ) In the case of an exempt counterparty, the gross credit exposure that would have been attributable to that exempt counterparty on the credit transaction prior to recognition of the eligible guarantee if valued in accordance with § 252.73(a) .
+
+  ( d ) Eligible credit and equity derivatives.
+
+    ( 1 ) In calculating net credit exposure to a counterparty for a credit transaction under this section, a covered company must reduce its gross credit exposure to the counterparty by:
+
+      ( i ) In the case of any eligible credit derivative from an eligible guarantor, the notional amount of the eligible credit derivative; or
+
+      ( ii ) In the case of any eligible equity derivative from an eligible guarantor, the gross credit exposure amount to the counterparty (calculated in accordance with § 252.73(a)(7) ).
+
+    ( 2 )
+
+      ( i ) A covered company that reduces its gross credit exposure to a counterparty as provided under paragraph (d)(1) of this section must include, when calculating its net credit exposure to the eligible guarantor, including in instances where the underlying credit transaction would not be subject to the credit limits of § 252.72 (for example, due to an exempt counterparty), either
+
+        ( A ) In the case of any eligible credit derivative from an eligible guarantor, the notional amount of the eligible credit derivative; or
+
+        ( B ) In the case of any eligible equity derivative from an eligible guarantor, the gross credit exposure amount to the counterparty (calculated in accordance with § 252.73(a)(7) ).
+
+      ( ii ) Notwithstanding paragraph (d)(2)(i) of this section, in cases where the eligible credit derivative or eligible equity derivative is used to hedge covered positions that are subject to the Board's market risk rule ( 12 CFR part 217, subpart F ) and the counterparty on the hedged transaction is not a financial entity, the amount of credit exposure that a company must recognize to the eligible guarantor is the amount that would be calculated pursuant to § 252.73(a) .
+
+    ( 3 ) Notwithstanding paragraph (d)(2) of this section, a covered company's gross credit exposure to an eligible guarantor with respect to an eligible credit derivative or an eligible equity derivative under this paragraph (d) is limited to:
+
+      ( i ) Its gross credit exposure to the counterparty on the credit transaction prior to recognition of the eligible credit derivative or the eligible equity derivative, or
+
+      ( ii ) In the case of an exempt counterparty, the gross credit exposure that would have been attributable to that exempt counterparty on the credit transaction prior to recognition of the eligible credit derivative or the eligible equity derivative if valued in accordance with § 252.73(a) .
+
+  ( e ) Other eligible hedges. In calculating net credit exposure to a counterparty for a credit transaction under this section, a covered company may reduce its gross credit exposure to the counterparty by the face amount of a short sale of the counterparty's debt security or equity security, provided that:
+
+    ( 1 ) The instrument in which the covered company has a short position is junior to, or pari passu with, the instrument in which the covered company has the long position; and
+
+    ( 2 ) The instrument in which the covered company has a short position and the instrument in which the covered company has the long position are either both treated as trading or available-for-sale exposures or both treated as held-to-maturity exposures.
+
+  ( f ) Unused portion of certain extensions of credit.
+
+    ( 1 ) In computing its net credit exposure to a counterparty for a committed credit line or revolving credit facility under this section, a covered company may reduce its gross credit exposure by the amount of the unused portion of the credit extension to the extent that the covered company does not have any legal obligation to advance additional funds under the extension of credit and the used portion of the credit extension has been fully secured by eligible collateral.
+
+    ( 2 ) To the extent that the used portion of a credit extension has been secured by eligible collateral, the covered company may reduce its gross credit exposure by the adjusted market value of any eligible collateral received from the counterparty, even if the used portion has not been fully secured by eligible collateral.
+
+    ( 3 ) To qualify for the reduction in net credit exposure under this paragraph, the credit contract must specify that any used portion of the credit extension must be fully secured by the adjusted market value of any eligible collateral.
+
+  ( g ) Credit transactions involving exempt counterparties.
+
+    ( 1 ) A covered company's credit transactions with an exempt counterparty are not subject to the requirements of this subpart, including but not limited to § 252.72 .
+
+    ( 2 ) Notwithstanding paragraph (g)(1) of this section, in cases where a covered company has a credit transaction with an exempt counterparty and the covered company has obtained eligible collateral from that exempt counterparty or an eligible guarantee or eligible credit or equity derivative from an eligible guarantor, the covered company must include (for purposes of this subpart) such exposure to the issuer of such eligible collateral or the eligible guarantor, as calculated in accordance with the rules set forth in this section, when calculating its gross credit exposure to that issuer of eligible collateral or eligible guarantor.
+
+  ( h ) Currency mismatch adjustments. For purposes of calculating its net credit exposure to a counterparty under this section, a covered company must apply, as applicable:
+
+    ( 1 ) When reducing its gross credit exposure to a counterparty resulting from any credit transaction due to any eligible collateral and calculating its gross credit exposure to an issuer of eligible collateral, pursuant to paragraph (b) of this section, the currency mismatch adjustment approach of § 217.37(c)(3)(ii) of the Board's Regulation Q ( 12 CFR 217.37(c)(3)(ii) ); and
+
+    ( 2 ) When reducing its gross credit exposure to a counterparty resulting from any credit transaction due to any eligible guarantee, eligible equity derivative, or eligible credit derivative from an eligible guarantor and calculating its gross credit exposure to an eligible guarantor, pursuant to paragraphs (c) and (d) of this section, the currency mismatch adjustment approach of § 217.36(f) of the Board's Regulation Q ( 12 CFR 217.36(f) ).
+
+  ( i ) Maturity mismatch adjustments. For purposes of calculating its net credit exposure to a counterparty under this section, a covered company must apply, as applicable, the maturity mismatch adjustment approach of § 217.36(d) of the Board's Regulation Q ( 12 CFR 217.36(d) ):
+
+    ( 1 ) When reducing its gross credit exposure to a counterparty resulting from any credit transaction due to any eligible collateral or any eligible guarantees, eligible equity derivatives, or eligible credit derivatives from an eligible guarantor, pursuant to paragraphs (b) through (d) of this section, and
+
+    ( 2 ) In calculating its gross credit exposure to an issuer of eligible collateral, pursuant to paragraph (b) of this section, or to an eligible guarantor, pursuant to paragraphs (c) and (d) of this section; provided that
+
+    ( 3 ) The eligible collateral, eligible guarantee, eligible equity derivative, or eligible credit derivative subject to paragraph (i)(1) of this section:
+
+      ( i ) Has a shorter maturity than the credit transaction;
+
+      ( ii ) Has an original maturity equal to or greater than one year;
+
+      ( iii ) Has a residual maturity of not less than three months; and
+
+      ( iv ) The adjustment approach is otherwise applicable.
+
+## § 252.75 Investments in and exposures to securitization vehicles, investment funds, and other special purpose vehicles that are not subsidiaries of the covered company.
+
+  ( a ) In general.
+
+    ( 1 ) For purposes of this section, the following definitions apply:
+
+      ( i ) SPV means a securitization vehicle, investment fund, or other special purpose vehicle that is not a subsidiary of the covered company.
+
+      ( ii ) SPV exposure means an investment in the debt or equity of an SPV, or a credit derivative or equity derivative between the covered company and a third party where the covered company is the protection provider and the reference asset is an obligation or equity security of, or equity investment in, an SPV.
+
+    ( 2 )
+
+      ( i ) A covered company must determine whether the amount of its gross credit exposure to an issuer of assets in an SPV, due to an SPV exposure, is equal to or greater than 0.25 percent of the covered company's tier 1 capital using one of the following two methods:
+
+        ( A ) The sum of all of the issuer's assets (with each asset valued in accordance with § 252.73(a) ) in the SPV; or
+
+        ( B ) The application of the look-through approach described in paragraph (b) of this section.
+
+      ( ii ) With respect to the determination required under paragraph (a)(2)(i) of this section, a covered company must use the same method to calculate gross credit exposure to each issuer of assets in a particular SPV.
+
+      ( iii ) In making a determination under paragraph (a)(2)(i) of this section, the covered company must consider only the credit exposure to the issuer arising from the covered company's SPV exposure.
+
+      ( iv ) For purposes of this paragraph (a)(2) , a covered company that is unable to identify each issuer of assets in an SPV must attribute to a single unknown counterparty the amount of its gross credit exposure to all unidentified issuers and calculate such gross credit exposure using one method in either paragraph (a)(2)(i)(A) or (a)(2)(i)(B) of this section.
+
+    ( 3 )
+
+      ( i ) If a covered company determines pursuant to paragraph (a)(2) of this section that the amount of its gross credit exposure to an issuer of assets in an SPV is less than 0.25 percent of the covered company's tier 1 capital, the amount of the covered company's gross credit exposure to that issuer may be attributed to either that issuer of assets or the SPV:
+
+        ( A ) If attributed to the issuer of assets, the issuer of assets must be identified as a counterparty, and the gross credit exposure calculated under paragraph (a)(2)(i)(A) of this section to that issuer of assets must be aggregated with any other gross credit exposures (valued in accordance with § 252.73 ) to that same counterparty; and
+
+        ( B ) If attributed to the SPV, the covered company's gross credit exposure is equal to the covered company's SPV exposure, valued in accordance with § 252.73(a) .
+
+      ( ii ) If a covered company determines pursuant to paragraph (a)(2) of this section that the amount of its gross credit exposure to an issuer of assets in an SPV is equal to or greater than 0.25 percent of the covered company's tier 1 capital or the covered company is unable to determine that the amount of the gross credit exposure is less than 0.25 percent of the covered company's tier 1 capital:
+
+        ( A ) The covered company must calculate the amount of its gross credit exposure to the issuer of assets in the SPV using the look-through approach in paragraph (b) of this section;
+
+        ( B ) The issuer of assets in the SPV must be identified as a counterparty, and the gross credit exposure calculated in accordance with paragraph (b) must be aggregated with any other gross credit exposures (valued in accordance with § 252.73 ) to that same counterparty; and
+
+        ( C ) When applying the look-through approach in paragraph (b) of this section, a covered company that is unable to identify each issuer of assets in an SPV must attribute to a single unknown counterparty the amount of its gross credit exposure, calculated in accordance with paragraph (b) of this section, to all unidentified issuers.
+
+      ( iii ) For purposes of this section, a covered company must aggregate all gross credit exposures to unknown counterparties for all SPVs as if the exposures related to a single unknown counterparty; this single unknown counterparty is subject to the limits of § 252.72 as if it were a single counterparty.
+
+  ( b ) Look-through approach. A covered company that is required to calculate the amount of its gross credit exposure with respect to an issuer of assets in accordance with this paragraph (b) must calculate the amount as follows:
+
+    ( 1 ) Where all investors in the SPV rank pari passu, the amount of the gross credit exposure to the issuer of assets is equal to the covered company's pro rata share of the SPV multiplied by the value of the underlying asset in the SPV, valued in accordance with § 252.73(a) ; and
+
+    ( 2 ) Where all investors in the SPV do not rank pari passu, the amount of the gross credit exposure to the issuer of assets is equal to:
+
+      ( i ) The pro rata share of the covered company's investment in the tranche of the SPV; multiplied by
+
+      ( ii ) The lesser of:
+
+        ( A ) The market value of the tranche in which the covered company has invested, except in the case of a debt security that is held to maturity, in which case the tranche must be valued at the amortized purchase price of the securities; and
+
+        ( B ) The value of each underlying asset attributed to the issuer in the SPV, each as calculated pursuant to § 252.73(a) .
+
+  ( c ) Exposures to third parties.
+
+    ( 1 ) Notwithstanding any other requirement in this section, a covered company must recognize, for purposes of this subpart, a gross credit exposure to each third party that has a contractual obligation to provide credit or liquidity support to an SPV whose failure or material financial distress would cause a loss in the value of the covered company's SPV exposure.
+
+    ( 2 ) The amount of any gross credit exposure that is required to be recognized to a third party under paragraph (c)(1) of this section is equal to the covered company's SPV exposure, up to the maximum contractual obligation of that third party to the SPV, valued in accordance with § 252.73(a) . (This gross credit exposure is in addition to the covered company's gross credit exposure to the SPV or the issuers of assets of the SPV, calculated in accordance with paragraphs (a) and (b) of this section.)
+
+    ( 3 ) A covered company must aggregate the gross credit exposure to a third party recognized in accordance with paragraphs (c)(1) and (2) of this section with its other gross credit exposures to that third party (that are unrelated to the SPV) for purposes of compliance with the limits of § 252.72 .
+
+## § 252.76 Aggregation of exposures to more than one counterparty due to economic interdependence or control relationships.
+
+  ( a ) In general.
+
+    ( 1 ) If a covered company has an aggregate net credit exposure to any counterparty that exceeds 5 percent of its tier 1 capital, the covered company must assess its relationship with the counterparty under paragraph (b)(2) of this section to determine whether the counterparty is economically interdependent with one or more other counterparties of the covered company and under paragraph (c)(1) of this section to determine whether the counterparty is connected by a control relationship with one or more other counterparties.
+
+    ( 2 ) If, pursuant to an assessment required under paragraph (a)(1) of this section, the covered company determines that one or more of the factors of paragraph (b)(2) or (c)(1) of this section are met with respect to one or more counterparties, or the Board determines pursuant to paragraph (d) of this section that one or more other counterparties of a covered company are economically interdependent or that one or more other counterparties of a covered company are connected by a control relationship, the covered company must aggregate its net credit exposure to the counterparties for all purposes under this subpart, including, but not limited to, § 252.72 .
+
+    ( 3 ) In connection with any request pursuant to paragraph (b)(3) or (c)(2) of this section, the Board may require the covered company to provide additional information.
+
+  ( b ) Aggregation of exposures to more than one counterparty due to economic interdependence.
+
+    ( 1 ) For purposes of this paragraph, two counterparties are economically interdependent if the failure, default, insolvency, or material financial distress of one counterparty would cause the failure, default, insolvency, or material financial distress of the other counterparty, taking into account the factors in paragraph (b)(2) of this section.
+
+    ( 2 ) A covered company must assess whether the financial distress of one counterparty (counterparty A) would prevent the ability of the other counterparty (counterparty B) to fully and timely repay counterparty B's liabilities and whether the insolvency or default of counterparty A is likely to be associated with the insolvency or default of counterparty B and, therefore, these counterparties are economically interdependent, by evaluating the following:
+
+      ( i ) Whether 50 percent or more of one counterparty's gross revenue is derived from, or gross expenditures are directed to, transactions with the other counterparty;
+
+      ( ii ) Whether counterparty A has fully or partly guaranteed the credit exposure of counterparty B, or is liable by other means, in an amount that is 50 percent or more of the covered company's net credit exposure to counterparty A;
+
+      ( iii ) Whether 25 percent or more of one counterparty's production or output is sold to the other counterparty, which cannot easily be replaced by other customers;
+
+      ( iv ) Whether the expected source of funds to repay the loans of both counterparties is the same and neither counterparty has another independent source of income from which the loans may be serviced and fully repaid; [ 1 ] and
+
+      ( v ) Whether two or more counterparties rely on the same source for the majority of their funding and, in the event of the common provider's default, an alternative provider cannot be found.
+
+    ( 3 )
+
+      ( i ) Notwithstanding paragraph (b)(2) of this section, if a covered company determines that one or more of the factors in paragraph (b)(2) is met, the covered company may request in writing a determination from the Board that those counterparties are not economically interdependent and that the covered company is not required to aggregate those counterparties.
+
+      ( ii ) Upon a request by a covered company pursuant to paragraph (b)(3) of this section, the Board may grant temporary relief to the covered company and not require the covered company to aggregate one counterparty with another counterparty provided that the counterparty could promptly modify its business relationships, such as by reducing its reliance on the other counterparty, to address any economic interdependence concerns, and provided that such relief is in the public interest and is consistent with the purpose of this subpart and 12 U.S.C. 5365(e) .
+
+  ( c ) Aggregation of exposures to more than one counterparty due to certain control relationships.
+
+    ( 1 ) For purposes of this subpart, one counterparty (counterparty A) is deemed to control the other counterparty (counterparty B) if:
+
+      ( i ) Counterparty A owns, controls, or holds with the power to vote 25 percent or more of any class of voting securities of counterparty B; or
+
+      ( ii ) Counterparty A controls in any manner the election of a majority of the directors, trustees, or general partners (or individuals exercising similar functions) of counterparty B.
+
+    ( 2 )
+
+      ( i ) Notwithstanding paragraph (c)(1) of this section, if a covered company determines that one or more of the factors in paragraph (c)(1) is met, the covered company may request in writing a determination from the Board that counterparty A does not control counterparty B and that the covered company is not required to aggregate those counterparties.
+
+      ( ii ) Upon a request by a covered company pursuant to paragraph (c)(2) of this section, the Board may grant temporary relief to the covered company and not require the covered company to aggregate counterparty A with counterparty B provided that, taking into account the specific facts and circumstances, such indicia of control does not result in the entities being connected by control relationships for purposes of this subpart, and provided that such relief is in the public interest and is consistent with the purpose of this subpart and 12 U.S.C. 5365(e) .
+
+  ( d ) Board determinations for aggregation of counterparties due to economic interdependence or control relationships. The Board may determine, after notice to the covered company and opportunity for hearing, that one or more counterparties of a covered company are:
+
+    ( 1 ) Economically interdependent for purposes of this subpart, considering the factors in paragraph (b)(2) of this section, as well as any other indicia of economic interdependence that the Board determines in its discretion to be relevant; or
+
+    ( 2 ) Connected by control relationships for purposes of this subpart, considering the factors in paragraph (c)(1) of this section and whether counterparty A:
+
+      ( i ) Controls the power to vote 25 percent or more of any class of voting securities of Counterparty B pursuant to a voting agreement;
+
+      ( ii ) Has significant influence on the appointment or dismissal of counterparty B's administrative, management, or governing body, or the fact that a majority of members of such body have been appointed solely as a result of the exercise of counterparty A's voting rights; or
+
+      ( iii ) Has the power to exercise a controlling influence over the management or policies of counterparty B.
+
+  ( e ) Board determinations for aggregation of counterparties to prevent evasion. Notwithstanding paragraphs (b) and (c) of this section, a covered company must aggregate its exposures to a counterparty with the covered company's exposures to another counterparty if the Board determines in writing after notice and opportunity for hearing, that the exposures to the two counterparties must be aggregated to prevent evasions of the purposes of this subpart, including, but not limited to § 252.76 and 12 U.S.C. 5365(e) .
+
+[ 1 ] An employer will not be treated as a source of repayment under this paragraph because of wages and salaries paid to an employee.
+
+## § 252.77 Exemptions.
+
+  ( a ) Exempted exposure categories. The following categories of credit transactions are exempt from the limits on credit exposure under this subpart:
+
+    ( 1 ) Any direct claim on, and the portion of a claim that is directly and fully guaranteed as to principal and interest by, the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, only while operating under the conservatorship or receivership of the Federal Housing Finance Agency, and any additional obligation issued by a U.S. government-sponsored entity as determined by the Board;
+
+    ( 2 ) Intraday credit exposure to a counterparty;
+
+    ( 3 ) Any trade exposure to a qualifying central counterparty related to the covered company's clearing activity, including potential future exposure arising from transactions cleared by the qualifying central counterparty and pre-funded default fund contributions;
+
+    ( 4 ) Any credit transaction with the Bank for International Settlements, the International Monetary Fund, the International Bank for Reconstruction and Development, the International Finance Corporation, the International Development Association, the Multilateral Investment Guarantee Agency, or the International Centre for Settlement of Investment Disputes;
+
+    ( 5 ) Any credit transaction with the European Commission or the European Central Bank; and
+
+    ( 6 ) Any transaction that the Board exempts if the Board finds that such exemption is in the public interest and is consistent with the purpose of this subpart.
+
+  ( b ) Exemption for Federal Home Loan Banks. For purposes of this subpart, a covered company does not include any Federal Home Loan Bank.
+
+  ( c ) Additional exemptions by the Board. The Board may, by regulation or order, exempt transactions, in whole or in part, from the definition of the term “credit exposure,” if the Board finds that the exemption is in the public interest and is consistent with the purpose of 12 U.S.C. 5365(e) .
+
+## § 252.78 Compliance.
+
+  ( a ) Scope of compliance.
+
+    ( 1 ) Using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a covered company must comply with the requirements of this subpart on a daily basis at the end of each business day.
+
+    ( 2 ) A covered company must report its compliance to the Federal Reserve as of the end of the quarter, unless the Board determines and notifies that company in writing that more frequent reporting is required.
+
+    ( 3 ) In reporting its compliance, a covered company must calculate and include in its gross credit exposure to an issuer of eligible collateral or eligible guarantor the amounts of eligible collateral, eligible guarantees, eligible equity derivatives, and eligible credit derivatives that were provided to the covered company in connection with credit transactions with exempt counterparties, valued in accordance with and as required by § 252.74(b) through (d) and (g) .
+
+  ( b ) Qualifying Master Netting Agreement. With respect to any qualifying master netting agreement, a covered company must establish and maintain procedures that meet or exceed the requirements of § 217.3(d) of the Board's Regulation Q ( 12 CFR 217.3(d) ) to monitor possible changes in relevant law and to ensure that the agreement continues to satisfy these requirements.
+
+  ( c ) Noncompliance.
+
+    ( 1 ) Except as otherwise provided in this section, if a covered company is not in compliance with this subpart with respect to a counterparty solely due to the circumstances listed in paragraphs (c)(2)(i) through (v) of this section, the covered company will not be subject to enforcement actions for a period of 90 days (or, with prior notice to the company, such shorter or longer period determined by the Board, in its sole discretion, to be appropriate to preserve the safety and soundness of the covered company or U.S. financial stability), if the covered company uses reasonable efforts to return to compliance with this subpart during this period. The covered company may not engage in any additional credit transactions with such a counterparty in contravention of this rule during the period of noncompliance, except as provided in paragraph (c)(2).
+
+    ( 2 ) A covered company may request a special temporary credit exposure limit exemption from the Board. The Board may grant approval for such exemption in cases where the Board determines that such credit transactions are necessary or appropriate to preserve the safety and soundness of the covered company or U.S. financial stability. In acting on a request for an exemption, the Board will consider the following:
+
+      ( i ) A decrease in the covered company's capital stock and surplus;
+
+      ( ii ) The merger of the covered company with another covered company;
+
+      ( iii ) A merger of two counterparties; or
+
+      ( iv ) An unforeseen and abrupt change in the status of a counterparty as a result of which the covered company's credit exposure to the counterparty becomes limited by the requirements of this section; or
+
+      ( v ) Any other factor(s) the Board determines, in its discretion, is appropriate.
+
+  ( d ) Other measures. The Board may impose supervisory oversight and additional reporting measures that it determines are appropriate to monitor compliance with this subpart. Covered companies must furnish, in the manner and form prescribed by the Board, such information to monitor compliance with this subpart and the limits therein as the Board may require.
+
+## § 252.81 Definitions.
+
+For purposes of this subpart:
+
+  Central counterparty (CCP) has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  Chapter 11 proceeding means a proceeding under Chapter 11 of Title 11, United States Code ( 11 U.S.C. 1101 -74.).
+
+  Consolidated affiliate means an affiliate of another company that
+
+    ( 1 ) Either consolidates the other company, or is consolidated by the other company, on financial statements prepared in accordance with U.S. Generally Accepted Accounting Principles, the International Financial Reporting Standards, or other similar standards;
+
+    ( 2 ) Is, along with the other company, consolidated with a third company on a financial statement prepared in accordance with principles or standards referenced in paragraph (1) of this definition; or
+
+    ( 3 ) For a company that is not subject to principles or standards referenced in paragraph (1), if consolidation as described in paragraph (1) or (2) of this definition would have occurred if such principles or standards had applied.
+
+  Default right
+
+    ( 1 ) Means, with respect to a QFC, any:
+
+      ( i ) Right of a party, whether contractual or otherwise (including, without limitation, rights incorporated by reference to any other contract, agreement, or document, and rights afforded by statute, civil code, regulation, and common law), to liquidate, terminate, cancel, rescind, or accelerate such agreement or transactions thereunder, set off or net amounts owing in respect thereto (except rights related to same-day payment netting), exercise remedies in respect of collateral or other credit support or property related thereto (including the purchase and sale of property), demand payment or delivery thereunder or in respect thereof (other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure), suspend, delay, or defer payment or performance thereunder, or modify the obligations of a party thereunder, or any similar rights; and
+
+      ( ii ) Right or contractual provision that alters the amount of collateral or margin that must be provided with respect to an exposure thereunder, including by altering any initial amount, threshold amount, variation margin, minimum transfer amount, the margin value of collateral, or any similar amount, that entitles a party to demand the return of any collateral or margin transferred by it to the other party or a custodian or that modifies a transferee's right to reuse collateral or margin (if such right previously existed), or any similar rights, in each case, other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure;
+
+    ( 2 ) With respect to § 252.84 , does not include any right under a contract that allows a party to terminate the contract on demand or at its option at a specified time, or from time to time, without the need to show cause.
+
+  Excluded bank:
+
+    ( 1 ) Means a national bank, a Federal savings association, a Federal branch, a Federal agency, or an FSI that is exempted from the scope of this subpart pursuant to paragraph (b)(2) or (b)(3) of § 252.82 ;
+
+    ( 2 ) Does not include any entity described in paragraph (1) of this definition that is owned pursuant to section 3(a)(A)(ii) of the Bank Holding Company Act ( 12 U.S.C. 1842(a)(A)(ii) ); is owned by a depository institution in satisfaction of debt previously contracted in good faith; is a portfolio concern, as defined under 13 CFR 107.50 , that is controlled by a small business investment company, as defined in section 103(3) of the Small Business Investment Act of 1958 ( 15 U.S.C. 662 ); is owned pursuant to paragraph (11) of section 5136 of the Revised Statutes of the United States ( 12 U.S.C. 24 ); or is a DPC branch subsidiary.
+
+  FDI Act proceeding means a proceeding in which the Federal Deposit Insurance Corporation is appointed as conservator or receiver under section 11 of the Federal Deposit Insurance Act ( 12 U.S.C. 1821 ).
+
+  FDI Act stay period means, in connection with an FDI Act proceeding, the period of time during which a party to a QFC with a party that is subject to an FDI Act proceeding may not exercise any right that the party that is not subject to an FDI Act proceeding has to terminate, liquidate, or net such QFC, in accordance with section 11(e) of the Federal Deposit Insurance Act ( 12 U.S.C. 1821(e) ) and any implementing regulations.
+
+  Financial counterparty means a person that is:
+
+    ( 1 )
+
+      ( i ) A bank holding company or an affiliate thereof; a savings and loan holding company as defined in section 10(n) of the Home Owners' Loan Act ( 12 U.S.C. 1467a(n) ); a U.S. intermediate holding company that is established or designated for purposes of compliance with this part; or a nonbank financial company supervised by the Board;
+
+      ( ii ) A depository institution as defined in section 3(c) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) ); an organization that is organized under the laws of a foreign country and that engages directly in the business of banking outside the United States; a Federal credit union or State credit union as defined in section 2 of the Federal Credit Union Act ( 12 U.S.C. 1752(1) & (6)); an institution that functions solely in a trust or fiduciary capacity as described in section 2(c)(2)(D) of the Bank Holding Company Act ( 12 U.S.C. 1841(c)(2)(D) ); an industrial loan company, an industrial bank, or other similar institution described in section 2(c)(2)(H) of the Bank Holding Company Act ( 12 U.S.C. 1841(c)(2)(H) );
+
+      ( iii ) An entity that is state-licensed or registered as:
+
+        ( A ) A credit or lending entity, including a finance company; money lender; installment lender; consumer lender or lending company; mortgage lender, broker, or bank; motor vehicle title pledge lender; payday or deferred deposit lender; premium finance company; commercial finance or lending company; or commercial mortgage company; except entities registered or licensed solely on account of financing the entity's direct sales of goods or services to customers;
+
+        ( B ) A money services business, including a check casher; money transmitter; currency dealer or exchange; or money order or traveler's check issuer;
+
+      ( iv ) A regulated entity as defined in section 1303(20) of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, as amended ( 12 U.S.C. 4502(20) ) or any entity for which the Federal Housing Finance Agency or its successor is the primary federal regulator;
+
+      ( v ) Any institution chartered in accordance with the Farm Credit Act of 1971, as amended, 12 U.S.C. 2002 et seq., that is regulated by the Farm Credit Administration;
+
+      ( vi ) Any entity registered with the Commodity Futures Trading Commission as a swap dealer or major swap participant pursuant to the Commodity Exchange Act of 1936 ( 7 U.S.C. 1 et seq. ), or an entity that is registered with the U.S. Securities and Exchange Commission as a security-based swap dealer or a major security-based swap participant pursuant to the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq. );
+
+      ( vii ) A securities holding company, with the meaning specified in section 618 of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 1850a ); a broker or dealer as defined in sections 3(a)(4) and 3(a)(5) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a)(4)-(5) ); an investment adviser as defined in section 202(a) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b-2(a) ); an investment company registered with the U.S. Securities and Exchange Commission under the Investment Company Act of 1940 ( 15 U.S.C. 80a-1 et seq. ); or a company that has elected to be regulated as a business development company pursuant to section 54(a) of the Investment Company Act of 1940 ( 15 U.S.C. 80a-53(a) );
+
+      ( viii ) A private fund as defined in section 202(a) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b-2(a) ); an entity that would be an investment company under section 3 of the Investment Company Act of 1940 ( 15 U.S.C. 80a-3 ) but for section 3(c)(5)(C); or an entity that is deemed not to be an investment company under section 3 of the Investment Company Act of 1940 pursuant to Investment Company Act Rule 3a-7 ( 17 CFR 270.3a-7 ) of the U.S. Securities and Exchange Commission;
+
+      ( ix ) A commodity pool, a commodity pool operator, or a commodity trading advisor as defined, respectively, in sections 1a(10), 1a(11), and 1a(12) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(10) , 1a(11) , and 1a(12) ); a floor broker, a floor trader, or introducing broker as defined, respectively, in sections 1a(22), 1a(23) and 1a(31) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(22) , 1a(23) , and 1a(31) ); or a futures commission merchant as defined in section 1a(28) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(28) );
+
+      ( x ) An employee benefit plan as defined in paragraphs (3) and (32) of section 3 of the Employee Retirement Income and Security Act of 1974 ( 29 U.S.C. 1002 );
+
+      ( xi ) An entity that is organized as an insurance company, primarily engaged in writing insurance or reinsuring risks underwritten by insurance companies, or is subject to supervision as such by a State insurance regulator or foreign insurance regulator; or
+
+      ( xii ) An entity that would be a financial counterparty described in paragraphs (1)(i)-(xi) of this definition, if the entity were organized under the laws of the United States or any state thereof.
+
+    ( 2 ) The term “financial counterparty” does not include any counterparty that is:
+
+      ( i ) A sovereign entity;
+
+      ( ii ) A multilateral development bank; or
+
+      ( iii ) The Bank for International Settlements.
+
+  Financial market utility (FMU) means any person, regardless of the jurisdiction in which the person is located or organized, that manages or operates a multilateral system for the purpose of transferring, clearing, or settling payments, securities, or other financial transactions among financial institutions or between financial institutions and the person, but does not include:
+
+    ( 1 ) Designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act ( 7 U.S.C. 1 et seq. ), or national securities exchanges, national securities associations, alternative trading systems, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq. ), solely by reason of their providing facilities for comparison of data respecting the terms of settlement of securities or futures transactions effected on such exchange or by means of any electronic system operated or controlled by such entities, provided that the exclusions in this clause apply only with respect to the activities that require the entity to be so registered; or
+
+    ( 2 ) Any broker, dealer, transfer agent, or investment company, or any futures commission merchant, introducing broker, commodity trading advisor, or commodity pool operator, solely by reason of functions performed by such institution as part of brokerage, dealing, transfer agency, or investment company activities, or solely by reason of acting on behalf of a FMU or a participant therein in connection with the furnishing by the FMU of services to its participants or the use of services of the FMU by its participants, provided that services performed by such institution do not constitute critical risk management or processing functions of the FMU.
+
+  FSI means a state savings association or state nonmember bank (as the terms are defined in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. 1813 ).
+
+  Investment advisory contract means any contract or agreement whereby a person agrees to act as investment adviser to or to manage any investment or trading account of another person.
+
+  Master agreement means a QFC of the type set forth in sections 210(c)(8)(D)(ii)(XI), (iii)(IX), (iv)(IV), (v)(V), or (vi)(V) of Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5390(c)(8)(D)(ii)(XI) , (iii)(IX), (iv)(IV), (v)(V), or (vi)(V)) or a master agreement that the Federal Deposit Insurance Corporation determines by regulation is a QFC pursuant to section 210(c)(8)(D)(i) of Title II of the act ( 12 U.S.C. 5390(c)(8)(D)(i) ).
+
+  Person has the same meaning as in 12 CFR 225.2 .
+
+  Qualified financial contract (QFC) has the same meaning as in section 210(c)(8)(D) of Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5390(c)(8)(D) ).
+
+  Retail customer or counterparty has the same meaning as in § 249.3 of the Board's Regulation WW ( 12 CFR 249.3 ).
+
+  Small financial institution means a company that:
+
+    ( 1 ) Is organized as a bank, as defined in section 3(a) of the Federal Deposit Insurance Act, the deposits of which are insured by the Federal Deposit Insurance Corporation; a savings association, as defined in section 3(b) of the Federal Deposit Insurance Act, the deposits of which are insured by the Federal Deposit Insurance Corporation; a farm credit system institution chartered under the Farm Credit Act of 1971; or an insured Federal credit union or State-chartered credit union under the Federal Credit Union Act; and
+
+    ( 2 ) Has total assets of $10,000,000,000 or less on the last day of the company's most recent fiscal year.
+
+  U.S. special resolution regimes means the Federal Deposit Insurance Act ( 12 U.S.C. 1811-1835a ) and regulations promulgated thereunder and Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5381-5394 ) and regulations promulgated thereunder.
+
+## § 252.82 Applicability.
+
+  ( a ) General requirement. A covered entity must ensure that each covered QFC conforms to the requirements of §§ 252.83 and 252.84 .
+
+  ( b ) Covered entities. For purposes of this subpart, a covered entity is:
+
+    ( 1 ) A bank holding company that is identified as a global systemically important BHC pursuant to 12 CFR 217.402 ;
+
+    ( 2 ) A subsidiary of a company identified in paragraph (b)(1) of this section other than a subsidiary that is:
+
+      ( i ) A national bank, a Federal savings association, a Federal branch, a Federal agency, an FSI;
+
+      ( ii ) A company owned pursuant to section 3(a)(A)(ii), 4(c)(2), 4(k)(4)(H), or 4(k)(4)(I) of the Bank Holding Company Act ( 12 U.S.C. 1842(a)(A)(ii) , 1843(c)(2) , 1843(k)(4)(H) , 1843(k)(4)(I) );
+
+      ( iii ) A company owned by a depository institution in satisfaction of debt previously contracted in good faith;
+
+      ( iv ) A portfolio concern, as defined under 13 CFR 107.50 , that is controlled by a small business investment company, as defined in section 103(3) of the Small Business Investment Act of 1958 ( 15 U.S.C. 662 ); or
+
+      ( v ) A company the business of which is to make investments that are designed primarily to promote the public welfare, of the type permitted under paragraph (11) of section 5136 of the Revised Statutes of the United States ( 12 U.S.C. 24 ), including the welfare of low- and moderate-income communities or families (such as providing housing, services, or jobs)); or
+
+    ( 3 ) A U.S. subsidiary, U.S. branch, or U.S. agency of a global systemically important foreign banking organization other than a U.S. subsidiary, U.S. branch, or U.S. agency that is:
+
+      ( i ) A national bank, a Federal savings association, a Federal branch, a Federal agency, an FSI;
+
+      ( ii ) A company owned pursuant to section 3(a)(A)(ii), 4(c)(2), 4(k)(4)(H), or 4(k)(4)(I) of the Bank Holding Company Act ( 12 U.S.C. 1842(a)(A)(ii) , 1843(c)(2) , 1843(k)(4)(H) , 1843(k)(4)(I) );
+
+      ( iii ) A company owned by a depository institution in satisfaction of debt previously contracted in good faith;
+
+      ( iv ) A portfolio concern, as defined under 13 CFR 107.50 , that is controlled by a small business investment company, as defined in section 103(3) of the Small Business Investment Act of 1958 ( 15 U.S.C. 662 );
+
+      ( v ) A company the business of which is to make investments that are designed primarily to promote the public welfare, of the type permitted under paragraph (11) of section 5136 of the Revised Statutes of the United States ( 12 U.S.C. 24 ), including the welfare of low- and moderate-income communities or families (such as providing housing, services, or jobs);
+
+      ( vi ) A section 2(h)(2) company; or
+
+      ( vii ) A DPC branch subsidiary.
+
+  ( c ) Covered QFCs. For purposes of this subpart, a covered QFC is:
+
+    ( 1 ) With respect to a covered entity that is a covered entity on November 13, 2017, an in-scope QFC that the covered entity:
+
+      ( i ) Enters, executes, or otherwise becomes a party to on or after January 1, 2019; or
+
+      ( ii ) Entered, executed, or otherwise became a party to before January 1, 2019, if the covered entity or any affiliate that is a covered entity or excluded bank also enters, executes, or otherwise becomes a party to a QFC with the same person or a consolidated affiliate of the same person on or after January 1, 2019.
+
+    ( 2 ) With respect to a covered entity that becomes a covered entity after November 13, 2017, an in-scope QFC that the covered entity:
+
+      ( i ) Enters, executes or otherwise becomes a party to on or after the later of the date the covered entity first becomes a covered entity and January 1, 2019; or
+
+      ( ii ) Entered, executed, or otherwise became a party to before the date identified in paragraph (c)(2)(i) of this section with respect to the covered entity, if the covered entity or any affiliate that is a covered entity or excluded bank also enters, executes, or otherwise becomes a party to a QFC with the same person or consolidated affiliate of the same person on or after the date identified in paragraph (c)(2)(i) with respect to the covered entity.
+
+  ( d ) In-scope QFCs. An in-scope QFC is a QFC that explicitly:
+
+    ( 1 ) Restricts the transfer of a QFC (or any interest or obligation in or under, or any property securing, the QFC) from a covered entity; or
+
+    ( 2 ) Provides one or more default rights with respect to a QFC that may be exercised against a covered entity.
+
+  ( e ) Rules of construction. For purposes of this subpart:
+
+    ( 1 ) A covered entity does not become a party to a QFC solely by acting as agent with respect to the QFC; and
+
+    ( 2 ) The exercise of a default right with respect to a covered QFC includes the automatic or deemed exercise of the default right pursuant to the terms of the QFC or other arrangement.
+
+  ( f ) Initial applicability of requirements for covered QFCs.
+
+    ( 1 ) With respect to each of its covered QFCs, a covered entity that is a covered entity on November 13, 2017 must conform the covered QFC to the requirements of this subpart by:
+
+      ( i ) January 1, 2019, if each party to the covered QFC is a covered entity or an excluded bank;
+
+      ( ii ) July 1, 2019, if each party to the covered QFC (other than the covered entity) is a financial counterparty that is not a covered entity or excluded bank; or
+
+      ( iii ) January 1, 2020, if a party to the covered QFC (other than the covered entity) is not described in paragraph (f)(1)(i) or (f)(1)(ii) of this section or if, notwithstanding paragraph (f)(1)(ii), a party to the covered QFC (other than the covered entity) is a small financial institution.
+
+    ( 2 ) With respect to each of its covered QFCs, a covered entity that is not a covered entity on November 13, 2017 must conform the covered QFC to the requirements of this subpart by:
+
+      ( i ) The first day of the calendar quarter immediately following 1 year after the date the covered entity first becomes a covered entity, if each party to the covered QFC is a covered entity or an excluded bank;
+
+      ( ii ) The first day of the calendar quarter immediately following 18 months from the date the covered entity first becomes a covered entity if each party to the covered QFC (other than the covered entity) is a financial counterparty that is not a covered entity or excluded bank; or
+
+      ( iii ) The first day of the calendar quarter immediately following 2 years from the date the covered entity first becomes a covered entity if a party to the covered QFC (other than the covered entity) is not described in paragraph (f)(2)(i) or (f)(2)(ii) of this section or if, notwithstanding paragraph (f)(2)(ii), a party to the covered QFC (other than the covered entity) is a small financial institution.
+
+## § 252.83 U.S. Special Resolution Regimes.
+
+  ( a ) Covered QFCs not required to be conformed.
+
+    ( 1 ) Notwithstanding § 252.82 , a covered entity is not required to conform a covered QFC to the requirements of this section if:
+
+      ( i ) The covered QFC designates, in the manner described in paragraph (a)(2) of this section, the U.S. special resolution regimes as part of the law governing the QFC; and
+
+      ( ii ) Each party to the covered QFC, other than the covered entity, is:
+
+        ( A ) An individual that is domiciled in the United States, including any State;
+
+        ( B ) A company that is incorporated in or organized under the laws of the United States or any State;
+
+        ( C ) A company the principal place of business of which is located in the United States, including any State; or
+
+        ( D ) A U.S. branch or U.S. agency.
+
+    ( 2 ) A covered QFC designates the U.S. special resolution regimes as part of the law governing the QFC if the covered QFC:
+
+      ( i ) Explicitly provides that the covered QFC is governed by the laws of the United States or a state of the United States; and
+
+      ( ii ) Does not explicitly provide that one or both of the U.S. special resolution regimes, or a broader set of laws that includes a U.S. special resolution regime, is excluded from the laws governing the covered QFC.
+
+  ( b ) Provisions required. A covered QFC must explicitly provide that:
+
+    ( 1 ) In the event the covered entity becomes subject to a proceeding under a U.S. special resolution regime, the transfer of the covered QFC (and any interest and obligation in or under, and any property securing, the covered QFC) from the covered entity will be effective to the same extent as the transfer would be effective under the U.S. special resolution regime if the covered QFC (and any interest and obligation in or under, and any property securing, the covered QFC) were governed by the laws of the United States or a state of the United States; and
+
+    ( 2 ) In the event the covered entity or an affiliate of the covered entity becomes subject to a proceeding under a U.S. special resolution regime, default rights with respect to the covered QFC that may be exercised against the covered entity are permitted to be exercised to no greater extent than the default rights could be exercised under the U.S. special resolution regime if the covered QFC were governed by the laws of the United States or a state of the United States.
+
+  ( c ) Relevance of creditor protection provisions. The requirements of this section apply notwithstanding paragraphs (d), (f), and (h) of § 252.84 .
+
+## § 252.84 Insolvency proceedings.
+
+  ( a ) Covered QFCs not required to be conformed. Notwithstanding § 252.82 , a covered entity is not required to conform a covered QFC to the requirements of this section if the covered QFC:
+
+    ( 1 ) Does not explicitly provide any default right with respect to the covered QFC that is related, directly or indirectly, to an affiliate of the direct party becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding; and
+
+    ( 2 ) Does not explicitly prohibit the transfer of a covered affiliate credit enhancement, any interest or obligation in or under the covered affiliate credit enhancement, or any property securing the covered affiliate credit enhancement to a transferee upon or following an affiliate of the direct party becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding or would prohibit such a transfer only if the transfer would result in the supported party being the beneficiary of the credit enhancement in violation of any law applicable to the supported party.
+
+  ( b ) General prohibitions.
+
+    ( 1 ) A covered QFC may not permit the exercise of any default right with respect to the covered QFC that is related, directly or indirectly, to an affiliate of the direct party becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding.
+
+    ( 2 ) A covered QFC may not prohibit the transfer of a covered affiliate credit enhancement, any interest or obligation in or under the covered affiliate credit enhancement, or any property securing the covered affiliate credit enhancement to a transferee upon or following an affiliate of the direct party becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding unless the transfer would result in the supported party being the beneficiary of the credit enhancement in violation of any law applicable to the supported party.
+
+  ( c ) Definitions relevant to the general prohibitions —
+
+    ( 1 ) Direct party. Direct party means a covered entity or excluded bank that is a party to the direct QFC.
+
+    ( 2 ) Direct QFC. Direct QFC means a QFC that is not a credit enhancement, provided that, for a QFC that is a master agreement that includes an affiliate credit enhancement as a supplement to the master agreement, the direct QFC does not include the affiliate credit enhancement.
+
+    ( 3 ) Affiliate credit enhancement. Affiliate credit enhancement means a credit enhancement that is provided by an affiliate of a party to the direct QFC that the credit enhancement supports.
+
+  ( d ) General creditor protections. Notwithstanding paragraph (b) of this section, a covered direct QFC and covered affiliate credit enhancement that supports the covered direct QFC may permit the exercise of a default right with respect to the covered QFC that arises as a result of:
+
+    ( 1 ) The direct party becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding;
+
+    ( 2 ) The direct party not satisfying a payment or delivery obligation pursuant to the covered QFC or another contract between the same parties that gives rise to a default right in the covered QFC; or
+
+    ( 3 ) The covered affiliate support provider or transferee not satisfying a payment or delivery obligation pursuant to a covered affiliate credit enhancement that supports the covered direct QFC.
+
+  ( e ) Definitions relevant to the general creditor protections —
+
+    ( 1 ) Covered direct QFC. Covered direct QFC means a direct QFC to which a covered entity or excluded bank is a party.
+
+    ( 2 ) Covered affiliate credit enhancement. Covered affiliate credit enhancement means an affiliate credit enhancement in which a covered entity or excluded bank is the obligor of the credit enhancement.
+
+    ( 3 ) Covered affiliate support provider. Covered affiliate support provider means, with respect to a covered affiliate credit enhancement, the affiliate of the direct party that is obligated under the covered affiliate credit enhancement and is not a transferee.
+
+    ( 4 ) Supported party. Supported party means, with respect to a covered affiliate credit enhancement and the direct QFC that the covered affiliate credit enhancement supports, a party that is a beneficiary of the covered affiliate support provider's obligation(s) under the covered affiliate credit enhancement.
+
+  ( f ) Additional creditor protections for supported QFCs. Notwithstanding paragraph (b) of this section, with respect to a covered direct QFC that is supported by a covered affiliate credit enhancement, the covered direct QFC and the covered affiliate credit enhancement may permit the exercise of a default right after the stay period that is related, directly or indirectly, to the covered affiliate support provider becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding if:
+
+    ( 1 ) The covered affiliate support provider that remains obligated under the covered affiliate credit enhancement becomes subject to a receivership, insolvency, liquidation, resolution, or similar proceeding, other than a Chapter 11 proceeding;
+
+    ( 2 ) Subject to paragraph (h) of this section, the transferee, if any, becomes subject to a receivership, insolvency, liquidation, resolution, or similar proceeding;
+
+    ( 3 ) The covered affiliate support provider does not remain, and a transferee does not become, obligated to the same, or substantially similar, extent as the covered affiliate support provider was obligated immediately prior to entering the receivership, insolvency, liquidation, resolution, or similar proceeding with respect to:
+
+      ( i ) The covered affiliate credit enhancement;
+
+      ( ii ) All other covered affiliate credit enhancements provided by the covered affiliate support provider in support of other covered direct QFCs between the direct party and the supported party under the covered affiliate credit enhancement referenced in paragraph (f)(3)(i) of this section; and
+
+      ( iii ) All covered affiliate credit enhancements provided by the covered affiliate support provider in support of covered direct QFCs between the direct party and affiliates of the supported party referenced in paragraph (f)(3)(ii) of this section; or
+
+    ( 4 ) In the case of a transfer of the covered affiliate credit enhancement to a transferee,
+
+      ( i ) All of the ownership interests of the direct party directly or indirectly held by the covered affiliate support provider are not transferred to the transferee; or
+
+      ( ii ) Reasonable assurance has not been provided that all or substantially all of the assets of the covered affiliate support provider (or net proceeds therefrom), excluding any assets reserved for the payment of costs and expenses of administration in the receivership, insolvency, liquidation, resolution, or similar proceeding, will be transferred or sold to the transferee in a timely manner.
+
+  ( g ) Definitions relevant to the additional creditor protections for supported QFCs —
+
+    ( 1 ) Stay period. Stay period means, with respect to a receivership, insolvency, liquidation, resolution, or similar proceeding, the period of time beginning on the commencement of the proceeding and ending at the later of 5:00 p.m. (eastern time) on the business day following the date of the commencement of the proceeding and 48 hours after the commencement of the proceeding.
+
+    ( 2 ) Business day. Business day means a day on which commercial banks in the jurisdiction the proceeding is commenced are open for general business (including dealings in foreign exchange and foreign currency deposits).
+
+    ( 3 ) Transferee. Transferee means a person to whom a covered affiliate credit enhancement is transferred upon the covered affiliate support provider entering a receivership, insolvency, liquidation, resolution, or similar proceeding or thereafter as part of the resolution, restructuring, or reorganization involving the covered affiliate support provider.
+
+  ( h ) Creditor protections related to FDI Act proceedings. Notwithstanding paragraphs (b) , (d) , and (f) of this section, with respect to a covered direct QFC that is supported by a covered affiliate credit enhancement, the covered direct QFC and the covered affiliate credit enhancement may permit the exercise of a default right that is related, directly or indirectly, to the covered affiliate support provider becoming subject to FDI Act proceedings:
+
+    ( 1 ) After the FDI Act stay period, if the covered affiliate credit enhancement is not transferred pursuant to 12 U.S.C. 1821(e)(9)-(e)(10) and any regulations promulgated thereunder; or
+
+    ( 2 ) During the FDI Act stay period, if the default right may only be exercised so as to permit the supported party under the covered affiliate credit enhancement to suspend performance with respect to the supported party's obligations under the covered direct QFC to the same extent as the supported party would be entitled to do if the covered direct QFC were with the covered affiliate support provider and were treated in the same manner as the covered affiliate credit enhancement.
+
+  ( i ) Prohibited terminations. A covered QFC must require, after an affiliate of the direct party has become subject to a receivership, insolvency, liquidation, resolution, or similar proceeding:
+
+    ( 1 ) The party seeking to exercise a default right to bear the burden of proof that the exercise is permitted under the covered QFC; and
+
+    ( 2 ) Clear and convincing evidence or a similar or higher burden of proof to exercise a default right.
+
+## § 252.85 Approval of enhanced creditor protection conditions.
+
+  ( a ) Protocol compliance.
+
+    ( 1 ) Unless the Board determines otherwise based on the specific facts and circumstances, a covered QFC is deemed to comply with this subpart if it is amended by the universal protocol or the U.S. protocol.
+
+    ( 2 ) A covered QFC will be deemed to be amended by the universal protocol for purposes of paragraph (a)(1) of this section notwithstanding the covered QFC being amended by one or more Country Annexes, as the term is defined in the universal protocol.
+
+    ( 3 ) For purposes of paragraphs (a)(1) and (2) of this section:
+
+      ( i ) The universal protocol means the ISDA 2015 Universal Resolution Stay Protocol, including the Securities Financing Transaction Annex and Other Agreements Annex, published by the International Swaps and Derivatives Association, Inc., as of May 3, 2016, and minor or technical amendments thereto;
+
+      ( ii ) The U.S. protocol means a protocol that is the same as the universal protocol other than as provided in paragraphs (a)(3)(ii)(A)-(F) of this section.
+
+        ( A ) The provisions of Section 1 of the attachment to the universal protocol may be limited in their application to covered entities and excluded banks and may be limited with respect to resolutions under the Identified Regimes, as those regimes are identified by the universal protocol;
+
+        ( B ) The provisions of Section 2 of the attachment to the universal protocol may be limited in their application to covered entities and excluded banks;
+
+        ( C ) The provisions of Section 4(b)(i)(A) of the attachment to the universal protocol must not apply with respect to U.S. special resolution regimes;
+
+        ( D ) The provisions of Section 4(b) of the attachment to the universal protocol may only be effective to the extent that the covered QFCs affected by an adherent's election thereunder would continue to meet the requirements of this subpart;
+
+        ( E ) The provisions of Section 2(k) of the attachment to the universal protocol must not apply; and
+
+        ( F ) The U.S. protocol may include minor and technical differences from the universal protocol and differences necessary to conform the U.S. protocol to the differences described in paragraphs (a)(3)(ii)(A)-(E) of this section;
+
+      ( iii ) Amended by the universal protocol or the U.S. protocol, with respect to covered QFCs between adherents to the protocol, includes amendments through incorporation of the terms of the protocol (by reference or otherwise) into the covered QFC; and
+
+      ( iv ) The attachment to the universal protocol means the attachment that the universal protocol identifies as “ATTACHMENT to the ISDA 2015 UNIVERSAL RESOLUTION STAY PROTOCOL.”
+
+  ( b ) Proposal of enhanced creditor protection conditions.
+
+    ( 1 ) A covered entity may request that the Board approve as compliant with the requirements of §§ 252.83 and 252.84 proposed provisions of one or more forms of covered QFCs, or proposed amendments to one or more forms of covered QFCs, with enhanced creditor protection conditions.
+
+    ( 2 ) Enhanced creditor protection conditions means a set of limited exemptions to the requirements of § 252.84(b) that is different than that of paragraphs (d), (f), and (h) of § 252.84 .
+
+    ( 3 ) A covered entity making a request under paragraph (b)(1) of this section must provide:
+
+      ( i ) An analysis of the proposal that addresses each consideration in paragraph (d) of this section;
+
+      ( ii ) A written legal opinion verifying that proposed provisions or amendments would be valid and enforceable under applicable law of the relevant jurisdictions, including, in the case of proposed amendments, the validity and enforceability of the proposal to amend the covered QFCs; and
+
+      ( iii ) Any other relevant information that the Board requests.
+
+  ( c ) Board approval. The Board may approve, subject to any conditions or commitments the Board may set, a proposal by a covered entity under paragraph (b) of this section if the proposal, as compared to a covered QFC that contains only the limited exemptions in paragraphs of (d), (f), and (h) of § 252.84 or that is amended as provided under paragraph (a) of this section, would prevent or mitigate risks to the financial stability of the United States that could arise from the failure of a global systemically important BHC, a global systemically important foreign banking organization, or the subsidiaries of either and would protect the safety and soundness of bank holding companies and state member banks to at least the same extent.
+
+  ( d ) Considerations. In reviewing a proposal under this section, the Board may consider all facts and circumstances related to the proposal, including:
+
+    ( 1 ) Whether, and the extent to which, the proposal would reduce the resiliency of such covered entities during distress or increase the impact on U.S. financial stability were one or more of the covered entities to fail;
+
+    ( 2 ) Whether, and the extent to which, the proposal would materially decrease the ability of a covered entity, or an affiliate of a covered entity, to be resolved in a rapid and orderly manner in the event of the financial distress or failure of the entity that is required to submit a resolution plan;
+
+    ( 3 ) Whether, and the extent to which, the set of conditions or the mechanism in which they are applied facilitates, on an industry-wide basis, contractual modifications to remove impediments to resolution and increase market certainty, transparency, and equitable treatment with respect to the default rights of non-defaulting parties to a covered QFC;
+
+    ( 4 ) Whether, and the extent to which, the proposal applies to existing and future transactions;
+
+    ( 5 ) Whether, and the extent to which, the proposal would apply to multiple forms of QFCs or multiple covered entities;
+
+    ( 6 ) Whether the proposal would permit a party to a covered QFC that is within the scope of the proposal to adhere to the proposal with respect to only one or a subset of covered entities;
+
+    ( 7 ) With respect to a supported party, the degree of assurance the proposal provides to the supported party that the material payment and delivery obligations of the covered affiliate credit enhancement and the covered direct QFC it supports will continue to be performed after the covered affiliate support provider enters a receivership, insolvency, liquidation, resolution, or similar proceeding;
+
+    ( 8 ) The presence, nature, and extent of any provisions that require a covered affiliate support provider or transferee to meet conditions other than material payment or delivery obligations to its creditors;
+
+    ( 9 ) The extent to which the supported party's overall credit risk to the direct party may increase if the enhanced creditor protection conditions are not met and the likelihood that the supported party's credit risk to the direct party would decrease or remain the same if the enhanced creditor protection conditions are met; and
+
+    ( 10 ) Whether the proposal provides the counterparty with additional default rights or other rights.
+
+## § 252.86 Foreign bank multi-branch master agreements.
+
+  ( a ) Treatment of foreign bank multi-branch master agreements. With respect to a U.S. branch or U.S. agency of a global systemically important foreign banking organization, a foreign bank multi-branch master agreement that is a covered QFC solely because the master agreement permits agreements or transactions that are QFCs to be entered into at one or more U.S. branches or U.S. agencies of the global systemically important foreign banking organization will be considered a covered QFC for purposes of this subpart only with respect to such agreements or transactions booked at such U.S. branches and U.S. agencies.
+
+  ( b ) Definition of foreign bank multi-branch master agreements. A foreign bank multi-branch master agreement means a master agreement that permits a U.S. branch or U.S. agency and another place of business of a foreign bank that is outside the United States to enter transactions under the agreement.
+
+## § 252.87 Identification of global systemically important foreign banking organizations.
+
+  ( a ) For purposes of this subpart, a top-tier foreign banking organization that is or controls a covered company (as defined at 12 CFR 243.2(f) ) is a global systemically important foreign banking organization if any of the following conditions is met:
+
+    ( 1 ) The top-tier foreign banking organization determines, pursuant to paragraph (c) of this section, that the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology; or
+
+    ( 2 ) The Board, using information available to the Board, determines:
+
+      ( i ) That the top-tier foreign banking organization would be a global systemically important banking organization under the global methodology;
+
+      ( ii ) That the top-tier foreign banking organization, if it were subject to the Board's Regulation Q ( part 217 of this chapter ), would be identified as a global systemically important BHC under § 217.402 of the Board's Regulation Q; or
+
+      ( iii ) That any U.S. intermediate holding company controlled by the top-tier foreign banking organization, if the U.S. intermediate holding company is or were subject to § 217.402 of the Board's Regulation Q, is or would be identified as a global systemically important BHC.
+
+  ( b ) Each top-tier foreign banking organization that determines pursuant to paragraph (c) of this section that it has the characteristics of a global systemically important banking organization under the global methodology must notify the Board of the determination by January 1 of each calendar year.
+
+  ( c ) A top-tier foreign banking organization that is or controls a covered company (as defined at 12 CFR 243.2(f) ) and prepares or reports for any purpose the indicator amounts necessary to determine whether the top-tier foreign banking organization is a global systemically important banking organization under the global methodology must use the data to determine whether the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology.
+
+  ( d ) Each top-tier foreign banking organization that controls a U.S. intermediate holding company and that meets the requirements of § 252.153(b)(5) and (6) also meets the requirements of paragraphs (b) and (c) of this section.
+
+## § 252.88 Exclusion of certain QFCs.
+
+  ( a ) Exclusion of QFCs with FMUs. Notwithstanding § 252.82 , a covered entity is not required to conform to the requirements of this subpart a covered QFC to which:
+
+    ( 1 ) A CCP is party; or
+
+    ( 2 ) Each party (other than the covered entity) is an FMU.
+
+  ( b ) Exclusion of certain excluded bank QFCs. If a covered QFC is also a covered QFC under parts 47 or 382 of this title that an affiliate of the covered entity is also required to conform pursuant to parts 47 or 382 of this title and the covered entity is:
+
+    ( 1 ) The affiliate credit enhancement provider with respect to the covered QFC, then the covered entity is required to conform the credit enhancement to the requirements of this subpart but is not required to conform the direct QFC to the requirements of this subpart; or
+
+    ( 2 ) The direct party to which the excluded bank is the affiliate credit enhancement provider, then the covered entity is required to conform the direct QFC to the requirements of this subpart but is not required to conform the credit enhancement to the requirements of this subpart.
+
+  ( c ) Exclusion of certain contracts. Notwithstanding § 252.82 , a covered entity is not required to conform the following types of contracts or agreements to the requirements of this subpart:
+
+    ( 1 ) An investment advisory contract that:
+
+      ( i ) Is with a retail customer or counterparty;
+
+      ( ii ) Does not explicitly restrict the transfer of the contract (or any QFC entered pursuant thereto or governed thereby, or any interest or obligation in or under, or any property securing, any such QFC or the contract) from the covered entity except as necessary to comply with section 205(a)(2) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b-5(a)(2) ); and
+
+      ( iii ) Does not explicitly provide a default right with respect to the contract or any QFC entered pursuant thereto or governed thereby.
+
+    ( 2 ) A warrant that:
+
+      ( i ) Evidences a right to subscribe to or otherwise acquire a security of the covered entity or an affiliate of the covered entity; and
+
+      ( ii ) Was issued prior to November 13, 2017.
+
+  ( d ) Exemption by order. The Board may exempt by order one or more covered entities from conforming one or more contracts or types of contracts to one or more of the requirements of this subpart after considering:
+
+    ( 1 ) The potential impact of the exemption on the ability of the covered entity(ies), or affiliates of the covered entity(ies), to be resolved in a rapid and orderly manner in the event of the financial distress or failure of the entity that is required to submit a resolution plan;
+
+    ( 2 ) The burden the exemption would relieve; and
+
+    ( 3 ) Any other factor the Board deems relevant.
+
+## § 252.130 [Reserved]
+
+## § 252.131 Applicability.
+
+  ( a ) General applicability. A foreign banking organization with average total consolidated assets of at least $50 billion but less than $100 billion must comply with the risk-committee requirements set forth in this subpart beginning on the first day of the ninth quarter following the date on which its average total consolidated assets equal or exceed $50 billion.
+
+  ( b ) Cessation of requirements. A foreign banking organization will remain subject to the risk-committee requirements of this section until the earlier of the date on which:
+
+    ( 1 ) Its total consolidated assets are below $50 billion for each of four consecutive calendar quarters; and
+
+    ( 2 ) It becomes subject to the requirements of subpart N or subpart O of this part .
+
+## § 252.132 Risk-committee requirements for foreign banking organizations with total consolidated assets of $50 billion or more but less than $100 billion.
+
+  ( a ) U.S. risk committee certification. A foreign banking organization subject to this subpart, must, on an annual basis, certify to the Board that it maintains a committee of its global board of directors (or equivalent thereof), on a standalone basis or as part of its enterprise-wide risk committee (or equivalent thereof) that:
+
+    ( 1 ) Oversees the risk management policies of the combined U.S. operations of the foreign banking organization; and
+
+    ( 2 ) Includes at least one member having experience in identifying, assessing, and managing risk exposures of large, complex firms.
+
+  ( b ) Timing of certification. The certification required under paragraph (a) of this section must be filed on an annual basis with the Board concurrently with the FR Y-7.
+
+  ( c ) Responsibilities of the foreign banking organization. The foreign banking organization must take appropriate measures to ensure that its combined U.S. operations implement the risk management policies overseen by the U.S. risk committee described in paragraph (a) of this section, and its combined U.S. operations provide sufficient information to the U.S. risk committee to enable the U.S. risk committee to carry out the responsibilities of this subpart.
+
+  ( d ) Noncompliance with this section. If a foreign banking organization does not satisfy the requirements of this section, the Board may impose requirements, conditions, or restrictions relating to the activities or business operations of the combined U.S. operations of the foreign banking organization. The Board will coordinate with any relevant State or Federal regulator in the implementation of such requirements, conditions, or restrictions. If the Board determines to impose one or more requirements, conditions, or restrictions under this paragraph, the Board will notify the organization before it applies any requirement, condition or restriction, and describe the basis for imposing such requirement, condition, or restriction. Within 14 calendar days of receipt of a notification under this paragraph, the company may request in writing that the Board reconsider the requirement, condition, or restriction. The Board will respond in writing to the organization's request for reconsideration prior to applying the requirement, condition, or restriction.
+
+## § 252.140 Scope.
+
+This subpart applies to foreign banking organizations with average total consolidated assets of $100 billion or more, but average combined U.S. assets of less than $100 billion.
+
+## § 252.142 Applicability.
+
+  ( a ) General applicability. A foreign banking organization with average total consolidated assets of $100 billion or more and average combined U.S. assets of less than $100 billion must:
+
+    ( 1 ) Comply with the capital stress testing, risk-management and risk-committee requirements set forth in this subpart beginning no later than on the first day of the ninth quarter the date on which its average total consolidated assets equal or exceed $100 billion; and
+
+    ( 2 ) Comply with the risk-based and leverage capital requirements and liquidity risk-management requirements set forth in this subpart beginning no later than on the first day of the ninth quarter following the date on which its total consolidated assets equal or exceed $250 billion; and
+
+    ( 3 ) Comply with the U.S. intermediate holding company requirement set forth in § 252.147 beginning no later than on the first day of the ninth quarter following the date on which its average U.S. non-branch assets equal or exceed $50 billion.
+
+  ( b ) Cessation of requirements —
+
+    ( 1 ) Enhanced prudential standards applicable to the foreign banking organization.
+
+      ( i ) A foreign banking organization will remain subject to the requirements set forth in §§ 252.144 and 252.146 until its total consolidated assets are below $100 billion for each of four consecutive calendar quarters, or it becomes subject to the requirements of subpart O of this part .
+
+      ( ii ) A foreign banking organization will remain subject to the requirements set forth in §§ 252.143 and 252.145 until its total consolidated assets are below $250 billion for each of four consecutive calendar quarters, or it becomes subject to the requirements of subpart O of this part .
+
+    ( 2 ) Intermediate holding company requirement. A foreign banking organization will remain subject to the U.S. intermediate holding company requirement set forth in § 252.147 until the sum of the total consolidated assets of the top-tier U.S. subsidiaries of the foreign banking organization (excluding any section 2(h)(2) company and DPC branch subsidiary) is below $50 billion for each of four consecutive calendar quarters, or it becomes subject to the U.S. intermediate holding company requirements of subpart O of this part .
+
+## § 252.143 Risk-based and leverage capital requirements for foreign banking organizations with total consolidated assets of $250 billion or more and combined U.S. assets of less than $100 billion.
+
+  ( a ) General requirements.
+
+    ( 1 ) A foreign banking organization subject to this subpart and with average total consolidated assets of $250 billion or more must certify to the Board that it meets capital adequacy standards on a consolidated basis established by its home-country supervisor that are consistent with the regulatory capital framework published by the Basel Committee on Banking Supervision, as amended from time to time (Basel Capital Framework).
+
+      ( i ) For purposes of this paragraph, home-country capital adequacy standards that are consistent with the Basel Capital Framework include all minimum risk-based capital ratios, any minimum leverage ratio, and all restrictions based on any applicable capital buffers set forth in “Basel III: A global regulatory framework for more resilient banks and banking systems” (2010) (Basel III Accord), each as applicable and as implemented in accordance with the Basel III Accord, including any transitional provisions set forth therein.
+
+      ( ii ) [Reserved]
+
+    ( 2 ) In the event that a home-country supervisor has not established capital adequacy standards that are consistent with the Basel Capital Framework, the foreign banking organization must demonstrate to the satisfaction of the Board that it would meet or exceed capital adequacy standards on a consolidated basis that are consistent with the Basel Capital Framework were it subject to such standards.
+
+  ( b ) Reporting. A foreign banking organization subject to this subpart and with average total consolidated assets of $250 billion or more must provide to the Board reports relating to its compliance with the capital adequacy measures described in paragraph (a) of this section concurrently with filing the FR Y-7Q.
+
+  ( c ) Noncompliance with the Basel Capital Framework. If a foreign banking organization does not satisfy the requirements of this section, the Board may impose requirements, conditions, or restrictions, including risk-based or leverage capital requirements, relating to the activities or business operations of the U.S. operations of the organization. The Board will coordinate with any relevant State or Federal regulator in the implementation of such requirements, conditions, or restrictions. If the Board determines to impose one or more requirements, conditions, or restrictions under this paragraph, the Board will notify the organization before it applies any requirement, condition or restriction, and describe the basis for imposing such requirement, condition, or restriction. Within 14 calendar days of receipt of a notification under this paragraph, the organization may request in writing that the Board reconsider the requirement, condition, or restriction. The Board will respond in writing to the organization's request for reconsideration prior to applying the requirement, condition, or restriction.
+
+## § 252.144 Risk-management and risk-committee requirements for foreign banking organizations with total consolidated assets of $100 billion or more but combined U.S. assets of less than $100 billion.
+
+  ( a ) Risk-management and risk-committee requirements for foreign banking organizations with combined U.S. assets of less than $50 billion —
+
+    ( 1 ) U.S. risk committee certification. A foreign banking organization with average combined U.S. assets of less than $50 billion must, on an annual basis, certify to the Board that it maintains a committee of its global board of directors (or equivalent thereof), on a standalone basis or as part of its enterprise-wide risk committee (or equivalent thereof) that:
+
+      ( i ) Oversees the risk-management policies of the combined U.S. operations of the foreign banking organization; and
+
+      ( ii ) Includes at least one member having experience in identifying, assessing, and managing risk exposures of large, complex firms.
+
+    ( 2 ) Timing of certification. The certification required under paragraph (a) of this section must be filed on an annual basis with the Board concurrently with the FR Y-7.
+
+  ( b ) Risk-management and risk-committee requirements for foreign banking organizations with combined U.S. assets of $50 billion or more but less than $100 billion —
+
+    ( 1 ) U.S. risk committee —
+
+      ( i ) General. A foreign banking organization subject to this this subpart and with average combined U.S. assets of $50 billion or more must maintain a U.S. risk committee that approves and periodically reviews the risk-management policies of the combined U.S. operations of the foreign banking organization and oversees the risk-management framework of such combined U.S. operations.
+
+      ( ii ) Risk-management framework. The foreign banking organization's risk-management framework for its combined U.S. operations must be commensurate with the structure, risk profile, complexity, activities, and size of its combined U.S. operations and consistent with its enterprise-wide risk management policies. The framework must include:
+
+        ( A ) Policies and procedures establishing risk-management governance, risk-management procedures, and risk-control infrastructure for the combined U.S. operations of the foreign banking organization; and
+
+        ( B ) Processes and systems for implementing and monitoring compliance with such policies and procedures, including:
+
+          ( 1 ) Processes and systems for identifying and reporting risks and risk-management deficiencies, including regarding emerging risks, on a combined U.S. operations basis and ensuring effective and timely implementation of actions to address emerging risks and risk-management deficiencies;
+
+          ( 2 ) Processes and systems for establishing managerial and employee responsibility for risk management of the combined U.S. operations;
+
+          ( 3 ) Processes and systems for ensuring the independence of the risk-management function of the combined U.S. operations; and
+
+          ( 4 ) Processes and systems to integrate risk management and associated controls with management goals and the compensation structure of the combined U.S. operations.
+
+      ( iii ) Placement of the U.S. risk committee.
+
+        ( A ) A foreign banking organization that conducts its operations in the United States solely through a U.S. intermediate holding company must maintain its U.S. risk committee as a committee of the board of directors of its U.S. intermediate holding company (or equivalent thereof).
+
+        ( B ) A foreign banking organization that conducts its operations through U.S. branches or U.S. agencies (in addition to through its U.S. intermediate holding company, if any) may maintain its U.S. risk committee either:
+
+          ( 1 ) As a committee of the global board of directors (or equivalent thereof), on a standalone basis or as a joint committee with its enterprise-wide risk committee (or equivalent thereof); or
+
+          ( 2 ) As a committee of the board of directors of its U.S. intermediate holding company (or equivalent thereof), on a standalone basis or as a joint committee with the risk committee of its U.S. intermediate holding company required pursuant to § 252.147(e)(3) .
+
+      ( iv ) Corporate governance requirements. The U.S. risk committee must meet at least quarterly and otherwise as needed, and must fully document and maintain records of its proceedings, including risk-management decisions.
+
+      ( v ) Minimum member requirements. The U.S. risk committee must:
+
+        ( A ) Include at least one member having experience in identifying, assessing, and managing risk exposures of large, complex financial firms; and
+
+        ( B ) Have at least one member who:
+
+          ( 1 ) Is not an officer or employee of the foreign banking organization or its affiliates and has not been an officer or employee of the foreign banking organization or its affiliates during the previous three years; and
+
+          ( 2 ) Is not a member of the immediate family, as defined in 12 CFR 225.41(b)(3) , of a person who is, or has been within the last three years, an executive officer, as defined in 12 CFR 215.2(e)(1) of the foreign banking organization or its affiliates.
+
+    ( 2 ) [Reserved]
+
+  ( c ) U.S. chief risk officer —
+
+    ( 1 ) General. A foreign banking organization with average combined U.S. assets of $50 billion or more but less than $100 billion or its U.S. intermediate holding company, if any, must appoint a U.S. chief risk officer with experience in identifying, assessing, and managing risk exposures of large, complex financial firms.
+
+    ( 2 ) Responsibilities.
+
+      ( i ) The U.S. chief risk officer is responsible for overseeing:
+
+        ( A ) The measurement, aggregation, and monitoring of risks undertaken by the combined U.S. operations;
+
+        ( B ) The implementation of and ongoing compliance with the policies and procedures for the foreign banking organization's combined U.S. operations set forth in paragraph (b)(1)(ii)(A) of this section and the development and implementation of processes and systems set forth in paragraph (b)(1)(ii)(B) of this section; and
+
+        ( C ) The management of risks and risk controls within the parameters of the risk-control framework for the combined U.S. operations, and the monitoring and testing of such risk controls.
+
+      ( ii ) The U.S. chief risk officer is responsible for reporting risks and risk-management deficiencies of the combined U.S. operations, and resolving such risk-management deficiencies in a timely manner.
+
+    ( 3 ) Corporate governance and reporting. The U.S. chief risk officer must:
+
+      ( i ) Receive compensation and other incentives consistent with providing an objective assessment of the risks taken by the combined U.S. operations of the foreign banking organization;
+
+      ( ii ) Be employed by and located in the U.S. branch, U.S. agency, U.S. intermediate holding company, if any, or another U.S. subsidiary;
+
+      ( iii ) Report directly to the U.S. risk committee and the global chief risk officer or equivalent management official (or officials) of the foreign banking organization who is responsible for overseeing, on an enterprise-wide basis, the implementation of and compliance with policies and procedures relating to risk-management governance, practices, and risk controls of the foreign banking organization unless the Board approves an alternative reporting structure based on circumstances specific to the foreign banking organization;
+
+      ( iv ) Regularly provide information to the U.S. risk committee, global chief risk officer, and the Board regarding the nature of and changes to material risks undertaken by the foreign banking organization's combined U.S. operations, including risk-management deficiencies and emerging risks, and how such risks relate to the global operations of the foreign banking organization; and
+
+      ( v ) Meet regularly and as needed with the Board to assess compliance with the requirements of this section.
+
+  ( d ) Responsibilities of the foreign banking organization. The foreign banking organization must take appropriate measures to ensure that its combined U.S. operations implement the risk-management policies overseen by the U.S. risk committee described in paragraph (a) or (b) of this section, and its combined U.S. operations provide sufficient information to the U.S. risk committee to enable the U.S. risk committee to carry out the responsibilities of this subpart.
+
+  ( e ) Noncompliance with this section. If a foreign banking organization does not satisfy the requirements of this section, the Board may impose requirements, conditions, or restrictions relating to the activities or business operations of the combined U.S. operations of the foreign banking organization. The Board will coordinate with any relevant State or Federal regulator in the implementation of such requirements, conditions, or restrictions. If the Board determines to impose one or more requirements, conditions, or restrictions under this paragraph, the Board will notify the organization before it applies any requirement, condition, or restriction, and describe the basis for imposing such requirement, condition, or restriction. Within 14 calendar days of receipt of a notification under this paragraph, the organization may request in writing that the Board reconsider the requirement, condition, or restriction. The Board will respond in writing to the organization's request for reconsideration prior to applying the requirement, condition, or restriction.
+
+## § 252.145 Liquidity risk-management requirements for foreign banking organizations with total consolidated assets of $250 billion or more and combined U.S. assets of less than $100 billion.
+
+  ( a ) A foreign banking organization subject to this subpart with average total consolidated assets of $250 billion or more must report to the Board on an annual basis the results of an internal liquidity stress test for either the consolidated operations of the foreign banking organization or the combined U.S. operations of the foreign banking organization. Such liquidity stress test must be conducted consistent with the Basel Committee principles for liquidity risk management and must incorporate 30-day, 90-day, and one-year stress-test horizons. The “Basel Committee principles for liquidity risk management” means the document titled “Principles for Sound Liquidity Risk Management and Supervision” (September 2008) as published by the Basel Committee on Banking Supervision, as supplemented and revised from time to time.
+
+  ( b ) A foreign banking organization that does not comply with paragraph (a) of this section must limit the net aggregate amount owed by the foreign banking organization's non-U.S. offices and its non-U.S. affiliates to the combined U.S. operations to 25 percent or less of the third party liabilities of its combined U.S. operations, on a daily basis.
+
+## § 252.146 Capital stress testing requirements for foreign banking organizations with total consolidated assets of $100 billion or more and combined U.S. assets of less than $100 billion.
+
+  ( a ) Definitions. For purposes of this section, the following definitions apply:
+
+    ( 1 ) Eligible asset means any asset of the U.S. branch or U.S. agency held in the United States that is recorded on the general ledger of a U.S. branch or U.S. agency of the foreign banking organization (reduced by the amount of any specifically allocated reserves held in the United States and recorded on the general ledger of the U.S. branch or U.S. agency in connection with such assets), subject to the following exclusions and, for purposes of this definition, as modified by the rules of valuation set forth in paragraph (a)(1)(ii) of this section.
+
+      ( i ) The following assets do not qualify as eligible assets:
+
+        ( A ) Equity securities;
+
+        ( B ) Any assets classified as loss at the preceding examination by a regulatory agency, outside accountant, or the bank's internal loan review staff;
+
+        ( C ) Accrued income on assets classified loss, doubtful, substandard or value impaired, at the preceding examination by a regulatory agency, outside accountant, or the bank's internal loan review staff;
+
+        ( D ) Any amounts due from the home office, other offices and affiliates, including income accrued but uncollected on such amounts;
+
+        ( E ) The balance from time to time of any other asset or asset category disallowed at the preceding examination or by direction of the Board for any other reason until the underlying reasons for the disallowance have been removed;
+
+        ( F ) Prepaid expenses and unamortized costs, furniture and fixtures and leasehold improvements; and
+
+        ( G ) Any other asset that the Board determines should not qualify as an eligible asset.
+
+      ( ii ) The following rules of valuation apply:
+
+        ( A ) A marketable debt security is valued at its principal amount or market value, whichever is lower;
+
+        ( B ) An asset classified doubtful or substandard at the preceding examination by a regulatory agency, outside accountant, or the bank's internal loan review staff, is valued at 50 percent and 80 percent, respectively;
+
+        ( C ) With respect to an asset classified value impaired, the amount representing the allocated transfer risk reserve that would be required for such exposure at a domestically chartered bank is valued at 0 and the residual exposure is valued at 80 percent; and
+
+        ( D ) Real estate located in the United States and carried on the accounting records as an asset are valued at net book value or appraised value, whichever is less.
+
+    ( 2 ) Liabilities of all U.S. branches and agencies of a foreign banking organization means all liabilities of all U.S. branches and agencies of the foreign banking organization, including acceptances and any other liabilities (including contingent liabilities), but excluding:
+
+      ( i ) Amounts due to and other liabilities to other offices, agencies, branches and affiliates of such foreign banking organization, including its head office, including unremitted profits; and
+
+      ( ii ) Reserves for possible loan losses and other contingencies.
+
+    ( 3 ) Pre-provision net revenue means revenue less expenses before adjusting for total loan loss provisions.
+
+    ( 4 ) Stress test cycle has the same meaning as in subpart F of this part .
+
+    ( 5 ) Total loan loss provisions means the amount needed to make reserves adequate to absorb estimated credit losses, based upon management's evaluation of the loans and leases that the company has the intent and ability to hold for the foreseeable future or until maturity or payoff, as determined under applicable accounting standards.
+
+  ( b ) In general.
+
+    ( 1 ) A foreign banking organization subject to this subpart must:
+
+      ( i ) Be subject on a consolidated basis to a capital stress testing regime by its home-country supervisor that meets the requirements of paragraph (b)(2) of this section; and
+
+      ( ii ) Conduct such stress tests or be subject to a supervisory stress test and meet any minimum standards set by its home-country supervisor with respect to the stress tests.
+
+    ( 2 ) The capital stress testing regime of a foreign banking organization's home-country supervisor must include:
+
+      ( i ) A supervisory capital stress test conducted by the foreign banking organization's home-country supervisor or an evaluation and review by the foreign banking organization's home-country supervisor of an internal capital adequacy stress test conducted by the foreign banking organization, according to the frequency specified in the following paragraph (b)(2)(i)(A) or (B) of this section:
+
+        ( A ) If the foreign banking organization has average total consolidated assets of $250 billion or more, on at least an annual basis; or
+
+        ( B ) If the foreign banking organization has average total consolidated assets of less than $250 billion, at least biennially; and
+
+      ( ii ) Requirements for governance and controls of stress testing practices by relevant management and the board of directors (or equivalent thereof) of the foreign banking organization;
+
+  ( c ) Additional standards.
+
+    ( 1 ) Unless the Board otherwise determines in writing, a foreign banking organization that does not meet each of the requirements in paragraphs (b)(1) and (2) of this section must:
+
+      ( i ) Maintain eligible assets in its U.S. branches and agencies that, on a daily basis, are not less than 105 percent of the average value over each day of the previous calendar quarter of the total liabilities of all branches and agencies operated by the foreign banking organization in the United States;
+
+      ( ii ) Conduct a stress test of its U.S. subsidiaries to determine whether those subsidiaries have the capital necessary to absorb losses as a result of adverse economic conditions, according to the frequency specified in paragraph (c)(1)(ii)(A) or (B) of this section:
+
+        ( A ) If the foreign banking organization has average total consolidated assets of $250 billion or more, on at least an annual basis; or
+
+        ( B ) If the foreign banking organization has average total consolidated assets of less than $250 billion, at least biennially; and
+
+      ( iii ) Report a summary of the results of the stress test to the Board that includes a description of the types of risks included in the stress test, a description of the conditions or scenarios used in the stress test, a summary description of the methodologies used in the stress test, estimates of aggregate losses, pre-provision net revenue, total loan loss provisions, net income before taxes and pro forma regulatory capital ratios required to be computed by the home-country supervisor of the foreign banking organization and any other relevant capital ratios, and an explanation of the most significant causes for any changes in regulatory capital ratios.
+
+    ( 2 ) An enterprise-wide stress test that is approved by the Board may meet the stress test requirement of paragraph (c)(1)(ii) of this section.
+
+## § 252.147 U.S. intermediate holding company requirement for foreign banking organizations with combined U.S. assets of less than $100 billion and U.S. non-branch assets of $50 billion or more.
+
+  ( a ) Requirement to form a U.S. intermediate holding company —
+
+    ( 1 ) Formation. A foreign banking organization with average U.S. non-branch assets of $50 billion or more must establish a U.S. intermediate holding company, or designate an existing subsidiary that meets the requirements of paragraph (a)(2) of this section, as its U.S. intermediate holding company.
+
+    ( 2 ) Structure. The U.S. intermediate holding company must be:
+
+      ( i ) Organized under the laws of the United States, any one of the fifty states of the United States, or the District of Columbia; and
+
+      ( ii ) Be governed by a board of directors or managers that is elected or appointed by the owners and that operates in an equivalent manner, and has equivalent rights, powers, privileges, duties, and responsibilities, to a board of directors of a company chartered as a corporation under the laws of the United States, any one of the fifty states of the United States, or the District of Columbia.
+
+    ( 3 ) Notice. Within 30 days of establishing or designating a U.S. intermediate holding company under this section, a foreign banking organization must provide to the Board:
+
+      ( i ) A description of the U.S. intermediate holding company, including its name, location, corporate form, and organizational structure;
+
+      ( ii ) A certification that the U.S. intermediate holding company meets the requirements of this section; and
+
+      ( iii ) Any other information that the Board determines is appropriate.
+
+  ( b ) Holdings and regulation of the U.S. intermediate holding company —
+
+    ( 1 ) General. Subject to paragraph (c) of this section, a foreign banking organization that is required to form a U.S. intermediate holding company under paragraph (a) of this section must hold its entire ownership interest in any U.S. subsidiary (excluding each section 2(h)(2) company or DPC branch subsidiary, if any) through its U.S. intermediate holding company.
+
+    ( 2 ) Reporting. Each U.S. intermediate holding company shall submit information in the manner and form prescribed by the Board.
+
+    ( 3 ) Examinations and inspections. The Board may examine or inspect any U.S. intermediate holding company and each of its subsidiaries and prepare a report of their operations and activities.
+
+    ( 4 ) Global systemically important banking organizations. For purposes of this part, a top-tier foreign banking organization with average U.S. non-branch assets that equal or exceed $50 billion is a global systemically important foreign banking organization if any of the following conditions are met:
+
+      ( i ) The top-tier foreign banking organization determines, pursuant to paragraph (b)(6) of this section, that the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology; or
+
+      ( ii ) The Board, using information available to the Board, determines:
+
+        ( A ) That the top-tier foreign banking organization would be a global systemically important banking organization under the global methodology;
+
+        ( B ) That the top-tier foreign banking organization, if it were subject to the Board's Regulation Q, would be identified as a global systemically important BHC under 12 CFR 217.402 ; or
+
+        ( C ) That the U.S. intermediate holding company, if it were subject to 12 CFR 217.402 , would be identified as a global systemically important BHC.
+
+    ( 5 ) Notice. Each top-tier foreign banking organization that controls a U.S. intermediate holding company shall submit to the Board by January 1 of each calendar year through the U.S. intermediate holding company:
+
+      ( i ) Notice of whether the home-country supervisor (or other appropriate home country regulatory authority) of the top-tier foreign banking organization of the U.S. intermediate holding company has adopted standards consistent with the global methodology; and
+
+      ( ii ) Notice of whether the top-tier foreign banking organization prepares or reports the indicators used by the global methodology to identify a banking organization as a global systemically important banking organization and, if it does, whether the top-tier foreign banking organization has determined that it has the characteristics of a global systemically important banking organization under the global methodology pursuant to paragraph (b)(6) of this section.
+
+    ( 6 ) Global systemically important banking organization under the global methodology. A top-tier foreign banking organization that controls a U.S. intermediate holding company and prepares or reports for any purpose the indicator amounts necessary to determine whether the top-tier foreign banking organization is a global systemically important banking organization under the global methodology must use the data to determine whether the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology.
+
+  ( c ) Alternative organizational structure —
+
+    ( 1 ) General. Upon a written request by a foreign banking organization, the Board may permit the foreign banking organization to: Establish or designate multiple U.S. intermediate holding companies; not transfer its ownership interests in certain subsidiaries to a U.S. intermediate holding company; or use an alternative organizational structure to hold its combined U.S. operations.
+
+    ( 2 ) Factors. In making a determination under paragraph (c)(1) of this section, the Board may consider whether applicable law would prohibit the foreign banking organization from owning or controlling one or more of its U.S. subsidiaries through a single U.S. intermediate holding company, or whether circumstances otherwise warrant an exception based on the foreign banking organization's activities, scope of operations, structure, or similar considerations.
+
+    ( 3 ) Request —
+
+      ( i ) Contents. A request submitted under this section must include an explanation of why the request should be granted and any other information required by the Board.
+
+      ( ii ) Timing. The Board shall act on a request for an alternative organizational structure within 90 days of receipt of a complete request, unless the Board provides notice to the organization that it is extending the period for action.
+
+    ( 4 ) Conditions. The Board may grant relief under this section upon such conditions as the Board deems appropriate, including, but not limited to, requiring the U.S. operations of the foreign banking organization to comply with additional enhanced prudential standards, or requiring the foreign banking organization to enter into supervisory agreements governing such alternative organizational structure.
+
+  ( d ) Modifications. The Board may modify the application of any section of this subpart to a foreign banking organization that is required to form a U.S. intermediate holding company or to such U.S. intermediate holding company if appropriate to accommodate the organizational structure of the foreign banking organization or characteristics specific to such foreign banking organization and such modification is appropriate and consistent with the capital structure, size, complexity, risk profile, scope of operations, or financial condition of each U.S. intermediate holding company, safety and soundness, and the financial stability mandate of section 165 of the Dodd-Frank Act.
+
+  ( e ) Enhanced prudential standards for U.S. intermediate holding companies —
+
+    ( 1 ) Capital requirements for a U.S. intermediate holding company.
+
+      ( i )
+
+        ( A ) A U.S. intermediate holding company must comply with 12 CFR part 217 , other than subpart E of 12 CFR part 217 , in the same manner as a bank holding company.
+
+        ( B ) A U.S. intermediate holding company may choose to comply with subpart E of 12 CFR part 217 .
+
+      ( ii ) A U.S. intermediate holding company must comply with capital adequacy standards beginning on the date it is required to established under this subpart, or if the U.S. intermediate holding company is subject to capital adequacy standards on the date that the foreign banking organization becomes subject to § 252.142(a)(3) , on the date that the foreign banking organization becomes subject to this subpart.
+
+    ( 2 ) Risk-management and risk-committee requirements —
+
+      ( i ) General. A U.S. intermediate holding company must establish and maintain a risk committee that approves and periodically reviews the risk-management policies and oversees the risk-management framework of the U.S. intermediate holding company. The risk committee must be a committee of the board of directors of the U.S. intermediate holding company (or equivalent thereof). The risk committee may also serve as the U.S. risk committee for the combined U.S. operations required pursuant to § 252.144(b) .
+
+      ( ii ) Risk-management framework. The U.S. intermediate holding company's risk-management framework must be commensurate with the structure, risk profile, complexity, activities, and size of the U.S. intermediate holding company and consistent with the risk management policies for the combined U.S. operations of the foreign banking organization. The framework must include:
+
+        ( A ) Policies and procedures establishing risk-management governance, risk-management procedures, and risk-control infrastructure for the U.S. intermediate holding company; and
+
+        ( B ) Processes and systems for implementing and monitoring compliance with such policies and procedures, including:
+
+          ( 1 ) Processes and systems for identifying and reporting risks and risk-management deficiencies at the U.S. intermediate holding company, including regarding emerging risks and ensuring effective and timely implementation of actions to address emerging risks and risk-management deficiencies;
+
+          ( 2 ) Processes and systems for establishing managerial and employee responsibility for risk management of the U.S. intermediate holding company;
+
+          ( 3 ) Processes and systems for ensuring the independence of the risk-management function of the U.S. intermediate holding company; and
+
+          ( 4 ) Processes and systems to integrate risk management and associated controls with management goals and the compensation structure of the U.S. intermediate holding company.
+
+      ( iii ) Corporate governance requirements. The risk committee of the U.S. intermediate holding company must meet at least quarterly and otherwise as needed, and must fully document and maintain records of its proceedings, including risk-management decisions.
+
+      ( iv ) Minimum member requirements. The risk committee must:
+
+        ( A ) Include at least one member having experience in identifying, assessing, and managing risk exposures of large, complex financial firms; and
+
+        ( B ) Have at least one member who:
+
+          ( 1 ) Is not an officer or employee of the foreign banking organization or its affiliates and has not been an officer or employee of the foreign banking organization or its affiliates during the previous three years; and
+
+          ( 2 ) Is not a member of the immediate family, as defined in 12 CFR 225.41(b)(3) , of a person who is, or has been within the last three years, an executive officer, as defined in 12 CFR 215.2(e)(1) , of the foreign banking organization or its affiliates.
+
+      ( v ) The U.S. intermediate holding company must take appropriate measures to ensure that it implements the risk-management policies for the U.S. intermediate holding company and it provides sufficient information to the U.S. risk committee to enable the U.S. risk committee to carry out the responsibilities of this subpart;
+
+      ( vi ) A U.S. intermediate holding company must comply with risk-committee and risk-management requirements beginning on the date that it is required to be established or designated under this subpart or, if the U.S. intermediate holding company is subject to risk-committee and risk-management requirements on the date that the foreign banking organization becomes subject to § 252.147(a)(3) , on the date that the foreign banking organization becomes subject to this subpart.
+
+## § 252.150 Scope.
+
+This subpart applies to foreign banking organizations with average total consolidated assets of $100 billion or more and average combined U.S. assets of $100 billion or more.
+
+## § 252.151 [Reserved]
+
+## § 252.152 Applicability.
+
+  ( a ) General applicability.
+
+    ( 1 ) A foreign banking organization must:
+
+      ( i ) Comply with the requirements of this subpart (other than the U.S. intermediate holding company requirement set forth in § 252.153 ) beginning on the first day of the ninth quarter following the date on which its average combined U.S. assets equal or exceed $100 billion; and
+
+      ( ii ) Comply with the requirement to establish or designate a U.S. intermediate holding company requirement set forth in § 252.153(a) beginning on the first day of the ninth quarter following the date on which its average U.S. non-branch assets equal or exceed $50 billion or, if the foreign banking organization has established or designated a U.S. intermediate holding company pursuant to § 252.147 , beginning on the first day following the date on which the foreign banking organization's average combined U.S. assets equal or exceed $100 billion.
+
+    ( 2 ) Changes in requirements following a change in category. A foreign banking organization that changes from one category of banking organization described in § 252.5(c) through (e) to another of such categories must comply with the requirements applicable to the new category under this subpart no later than on the first day of the second quarter following the change in the foreign banking organization's category.
+
+  ( b ) Cessation of requirements —
+
+    ( 1 ) Enhanced prudential standards applicable to the foreign banking organization. Subject to paragraph (c)(2) of this section, a foreign banking organization will remain subject to the applicable requirements of this subpart until its combined U.S. assets are below $100 billion for each of four consecutive calendar quarters.
+
+    ( 2 ) Intermediate holding company requirement. A foreign banking organization will remain subject to the U.S. intermediate holding company requirement set forth in § 252.153 until the sum of the total consolidated assets of the top-tier U.S. subsidiaries of the foreign banking organization (excluding any section 2(h)(2) company and DPC branch subsidiary) is below $50 billion for each of four consecutive calendar quarters, or until the foreign banking organization is subject to subpart N of this part and is in compliance with the U.S. intermediate holding company requirements as set forth in § 252.147 .
+
+## § 252.153 U.S. intermediate holding company requirement for foreign banking organizations with combined U.S. assets of $100 billion or more and U.S. non-branch assets of $50 billion or more.
+
+  ( a ) Requirement to form a U.S. intermediate holding company —
+
+    ( 1 ) Formation. A foreign banking organization with average U.S. non-branch assets of $50 billion or more must establish a U.S. intermediate holding company, or designate an existing subsidiary that meets the requirements of paragraph (a)(2) of this section, as its U.S. intermediate holding company.
+
+    ( 2 ) Structure. The U.S. intermediate holding company must be:
+
+      ( i ) Organized under the laws of the United States, any one of the fifty states of the United States, or the District of Columbia; and
+
+      ( ii ) Be governed by a board of directors or managers that is elected or appointed by the owners and that operates in an equivalent manner, and has equivalent rights, powers, privileges, duties, and responsibilities, to a board of directors of a company chartered as a corporation under the laws of the United States, any one of the fifty states of the United States, or the District of Columbia.
+
+    ( 3 ) Notice. Within 30 days of establishing or designating a U.S. intermediate holding company under this section, a foreign banking organization must provide to the Board:
+
+      ( i ) A description of the U.S. intermediate holding company, including its name, location, corporate form, and organizational structure;
+
+      ( ii ) A certification that the U.S. intermediate holding company meets the requirements of this section; and
+
+      ( iii ) Any other information that the Board determines is appropriate.
+
+  ( b ) Holdings and regulation of the U.S. intermediate holding company —
+
+    ( 1 ) General. Subject to paragraph (c) of this section, a foreign banking organization that is required to form a U.S. intermediate holding company under paragraph (a) of this section must hold its entire ownership interest in any U.S. subsidiary (excluding each section 2(h)(2) company or DPC branch subsidiary, if any) through its U.S. intermediate holding company.
+
+    ( 2 ) Reporting. Each U.S. intermediate holding company shall submit information in the manner and form prescribed by the Board.
+
+    ( 3 ) Examinations and inspections. The Board may examine or inspect any U.S. intermediate holding company and each of its subsidiaries and prepare a report of their operations and activities.
+
+    ( 4 ) For purposes of this part, a top-tier foreign banking organization with U.S. non-branch assets that equal or exceed $50 billion is a global systemically important foreign banking organization if any of the following conditions are met:
+
+      ( i ) The top-tier foreign banking organization determines, pursuant to paragraph (b)(6) of this section, that the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology; or
+
+      ( ii ) The Board, using information available to the Board, determines:
+
+        ( A ) That the top-tier foreign banking organization would be a global systemically important banking organization under the global methodology;
+
+        ( B ) That the top-tier foreign banking organization, if it were subject to the Board's Regulation Q, would be identified as a global systemically important BHC under 12 CFR 217.402 of the Board's Regulation Q; or
+
+        ( C ) That the U.S. intermediate holding company, if it were subject to 12 CFR 217.402 of the Board's Regulation Q, would be identified as a global systemically important BHC.
+
+    ( 5 ) Each top-tier foreign banking organization that controls a U.S. intermediate holding company shall submit to the Board by January 1 of each calendar year through the U.S. intermediate holding company:
+
+      ( i ) Notice of whether the home country supervisor (or other appropriate home country regulatory authority) of the top-tier foreign banking organization of the U.S. intermediate holding company has adopted standards consistent with the global methodology; and
+
+      ( ii ) Notice of whether the top-tier foreign banking organization prepares or reports the indicators used by the global methodology to identify a banking organization as a global systemically important banking organization and, if it does, whether the top-tier foreign banking organization has determined that it has the characteristics of a global systemically important banking organization under the global methodology pursuant to paragraph (b)(6) of this section.
+
+    ( 6 ) A top-tier foreign banking organization that controls a U.S. intermediate holding company and prepares or reports for any purpose the indicator amounts necessary to determine whether the top-tier foreign banking organization is a global systemically important banking organization under the global methodology must use the data to determine whether the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology.
+
+  ( c ) Alternative organizational structure —
+
+    ( 1 ) General. Upon a written request by a foreign banking organization, the Board may permit the foreign banking organization to: Establish or designate multiple U.S. intermediate holding companies; not transfer its ownership interests in certain subsidiaries to a U.S. intermediate holding company; or use an alternative organizational structure to hold its combined U.S. operations.
+
+    ( 2 ) Factors. In making a determination under paragraph (c)(1) of this section, the Board may consider whether applicable law would prohibit the foreign banking organization from owning or controlling one or more of its U.S. subsidiaries through a single U.S. intermediate holding company, or whether circumstances otherwise warrant an exception based on the foreign banking organization's activities, scope of operations, structure, or other similar considerations.
+
+    ( 3 ) Request —
+
+      ( i ) Contents. A request submitted under this section must include an explanation of why the request should be granted and any other information required by the Board.
+
+      ( ii ) Timing. The Board will act on a request for an alternative organizational structure within 90 days of receipt of a complete request, unless the Board provides notice to the organization that it is extending the period for action.
+
+    ( 4 ) Conditions.
+
+      ( i ) The Board may grant relief under this section upon such conditions as the Board deems appropriate, including, but not limited to, requiring the U.S. operations of the foreign banking organization to comply with additional enhanced prudential standards, or requiring the foreign banking organization to enter into supervisory agreements governing such alternative organizational structure.
+
+      ( ii ) If the Board permits a foreign banking organization to form two or more U.S. intermediate holding companies under this section, each U.S. intermediate holding company must determine its category pursuant to § 252.5 of this part as though the U.S. intermediate holding companies were a consolidated company.
+
+  ( d ) Modifications. The Board may modify the application of any section of this subpart to a foreign banking organization that is required to form a U.S. intermediate holding company or to such U.S. intermediate holding company if appropriate to accommodate the organizational structure of the foreign banking organization or characteristics specific to such foreign banking organization and such modification is appropriate and consistent with the capital structure, size, complexity, risk profile, scope of operations, or financial condition of each U.S. intermediate holding company, safety and soundness, and the mandate of section 165 of the Dodd-Frank Act.
+
+  ( e ) Enhanced prudential standards for U.S. intermediate holding companies —
+
+    ( 1 ) Capital requirements for a U.S. intermediate holding company.
+
+      ( i )
+
+        ( A ) A U.S. intermediate holding company must comply with 12 CFR part 217 , other than subpart E of 12 CFR part 217 , in the same manner as a bank holding company.
+
+        ( B ) A U.S. intermediate holding company may choose to comply with subpart E of 12 CFR part 217 .
+
+      ( ii ) A U.S. intermediate holding company must comply with applicable capital adequacy standards beginning on the date that it is required to be established or designated under this subpart or, if the U.S. intermediate holding company is subject to capital adequacy standards on the date that the foreign banking organization becomes subject to paragraph (a)(1)(ii) of this section, on the date that the foreign banking organization becomes subject to this subpart.
+
+    ( 2 ) Capital planning.
+
+      ( i ) A U.S. intermediate holding company with total consolidated assets of $100 billion or more must comply with 12 CFR 225.8 in the same manner as a bank holding company.
+
+      ( ii ) A U.S. intermediate holding company with total consolidated assets of $100 billion or more must comply with 12 CFR 225.8 on the date prescribed in the transition provisions of 12 CFR 225.8 .
+
+    ( 3 ) Risk-management and risk committee requirements —
+
+      ( i ) General. A U.S. intermediate holding company must establish and maintain a risk committee that approves and periodically reviews the risk-management policies and oversees the risk-management framework of the U.S. intermediate holding company. The risk committee must be a committee of the board of directors of the U.S. intermediate holding company (or equivalent thereof). The risk committee may also serve as the U.S. risk committee for the combined U.S. operations required pursuant to § 252.155(a) .
+
+      ( ii ) Risk-management framework. The U.S. intermediate holding company's risk-management framework must be commensurate with the structure, risk profile, complexity, activities, and size of the U.S. intermediate holding company and consistent with the risk management policies for the combined U.S. operations of the foreign banking organization. The framework must include:
+
+        ( A ) Policies and procedures establishing risk-management governance, risk-management procedures, and risk-control infrastructure for the U.S. intermediate holding company; and
+
+        ( B ) Processes and systems for implementing and monitoring compliance with such policies and procedures, including:
+
+          ( 1 ) Processes and systems for identifying and reporting risks and risk-management deficiencies at the U.S. intermediate holding company, including regarding emerging risks and ensuring effective and timely implementation of actions to address emerging risks and risk-management deficiencies;
+
+          ( 2 ) Processes and systems for establishing managerial and employee responsibility for risk management of the U.S. intermediate holding company;
+
+          ( 3 ) Processes and systems for ensuring the independence of the risk-management function of the U.S. intermediate holding company; and
+
+          ( 4 ) Processes and systems to integrate risk management and associated controls with management goals and the compensation structure of the U.S. intermediate holding company.
+
+      ( iii ) Corporate governance requirements. The risk committee of the U.S. intermediate holding company must meet at least quarterly and otherwise as needed, and must fully document and maintain records of its proceedings, including risk-management decisions.
+
+      ( iv ) Minimum member requirements. The risk committee must:
+
+        ( A ) Include at least one member having experience in identifying, assessing, and managing risk exposures of large, complex financial firms; and
+
+        ( B ) Have at least one member who:
+
+          ( 1 ) Is not an officer or employee of the foreign banking organization or its affiliates and has not been an officer or employee of the foreign banking organization or its affiliates during the previous three years; and
+
+          ( 2 ) Is not a member of the immediate family, as defined in 12 CFR 225.41(b)(3) , of a person who is, or has been within the last three years, an executive officer, as defined in 12 CFR 215.2(e)(1) , of the foreign banking organization or its affiliates.
+
+      ( v ) The U.S. intermediate holding company must take appropriate measures to ensure that it implements the risk-management policies for the U.S. intermediate holding company and it provides sufficient information to the U.S. risk committee to enable the U.S. risk committee to carry out the responsibilities of this subpart.
+
+      ( vi ) A U.S. intermediate holding company must comply with risk-committee and risk-management requirements beginning on the date that it is required to be established or designated under this subpart or, if the U.S. intermediate holding company is subject to risk-committee and risk-management requirements on the date that the foreign banking organization becomes subject to § 252.153(a)(1)(ii) , on the date that the foreign banking organization becomes subject to this subpart.
+
+    ( 4 ) Liquidity requirements.
+
+      ( i ) A U.S. intermediate holding company must comply with the liquidity risk-management requirements in § 252.156 and conduct liquidity stress tests and hold a liquidity buffer pursuant to § 252.157 .
+
+      ( ii ) A U.S. intermediate holding company must comply with liquidity risk-management, liquidity stress test, and liquidity buffer requirements beginning on the date that it is required to be established or designated under this subpart.
+
+    ( 5 ) Stress test requirements.
+
+      ( i )
+
+        ( A ) A U.S. intermediate holding company with total consolidated assets of $100 billion or more must comply with the requirements of subpart E of this part in the same manner as a bank holding company;
+
+        ( B ) A U.S. intermediate holding company must comply with the requirements of subpart E beginning the later of:
+
+          ( 1 ) The stress test cycle of the calendar year after the calendar year in which the U.S. intermediate holding company becomes subject to regulatory capital requirements; or
+
+          ( 2 ) The transition period provided under subpart E.
+
+      ( ii )
+
+        ( A ) A Category II U.S. intermediate holding company or a Category III U.S. intermediate holding company must comply with the requirements of subpart F of this part in the same manner as a bank holding company;
+
+        ( B ) A Category II U.S. intermediate holding company or Category III U.S. intermediate holding company must comply with the requirements of subpart F beginning the later of:
+
+          ( 1 ) The stress test cycle of the calendar year after the calendar year in which the U.S. intermediate holding company becomes subject to regulatory capital requirements; or
+
+          ( 2 ) The transition period provided under subpart F.
+
+## § 252.154 Risk-based and leverage capital requirements for foreign banking organizations with combined U.S. assets of $100 billion or more.
+
+  ( a ) General requirements.
+
+    ( 1 ) A foreign banking organization subject to this subpart more must certify to the Board that it meets capital adequacy standards on a consolidated basis that are established by its home-country supervisor and that are consistent with the regulatory capital framework published by the Basel Committee on Banking Supervision, as amended from time to time (Basel Capital Framework).
+
+    ( 2 ) In the event that a home-country supervisor has not established capital adequacy standards that are consistent with the Basel Capital Framework, the foreign banking organization must demonstrate to the satisfaction of the Board that it would meet or exceed capital adequacy standards at the consolidated level that are consistent with the Basel Capital Framework were it subject to such standards.
+
+  ( b ) Reporting. A foreign banking organization subject to this subpart must provide to the Board reports relating to its compliance with the capital adequacy measures described in paragraph (a) of this section concurrently with filing the FR Y-7Q.
+
+  ( c ) Noncompliance with the Basel Capital Framework. If a foreign banking organization does not satisfy the requirements of this section, the Board may impose requirements, conditions, or restrictions relating to the activities or business operations of the U.S. operations of the foreign banking organization. The Board will coordinate with any relevant State or Federal regulator in the implementation of such requirements, conditions, or restrictions. If the Board determines to impose one or more requirements, conditions, or restrictions under this paragraph, the Board will notify the organization before it applies any requirement, condition, or restriction, and describe the basis for imposing such requirement, condition, or restriction. Within 14 calendar days of receipt of a notification under this paragraph, the organization may request in writing that the Board reconsider the requirement, condition, or restriction. The Board will respond in writing to the organization's request for reconsideration prior to applying the requirement, condition, or restriction.
+
+## § 252.155 Risk-management and risk-committee requirements for foreign banking organizations with combined U.S. assets of $100 billion or more.
+
+  ( a ) U.S. risk committee —
+
+    ( 1 ) General. A foreign banking organization subject to this subpart must maintain a U.S. risk committee that approves and periodically reviews the risk-management policies of the combined U.S. operations of the foreign banking organization and oversees the risk-management framework of such combined U.S. operations. The U.S. risk committee's responsibilities include the liquidity risk-management responsibilities set forth in § 252.156(a) .
+
+    ( 2 ) Risk-management framework. The foreign banking organization's risk-management framework for its combined U.S. operations must be commensurate with the structure, risk profile, complexity, activities, and size of its combined U.S. operations and consistent with its enterprise-wide risk management policies. The framework must include:
+
+      ( i ) Policies and procedures establishing risk-management governance, risk-management procedures, and risk-control infrastructure for the combined U.S. operations of the foreign banking organization; and
+
+      ( ii ) Processes and systems for implementing and monitoring compliance with such policies and procedures, including:
+
+        ( A ) Processes and systems for identifying and reporting risks and risk-management deficiencies, including regarding emerging risks, on a combined U.S. operations basis and ensuring effective and timely implementation of actions to address emerging risks and risk-management deficiencies;
+
+        ( B ) Processes and systems for establishing managerial and employee responsibility for risk management of the combined U.S. operations;
+
+        ( C ) Processes and systems for ensuring the independence of the risk-management function of the combined U.S. operations; and
+
+        ( D ) Processes and systems to integrate risk management and associated controls with management goals and the compensation structure of the combined U.S. operations.
+
+    ( 3 ) Placement of the U.S. risk committee.
+
+      ( i ) A foreign banking organization that conducts its operations in the United States solely through a U.S. intermediate holding company must maintain its U.S. risk committee as a committee of the board of directors of its U.S. intermediate holding company (or equivalent thereof).
+
+      ( ii ) A foreign banking organization that conducts its operations through U.S. branches or U.S. agencies (in addition to through its U.S. intermediate holding company, if any) may maintain its U.S. risk committee either:
+
+        ( A ) As a committee of the global board of directors (or equivalent thereof), on a standalone basis or as a joint committee with its enterprise-wide risk committee (or equivalent thereof); or
+
+        ( B ) As a committee of the board of directors of its U.S. intermediate holding company (or equivalent thereof), on a standalone basis or as a joint committee with the risk committee of its U.S. intermediate holding company required pursuant to § 252.153(e)(3) .
+
+    ( 4 ) Corporate governance requirements. The U.S. risk committee must meet at least quarterly and otherwise as needed, and must fully document and maintain records of its proceedings, including risk-management decisions.
+
+    ( 5 ) Minimum member requirements. The U.S. risk committee must:
+
+      ( i ) Include at least one member having experience in identifying, assessing, and managing risk exposures of large, complex financial firms; and
+
+      ( ii ) Have at least one member who:
+
+        ( A ) Is not an officer or employee of the foreign banking organization or its affiliates and has not been an officer or employee of the foreign banking organization or its affiliates during the previous three years; and
+
+        ( B ) Is not a member of the immediate family, as defined in § 225.41(b)(3) of the Board's Regulation Y ( 12 CFR 225.41(b)(3) ), of a person who is, or has been within the last three years, an executive officer, as defined in § 215.2(e)(1) of the Board's Regulation O ( 12 CFR 215.2(e)(1) ) of the foreign banking organization or its affiliates.
+
+  ( b ) U.S. chief risk officer —
+
+    ( 1 ) General. A foreign banking organization subject to this subpart or its U.S. intermediate holding company, if any, must appoint a U.S. chief risk officer with experience in identifying, assessing, and managing risk exposures of large, complex financial firms.
+
+    ( 2 ) Responsibilities.
+
+      ( i ) The U.S. chief risk officer is responsible for overseeing:
+
+        ( A ) The measurement, aggregation, and monitoring of risks undertaken by the combined U.S. operations;
+
+        ( B ) The implementation of and ongoing compliance with the policies and procedures for the foreign banking organization's combined U.S. operations set forth in paragraph (a)(2)(i) of this section and the development and implementation of processes and systems set forth in paragraph (a)(2)(ii) of this section; and
+
+        ( C ) The management of risks and risk controls within the parameters of the risk-control framework for the combined U.S. operations, and the monitoring and testing of such risk controls.
+
+      ( ii ) The U.S. chief risk officer is responsible for reporting risks and risk-management deficiencies of the combined U.S. operations, and resolving such risk-management deficiencies in a timely manner.
+
+    ( 3 ) Corporate governance and reporting. The U.S. chief risk officer must:
+
+      ( i ) Receive compensation and other incentives consistent with providing an objective assessment of the risks taken by the combined U.S. operations of the foreign banking organization;
+
+      ( ii ) Be employed by and located in the U.S. branch, U.S. agency, U.S. intermediate holding company, if any, or another U.S. subsidiary;
+
+      ( iii ) Report directly to the U.S. risk committee and the global chief risk officer or equivalent management official (or officials) of the foreign banking organization who is responsible for overseeing, on an enterprise-wide basis, the implementation of and compliance with policies and procedures relating to risk-management governance, practices, and risk controls of the foreign banking organization, unless the Board approves an alternative reporting structure based on circumstances specific to the foreign banking organization;
+
+      ( iv ) Regularly provide information to the U.S. risk committee, global chief risk officer, and the Board regarding the nature of and changes to material risks undertaken by the foreign banking organization's combined U.S. operations, including risk-management deficiencies and emerging risks, and how such risks relate to the global operations of the foreign banking organization; and
+
+      ( v ) Meet regularly and as needed with the Board to assess compliance with the requirements of this section.
+
+    ( 4 ) Liquidity risk-management requirements. The U.S. chief risk officer must undertake the liquidity risk-management responsibilities set forth in § 252.156(b) .
+
+  ( c ) Responsibilities of the foreign banking organization. The foreign banking organization must take appropriate measures to ensure that its combined U.S. operations implement the risk management policies overseen by the U.S. risk committee described in paragraph (a) of this section, and its combined U.S. operations provide sufficient information to the U.S. risk committee to enable the U.S. risk committee to carry out the responsibilities of this subpart.
+
+  ( d ) Noncompliance with this section. If a foreign banking organization does not satisfy the requirements of this section, the Board may impose requirements, conditions, or restrictions relating to the activities or business operations of the combined U.S. operations of the foreign banking organization. The Board will coordinate with any relevant State or Federal regulator in the implementation of such requirements, conditions, or restrictions.
+
+## § 252.156 Liquidity risk-management requirements for foreign banking organizations with combined U.S. assets of $100 billion or more.
+
+  ( a ) Responsibilities of the U.S. risk committee.
+
+    ( 1 ) The U.S. risk committee established by a foreign banking organization pursuant to § 252.155(a) (or a designated subcommittee of such committee composed of members of the board of directors (or equivalent thereof)) of the U.S. intermediate holding company or the foreign banking organization, as appropriate must:
+
+      ( i ) Approve at least annually the acceptable level of liquidity risk that the foreign banking organization may assume in connection with the operating strategies for its combined U.S. operations (liquidity risk tolerance), with concurrence from the foreign banking organization's board of directors or its enterprise-wide risk committee, taking into account the capital structure, risk profile, complexity, activities, size of the foreign banking organization and its combined U.S. operations and the enterprise-wide liquidity risk tolerance of the foreign banking organization; and
+
+      ( ii ) Receive and review information provided by the senior management of the combined U.S. operations at least semi-annually to determine whether the combined U.S. operations are operating in accordance with the established liquidity risk tolerance and to ensure that the liquidity risk tolerance for the combined U.S. operations is consistent with the enterprise-wide liquidity risk tolerance established for the foreign banking organization.
+
+      ( iii ) Approve the contingency funding plan for the combined U.S. operations described in paragraph (e) of this section at least annually and whenever the foreign banking organization revises its contingency funding plan, and approve any material revisions to the contingency funding plan for the combined U.S. operations prior to the implementation of such revisions.
+
+  ( b ) Responsibilities of the U.S. chief risk officer —
+
+    ( 1 ) Liquidity risk. The U.S. chief risk officer of a foreign banking organization subject to this subpart must review the strategies and policies and procedures established by senior management of the U.S. operations for managing the risk that the financial condition or safety and soundness of the foreign banking organization's combined U.S. operations would be adversely affected by its inability or the market's perception of its inability to meet its cash and collateral obligations (liquidity risk).
+
+    ( 2 ) Liquidity risk tolerance. The U.S. chief risk officer of a foreign banking organization subject to this subpart must review information provided by the senior management of the U.S. operations to determine whether the combined U.S. operations are operating in accordance with the established liquidity risk tolerance. The U.S. chief risk officer must regularly, and, at least semi-annually, report to the foreign banking organization's U.S. risk committee and enterprise-wide risk committee, or the equivalent thereof (if any) (or a designated subcommittee of such committee composed of members of the relevant board of directors (or equivalent thereof)) on the liquidity risk profile of the foreign banking organization's combined U.S. operations and whether it is operating in accordance with the established liquidity risk tolerance for the U.S. operations, and must establish procedures governing the content of such reports.
+
+    ( 3 ) Business lines or products.
+
+      ( i ) The U.S. chief risk officer of a foreign banking organization subject to this subpart must approve new products and business lines and evaluate the liquidity costs, benefits, and risks of each new business line and each new product offered, managed or sold through the foreign banking organization's combined U.S. operations that could have a significant effect on the liquidity risk profile of the U.S. operations of the foreign banking organization. The approval is required before the foreign banking organization implements the business line or offers the product through its combined U.S. operations. In determining whether to approve the new business line or product, the U.S. chief risk officer must consider whether the liquidity risk of the new business line or product (under both current and stressed conditions) is within the foreign banking organization's established liquidity risk tolerance for its combined U.S. operations.
+
+      ( ii ) The U.S. risk committee must review at least annually significant business lines and products offered, managed or sold through the combined U.S. operations to determine whether each business line or product creates or has created any unanticipated liquidity risk, and to determine whether the liquidity risk of each strategy or product is within the foreign banking organization's established liquidity risk tolerance for its combined U.S. operations.
+
+    ( 4 ) Cash-flow projections. The U.S. chief risk officer of a foreign banking organization subject to this subpart must review the cash-flow projections produced under paragraph (d) of this section at least quarterly (or more often, if changes in market conditions or the liquidity position, risk profile, or financial condition of the foreign banking organization or the U.S. operations warrant) to ensure that the liquidity risk of the foreign banking organization's combined U.S. operations is within the established liquidity risk tolerance.
+
+    ( 5 ) Liquidity risk limits. The U.S. chief risk officer of a foreign banking organization subject to this subpart must establish liquidity risk limits as set forth in paragraph (f) of this section and review the foreign banking organization's compliance with those limits at least quarterly (or more often, if changes in market conditions or the liquidity position, risk profile, or financial condition of the U.S. operations of the foreign banking organization warrant).
+
+    ( 6 ) Liquidity stress testing. The U.S. chief risk officer of a foreign banking organization subject to this subpart must:
+
+      ( i ) Approve the liquidity stress testing practices, methodologies, and assumptions required in § 252.157(a) at least quarterly, and whenever the foreign banking organization materially revises its liquidity stress testing practices, methodologies or assumptions;
+
+      ( ii ) Review the liquidity stress testing results produced under § 252.157(a) of this subpart at least quarterly; and
+
+      ( iii ) Approve the size and composition of the liquidity buffer established under § 252.157(c) of this subpart at least quarterly.
+
+  ( c ) Independent review function.
+
+    ( 1 ) A foreign banking organization subject to this subpart must establish and maintain a review function, which is independent of the management functions that execute funding for its combined U.S. operations, to evaluate the liquidity risk management for its combined U.S. operations.
+
+    ( 2 ) The independent review function must:
+
+      ( i ) Regularly, but no less frequently than annually, review and evaluate the adequacy and effectiveness of the foreign banking organization's liquidity risk management processes within the combined U.S. operations, including its liquidity stress test processes and assumptions;
+
+      ( ii ) Assess whether the foreign banking organization's liquidity risk-management function of its combined U.S. operations complies with applicable laws and regulations, and sound business practices; and
+
+      ( iii ) Report material liquidity risk management issues to the U.S. risk committee and the enterprise-wide risk committee in writing for corrective action, to the extent permitted by applicable law.
+
+  ( d ) Cash-flow projections.
+
+    ( 1 ) A foreign banking organization subject to this subpart must produce comprehensive cash-flow projections for its combined U.S. operations that project cash flows arising from assets, liabilities, and off-balance sheet exposures over, at a minimum, short- and long-term time horizons. The foreign banking organization must update short-term cash-flow projections daily and must update longer-term cash-flow projections at least monthly.
+
+    ( 2 ) The foreign banking organization must establish a methodology for making cash-flow projections for its combined U.S. operations that results in projections which:
+
+      ( i ) Include cash flows arising from contractual maturities, intercompany transactions, new business, funding renewals, customer options, and other potential events that may impact liquidity;
+
+      ( ii ) Include reasonable assumptions regarding the future behavior of assets, liabilities, and off-balance sheet exposures;
+
+      ( iii ) Identify and quantify discrete and cumulative cash-flow mismatches over these time periods; and
+
+      ( iv ) Include sufficient detail to reflect the capital structure, risk profile, complexity, currency exposure, activities, and size of the foreign banking organization and its combined U.S. operations, and include analyses by business line, currency, or legal entity as appropriate.
+
+  ( e ) Contingency funding plan.
+
+    ( 1 ) A foreign banking organization subject to this subpart must establish and maintain a contingency funding plan for its combined U.S. operations that sets out the foreign banking organization's strategies for addressing liquidity needs during liquidity stress events. The contingency funding plan must be commensurate with the capital structure, risk profile, complexity, activities, size, and the established liquidity risk tolerance for the combined U.S. operations. The foreign banking organization must update the contingency funding plan for its combined U.S. operations at least annually, and when changes to market and idiosyncratic conditions warrant.
+
+    ( 2 ) Components of the contingency funding plan —
+
+      ( i ) Quantitative assessment. The contingency funding plan for the combined U.S. operations must:
+
+        ( A ) Identify liquidity stress events that could have a significant impact on the liquidity of the foreign banking organization or its combined U.S. operations;
+
+        ( B ) Assess the level and nature of the impact on the liquidity of the foreign banking organization and its combined U.S. operations that may occur during identified liquidity stress events;
+
+        ( C ) Identify the circumstances in which the foreign banking organization would implement its action plan described in paragraph (e)(2)(ii)(A) of this section, which circumstances must include failure to meet any minimum liquidity requirement imposed by the Board on the foreign banking organization's combined U.S. operations;
+
+        ( D ) Assess available funding sources and needs during the identified liquidity stress events;
+
+        ( E ) Identify alternative funding sources that may be used during the identified liquidity stress events; and
+
+        ( F ) Incorporate information generated by the liquidity stress testing required under § 252.157(a) of this subpart .
+
+      ( ii ) Liquidity event management process. The contingency funding plan for the combined U.S. operations must include an event management process that sets out the foreign banking organization's procedures for managing liquidity during identified liquidity stress events for the combined U.S. operations. The liquidity event management process must:
+
+        ( A ) Include an action plan that clearly describes the strategies that the foreign banking organization will use to respond to liquidity shortfalls in its combined U.S. operations for identified liquidity stress events, including the methods that the organization or the combined U.S. operations will use to access alternative funding sources;
+
+        ( B ) Identify a liquidity stress event management team that would execute the action plan in paragraph (e)(2)(i) of this section for the combined U.S. operations;
+
+        ( C ) Specify the process, responsibilities, and triggers for invoking the contingency funding plan, describe the decision-making process during the identified liquidity stress events, and describe the process for executing contingency measures identified in the action plan; and
+
+        ( D ) Provide a mechanism that ensures effective reporting and communication within the combined U.S. operations of the foreign banking organization and with outside parties, including the Board and other relevant supervisors, counterparties, and other stakeholders.
+
+      ( iii ) Monitoring. The contingency funding plan for the combined U.S. operations must include procedures for monitoring emerging liquidity stress events. The procedures must identify early warning indicators that are tailored to the capital structure, risk profile, complexity, activities, and size of the foreign banking organization and its combined U.S. operations.
+
+      ( iv ) Testing. A foreign banking organization must periodically test:
+
+        ( A ) The components of the contingency funding plan to assess the plan's reliability during liquidity stress events;
+
+        ( B ) The operational elements of the contingency funding plan, including operational simulations to test communications, coordination, and decision-making by relevant management; and
+
+        ( C ) The methods it will use to access alternative funding sources for its combined U.S. operations to determine whether these funding sources will be readily available when needed.
+
+  ( f ) Liquidity risk limits —
+
+    ( 1 ) General. A foreign banking organization must monitor sources of liquidity risk and establish limits on liquidity risk that are consistent with the organization's established liquidity risk tolerance and that reflect the organization's capital structure, risk profile, complexity, activities, and size.
+
+    ( 2 ) Liquidity risk limits established by a Category II foreign banking organization or Category III foreign banking organization. If the foreign banking organization is not a Category IV foreign banking organization, liquidity risk limits established under paragraph (f)(1) of this section must include limits on:
+
+      ( i ) Concentrations in sources of funding by instrument type, single counterparty, counterparty type, secured and unsecured funding, and as applicable, other forms of liquidity risk;
+
+      ( ii ) The amount of liabilities that mature within various time horizons; and
+
+      ( iii ) Off-balance sheet exposures and other exposures that could create funding needs during liquidity stress events.
+
+  ( g ) Collateral, legal entity, and intraday liquidity risk monitoring. A foreign banking organization subject to this subpart or more must establish and maintain procedures for monitoring liquidity risk as set forth in this paragraph (g) .
+
+    ( 1 ) Collateral. The foreign banking organization must establish and maintain policies and procedures to monitor assets that have been, or are available to be, pledged as collateral in connection with transactions to which entities in its U.S. operations are counterparties. These policies and procedures must provide that the foreign banking organization:
+
+      ( i ) Calculates all of the collateral positions for its combined U.S. operations according to the frequency specified in paragraph (g)(1)(i)(A) or (B) of this section or as directed by the Board, specifying the value of pledged assets relative to the amount of security required under the relevant contracts and the value of unencumbered assets available to be pledged:
+
+        ( A ) If the foreign banking organization is not a Category IV foreign banking organization, on at least a weekly basis; or
+
+        ( B ) If the foreign banking organization is a Category IV foreign banking organization, on at least a monthly basis;
+
+      ( ii ) Monitors the levels of unencumbered assets available to be pledged by legal entity, jurisdiction, and currency exposure;
+
+      ( iii ) Monitors shifts in the foreign banking organization's funding patterns, including shifts between intraday, overnight, and term pledging of collateral; and
+
+      ( iv ) Tracks operational and timing requirements associated with accessing collateral at its physical location (for example, the custodian or securities settlement system that holds the collateral).
+
+    ( 2 ) Legal entities, currencies and business lines. The foreign banking organization must establish and maintain procedures for monitoring and controlling liquidity risk exposures and funding needs of its combined U.S. operations, within and across significant legal entities, currencies, and business lines and taking into account legal and regulatory restrictions on the transfer of liquidity between legal entities.
+
+    ( 3 ) Intraday exposure. The foreign banking organization must establish and maintain procedures for monitoring intraday liquidity risk exposure for its combined U.S. operations that are consistent with the capital structure, risk profile, complexity, activities, and size of the foreign banking organization and its combined U.S. operations. If the foreign banking organization is not a Category IV banking organization these procedures must address how the management of the combined U.S. operations will:
+
+      ( i ) Monitor and measure expected gross daily inflows and outflows;
+
+      ( ii ) Manage and transfer collateral to obtain intraday credit;
+
+      ( iii ) Identify and prioritize time-specific obligations so that the foreign banking organizations can meet these obligations as expected and settle less critical obligations as soon as possible;
+
+      ( iv ) Manage the issuance of credit to customers where necessary; and
+
+      ( v ) Consider the amounts of collateral and liquidity needed to meet payment systems obligations when assessing the overall liquidity needs of the combined U.S. operations.
+
+## § 252.157 Liquidity stress testing and buffer requirements for foreign banking organizations with combined U.S. assets of $100 billion or more.
+
+  ( a ) Liquidity stress testing requirement —
+
+    ( 1 ) General.
+
+      ( i ) A foreign banking organization subject to this subpart must conduct stress tests to separately assess the potential impact of liquidity stress scenarios on the cash flows, liquidity position, profitability, and solvency of:
+
+        ( A ) Its combined U.S. operations as a whole;
+
+        ( B ) Its U.S. branches and agencies on an aggregate basis; and
+
+        ( C ) Its U.S. intermediate holding company, if any.
+
+      ( ii ) Each liquidity stress test required under this paragraph (a)(1) must use the stress scenarios described in paragraph (a)(3) of this section and take into account the current liquidity condition, risks, exposures, strategies, and activities of the combined U.S. operations.
+
+      ( iii ) The liquidity stress tests required under this paragraph (a)(1) must take into consideration the balance sheet exposures, off-balance sheet exposures, size, risk profile, complexity, business lines, organizational structure and other characteristics of the foreign banking organization and its combined U.S. operations that affect the liquidity risk profile of the combined U.S. operations.
+
+      ( iv ) In conducting a liquidity stress test using the scenarios described in paragraphs (a)(3)(i) and (iii) of this section, the foreign banking organization must address the potential direct adverse impact of associated market disruptions on the foreign banking organization's combined U.S. operations and the related indirect effect such impact could have on the combined U.S. operations of the foreign banking organization and incorporate the potential actions of other market participants experiencing liquidity stresses under the market disruptions that would adversely affect the foreign banking organization or its combined U.S. operations.
+
+    ( 2 ) Frequency. The foreign banking organization must perform the liquidity stress tests required under paragraph (a)(1) of this section according to the frequency specified in paragraph (a)(2)(i) or (ii) of this section or as directed by the Board:
+
+      ( i ) If the foreign banking organization is not a Category IV foreign banking organization, at least monthly; or
+
+      ( ii ) If the foreign banking organization is a Category IV foreign banking organization, at least quarterly.
+
+    ( 3 ) Stress scenarios.
+
+      ( i ) Each liquidity stress test conducted under paragraph (a)(1) of this section must include, at a minimum:
+
+        ( A ) A scenario reflecting adverse market conditions;
+
+        ( B ) A scenario reflecting an idiosyncratic stress event for the U.S. branches/agencies and the U.S. intermediate holding company, if any; and
+
+        ( C ) a scenario reflecting combined market and idiosyncratic stresses.
+
+      ( ii ) The foreign banking organization must incorporate additional liquidity stress scenarios into its liquidity stress test as appropriate based on the financial condition, size, complexity, risk profile, scope of operations, or activities of the combined U.S. operations, the U.S. branches and agencies, and the U.S. intermediate holding company, as applicable. The Board may require the foreign banking organization to vary the underlying assumptions and stress scenarios.
+
+    ( 4 ) Planning horizon. Each stress test conducted under paragraph (a)(1) of this section must include an overnight planning horizon, a 30-day planning horizon, a 90-day planning horizon, a 1-year planning horizon, and any other planning horizons that are relevant to the liquidity risk profile of the combined U.S. operations, the U.S. branches and agencies, and the U.S. intermediate holding company, if any. For purposes of this section, a “planning horizon” is the period over which the relevant stressed projections extend. The foreign banking organization must use the results of the stress test over the 30-day planning horizon to calculate the size of the liquidity buffers under paragraph (c) of this section.
+
+    ( 5 ) Requirements for assets used as cash-flow sources in a stress test.
+
+      ( i ) To the extent an asset is used as a cash flow source to offset projected funding needs during the planning horizon in a liquidity stress test, the fair market value of the asset must be discounted to reflect any credit risk and market volatility of the asset.
+
+      ( ii ) Assets used as cash-flow sources during the planning horizon must be diversified by collateral, counterparty, borrowing capacity, or other factors associated with the liquidity risk of the assets.
+
+      ( iii ) A line of credit does not qualify as a cash flow source for purposes of a stress test with a planning horizon of 30 days or less. A line of credit may qualify as a cash flow source for purposes of a stress test with a planning horizon that exceeds 30 days.
+
+    ( 6 ) Tailoring. Stress testing must be tailored to, and provide sufficient detail to reflect, the capital structure, risk profile, complexity, activities, and size of the combined U.S. operations of the foreign banking organization and, as appropriate, the foreign banking organization as a whole.
+
+    ( 7 ) Governance —
+
+      ( i ) Stress test function. A foreign banking organization subject to this subpart, within its combined U.S. operations and its enterprise-wide risk management, must establish and maintain policies and procedures governing its liquidity stress testing practices, methodologies, and assumptions that provide for the incorporation of the results of liquidity stress tests in future stress testing and for the enhancement of stress testing practices over time.
+
+      ( ii ) Controls and oversight. The foreign banking organization must establish and maintain a system of controls and oversight that is designed to ensure that its liquidity stress testing processes are effective in meeting the requirements of this section. The controls and oversight must ensure that each liquidity stress test appropriately incorporates conservative assumptions with respect to the stress scenario in paragraph (a)(3) of this section and other elements of the stress-test process, taking into consideration the capital structure, risk profile, complexity, activities, size, and other relevant factors of the combined U.S. operations. These assumptions must be approved by U.S. chief risk officer and subject to independent review consistent with the standards set out in § 252.156(c) .
+
+      ( iii ) Management information systems. The foreign banking organization must maintain management information systems and data processes sufficient to enable it to effectively and reliably collect, sort, and aggregate data and other information related to the liquidity stress testing of its combined U.S. operations.
+
+    ( 8 ) Notice and response. If the Board determines that a foreign banking organization must conduct liquidity stress tests according to a frequency other than the frequency provided in paragraphs (a)(2)(i) and (ii) of this section, the Board will notify the foreign banking organization before the change in frequency takes effect, and describe the basis for its determination. Within 14 calendar days of receipt of a notification under this paragraph, the foreign banking organization may request in writing that the Board reconsider the requirement. The Board will respond in writing to the organization's request for reconsideration prior to requiring the foreign banking organization to conduct liquidity stress tests according to a frequency other than the frequency provided in paragraphs (a)(2)(i) and (ii) of this section.
+
+  ( b ) Reporting of liquidity stress tests required by home-country regulators. A foreign banking organization subject to this subpart must make available to the Board, in a timely manner, the results of any liquidity internal stress tests and establishment of liquidity buffers required by regulators in its home jurisdiction. The report required under this paragraph must include the results of its liquidity stress test and liquidity buffer, if required by the laws or regulations implemented in the home jurisdiction, or expected under supervisory guidance.
+
+  ( c ) Liquidity buffer requirement —
+
+    ( 1 ) General. A foreign banking organization subject to this subpart must maintain a liquidity buffer for its U.S. intermediate holding company, if any, calculated in accordance with paragraph (c)(2) of this section, and a separate liquidity buffer for its U.S. branches and agencies, if any, calculated in accordance with paragraph (c)(3) of this section.
+
+    ( 2 ) Calculation of U.S. intermediate holding company buffer requirement.
+
+      ( i ) The liquidity buffer for the U.S. intermediate holding company must be sufficient to meet the projected net stressed cash-flow need over the 30-day planning horizon of a liquidity stress test conducted in accordance with paragraph (a) of this section under each scenario set forth in paragraphs (a)(3)(i) through (iii) of this section.
+
+      ( ii ) Net stressed cash-flow need. The net stressed cash-flow need for the U.S. intermediate holding company is equal to the sum of its net external stressed cash-flow need (calculated pursuant to paragraph (c)(2)(iii) of this section) and its net internal stressed cash-flow need (calculated pursuant to paragraph (c)(2)(iv) of this section) over the 30-day planning horizon.
+
+      ( iii ) Net external stressed cash-flow need calculation. The net external stressed cash-flow need for a U.S. intermediate holding company equals the difference between:
+
+        ( A ) The projected amount of cash-flow needs that results from transactions between the U.S. intermediate holding company and entities that are not its affiliates; and
+
+        ( B ) The projected amount of cash-flow sources that results from transactions between the U.S. intermediate holding company and entities that are not its affiliates.
+
+      ( iv ) Net internal stressed cash-flow need calculation —
+
+        ( A ) General. The net internal stressed cash-flow need for the U.S. intermediate holding company equals the greater of:
+
+          ( 1 ) The greatest daily cumulative net intragroup cash-flow need over the 30-day planning horizon as calculated under paragraph (c)(2)(iv)(B) of this section; and
+
+          ( 2 ) Zero.
+
+        ( B ) Daily cumulative net intragroup cash-flow need calculation. The daily cumulative net intragroup cash-flow need for the U.S. intermediate holding company for purposes of paragraph (c)(2)(iv)(A) of this section is calculated as follows:
+
+          ( 1 ) Daily cumulative net intragroup cash-flow need. For any given day in the stress-test horizon, the daily cumulative net intragroup cash-flow need is a daily cumulative net intragroup cash flow that is greater than zero.
+
+          ( 2 ) Daily cumulative net intragroup cash flow. For any given day of the planning horizon, the daily cumulative net intragroup cash flow equals the sum of the net intragroup cash flow calculated for that day and the net intragroup cash flow calculated for each previous day of the stress-test horizon, as calculated in accordance with paragraph (c)(2)(iv)(C) of this section.
+
+        ( C ) Net intragroup cash flow. For any given day of the stress-test horizon, the net intragroup cash flow equals the difference between:
+
+          ( 1 ) The amount of cash-flow needs resulting from transactions between the U.S. intermediate holding company and its affiliates (including any U.S. branch or U.S. agency) for that day of the planning horizon; and
+
+          ( 2 ) The amount of cash-flow sources resulting from transactions between the U.S. intermediate holding company and its affiliates (including any U.S. branch or U.S. agency) for that day of the planning horizon.
+
+        ( D ) Amounts secured by highly liquid assets. For the purposes of calculating net intragroup cash flow under this paragraph, the amounts of intragroup cash-flow needs and intragroup cash-flow sources that are secured by highly liquid assets (as defined in paragraph (c)(7) of this section) must be excluded from the calculation.
+
+    ( 3 ) Calculation of U.S. branch and agency liquidity buffer requirement.
+
+      ( i ) The liquidity buffer for the foreign banking organization's U.S. branches and agencies must be sufficient to meet the projected net stressed cash-flow need of the U.S. branches and agencies over the first 14 days of a stress test with a 30-day planning horizon, conducted in accordance with paragraph (a) of this section under the scenarios described in paragraphs (a)(3)(i) through (iii) of this section.
+
+      ( ii ) Net stressed cash-flow need. The net stressed cash-flow need of the U.S. branches and agencies of a foreign banking organization is equal to the sum of its net external stressed cash-flow need (calculated pursuant to paragraph (c)(3)(iii) of this section) and net internal stressed cash-flow need (calculated pursuant to paragraph (c)(3)(iv) of this section) over the first 14 days of the 30-day planning horizon.
+
+      ( iii ) Net external stressed cash-flow need calculation.
+
+        ( A ) The net external stressed cash-flow need of the U.S. branches and agencies equals the difference between:
+
+          ( 1 ) The projected amount of cash-flow needs that results from transactions between the U.S. branches and agencies and entities other than the foreign bank's non-U.S. offices and its U.S. and non-U.S. affiliates; and
+
+          ( 2 ) The projected amount of cash-flow sources that results from transactions between the U.S. branches and agencies and entities other than the foreign bank's non-U.S. offices and its U.S. and non-U.S. affiliates.
+
+      ( iv ) Net internal stressed cash-flow need calculation —
+
+        ( A ) General. The net internal stressed cash-flow need of the U.S. branches and agencies of the foreign banking organization equals the greater of:
+
+          ( 1 ) The greatest daily cumulative net intragroup cash-flow need over the first 14 days of the 30-day planning horizon, as calculated under paragraph (c)(3)(iv)(B) of this section; and
+
+          ( 2 ) Zero.
+
+        ( B ) Daily cumulative net intragroup cash-flow need calculation. The daily cumulative net intragroup cash-flow need of the U.S. branches and agencies of a foreign banking organization for purposes of paragraph (c)(3)(iv) of this section is calculated as follows:
+
+          ( 1 ) Daily cumulative net intragroup cash-flow need. For any given day of the stress-test horizon, the daily cumulative net intragroup cash-flow need of the U.S. branches and agencies means a daily cumulative net intragroup cash flow that is greater than zero.
+
+          ( 2 ) Daily cumulative net intragroup cash flow. For any given day of the planning horizon, the daily cumulative net intragroup cash flow of the U.S. branches and agencies equals the sum of the net intragroup cash flow calculated for that day and the net intragroup cash flow calculated for each previous day of the planning horizon, each as calculated in accordance with this paragraph (c)(3)(iv)(C) of this section.
+
+        ( C ) Net intragroup cash flow. For any given day of the planning horizon, the net intragroup cash flow must equal the difference between:
+
+          ( 1 ) The amount of projected cash-flow needs resulting from transactions between a U.S. branch or U.S. agency and the foreign bank's non-U.S. offices and its affiliates; and
+
+          ( 2 ) The amount of projected cash-flow sources resulting from transactions between a U.S. branch or U.S. agency and the foreign bank's non-U.S. offices and its affiliates.
+
+        ( D ) Amounts secured by highly liquid assets. For the purposes of calculating net intragroup cash flow of the U.S. branches and agencies under this paragraph, the amounts of intragroup cash-flow needs and intragroup cash-flow sources that are secured by highly liquid assets (as defined in paragraph (c)(7) of this section) must be excluded from the calculation.
+
+    ( 4 ) Location of liquidity buffer —
+
+      ( i ) U.S. intermediate holding companies. A U.S. intermediate holding company must maintain in accounts in the United States the highly liquid assets comprising the liquidity buffer required under this section. To the extent that the assets consist of cash, the cash may not be held in an account located at a U.S. branch or U.S. agency of the affiliated foreign banking organization or other affiliate that is not controlled by the U.S. intermediate holding company.
+
+      ( ii ) U.S. branches and agencies. The U.S. branches and agencies of a foreign banking organization must maintain in accounts in the United States the highly liquid assets comprising the liquidity buffer required under this section. To the extent that the assets consist of cash, the cash may not be held in an account located at the foreign banking organization's U.S. intermediate holding company or other affiliate.
+
+    ( 7 ) Asset requirements. The liquidity buffer required in this section for the U.S. intermediate holding company or the U.S. branches and agencies must consist of highly liquid assets that are unencumbered, as set forth below:
+
+      ( i ) Highly liquid assets. The asset must be a highly liquid asset. For these purposes, a highly liquid asset includes:
+
+        ( A ) Cash;
+
+        ( B ) Assets that meet the criteria for high quality liquid assets as defined in 12 CFR 249.20 ; or
+
+        ( C ) Any other asset that the foreign banking organization demonstrates to the satisfaction of the Board:
+
+          ( 1 ) Has low credit risk and low market risk;
+
+          ( 2 ) Is traded in an active secondary two-way market that has committed market makers and independent bona fide offers to buy and sell so that a price reasonably related to the last sales price or current bona fide competitive bid and offer quotations can be determined within one day and settled at that price within a reasonable time period conforming with trade custom; and
+
+          ( 3 ) Is a type of asset that investors historically have purchased in periods of financial market distress during which market liquidity has been impaired.
+
+      ( ii ) Unencumbered. The asset must be unencumbered. For these purposes, an asset is unencumbered if it:
+
+        ( A ) Is free of legal, regulatory, contractual or other restrictions on the ability of such company promptly to liquidate, sell or transfer the asset; and
+
+        ( B ) Is either:
+
+          ( 1 ) Not pledged or used to secure or provide credit enhancement to any transaction; or
+
+          ( 2 ) Pledged to a central bank or a U.S. government-sponsored enterprise, to the extent potential credit secured by the asset is not currently extended by such central bank or U.S. government-sponsored enterprise or any of its consolidated subsidiaries.
+
+      ( iii ) Calculating the amount of a highly liquid asset. In calculating the amount of a highly liquid asset included in the liquidity buffer, the foreign banking organization must discount the fair market value of the asset to reflect any credit risk and market price volatility of the asset.
+
+      ( iv ) Operational requirements. With respect to the liquidity buffer, the foreign banking organization must:
+
+        ( A ) Establish and implement policies and procedures that require highly liquid assets comprising the liquidity buffer to be under the control of the management function in the foreign banking organization that is charged with managing liquidity risk of its combined U.S. operations; and
+
+        ( B ) Demonstrate the capability to monetize a highly liquid asset under each scenario required under § 252.157(a)(3) .
+
+      ( v ) Diversification. The liquidity buffer must not contain significant concentrations of highly liquid assets by issuer, business sector, region, or other factor related to the foreign banking organization's risk, except with respect to cash and securities issued or guaranteed by the United States, a U.S. government agency, or a U.S. government sponsored enterprise.
+
+## § 252.158 Capital stress testing requirements for foreign banking organizations with combined U.S. assets of $100 billion or more.
+
+  ( a ) Definitions. For purposes of this section, the following definitions apply:
+
+    ( 1 ) Eligible asset means any asset of the U.S. branch or U.S. agency held in the United States that is recorded on the general ledger of a U.S. branch or U.S. agency of the foreign banking organization (reduced by the amount of any specifically allocated reserves held in the United States and recorded on the general ledger of the U.S. branch or U.S. agency in connection with such assets), subject to the following exclusions, and, for purposes of this definition, as modified by the rules of valuation set forth in paragraph (a)(1)(ii) of this section.
+
+      ( i ) The following assets do not qualify as eligible assets:
+
+        ( A ) Equity securities;
+
+        ( B ) Any assets classified as loss at the preceding examination by a regulatory agency, outside accountant, or the bank's internal loan review staff;
+
+        ( C ) Accrued income on assets classified loss, doubtful, substandard or value impaired, at the preceding examination by a regulatory agency, outside accountant, or the bank's internal loan review staff;
+
+        ( D ) Any amounts due from the home office, other offices and affiliates, including income accrued but uncollected on such amounts;
+
+        ( E ) The balance from time to time of any other asset or asset category disallowed at the preceding examination or by direction of the Board for any other reason until the underlying reasons for the disallowance have been removed;
+
+        ( F ) Prepaid expenses and unamortized costs, furniture and fixtures and leasehold improvements; and
+
+        ( G ) Any other asset that the Board determines should not qualify as an eligible asset.
+
+      ( ii ) The following rules of valuation apply:
+
+        ( A ) A marketable debt security is valued at its principal amount or market value, whichever is lower;
+
+        ( B ) An asset classified doubtful or substandard at the preceding examination by a regulatory agency, outside accountant, or the bank's internal loan review staff, is valued at 50 percent and 80 percent, respectively;
+
+        ( C ) With respect to an asset classified value impaired, the amount representing the allocated transfer risk reserve that would be required for such exposure at a domestically chartered bank is valued at 0 and the residual exposure is valued at 80 percent; and
+
+        ( D ) Real estate located in the United States and carried on the accounting records as an asset are valued at net book value or appraised value, whichever is less.
+
+    ( 2 ) Liabilities of all U.S. branches and agencies of a foreign banking organization means all liabilities of all U.S. branches and agencies of the foreign banking organization, including acceptances and any other liabilities (including contingent liabilities), but excluding:
+
+      ( i ) Amounts due to and other liabilities to other offices, agencies, branches and affiliates of such foreign banking organization, including its head office, including unremitted profits; and
+
+      ( ii ) Reserves for possible loan losses and other contingencies.
+
+    ( 3 ) Pre-provision net revenue means revenue less expenses before adjusting for total loan loss provisions.
+
+    ( 4 ) Stress test cycle has the same meaning as in subpart F of this part .
+
+    ( 5 ) Total loan loss provisions means the amount needed to make reserves adequate to absorb estimated credit losses, based upon management's evaluation of the loans and leases that the company has the intent and ability to hold for the foreseeable future or until maturity or payoff, as determined under applicable accounting standards.
+
+  ( b ) In general.
+
+    ( 1 ) A foreign banking organization subject to this subpart and that has a U.S. branch or U.S. agency must:
+
+      ( i ) Be subject on a consolidated basis to a capital stress testing regime by its home-country supervisor that meets the requirements of paragraph (b)(2) of this section;
+
+      ( ii ) Conduct such stress tests or be subject to a supervisory stress test and meet any minimum standards set by its home-country supervisor with respect to the stress tests; and
+
+      ( iii ) Provide to the Board the information required under paragraph (c) of this section.
+
+    ( 2 ) The capital stress testing regime of a foreign banking organization's home-country supervisor must include:
+
+      ( i ) A supervisory capital stress test conducted by the foreign banking organization's home-country supervisor or an evaluation and review by the foreign banking organization's home-country supervisor of an internal capital adequacy stress test conducted by the foreign banking organization, according to the frequency specified in paragraph (b)(2)(A) or (B):
+
+        ( A ) If the foreign banking organization is not a Category IV foreign banking organization, at least annually; or
+
+        ( B ) If the foreign banking organization is a Category IV foreign banking organization, at least biennially; and
+
+      ( ii ) Requirements for governance and controls of stress testing practices by relevant management and the board of directors (or equivalent thereof) of the foreign banking organization;
+
+  ( c ) Information requirements —
+
+    ( 1 ) In general. A foreign banking organization subject to this subpart must report to the Board by January 5 of each calendar year, unless such date is extended by the Board, summary information about its stress-testing activities and results, including the following quantitative and qualitative information:
+
+      ( i ) A description of the types of risks included in the stress test;
+
+      ( ii ) A description of the conditions or scenarios used in the stress test;
+
+      ( iii ) A summary description of the methodologies used in the stress test;
+
+      ( iv ) Estimates of:
+
+        ( A ) Aggregate losses;
+
+        ( B ) Pre-provision net revenue;
+
+        ( C ) Total loan loss provisions;
+
+        ( D ) Net income before taxes; and
+
+        ( E ) Pro forma regulatory capital ratios required to be computed by the home-country supervisor of the foreign banking organization and any other relevant capital ratios; and
+
+      ( v ) An explanation of the most significant causes for any changes in regulatory capital ratios.
+
+    ( 2 ) Additional information required for foreign banking organizations in a net due from position. If, on a net basis, the U.S. branches and agencies of a foreign banking organization subject to this subpart provide funding to the foreign banking organization's non-U.S. offices and non-U.S. affiliates, calculated as the average daily position over a stress test cycle for a given year, the foreign banking organization must report the following information to the Board by January 5 of each calendar year, unless such date is extended by the Board:
+
+      ( i ) A detailed description of the methodologies used in the stress test, including those employed to estimate losses, revenues, and changes in capital positions;
+
+      ( ii ) Estimates of realized losses or gains on available-for-sale and held-to-maturity securities, trading and counterparty losses, if applicable; and loan losses (dollar amount and as a percentage of average portfolio balance) in the aggregate and by material sub-portfolio; and
+
+      ( iii ) Any additional information that the Board requests.
+
+  ( d ) Imposition of additional standards for capital stress tests.
+
+    ( 1 ) Unless the Board otherwise determines in writing, a foreign banking organization that does not meet each of the requirements in paragraph (b)(1) and (2) of this section must:
+
+      ( i ) Maintain eligible assets in its U.S. branches and agencies that, on a daily basis, are not less than 108 percent of the average value over each day of the previous calendar quarter of the total liabilities of all U.S. branches and agencies of the foreign banking organization; and
+
+      ( ii ) To the extent that a foreign banking organization has not established a U.S. intermediate holding company, conduct an annual stress test of its U.S. subsidiaries to determine whether those subsidiaries have the capital necessary to absorb losses as a result of adverse economic conditions; and report to the Board on an annual basis a summary of the results of the stress test that includes the information required under paragraph (b)(1) of this section and any other information specified by the Board.
+
+    ( 2 ) An enterprise-wide stress test that is approved by the Board may meet the stress test requirement of paragraph (d)(1)(ii) of this section.
+
+    ( 3 ) Intragroup funding restrictions or liquidity requirements for U.S. operations. If a foreign banking organization does not meet each of the requirements in paragraphs (b)(1) and (2) of this section, the Board may require the U.S. branches and agencies of the foreign banking organization and, if the foreign banking organization has not established a U.S. intermediate holding company, any U.S. subsidiary of the foreign banking organization, to maintain a liquidity buffer or be subject to intragroup funding restrictions.
+
+  ( e ) Notice and response. If the Board determines to impose one or more conditions under paragraph (d)(3) of this section, the Board will notify the company before it applies the condition, and describe the basis for imposing the condition. Within 14 calendar days of receipt of a notification under this paragraph, the company may request in writing that the Board reconsider the requirement. The Board will respond in writing to the company's request for reconsideration prior to applying the condition.
+
+## § 252.160 Applicability.
+
+  ( a ) General applicability. This subpart applies to a U.S. intermediate holding company that is required to be established pursuant to § 252.153 and is controlled by a global systemically important foreign banking organization (Covered IHC).
+
+  ( b ) Initial applicability. A Covered IHC is subject to the requirements of §§ 252.162 , 252.163 , 252.165 , 252.166 , and 252.167 beginning on the later of:
+
+    ( 1 ) January 1, 2019; and
+
+    ( 2 ) 1095 days (three years) after the later of the date on which:
+
+      ( i ) The U.S. non-branch assets of the global systemically important foreign banking organization that controls the Covered IHC equaled or exceeded $50 billion; and
+
+      ( ii ) The foreign banking organization that controls the Covered IHC became a global systemically important foreign banking organization.
+
+  ( c ) Applicability of § 252.164 . Section 252.164 applies to a global systemically important foreign banking organization with U.S. non-branch assets that equal or exceed $50 billion.
+
+## § 252.161 Definitions.
+
+For purposes of this subpart:
+
+  Additional tier 1 capital has the same meaning as in 12 CFR 217.20(c) .
+
+  Average total consolidated assets means the denominator of the leverage ratio as described in 12 CFR 217.10(b)(4) .
+
+  Common equity tier 1 capital has the same meaning as in 12 CFR 217.20(b) .
+
+  Common equity tier 1 capital ratio has the same meaning as in 12 CFR 217.10(b)(1) and 12 CFR 217.10(c) , as applicable.
+
+  Common equity tier 1 minority interest has the same meaning as in 12 CFR 217.2 .
+
+  Covered IHC is defined in § 252.160 .
+
+  Covered IHC TLAC buffer means, with respect to a Covered IHC, the sum of 2.5 percent and any applicable countercyclical capital buffer under 12 CFR 217.11(b) (expressed as a percentage).
+
+  Covered IHC Total loss-absorbing capacity amount is defined in § 252.165(c) .
+
+  Default right
+
+    ( 1 ) Means any:
+
+      ( i ) Right of a party, whether contractual or otherwise (including rights incorporated by reference to any other contract, agreement or document, and rights afforded by statute, civil code, regulation and common law), to liquidate, terminate, cancel, rescind, or accelerate such agreement or transactions thereunder, set off or net amounts owing in respect thereto (except rights related to same-day payment netting), exercise remedies in respect of collateral or other credit support or property related thereto (including the purchase and sale of property), demand payment or delivery thereunder or in respect thereof (other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure), suspend, delay or defer payment or performance thereunder, modify the obligations of a party thereunder or any similar rights; and
+
+      ( ii ) Right or contractual provision that alters the amount of collateral or margin that must be provided with respect to an exposure thereunder, including by altering any initial amount, threshold amount, variation margin, minimum transfer amount, the margin value of collateral or any similar amount, that entitles a party to demand the return of any collateral or margin transferred by it to the other party or a custodian or that modifies a transferee's right to reuse collateral or margin (if such right previously existed), or any similar rights, in each case, other than a right or operation of a contractual provision arising solely from a change in the value of collateral or margin or a change in the amount of an economic exposure; and
+
+    ( 2 ) Does not include any right under a contract that allows a party to terminate the contract on demand or at its option at a specified time, or from time to time, without the need to show cause.
+
+  Discretionary bonus payment has the same meaning as under 12 CFR 217.2 .
+
+  Distribution has the same meaning as under 12 CFR 217.2 .
+
+  Eligible Covered IHC debt security with respect to a non-resolution Covered IHC means eligible internal debt securities issued by the non-resolution Covered IHC, and with respect to a resolution Covered IHC means eligible internal debt securities and eligible external debt securities issued by the resolution Covered IHC.
+
+  Eligible external debt security means:
+
+    ( 1 ) A debt instrument that:
+
+      ( i ) Is paid in, and issued by the Covered IHC to, and remains held by, a person that does not directly or indirectly control the Covered IHC and is not a wholly owned subsidiary;
+
+      ( ii ) Is not secured, not guaranteed by the Covered IHC or a subsidiary of the Covered IHC, and is not subject to any other arrangement that legally or economically enhances the seniority of the instrument;
+
+      ( iii ) Has a maturity of greater than or equal to 365 days (one year) from the date of issuance;
+
+      ( iv ) Is governed by the laws of the United States or any State thereof;
+
+      ( v ) Does not provide the holder of the instrument a contractual right to accelerate payment of principal or interest on the instrument, except a right that is exercisable on one or more dates that are specified in the instrument or in the event of:
+
+        ( A ) A receivership, insolvency, liquidation, or similar proceeding of the Covered IHC; or
+
+        ( B ) A failure of the Covered IHC to pay principal or interest on the instrument when due and payable that continues for 30 days or more;
+
+      ( vi ) Does not have a credit-sensitive feature, such as an interest rate that is reset periodically based in whole or in part on the Covered IHC's credit quality, but may have an interest rate that is adjusted periodically independent of the Covered IHC's credit quality, in relation to general market interest rates or similar adjustments;
+
+      ( vii ) Is not a structured note; and
+
+      ( viii ) Does not provide that the instrument may be converted into or exchanged for equity of the covered IHC; and
+
+    ( 2 ) A debt instrument issued prior to December 31, 2016 that:
+
+      ( i ) Is paid in, and issued by the Covered IHC to, and remains held by, a person that does not directly or indirectly control the Covered IHC and is not a wholly owned subsidiary;
+
+      ( ii ) Is not secured, not guaranteed by the Covered IHC or a subsidiary of the Covered IHC, and not subject to any other arrangement that legally or economically enhances the seniority of the instrument;
+
+      ( iii ) Has a maturity of greater than or equal to 365 days (one year) from the date of issuance;
+
+      ( iv ) Does not have a credit-sensitive feature, such as an interest rate that is reset periodically based in whole or in part on the Covered IHC's credit quality, but may have an interest rate that is adjusted periodically independent of the Covered IHC's credit quality, in relation to general market interest rates or similar adjustments;
+
+      ( v ) Is not a structured note; and
+
+      ( vi ) Does not provide that the instrument may be converted into or exchanged for equity of the Covered IHC.
+
+  Eligible internal debt security means a debt instrument that:
+
+    ( i ) Is paid in, and issued by the Covered IHC;
+
+    ( ii ) Is not secured, not guaranteed by the Covered IHC or a subsidiary of the Covered IHC, and is not subject to any other arrangement that legally or economically enhances the seniority of the instrument;
+
+    ( iii ) Has a maturity of greater than or equal to 365 days (one year) from the date of issuance;
+
+    ( iv ) Is governed by the laws of the United States or any State thereof;
+
+    ( v ) Does not provide the holder of the instrument a contractual right to accelerate payment of principal or interest on the instrument, except a right that is exercisable on one or more dates that are specified in the instrument or in the event of:
+
+      ( A ) A receivership, insolvency, liquidation, or similar proceeding of the Covered IHC; or
+
+      ( B ) A failure of the Covered IHC to pay principal or interest on the instrument when due and payable that continues for 30 days or more;
+
+    ( vi ) Is not a structured note;
+
+    ( vii ) Is issued to and remains held by a company that is incorporated or organized outside of the United States, and directly or indirectly controls the Covered IHC or is a wholly owned subsidiary; and
+
+    ( viii ) Has a contractual provision that is approved by the Board that provides for the immediate conversion or exchange of the instrument into common equity tier 1 of the Covered IHC upon issuance by the Board of an internal debt conversion order.
+
+  GAAP means generally accepted accounting principles as used in the United States.
+
+  Internal debt conversion order means an order by the Board to immediately convert to, or exchange for, common equity tier 1 capital an amount of eligible internal debt securities of the Covered IHC specified by the Board in its discretion, as described in § 252.163 .
+
+  Non-resolution Covered IHC means a Covered IHC identified as or determined to be a non-resolution Covered IHC pursuant to § 252.164 .
+
+  Outstanding eligible Covered IHC long-term debt amount is defined in § 252.162(b) .
+
+  Person has the same meaning as in 12 CFR 225.2 .
+
+  Qualified financial contract has the same meaning as in section 210(c)(8)(D) of Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5390(c)(8)(D) ).
+
+  Resolution Covered IHC means a Covered IHC identified as or determined to be a resolution Covered IHC pursuant to § 252.164 .
+
+  Standardized total risk-weighted assets has the same meaning as in 12 CFR 217.2 .
+
+  Structured note means a debt instrument that:
+
+    ( 1 ) Has a principal amount, redemption amount, or stated maturity that is subject to reduction based on the performance of any asset, entity, index, or embedded derivative or similar embedded feature;
+
+    ( 2 ) Has an embedded derivative or other similar embedded feature that is linked to one or more equity securities, commodities, assets, or entities;
+
+    ( 3 ) Does not specify a minimum principal amount that becomes due and payable upon acceleration or early termination; or
+
+    ( 4 ) Is not classified as debt under GAAP, provided that an instrument is not a structured note solely because it is one or both of the following:
+
+      ( i ) A non-dollar-denominated instrument, or
+
+      ( ii ) An instrument whose interest payments are based on an interest rate index.
+
+  Supplementary leverage ratio has the same meaning as in 12 CFR 217.10(c)(4) .
+
+  Tier 1 minority interest has the same meaning as in 12 CFR 217.2 .
+
+  Tier 2 capital has the same meaning as in 12 CFR 217.20(d) .
+
+  Total leverage exposure has the same meaning as in 12 CFR 217.10(c)(4)(ii) .
+
+  Total risk-weighted assets, with respect to a Covered IHC, is equal to the Covered IHC's standardized total risk-weighted assets.
+
+  U.S. non-branch assets has the same meaning as in 12 CFR 252.152(b)(2) .
+
+  Wholly owned subsidiary means an entity, all of the outstanding ownership interests of which are owned directly or indirectly by a global systemically important foreign banking organization that directly or indirectly controls a Covered IHC, except that up to 0.5 percent of the entity's outstanding ownership interests may be held by a third party if the ownership interest is acquired or retained by the third party for the purpose of establishing corporate separateness or addressing bankruptcy, insolvency, or similar concerns.
+
+At 82 FR 8311 , Jan. 24, 2017, subpart P to part 252 was added, including § 252.161 . The definition of Eligible internal debt security in § 252.161 was set out with inaccurate paragraph codification.
+
+## § 252.162 Covered IHC long-term debt requirement.
+
+  ( a ) Covered IHC long-term debt requirement. A Covered IHC must have an outstanding eligible Covered IHC long-term debt amount that is no less than the amount equal to the greatest of:
+
+    ( 1 ) 6 percent of the Covered IHC's total risk-weighted assets;
+
+    ( 2 ) If the Covered IHC is required to maintain a minimum supplementary leverage ratio, 2.5 percent of the Covered IHC's total leverage exposure; and
+
+    ( 3 ) 3.5 percent of the Covered IHC's average total consolidated assets.
+
+  ( b ) Outstanding eligible Covered IHC long-term debt amount.
+
+    ( 1 ) A Covered IHC's outstanding eligible Covered IHC long-term debt amount is the sum of:
+
+      ( i ) One hundred (100) percent of the amount due to be paid of unpaid principal of the outstanding eligible Covered IHC debt securities issued by the Covered IHC in greater than or equal to 730 days (two years); and
+
+      ( ii ) Fifty (50) percent of the amount due to be paid of unpaid principal of the outstanding eligible Covered IHC debt securities issued by the Covered IHC in greater than or equal to 365 days (one year) and less than 730 days (two years); and
+
+      ( iii ) Zero (0) percent of the amount due to be paid of unpaid principal of the outstanding eligible Covered IHC debt securities issued by the Covered IHC in less than 365 days (one year).
+
+    ( 2 ) For purposes of paragraph (b)(1) of this section, the date on which principal is due to be paid on an outstanding eligible Covered IHC debt security is calculated from the earlier of:
+
+      ( i ) The date on which payment of principal is required under the terms governing the instrument, without respect to any right of the holder to accelerate payment of principal; and
+
+      ( ii ) The date the holder of the instrument first has the contractual right to request or require payment of the amount of principal, provided that, with respect to a right that is exercisable on one or more dates that are specified in the instrument only on the occurrence of an event (other than an event of a receivership, insolvency, liquidation, or similar proceeding of the Covered IHC, or a failure of the Covered IHC to pay principal or interest on the instrument when due), the date for the outstanding eligible Covered IHC debt security under this paragraph (b)(2)(ii) will be calculated as if the event has occurred.
+
+    ( 3 ) After notice and response proceedings consistent with 12 CFR part 263, subpart E , the Board may order a Covered IHC to exclude from its outstanding eligible Covered IHC long-term debt amount any debt security with one or more features that would significantly impair the ability of such debt security to take losses.
+
+  ( c ) Redemption and repurchase. Without the prior approval of the Board, a Covered IHC may not redeem or repurchase any outstanding eligible Covered IHC debt security if, immediately after the redemption or repurchase, the Covered IHC would not have an outstanding eligible Covered IHC long-term debt amount that is sufficient to meet its Covered IHC long-term debt requirement under paragraph (a) of this section.
+
+## § 252.163 Internal debt conversion order.
+
+  ( a ) The Board may issue an internal debt conversion order if:
+
+    ( 1 ) The Board has determined that the Covered IHC is in default or danger of default; and
+
+    ( 2 ) Any of the following circumstances apply:
+
+      ( i ) A foreign banking organization that directly or indirectly controls the Covered IHC or any subsidiary of the top-tier foreign banking organization has been placed into resolution proceedings (including the application of statutory resolution powers) in its home country;
+
+      ( ii ) The home country supervisor of the top-tier foreign banking organization has consented or not promptly objected after notification by the Board to the conversion or exchange of the eligible internal debt securities of the Covered IHC; or
+
+      ( iii ) The Board has made a written recommendation to the Secretary of the Treasury pursuant to 12 U.S.C. 5383(a) regarding the Covered IHC.
+
+  ( b ) For purposes of paragraph (a) of this section, the Board will consider:
+
+    ( 1 ) A Covered IHC in default or danger of default if
+
+      ( i ) A case has been, or likely will promptly be, commenced with respect to the Covered IHC under the Bankruptcy Code ( 11 U.S.C. 101 et seq. );
+
+      ( ii ) The Covered IHC has incurred, or is likely to incur, losses that will deplete all or substantially all of its capital, and there is no reasonable prospect for the Covered IHC to avoid such depletion;
+
+      ( iii ) The assets of the Covered IHC are, or are likely to be, less than its obligations to creditors and others; or
+
+      ( iv ) The Covered IHC is, or is likely to be, unable to pay its obligations (other than those subject to a bona fide dispute) in the normal course of business; and
+
+    ( 2 ) An objection by the home country supervisor to the conversion or exchange of the eligible internal debt securities to be prompt if the Board receives the objection no later than 24 hours after the Board requests such consent or non-objection from the home country supervisor.
+
+## § 252.164 Identification as a resolution Covered IHC or a non-resolution Covered IHC.
+
+  ( a ) Initial certification. The top-tier global systemically important foreign banking organization with U.S. non-branch assets that equal or exceed $50 billion must certify to the Board on the later of June 30, 2017, or one year prior to the date on which a Covered IHC becomes subject to the requirements of this subpart pursuant to § 252.160(b) whether the planned resolution strategy of the top-tier foreign banking organization involves the Covered IHC or the subsidiaries of the Covered IHC entering resolution, receivership, insolvency, or similar proceedings in the United States.
+
+  ( b ) Certification update. The top-tier global systemically important foreign banking organization with U.S. non-branch assets that equal or exceed $50 billion must provide an updated certification to the Board upon a change in the resolution strategy described in the certification provided pursuant to paragraph (a) of this section.
+
+  ( c ) Identification of a resolution Covered IHC. A Covered IHC is a resolution Covered IHC if the most recent certification provided pursuant to paragraphs (a) and (b) of this section indicates that the top-tier foreign banking organization's planned resolution strategy involves the Covered IHC or the subsidiaries of the Covered IHC entering resolution, receivership, insolvency, or similar proceedings in the United States.
+
+  ( d ) Identification of a non-resolution Covered IHC. A Covered IHC is a non-resolution Covered IHC if the most recent certification provided pursuant to paragraphs (a) and (b) of this section indicates that the top-tier foreign banking organization's planned resolution strategy involves neither the Covered IHC nor the subsidiaries of the Covered IHC entering resolution, receivership, insolvency, or similar proceedings in the United States.
+
+  ( e ) Board determination. The Board may determine in its discretion that a non-resolution Covered IHC identified pursuant to paragraph (d) of this section is a resolution Covered IHC, or that a resolution Covered IHC identified pursuant to paragraph (c) of this section is a non-resolution Covered IHC.
+
+  ( f ) Transition.
+
+    ( 1 ) A Covered IHC identified as a resolution Covered IHC pursuant to paragraph (b) of this section or determined by the Board to be a resolution Covered IHC pursuant to paragraph (e) of this section must comply with the requirements in this subpart applicable to a resolution Covered IHC within 365 days (one year) after such identification or determination, unless such time period is extended by the Board in its discretion.
+
+    ( 2 ) A Covered IHC identified as a non-resolution Covered IHC pursuant to paragraph (b) of this section or determined by the Board to be a non-resolution Covered IHC pursuant to paragraph (e) of this section must comply with the requirements in this subpart applicable to a non-resolution Covered IHC 365 days (one year) after such identification or determination, unless such time period is extended by the Board in its discretion.
+
+## § 252.165 Covered IHC total loss-absorbing capacity requirement and buffer.
+
+  ( a ) Covered IHC total loss-absorbing capacity requirement for a resolution Covered IHC. A resolution Covered IHC must have an outstanding Covered IHC total loss-absorbing capacity amount that is no less than the amount equal to the greatest of:
+
+    ( 1 ) 18 percent of the resolution Covered IHC's total risk-weighted assets;
+
+    ( 2 ) If the Board requires the resolution Covered IHC to maintain a minimum supplementary leverage ratio, 6.75 percent of the resolution Covered IHC's total leverage exposure; and
+
+    ( 3 ) Nine (9) percent of the resolution Covered IHC's average total consolidated assets.
+
+  ( b ) Covered IHC total loss-absorbing capacity requirement for a non-resolution Covered IHC. A non-resolution Covered IHC must have an outstanding Covered IHC total loss-absorbing capacity amount that is no less than the amount equal to the greatest of:
+
+    ( 1 ) 16 percent of the non-resolution Covered IHC's total risk-weighted assets;
+
+    ( 2 ) If the Board requires the non-resolution Covered IHC to maintain a minimum supplementary leverage ratio, 6 percent of the non-resolution Covered IHC's total leverage exposure; and
+
+    ( 3 ) Eight (8) percent of the non-resolution Covered IHC's average total consolidated assets.
+
+  ( c ) Covered IHC Total loss-absorbing capacity amount.
+
+    ( 1 ) A non-resolution Covered IHC's Covered IHC total loss-absorbing capacity amount is equal to the sum of:
+
+      ( i ) The Covered IHC's common equity tier 1 capital (excluding any common equity tier 1 minority interest) held by a company that is incorporated or organized outside of the United States and that directly or indirectly controls the Covered IHC;
+
+      ( ii ) The Covered IHC's additional tier 1 capital (excluding any tier 1 minority interest) held by a company that is incorporated or organized outside of the United States and that directly or indirectly controls the Covered IHC; and
+
+      ( iii ) The Covered IHC's outstanding eligible Covered IHC long-term debt amount, plus 50 percent of the amount of unpaid principal of outstanding eligible Covered IHC debt securities issued by the Covered IHC due to be paid in greater than or equal to 365 days (one year) but less than 730 days (two years).
+
+    ( 2 ) A resolution Covered IHC's Covered IHC total loss-absorbing capacity amount is equal to the sum of:
+
+      ( i ) The Covered IHC's common equity tier 1 capital (excluding any common equity tier 1 minority interest);
+
+      ( ii ) The Covered IHC's additional tier 1 capital (excluding any tier 1 minority interest); and
+
+      ( iii ) The Covered IHC's outstanding eligible Covered IHC long-term debt amount, plus 50 percent of the amount of unpaid principal of outstanding eligible Covered IHC debt securities issued by the Covered IHC due to be paid in greater than or equal to 365 days (one year) but less than 730 days (two years).
+
+  ( d ) Covered IHC TLAC buffer —
+
+    ( 1 ) Composition of the Covered IHC TLAC buffer. The Covered IHC TLAC buffer is composed solely of common equity tier 1 capital.
+
+    ( 2 ) Definitions. For purposes of this paragraph, the following definitions apply:
+
+      ( i ) Eligible retained income. The eligible retained income of a Covered IHC is the greater of:
+
+        ( A ) The Covered IHC's net income, calculated in accordance with the instructions to the FR Y-9C, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income; and
+
+        ( B ) The average of the Covered IHC's net income, calculated in accordance with the instructions to the FR Y-9C, for the four calendar quarters preceding the current calendar quarter.
+
+      ( ii ) Maximum Covered IHC TLAC payout ratio. The maximum Covered IHC TLAC payout ratio is the percentage of eligible retained income that a Covered IHC can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum Covered IHC TLAC payout ratio is based on the Covered IHC's Covered IHC TLAC buffer level, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 252.165 .
+
+      ( iii ) Maximum Covered IHC TLAC payout amount. A Covered IHC's maximum Covered IHC TLAC payout amount for the current calendar quarter is equal to the Covered IHC's eligible retained income, multiplied by the applicable maximum Covered IHC TLAC payout ratio, as set forth in Table 1 to § 252.165 .
+
+    ( 3 ) Calculation of the Covered IHC TLAC buffer level.
+
+      ( i ) A Covered IHC's Covered IHC TLAC buffer level is equal to the Covered IHC's common equity tier 1 capital ratio (expressed as a percentage) minus the greater of zero and the following amount:
+
+        ( A ) 16 percent for a non-resolution Covered IHC, and 18 percent for a resolution Covered IHC; minus
+
+        ( B )
+
+          ( 1 ) For a non-resolution Covered IHC, the ratio (expressed as a percentage) of the Covered IHC's additional tier 1 capital (excluding any tier 1 minority interest) held by a company that is incorporated or organized outside of the United States and that directly or indirectly controls the Covered IHC to the Covered IHC's total risk-weighted assets;
+
+          ( 2 ) For a resolution Covered IHC, the ratio (expressed as a percentage of the Covered IHC's additional tier 1 capital (excluding any tier 1 minority interest) to the Covered IHC's total-risk weighted assets; and minus
+
+        ( C ) The ratio (expressed as a percentage) of the Covered IHC's outstanding eligible Covered IHC long-term debt amount plus 50 percent of the amount of unpaid principal of outstanding eligible Covered IHC debt securities issued by the Covered IHC due to be paid in, as calculated in § 252.162(b)(2) , greater than or equal to 365 days (one year) but less than 730 days (two years) to total risk-weighted assets.
+
+      ( ii )
+
+        ( A ) Notwithstanding paragraph (d)(3)(i) of this section, with respect to a resolution Covered IHC, if the ratio (expressed as a percentage) of the resolution Covered IHC's Covered IHC total loss-absorbing capacity amount, as calculated under § 252.165(a) , to the resolution Covered IHC's risk-weighted assets is less than or equal to, 18 percent, the Covered IHC's Covered IHC TLAC buffer level is zero.
+
+        ( B ) Notwithstanding paragraph (d)(3)(i) of this section, with respect to a non-resolution Covered IHC, if the ratio (expressed as a percentage) of the non-resolution Covered IHC's Covered IHC total loss-absorbing capacity amount, as calculated under § 252.165(b) , to the Covered IHC's risk-weighted assets is less than or equal to 16 percent, the non-resolution Covered IHC's Covered IHC TLAC buffer level is zero.
+
+    ( 4 ) Limits on distributions and discretionary bonus payments.
+
+      ( i ) A Covered IHC shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed the maximum Covered IHC TLAC payout amount.
+
+      ( ii ) A Covered IHC with a Covered IHC TLAC buffer level that is greater than the Covered IHC TLAC buffer is not subject to a maximum Covered IHC TLAC payout amount.
+
+      ( iii ) Except as provided in paragraph (d)(4)(iv) of this section, a Covered IHC may not make distributions or discretionary bonus payments during the current calendar quarter if the Covered IHC's:
+
+        ( A ) Eligible retained income is negative; and
+
+        ( B ) Covered IHC TLAC buffer level was less than the Covered IHC TLAC buffer as of the end of the previous calendar quarter.
+
+      ( iv ) Notwithstanding the limitations in paragraphs (d)(4)(i) through (iii) of this section, the Board may permit a Covered IHC to make a distribution or discretionary bonus payment upon a request of the Covered IHC, if the Board determines that the distribution or discretionary bonus payment would not be contrary to the purposes of this section, or to the safety and soundness of the Covered IHC. In making such a determination, the Board will consider the nature and extent of the request and the particular circumstances giving rise to the request.
+
+Table 1 to § 252.165 —Calculation of Maximum Covered IHC TLAC Payout Amount
+
+      ( v )
+
+        ( A ) A Covered IHC is subject to the lowest of the maximum payout amounts as determined under 12 CFR 217.11(a)(2) and the maximum Covered IHC TLAC payout amount as determined under this paragraph.
+
+        ( B ) Additional limitations on distributions may apply to a Covered IHC under 12 CFR 225.4 , 225.8 , and 263.202 .
+
+## § 252.166 Restrictions on corporate practices of intermediate holding companies of global systemically important foreign banking organizations.
+
+  ( a ) Prohibited corporate practices. A Covered IHC may not directly:
+
+    ( 1 ) Issue any debt instrument with an original maturity of less than 365 days (one year), including short term deposits and demand deposits, to any person, unless the person is an affiliate of the Covered IHC;
+
+    ( 2 ) Issue any instrument, or enter into any related contract, with respect to which the holder of the instrument has a contractual right to offset debt owed by the holder or its affiliates to the Covered IHC or a subsidiary of the Covered IHC against the amount, or a portion of the amount, owed by the Covered IHC under the instrument;
+
+    ( 3 ) Enter into a qualified financial contract that is not a credit enhancement with a person that is not an affiliate of the Covered IHC;
+
+    ( 4 ) Enter into an agreement in which the Covered IHC guarantees a liability of an affiliate of the Covered IHC if such liability permits the exercise of a default right that is related, directly or indirectly, to the Covered IHC becoming subject to a receivership, insolvency, liquidation, resolution, or similar proceeding other than a receivership proceeding under Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5381 through 5394 ) unless the liability is subject to requirements of the Board restricting such default rights or subject to any similar requirements of another U.S. federal banking agency; or
+
+    ( 5 ) Enter into, or otherwise benefit from, any agreement that provides for its liabilities to be guaranteed by any of its subsidiaries.
+
+  ( b ) Limit on unrelated liabilities.
+
+    ( 1 ) The aggregate amount, on an unconsolidated basis, of unrelated liabilities of a Covered IHC may not exceed 5 percent of the Covered IHC's Covered IHC total loss-absorbing capacity amount, as calculated under § 252.165(c) .
+
+    ( 2 ) For purposes of paragraph (b)(1) of this section, an unrelated liability includes:
+
+      ( i ) With respect to a non-resolution Covered IHC, any non-contingent liability of the non-resolution Covered IHC owed to a person that is not an affiliate of the non-resolution Covered IHC other than those liabilities specified in paragraph (b)(3) of this section, and
+
+      ( ii ) With respect to a resolution Covered IHC, any non-contingent liability of the resolution Covered IHC owed to a person that is not a subsidiary of the resolution Covered IHC other than those liabilities specified in paragraph (b)(3) of this section.
+
+    ( 3 )
+
+      ( i ) The instruments that are used to satisfy the Covered IHC's Covered IHC total loss-absorbing capacity amount, as calculated under § 252.165(a) ;
+
+      ( ii ) Any dividend or other liability arising from the instruments that are used to satisfy the Covered IHC's Covered IHC total loss-absorbing capacity amount, as calculated under § 252.165(c)(2) ;
+
+      ( iii ) An eligible Covered IHC debt security that does not provide the holder of the instrument with a currently exercisable right to require immediate payment of the total or remaining principal amount; and
+
+      ( iv ) A secured liability, to the extent that it is secured, or a liability that otherwise represents a claim that would be senior to eligible Covered IHC debt securities in Title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5390(b) ) and the Bankruptcy Code ( 11 U.S.C. 507 ).
+
+  ( c ) A Covered IHC is not subject to paragraph (b) of this section if all of the eligible Covered IHC debt securities issued by the Covered IHC would represent the most subordinated debt claim in a receivership, insolvency, liquidation, or similar proceeding of the Covered IHC.
+
+## § 252.167 Disclosure requirements for resolution Covered IHCs.
+
+  ( a ) A resolution Covered IHC that has any outstanding eligible external debt securities must publicly disclose a description of the financial consequences to unsecured debtholders of the resolution Covered IHC entering into a resolution proceeding in which the resolution Covered IHC is the only entity in the United States that would be subject to the resolution proceeding.
+
+  ( b ) A resolution Covered IHC must provide the disclosure required by paragraph (a) of this section:
+
+    ( 1 ) In the offering documents for all of its eligible external debt securities; and
+
+    ( 2 ) Either:
+
+      ( i ) On the resolution Covered IHC's Web site; or
+
+      ( ii ) In more than one public financial report or other public regulatory reports, provided that the resolution Covered IHC publicly provides a summary table specifically indicating the location(s) of this disclosure.
+
+## § 252.170 Applicability and general provisions.
+
+  ( a ) In general.
+
+    ( 1 ) This subpart establishes single counterparty credit limits for a covered foreign entity.
+
+    ( 2 ) For purposes of this subpart:
+
+      ( i ) Covered foreign entity means:
+
+        ( A ) A Category II foreign banking organization;
+
+        ( B ) A Category III foreign banking organization;
+
+        ( C ) A foreign banking organization with total consolidated assets that equal or exceed $250 billion;
+
+        ( D ) A Category II U.S. intermediate holding company; and
+
+        ( E ) A Category III U.S. intermediate holding company.
+
+      ( ii ) Major foreign banking organization means a foreign banking organization that is a covered foreign entity and meets the requirements of § 252.172(c)(3) through (5) .
+
+  ( b ) Credit exposure limits.
+
+    ( 1 ) Section 252.172 establishes credit exposure limits for covered foreign entities and major foreign banking organizations.
+
+    ( 2 ) A covered foreign entity is required to calculate its aggregate net credit exposure, gross credit exposure, and net credit exposure to a counterparty using the methods in this subpart.
+
+  ( c ) Applicability of this subpart —
+
+    ( 1 ) Foreign banking organizations.
+
+      ( i ) A foreign banking organization that is a covered foreign entity as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.172 , beginning on January 1, 2022, unless that time is extended by the Board in writing.
+
+      ( ii ) Notwithstanding paragraph (c)(1)(i) of this section, a foreign banking organization that is a major foreign banking organization as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.172 , beginning on July 1, 2021, unless that time is extended by the Board in writing.
+
+    ( 2 ) U.S. intermediate holding companies.
+
+      ( i ) A U.S. intermediate holding company that is a covered foreign entity as of October 5, 2018, must comply with the requirements of this subpart, including but not limited to § 252.172 , beginning on July 1, 2020, unless that time is extended by the Board in writing.
+
+      ( ii ) [Reserved]
+
+      ( iii ) A U.S. intermediate holding company that becomes a covered foreign entity subject to this subpart after October 5, 2018, must comply with the requirements of this subpart beginning on the first day of the ninth calendar quarter after it becomes a covered foreign entity, unless that time is accelerated or extended by the Board in writing.
+
+  ( d ) Cessation of requirements —
+
+    ( 1 ) Foreign banking organizations.
+
+      ( i ) Any foreign banking organization that becomes a covered foreign entity will remain subject to the requirements of this subpart unless and until:
+
+        ( A ) The covered foreign entity is not a Category II foreign banking organization;
+
+        ( B ) The covered foreign entity is not a Category III foreign banking organization; and
+
+        ( C ) Its total consolidated assets fall below $250 billion for each of four consecutive quarters, as reported on the covered foreign entity's FR Y-7Q, effective on the as-of date of the fourth consecutive FR Y-7Q.
+
+      ( ii ) A foreign banking organization that is a covered foreign entity and that has ceased to be a major foreign banking organization for purposes of § 252.172(c) is no longer subject to the requirements of § 252.172(c) beginning on the first day of the calendar quarter following the reporting date on which it ceased to be a major foreign banking organization; provided that the foreign banking organization remains subject to the requirements of this subpart, unless it ceases to be a foreign banking organization that is a covered foreign entity pursuant to paragraph (d)(1)(i) of this section.
+
+    ( 2 ) U.S. intermediate holding companies.
+
+      ( i ) Any U.S. intermediate holding company that becomes a covered foreign entity will remain subject to the requirements of this subpart unless and until:
+
+        ( A ) The covered foreign entity is not a Category II U.S. intermediate holding company; or
+
+        ( B ) The covered foreign entity is not a Category III U.S. intermediate holding company.
+
+## § 252.171 Definitions.
+
+Unless defined in this section, terms that are set forth in § 252.2 of this part and used in this subpart have the definitions assigned in § 252.2 . For purposes of this subpart:
+
+  ( a ) Adjusted market value means:
+
+    ( 1 ) With respect to the value of cash, securities, or other eligible collateral transferred by the covered foreign entity to a counterparty, the sum of:
+
+      ( i ) The market value of the cash, securities, or other eligible collateral; and
+
+      ( ii ) The product of the market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in Table 1 to § 217.132 of the Board's Regulation Q ( 12 CFR 217.132 ); and
+
+    ( 2 ) With respect to cash, securities, or other eligible collateral received by the covered foreign entity from a counterparty:
+
+      ( i ) The market value of the cash, securities, or other eligible collateral; minus
+
+      ( ii ) The market value of the securities or other eligible collateral multiplied by the applicable collateral haircut in Table 1 to § 217.132 of the Board's Regulation Q ( 12 CFR 217.132 ).
+
+    ( 3 ) Prior to calculating the adjusted market value pursuant to paragraphs (1) and (2) of this section, with regard to a transaction that meets the definition of “repo-style transaction” in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ), the covered foreign entity would first multiply the applicable collateral haircuts in Table 1 to § 217.132 of the Board's Regulation Q ( 12 CFR 217.132 ) by the square root of 1 ⁄ 2 .
+
+  ( b ) Affiliate means, with respect to a company:
+
+    ( 1 ) Any subsidiary of the company and any other company that is consolidated with the company under applicable accounting standards; or
+
+    ( 2 ) For a company that is not subject to principles or standards referenced in paragraph (b)(1) of this section, any subsidiary of the company and any other company that would be consolidated with the company, if consolidation would have occurred if such principles or standards had applied.
+
+  ( c ) Aggregate net credit exposure means the sum of all net credit exposures of a covered foreign entity and all of its subsidiaries to a single counterparty as calculated under this subpart.
+
+  ( d ) Bank-eligible investments means investment securities that a national bank is permitted to purchase, sell, deal in, underwrite, and hold under 12 U.S.C. 24 (Seventh) and 12 CFR part 1 .
+
+  ( e ) Capital stock and surplus means, with respect to a U.S. intermediate holding company, the sum of the following amounts in each case as reported by the U.S. intermediate holding company on the most recent FR Y-9C on a consolidated basis:
+
+    ( 1 ) The tier 1 capital and tier 2 capital of the U.S. intermediate holding company, as calculated under the capital adequacy guidelines applicable to that U.S. intermediate holding company under subpart O of the Board's Regulation YY ( 12 CFR part 252, subpart O ); and
+
+    ( 2 ) The excess allowance for loan and lease losses of the U.S. intermediate holding company not included in its tier 2 capital, as calculated under the capital adequacy guidelines applicable to that U.S. intermediate holding company under subpart O of the Board's Regulation YY ( 12 CFR part 252, subpart O ).
+
+  ( f ) Counterparty means with respect to a credit transaction:
+
+    ( 1 ) With respect to a natural person:
+
+      ( i ) The natural person;
+
+      ( ii ) Except as provided in paragraph (f)(1)(iii) of this section, if the credit exposure of the covered foreign entity to such natural person exceeds 5 percent of tier 1 capital, the natural person and members of the person's immediate family collectively; and
+
+      ( iii ) Until January 1, 2021, with respect to a U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019, if the credit exposure of the U.S. intermediate holding company to such natural person exceeds 5 percent of its capital stock and surplus, the natural person and member of the person's immediately family collectively.
+
+    ( 2 ) With respect to any company that is not an affiliate of the covered foreign entity, the company and its affiliates collectively;
+
+    ( 3 ) With respect to a State, the State and all of its agencies, instrumentalities, and political subdivisions (including any municipalities) collectively;
+
+    ( 4 ) With respect to a foreign sovereign entity that is not assigned a zero percent risk weight under the standardized approach in the Board's Regulation Q ( 12 CFR part 217, subpart D ), other than the home country foreign sovereign entity of a foreign banking organization, the foreign sovereign entity and all of its agencies and instrumentalities (but not including any political subdivision), collectively; and
+
+    ( 5 ) With respect to a political subdivision of a foreign sovereign entity such as a state, province, or municipality, any political subdivision of the foreign sovereign entity and all of such political subdivision's agencies and instrumentalities, collectively. [ 1 ]
+
+  ( g ) Covered foreign entity is defined in § 252.170(a)(2)(i) of this subpart .
+
+  ( h ) Credit derivative has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( i ) Credit transaction means, with respect to a counterparty:
+
+    ( 1 ) Any extension of credit to the counterparty, including loans, deposits, and lines of credit, but excluding uncommitted lines of credit;
+
+    ( 2 ) Any repurchase agreement or reverse repurchase agreement with the counterparty;
+
+    ( 3 ) Any securities lending or securities borrowing transaction with the counterparty;
+
+    ( 4 ) Any guarantee, acceptance, or letter of credit (including any endorsement, confirmed letter of credit, or standby letter of credit) issued on behalf of the counterparty;
+
+    ( 5 ) Any purchase of securities issued by or other investment in the counterparty;
+
+    ( 6 ) Any credit exposure to the counterparty in connection with a derivative transaction between the covered foreign entity and the counterparty;
+
+    ( 7 ) Any credit exposure to the counterparty in connection with a credit derivative or equity derivative between the covered foreign entity and a third party, the reference asset of which is an obligation or equity security of, or equity investment in, the counterparty; and
+
+    ( 8 ) Any transaction that is the functional equivalent of the above, and any other similar transaction that the Board, by regulation, determines to be a credit transaction for purposes of this subpart.
+
+  ( j ) Depository institution has the same meaning as in section 3 of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) ).
+
+  ( k ) Derivative transaction means any transaction that is a contract, agreement, swap, warrant, note, or option that is based, in whole or in part, on the value of, any interest in, or any quantitative measure or the occurrence of any event relating to, one or more commodities, securities, currencies, interest or other rates, indices, or other assets.
+
+  ( l ) Eligible collateral means collateral in which, notwithstanding the prior security interest of any custodial agent, the covered foreign entity has a perfected, first priority security interest (or the legal equivalent thereof, if outside of the United States), with the exception of cash on deposit, and is in the form of:
+
+    ( 1 ) Cash on deposit with the covered foreign entity or an affiliate of the covered foreign entity (including cash in foreign currency or U.S. dollars held for the covered foreign entity by a custodian or trustee, whether inside or outside of the United States);
+
+    ( 2 ) Debt securities (other than mortgage- or asset-backed securities and resecuritization securities, unless those securities are issued by a U.S. government-sponsored enterprise) that are bank-eligible investments and that are investment grade, except for any debt securities issued by the covered foreign entity or any affiliate of the covered foreign entity;
+
+    ( 3 ) Equity securities that are publicly traded, except for any equity securities issued by the covered foreign entity or any affiliate of the covered foreign entity;
+
+    ( 4 ) Convertible bonds that are publicly traded, except for any convertible bonds issued by the covered foreign entity or any affiliate of the covered foreign entity; or
+
+    ( 5 ) Gold bullion.
+
+  ( m ) Eligible credit derivative means a single-name credit derivative or a standard, non-tranched index credit derivative, provided that:
+
+    ( 1 ) The contract meets the requirements of an eligible guarantee and has been confirmed by the protection purchaser and the protection provider;
+
+    ( 2 ) Any assignment of the contract has been confirmed by all relevant parties;
+
+    ( 3 ) If the credit derivative is a credit default swap, the contract includes the following credit events:
+
+      ( i ) Failure to pay any amount due under the terms of the reference exposure, subject to any applicable minimal payment threshold that is consistent with standard market practice and with a grace period that is closely in line with the grace period of the reference exposure; and
+
+      ( ii ) Receivership, insolvency, liquidation, conservatorship, or inability of the reference exposure issuer to pay its debts, or its failure or admission in writing of its inability generally to pay its debts as they become due, and similar events;
+
+    ( 4 ) The terms and conditions dictating the manner in which the contract is to be settled are incorporated into the contract;
+
+    ( 5 ) If the contract allows for cash settlement, the contract incorporates a robust valuation process to estimate loss reliably and specifies a reasonable period for obtaining post-credit event valuations of the reference exposure;
+
+    ( 6 ) If the contract requires the protection purchaser to transfer an exposure to the protection provider at settlement, the terms of at least one of the exposures that is permitted to be transferred under the contract provide that any required consent to transfer may not be unreasonably withheld; and
+
+    ( 7 ) If the credit derivative is a credit default swap, the contract clearly identifies the parties responsible for determining whether a credit event has occurred, specifies that this determination is not the sole responsibility of the protection provider, and gives the protection purchaser the right to notify the protection provider of the occurrence of a credit event.
+
+  ( n ) Eligible equity derivative means an equity derivative, provided that:
+
+    ( 1 ) The derivative contract has been confirmed by all relevant parties;
+
+    ( 2 ) Any assignment of the derivative contract has been confirmed by all relevant parties; and
+
+    ( 3 ) The terms and conditions dictating the manner in which the derivative contract is to be settled are incorporated into the contract.
+
+  ( o ) Eligible guarantee has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( p ) Eligible guarantor has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ), but does not include the foreign banking organization or any entity that is an affiliate of either the U.S. intermediate holding company or of any part of the foreign banking organization's combined U.S. operations.
+
+  ( q ) Equity derivative has the same meaning as “equity derivative contract” in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( r ) Exempt counterparty means an entity that is identified as exempt from the requirements of this subpart under § 252.177 , or that is otherwise excluded from this subpart, including any sovereign entity assigned a zero percent risk weight under the standardized approach in the Board's Regulation Q ( 12 CFR part 217, subpart D ).
+
+  ( s ) Financial entity means:
+
+    ( 1 )
+
+      ( i ) A bank holding company or an affiliate thereof; a savings and loan holding company as defined in section 10(n) of the Home Owners' Loan Act ( 12 U.S.C. 1467a(n) ); a U.S. intermediate holding company established or designated for purposes of compliance with this part; or a nonbank financial company supervised by the Board;
+
+      ( ii ) A depository institution as defined in section 3(c) of the Federal Deposit Insurance Act ( 12 U.S.C. 1813(c) ); an organization that is organized under the laws of a foreign country and that engages directly in the business of banking outside the United States; a federal credit union or state credit union as defined in section 2 of the Federal Credit Union Act ( 12 U.S.C. 1752(1) and (6) ); a national association, state member bank, or state nonmember bank that is not a depository institution; an institution that functions solely in a trust or fiduciary capacity as described in section 2(c)(2)(D) of the Bank Holding Company Act ( 12 U.S.C. 1841(c)(2)(D) ); an industrial loan company, an industrial bank, or other similar institution described in section 2(c)(2)(H) of the Bank Holding Company Act ( 12 U.S.C. 1841(c)(2)(H) );
+
+      ( iii ) An entity that is state-licensed or registered as:
+
+        ( A ) A credit or lending entity, including a finance company; money lender; installment lender; consumer lender or lending company; mortgage lender, broker, or bank; motor vehicle title pledge lender; payday or deferred deposit lender; premium finance company; commercial finance or lending company; or commercial mortgage company; except entities registered or licensed solely on account of financing the entity's direct sales of goods or services to customers;
+
+        ( B ) A money services business, including a check casher; money transmitter; currency dealer or exchange; or money order or traveler's check issuer;
+
+      ( iv ) Any person registered with the Commodity Futures Trading Commission as a swap dealer or major swap participant pursuant to the Commodity Exchange Act of 1936 ( 7 U.S.C. 1 et seq. ), or an entity that is registered with the U.S. Securities and Exchange Commission as a security-based swap dealer or a major security-based swap participant pursuant to the Securities Exchange Act of 1934 ( 15 U.S.C. 78a et seq. );
+
+      ( v ) A securities holding company as defined in section 618 of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 1850a ); a broker or dealer as defined in sections 3(a)(4) and 3(a)(5) of the Securities Exchange Act of 1934 ( 15 U.S.C. 78c(a)(4)-(5) ); an investment adviser as defined in section 202(a) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b-2(a) ); an investment company registered with the U.S. Securities and Exchange Commission under the Investment Company Act of 1940 ( 15 U.S.C. 80a-1 et seq. ); or a company that has elected to be regulated as a business development company pursuant to section 54(a) of the Investment Company Act of 1940 ( 15 U.S.C. 80a-53(a) );
+
+      ( vi ) A private fund as defined in section 202(a) of the Investment Advisers Act of 1940 ( 15 U.S.C. 80b-2(a) ); an entity that would be an investment company under section 3 of the Investment Company Act of 1940 ( 15 U.S.C. 80a-3 ) but for section 3(c)(5)(C); or an entity that is deemed not to be an investment company under section 3 of the Investment Company Act of 1940 pursuant to Investment Company Act Rule 3a-7 ( 17 CFR 270.3a-7 ) of the U.S. Securities and Exchange Commission;
+
+      ( vii ) A commodity pool, a commodity pool operator, or a commodity trading advisor as defined, respectively, in sections 1a(10), 1a(11), and 1a(12) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(10) , 1a(11) , and 1a(12) ); a floor broker, a floor trader, or introducing broker as defined, respectively, in sections 1a(22), 1a(23) and 1a(31) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(22) , 1a(23) , and 1a(31) ); or a futures commission merchant as defined in section 1a(28) of the Commodity Exchange Act of 1936 ( 7 U.S.C. 1a(28) );
+
+      ( viii ) An employee benefit plan as defined in paragraphs (3) and (32) of section 3 of the Employee Retirement Income and Security Act of 1974 ( 29 U.S.C. 1002 );
+
+      ( ix ) An entity that is organized as an insurance company, primarily engaged in writing insurance or reinsuring risks underwritten by insurance companies, or is subject to supervision as such by a State insurance regulator or foreign insurance regulator;
+
+      ( x ) Any designated financial market utility, as defined in section 803 of the Dodd-Frank Wall Street Reform and Consumer Protection Act ( 12 U.S.C. 5462 ); and
+
+      ( xi ) An entity that would be a financial entity described in paragraphs (s)(1)(i) through (x) of this section, if it were organized under the laws of the United States or any State thereof; and
+
+    ( 2 ) Provided that, for purposes of this subpart, “financial entity” does not include any counterparty that is a foreign sovereign entity or multilateral development bank.
+
+  ( t ) Foreign sovereign entity means a sovereign entity other than the United States government and the entity's agencies, departments, ministries, and central bank.
+
+  ( u ) Gross credit exposure means, with respect to any credit transaction, the credit exposure of the covered foreign entity before adjusting, pursuant to § 252.174 , for the effect of any qualifying master netting agreement, eligible collateral, eligible guarantee, eligible credit derivative, eligible equity derivative, other eligible hedge, and any unused portion of certain extensions of credit.
+
+  ( v ) Immediate family means the spouse of an individual, the individual's minor children, and any of the individual's children (including adults) residing in the individual's home.
+
+  ( w ) Intraday credit exposure means credit exposure of a covered foreign entity to a counterparty that by its terms is to be repaid, sold, or terminated by the end of its business day in the United States.
+
+  ( x ) Investment grade has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( y ) Major counterparty means any counterparty that is or includes:
+
+    ( 1 ) A U.S. bank holding company identified as a global systemically important BHC pursuant to § 217.402 of the Board's Regulation Q ( 12 CFR 217.402 );
+
+    ( 2 ) A top-tier foreign banking organization that meets the requirements of § 252.172(c)(3) through (5) ; or
+
+    ( 3 ) Any nonbank financial company supervised by the Board.
+
+  ( z ) Major foreign banking organization is defined in § 252.170(a)(2)(ii) of this subpart .
+
+  ( aa ) Multilateral development bank has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( bb ) Net credit exposure means, with respect to any credit transaction, the gross credit exposure of a covered foreign entity and all of its subsidiaries calculated under § 252.173 , as adjusted in accordance with § 252.174 .
+
+  ( cc ) Qualifying central counterparty has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( dd ) Qualifying master netting agreement has the same meaning as in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ).
+
+  ( ee ) Securities financing transaction means any repurchase agreement, reverse repurchase agreement, securities borrowing transaction, or securities lending transaction.
+
+  ( ff ) Short sale means any sale of a security which the seller does not own or any sale which is consummated by the delivery of a security borrowed by, or for the account of, the seller.
+
+  ( gg ) Sovereign entity means a central national government (including the U.S. government) or an agency, department, ministry, or central bank, but not including any political subdivision such as a state, province, or municipality.
+
+  ( hh ) Subsidiary. A company is a subsidiary of another company if
+
+    ( 1 ) The company is consolidated by the other company under applicable accounting standards; or
+
+    ( 2 ) For a company that is not subject to principles or standards referenced in paragraph (ii)(1) of this definition, consolidation would have occurred if such principles or standards had applied.
+
+  ( ii ) Tier 1 capital means common equity tier 1 capital and additional tier 1 capital, as defined in subpart O of the Board's Regulation YY( 12 CFR part 252, subpart O ).
+
+  ( jj ) Tier 2 capital means tier 2 capital as defined in subpart O of the Board's Regulation YY ( 12 CFR part 252, subpart O ).
+
+  ( kk ) Total consolidated assets.
+
+    ( 1 ) A foreign banking organization's total consolidated assets are determined based on:
+
+      ( i ) The average of the foreign banking organization's total consolidated assets in the four most recent consecutive quarters as reported quarterly on the FR Y-7Q; or
+
+      ( ii ) If the foreign banking organization has not filed an FR Y-7Q for each of the four most recent consecutive quarters, the average of the foreign banking organization's total consolidated assets, as reported on the foreign banking organization's FR Y-7Q, for the most recent quarter or consecutive quarters, as applicable; or
+
+      ( iii ) If the foreign banking organization has not yet filed an FR Y-7Q, as determined under applicable accounting standards.
+
+    ( 2 ) A U.S. intermediate holding company's total consolidated assets are determined based on:
+
+      ( i ) The average of the U.S. intermediate holding company's total consolidated assets in the four most recent consecutive quarters as reported quarterly on the FR Y-9C; or
+
+      ( ii ) If the U.S. intermediate holding company has not filed an FR Y-9C for each of the four most recent consecutive quarters, the average of the U.S. intermediate holding company's total consolidated assets, as reported on the company's FR Y-9C, for the most recent quarter or consecutive quarters, as applicable; or
+
+      ( iii ) If the U.S. intermediate holding company has not yet filed an FR Y-9C, as determined under applicable accounting standards.
+
+[ 1 ] In addition, under § 252.176 , under certain circumstances, a covered foreign entity is required to aggregate its net credit exposure to one or more counterparties for all purposes under this subpart.
+
+## § 252.172 Credit exposure limits.
+
+  ( a ) Transition limit on aggregate credit exposure for certain covered foreign entities.
+
+    ( 1 ) A U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019 is not required to comply with paragraph (b)(1) of this section until January 1, 2021.
+
+    ( 2 ) Until January 1, 2021, no U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019 may have an aggregate net credit exposure that exceeds 25 percent of the consolidated capital stock and surplus of the U.S. intermediate holding company.
+
+  ( b ) Limit on aggregate net credit exposure for covered foreign entities.
+
+    ( 1 ) Except as provided in paragraph (a) of this section, no U.S. intermediate holding company that is a covered foreign entity may have an aggregate net credit exposure to any counterparty that exceeds 25 percent of the tier 1 capital of the U.S. intermediate holding company.
+
+    ( 2 ) No foreign banking organization that is a covered foreign entity may permit its combined U.S. operations to have aggregate net credit exposure to any counterparty that exceeds 25 percent of the tier 1 capital of the foreign banking organization.
+
+  ( c ) Limit on aggregate net credit exposure of major foreign banking organizations to major counterparties.
+
+    ( 1 ) [Reserved]
+
+    ( 2 ) No major foreign banking organization may permit its combined U.S. operations to have aggregate net credit exposure to any major counterparty that exceeds 15 percent of the tier 1 capital of the major foreign banking organization.
+
+    ( 3 ) For purposes of this subpart, a top-tier foreign banking organization will be a major counterparty if it meets one of the following conditions:
+
+      ( i ) The top-tier foreign banking organization determines, pursuant to 12 CFR 252.153(b)(6) , that the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology; or
+
+      ( ii ) The Board, using information available to the Board, determines:
+
+        ( A ) That the top-tier foreign banking organization would be a global systemically important banking organization under the global methodology;
+
+        ( B ) That the top-tier foreign banking organization, if it were subject to the Board's Regulation Q, would be identified as a global systemically important BHC under 12 CFR 217.402 of the Board's Regulation Q; or
+
+        ( C ) That the U.S. intermediate holding company, if it were subject to 12 CFR 217.402 of the Board's Regulation Q, would be identified as a global systemically important BHC.
+
+    ( 4 ) Each top-tier foreign banking organization that controls a U.S. intermediate holding company must submit to the Board by January 1 of each calendar year through the U.S. intermediate holding company:
+
+    (A) Notice of whether the home country supervisor (or other appropriate home country regulatory authority) of the top-tier foreign banking organization of the U.S. intermediate holding company has adopted standards consistent with the global methodology; and
+
+    (B) Notice of whether the top-tier foreign banking organization prepares or reports the indicators used by the global methodology to identify a banking organization as a global systemically important banking organization and, if it does, whether the top-tier foreign banking organization has determined that it has the characteristics of a global systemically important banking organization under the global methodology pursuant to 12 CFR 252.153(b)(6) .
+
+    ( 5 ) A top-tier foreign banking organization that controls a U.S. intermediate holding company and prepares or reports for any purpose the indicator amounts necessary to determine whether the top-tier foreign banking organization is a global systemically important banking organization under the global methodology must use the data to determine whether the top-tier foreign banking organization has the characteristics of a global systemically important banking organization under the global methodology.
+
+  ( d ) Foreign banking organizations subject on a consolidated basis to a large exposures or single-counterparty credit limit regime by its home-country supervisor.
+
+    ( 1 ) Notwithstanding paragraphs (a) through (c) of this section, a foreign banking organization that is a covered foreign entity is not required to comply with the requirements of this subpart with respect to limits on the aggregate net credit exposure of its combined U.S. operations if the foreign banking organization certifies to the Board that it meets large exposure standards on a consolidated basis established by its home-country supervisor that are consistent with the large exposures framework published by the Basel Committee on Banking Supervision (Basel Large Exposures Framework), unless the Board determines in writing, after notice to the foreign banking organization, that compliance with this subpart is required.
+
+      ( i ) For purposes of this paragraph, home-country large exposure standards that are consistent with the Basel Large Exposures Framework include single-counterparty credit limits and any restrictions set forth in “Supervisory framework for measuring and controlling large exposures” (2014) (Basel LE Standard), as implemented in accordance with the Basel LE Standard.
+
+      ( ii ) [Reserved]
+
+    ( 2 ) A foreign banking organization that is a covered foreign entity must provide to the Board reports relating to its compliance with the large exposure standards described in paragraph (d)(1) of this section concurrently with filing the FR Y-7Q or any successor report.
+
+## § 252.173 Gross credit exposure.
+
+  ( a ) Calculation of gross credit exposure. The amount of gross credit exposure of a covered foreign entity to a counterparty with respect to a credit transaction is, in the case of:
+
+    ( 1 ) A deposit of the covered foreign entity held by the counterparty, loan by a covered foreign entity to the counterparty, and lease in which the covered foreign entity is the lessor and the counterparty is the lessee, equal to the amount owed by the counterparty to the covered foreign entity under the transaction.
+
+    ( 2 ) A debt security or debt investment held by the covered foreign entity that is issued by the counterparty, equal to:
+
+      ( i ) The market value of the securities, for trading and available-for-sale securities; and
+
+      ( ii ) The amortized purchase price of the securities or investments, for securities or investments held to maturity.
+
+    ( 3 ) An equity security held by the covered foreign entity that is issued by the counterparty, equity investment in a counterparty, and other direct investments in a counterparty, equal to the market value.
+
+    ( 4 ) A securities financing transaction must be valued using any of the methods that the covered foreign entity is authorized to use under the Board's Regulation Q ( 12 CFR part 217, subparts D and E ) to value such transactions:
+
+      ( i )
+
+        ( A ) As calculated for each transaction, in the case of a securities financing transaction between the covered foreign entity and the counterparty that is not subject to a bilateral netting agreement or does not meet the definition of “repo-style transaction” in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 ); or
+
+        ( B ) As calculated for a netting set, in the case of a securities financing transaction between the covered foreign entity and the counterparty that is subject to a bilateral netting agreement with that counterparty and meets the definition of “repo-style transaction” in § 217.2 of the Board's Regulation Q ( 12 CFR 217.2 );
+
+      ( ii ) For purposes of paragraph (a)(4)(i) of this section, the covered foreign entity must:
+
+        ( A ) Assign a value of zero to any security received from the counterparty that does not meet the definition of “eligible collateral” in § 252.171( l ) ; and
+
+        ( B ) Include the value of securities that are eligible collateral received by the covered foreign entity from the counterparty (including any exempt counterparty), calculated in accordance with paragraphs (a)(4)(i) through (iv) of this section, when calculating its gross credit exposure to the issuer of those securities;
+
+      ( iii ) Notwithstanding paragraph (a)(4)(i) and (ii) of this section and with respect to each credit transaction, a covered foreign entity's gross credit exposure to a collateral issuer under this paragraph (a)(4) is limited to the covered foreign entity's gross credit exposure to the counterparty on the credit transaction;
+
+      ( iv ) In cases where the covered foreign entity receives eligible collateral from a counterparty in addition to the cash or securities received from that counterparty, the counterparty may reduce its gross credit exposure to that counterparty in accordance with § 252.174(b) .
+
+    ( 5 ) A committed credit line extended by a covered foreign entity to a counterparty, equal to the face amount of the committed credit line.
+
+    ( 6 ) A guarantee or letter of credit issued by a covered foreign entity on behalf of a counterparty, equal to the maximum potential loss to the covered foreign entity on the transaction.
+
+    ( 7 ) A derivative transaction must be valued using any of the methods that the covered foreign entity is authorized to use under the Board's Regulation Q ( 12 CFR part 217, subparts D and E ) to value such transactions:
+
+      ( i )
+
+        ( A ) As calculated for each transaction, in the case of a derivative transaction between the covered foreign entity and the counterparty, including an equity derivative but excluding a credit derivative described in paragraph (a)(8) of this section, that is not subject to a qualifying master netting agreement; or
+
+        ( B ) As calculated for a netting set, in the case of a derivative transaction between the covered foreign entity and the counterparty, including an equity derivative but excluding a credit derivative described in paragraph (a)(8) of this section, that is subject to a qualifying master netting agreement.
+
+      ( ii ) In cases where a covered foreign entity is required to recognize an exposure to an eligible guarantor pursuant to § 252.174(d) , the covered foreign entity must exclude the relevant derivative transaction when calculating its gross exposure to the original counterparty under this section.
+
+    ( 8 ) A credit derivative between the covered foreign entity and a third party where the covered foreign entity is the protection provider and the reference asset is an obligation or debt security of the counterparty, equal to the maximum potential loss to the covered foreign entity on the transaction.
+
+  ( b ) Investments in and exposures to securitization vehicles, investment funds, and other special purpose vehicles that are not affiliates. Notwithstanding paragraph (a) of this section.
+
+    ( 1 ) A U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019 is not required to comply with paragraph (b)(3) of this section until January 1, 2021.
+
+    ( 2 ) Until January 1, 2021, unless the Board applies the requirements of § 252.175 to the transaction pursuant to § 252.175(d) , a U.S. intermediate holding company that is a covered foreign entity and that has less than $250 billion in total consolidated assets as of December 31, 2019 must:
+
+      ( i ) Calculate pursuant to paragraph (a) of this section its gross credit exposure due to any investment in the debt or equity of, and any credit derivative or equity derivative between the covered foreign entity and a third party where the covered foreign entity is in the protection provider and the reference asset is an obligation or equity security of, or equity investment in, a securitization vehicle, investment fund, and other special purpose vehicle that is not an affiliate of the covered foreign entity; and
+
+      ( ii ) Attribute that gross credit exposure to the securitization vehicle, investment fund, or other special purpose vehicle for purposes of this subpart.
+
+    ( 3 ) Except as provided in paragraph (b)(1) of this section, a covered foreign entity must calculate pursuant to § 252.175 its gross credit exposure due to any investment in the debt or equity of, and any credit derivative or equity derivative between the covered foreign entity and a third party where the covered foreign entity is the protection provider and the reference asset is an obligation or equity security of, or equity investment in, a securitization vehicle, investment fund, and other special purpose vehicle that is not an affiliate of the covered foreign entity.
+
+  ( c ) Attribution rule. Notwithstanding paragraph (a) of this section, a covered foreign entity must treat any transaction with any natural person or entity as a credit transaction with another party, to the extent that the proceeds of the transaction are used for the benefit of, or transferred to, the other party.
+
+## § 252.174 Net credit exposure.
+
+  ( a ) In general. For purposes of this subpart, a covered foreign entity must calculate its net credit exposure to a counterparty by adjusting its gross credit exposure to that counterparty in accordance with the rules set forth in this section.
+
+  ( b ) Eligible collateral.
+
+    ( 1 ) In computing its net credit exposure to a counterparty for any credit transaction other than a securities financing transaction, a covered foreign entity must reduce its gross credit exposure on the transaction by the adjusted market value of any eligible collateral.
+
+    ( 2 ) A covered foreign entity that reduces its gross credit exposure to a counterparty as required under paragraph (b)(1) of this section must include the adjusted market value of the eligible collateral when calculating its gross credit exposure to the collateral issuer.
+
+    ( 3 ) Notwithstanding paragraph (b)(2) of this section, a covered foreign entity's gross credit exposure to a collateral issuer under this paragraph (b) is limited to:
+
+      ( i ) Its gross credit exposure to the counterparty on the credit transaction, or
+
+      ( ii ) In the case of an exempt counterparty, the gross credit exposure that would have been attributable to that exempt counterparty on the credit transaction if valued in accordance with § 252.173(a) .
+
+  ( c ) Eligible guarantees.
+
+    ( 1 ) In calculating net credit exposure to a counterparty for any credit transaction, a covered foreign entity must reduce its gross credit exposure to the counterparty by the amount of any eligible guarantee from an eligible guarantor that covers the transaction.
+
+    ( 2 ) A covered foreign entity that reduces its gross credit exposure to a counterparty as required under paragraph (c)(1) of this section must include the amount of eligible guarantees when calculating its gross credit exposure to the eligible guarantor.
+
+    ( 3 ) Notwithstanding paragraph (c)(2) of this section, a covered foreign entity's gross credit exposure to an eligible guarantor with respect to an eligible guarantee under this paragraph (c) is limited to:
+
+      ( i ) Its gross credit exposure to the counterparty on the credit transaction prior to recognition of the eligible guarantee, or
+
+      ( ii ) In the case of an exempt counterparty, the gross credit exposure that would have been attributable to that exempt counterparty on the credit transaction prior to recognition of the eligible guarantee if valued in accordance with § 252.173(a) .
+
+  ( d ) Eligible credit and equity derivatives.
+
+    ( 1 ) In calculating net credit exposure to a counterparty for a credit transaction under this section, a covered foreign entity must reduce its gross credit exposure to the counterparty by:
+
+      ( i ) In the case of any eligible credit derivative from an eligible guarantor, the notional amount of the eligible credit derivative; or
+
+      ( ii ) In the case of any eligible equity derivative from an eligible guarantor, the gross credit exposure amount to the counterparty (calculated in accordance with § 252.173(a)(7) ).
+
+    ( 2 )
+
+      ( i ) A covered foreign entity that reduces its gross credit exposure to a counterparty as provided under paragraph (d)(1) of this section must include, when calculating its net credit exposure to the eligible guarantor, including in instances where the underlying credit transaction would not be subject to the credit limits of § 252.172 (for example, due to an exempt counterparty), either
+
+        ( A ) In the case of any eligible credit derivative from an eligible guarantor, the notional amount of the eligible credit derivative; or
+
+        ( B ) In the case of any eligible equity derivative from an eligible guarantor, the gross credit exposure amount to the counterparty (calculated in accordance with § 252.173(a)(7) ).
+
+      ( ii ) Notwithstanding paragraph (d)(2)(i) of this section, in cases where the eligible credit derivative or eligible equity derivative is used to hedge covered positions that are subject to the Board's market risk rule ( 12 CFR part 217, subpart F ) and the counterparty on the hedged transaction is not a financial entity, the amount of credit exposure that a entity must recognize to the eligible guarantor is the amount that would be calculated pursuant to § 252.173(a) .
+
+    ( 3 ) Notwithstanding paragraph (d)(2) of this section, a covered foreign entity's gross credit exposure to an eligible guarantor with respect to an eligible credit derivative or an eligible equity derivative under this paragraph (d) is limited to:
+
+      ( i ) Its gross credit exposure to the counterparty on the credit transaction prior to recognition of the eligible credit derivative or the eligible equity derivative, or
+
+      ( ii ) In the case of an exempt counterparty, the gross credit exposure that would have been attributable to that exempt counterparty on the credit transaction prior to recognition of the eligible credit derivative or the eligible equity derivative if valued in accordance with § 252.173(a) .
+
+  ( e ) Other eligible hedges. In calculating net credit exposure to a counterparty for a credit transaction under this section, a covered foreign entity may reduce its gross credit exposure to the counterparty by the face amount of a short sale of the counterparty's debt security or equity security, provided that:
+
+    ( 1 ) The instrument in which the covered foreign entity has a short position is junior to, or pari passu with, the instrument in which the covered foreign entity has the long position; and
+
+    ( 2 ) The instrument in which the covered foreign entity has a short position and the instrument in which the covered foreign entity has the long position are either both treated as trading or available-for-sale exposures or both treated as held-to-maturity exposures.
+
+  ( f ) Unused portion of certain extensions of credit.
+
+    ( 1 ) In computing its net credit exposure to a counterparty for a committed credit line or revolving credit facility under this section, a covered foreign entity may reduce its gross credit exposure by the amount of the unused portion of the credit extension to the extent that the covered foreign entity does not have any legal obligation to advance additional funds under the extension of credit and the used portion of the credit extension has been fully secured by eligible collateral.
+
+    ( 2 ) To the extent that the used portion of a credit extension has been secured by eligible collateral, the covered foreign entity may reduce its gross credit exposure by the adjusted market value of any eligible collateral received from the counterparty, even if the used portion has not been fully secured by eligible collateral.
+
+    ( 3 ) To qualify for the reduction in net credit exposure under this paragraph, the credit contract must specify that any used portion of the credit extension must be fully secured by the adjusted market value of any eligible collateral.
+
+  ( g ) Credit transactions involving exempt counterparties.
+
+    ( 1 ) A covered foreign entity's credit transactions with an exempt counterparty are not subject to the requirements of this subpart, including but not limited to § 252.172 .
+
+    ( 2 ) Notwithstanding paragraph (g)(1) of this section, in cases where a covered foreign entity has a credit transaction with an exempt counterparty and the covered foreign entity has obtained eligible collateral from that exempt counterparty or an eligible guarantee or eligible credit or equity derivative from an eligible guarantor, the covered foreign entity must include (for purposes of this subpart) such exposure to the issuer of such eligible collateral or the eligible guarantor, as calculated in accordance with the rules set forth in this section, when calculating its gross credit exposure to that issuer of eligible collateral or eligible guarantor.
+
+  ( h ) Currency mismatch adjustments. For purposes of calculating its net credit exposure to a counterparty under this section, a covered foreign entity must apply, as applicable:
+
+    ( 1 ) When reducing its gross credit exposure to a counterparty resulting from any credit transaction due to any eligible collateral and calculating its gross credit exposure to an issuer of eligible collateral, pursuant to paragraph (b) of this section, the currency mismatch adjustment approach of § 217.37(c)(3)(ii) of the Board's Regulation Q ( 12 CFR 217.37(c)(3)(ii) ); and
+
+    ( 2 ) When reducing its gross credit exposure to a counterparty resulting from any credit transaction due to any eligible guarantee, eligible equity derivative, or eligible credit derivative from an eligible guarantor and calculating its gross credit exposure to an eligible guarantor, pursuant to paragraphs (c) and (d) of this section, the currency mismatch adjustment approach of § 217.36(f) of the Board's Regulation Q ( 12 CFR 217.36(f) ).
+
+  ( i ) Maturity mismatch adjustments. For purposes of calculating its net credit exposure to a counterparty under this section, a covered foreign entity must apply, as applicable, the maturity mismatch adjustment approach of § 217.36(d) of the Board's Regulation Q ( 12 CFR 217.36(d) ):
+
+    ( 1 ) When reducing its gross credit exposure to a counterparty resulting from any credit transaction due to any eligible collateral or any eligible guarantees, eligible equity derivatives, or eligible credit derivatives from an eligible guarantor, pursuant to paragraphs (b) through (d) of this section, and
+
+    ( 2 ) In calculating its gross credit exposure to an issuer of eligible collateral, pursuant to paragraph (b) of this section, or to an eligible guarantor, pursuant to paragraphs (c) and (d) of this section; provided that
+
+    ( 3 ) The eligible collateral, eligible guarantee, eligible equity derivative, or eligible credit derivative subject to paragraph (i)(1) of this section:
+
+      ( i ) Has a shorter maturity than the credit transaction;
+
+      ( ii ) Has an original maturity equal to or greater than one year;
+
+      ( iii ) Has a residual maturity of not less than three months; and
+
+      ( iv ) The adjustment approach is otherwise applicable.
+
+## § 252.175 Investments in and exposures to securitization vehicles, investment funds, and other special purpose vehicles that are not affiliates of the covered foreign entity.
+
+  ( a ) In general.
+
+    ( 1 ) This section applies to a covered foreign entity, except as provided in paragraph (a)(1)(i) of this section.
+
+      ( i ) Until January 1, 2021, this section does not apply to a U.S. intermediate holding company that is a covered foreign entity with less than $250 billion in total consolidated assets as of December 31, 2019, provided that:
+
+        ( A ) In order to avoid evasion of this subpart, the Board may determine, after notice to the covered foreign entity and opportunity for hearing, that a U.S. intermediate holding company with less than $250 billion in total consolidated assets must apply either the approach in this paragraph (a) or the look-through approach in paragraph (b) of this section, or must recognize exposures to a third party that has a contractual obligation to provide credit or liquidity support to a securitization vehicle, investment fund, or other special purpose vehicle that is not an affiliate of the covered foreign entity, as provided in paragraph (c) of this section; and
+
+        ( B ) For purposes of paragraph (a)(1)(i)(A) of this section, the Board, in its discretion and as applicable, may allow a covered foreign entity to measure its capital base using the covered foreign entity's capital stock and surplus rather than its tier 1 capital.
+
+      ( ii ) [Reserved]
+
+    ( 2 ) For purposes of this section, the following definitions apply:
+
+      ( i ) SPV means a securitization vehicle, investment fund, or other special purpose vehicle that is not an affiliate of the covered foreign entity.
+
+      ( ii ) SPV exposure means an investment in the debt or equity of an SPV or a credit derivative or equity derivative between the covered foreign entity and a third party where the covered foreign entity is the protection provider and the reference asset is an obligation or equity security of, or equity investment in, an SPV.
+
+    ( 3 )
+
+      ( i ) A covered foreign entity must determine whether the amount of its gross credit exposure to an issuer of assets in an SPV, due to an SPV exposure, is equal to or greater than 0.25 percent of the covered foreign entity's tier 1 capital using one of the following two methods:
+
+        ( A ) The sum of all of the issuer's assets (with each asset valued in accordance with § 252.173(a) ) in the SPV; or
+
+        ( B ) The application of the look-through approach described in paragraph (b) of this section.
+
+      ( ii ) With respect to the determination required under paragraph (a)(3)(i) of this section, a covered foreign entity must use the same method to calculate gross credit exposure to each issuer of assets in a particular SPV.
+
+      ( iii ) In making a determination under paragraph (a)(3)(i) of this section, the covered foreign entity must consider only the credit exposure to the issuer arising from the covered foreign entity's SPV exposure.
+
+      ( iv ) For purposes of this paragraph (a)(3) , a covered foreign entity that is unable to identify each issuer of assets in an SPV must attribute to a single unknown counterparty the amount of its gross credit exposure to all unidentified issuers and calculate such gross credit exposure using one method in either paragraph (a)(3)(i)(A) or (B) of this section.
+
+    ( 4 )
+
+      ( i ) If a covered foreign entity determines pursuant to paragraph (a)(3) of this section that the amount of its gross credit exposure to an issuer of assets in an SPV is less than 0.25 percent of the covered foreign entity's tier 1 capital, the amount of the covered foreign entity's gross credit exposure to that issuer may be attributed to either that issuer of assets or the SPV:
+
+        ( A ) If attributed to the issuer of assets, the issuer of assets must be identified as a counterparty, and the gross credit exposure calculated under paragraph (a)(3)(i)(A) of this section to that issuer of assets must be aggregated with any other gross credit exposures (valued in accordance with § 252.173 ) to that same counterparty; and
+
+        ( B ) If attributed to the SPV, the covered foreign entity's gross credit exposure is equal to the covered foreign entity's SPV exposure, valued in accordance with § 252.173(a) .
+
+      ( ii ) If a covered foreign entity determines pursuant to paragraph (a)(3) of this section that the amount of its gross credit exposure to an issuer of assets in an SPV is equal to or greater than 0.25 percent of the covered foreign entity's tier 1 capital or the covered foreign entity is unable to determine that the amount of the gross credit exposure is less than 0.25 percent of the covered foreign entity's tier 1 capital:
+
+        ( A ) The covered foreign entity must calculate the amount of its gross credit exposure to the issuer of assets in the SPV using the look-through approach in paragraph (b) of this section;
+
+        ( B ) The issuer of assets in the SPV must be identified as a counterparty, and the gross credit exposure calculated in accordance with paragraph (b) must be aggregated with any other gross credit exposures (valued in accordance with § 252.173 ) to that same counterparty; and
+
+        ( C ) When applying the look-through approach in paragraph (b) of this section, a covered foreign entity that is unable to identify each issuer of assets in an SPV must attribute to a single unknown counterparty the amount of its gross credit exposure, calculated in accordance with paragraph (b) of this section, to all unidentified issuers.
+
+      ( iii ) For purposes of this section, a covered foreign entity must aggregate all gross credit exposures to unknown counterparties for all SPVs as if the exposures related to a single unknown counterparty; this single unknown counterparty is subject to the limits of § 252.172 as if it were a single counterparty.
+
+  ( b ) Look-through approach. A covered foreign entity that is required to calculate the amount of its gross credit exposure with respect to an issuer of assets in accordance with this paragraph (b) must calculate the amount as follows:
+
+    ( 1 ) Where all investors in the SPV rank pari passu, the amount of the gross credit exposure to the issuer of assets is equal to the covered foreign entity's pro rata share of the SPV multiplied by the value of the underlying asset in the SPV, valued in accordance with § 252.173(a) ; and
+
+    ( 2 ) Where all investors in the SPV do not rank pari passu, the amount of the gross credit exposure to the issuer of assets is equal to:
+
+      ( i ) The pro rata share of the covered foreign entity's investment in the tranche of the SPV; multiplied by
+
+      ( ii ) The lesser of:
+
+        ( A ) The market value of the tranche in which the covered foreign entity has invested, except in the case of a debt security that is held to maturity, in which case the tranche must be valued at the amortized purchase price of the securities; and
+
+        ( B ) The value of each underlying asset attributed to the issuer in the SPV, each as calculated pursuant to § 252.173(a) .
+
+  ( c ) Exposures to third parties.
+
+    ( 1 ) Notwithstanding any other requirement in this section, a covered foreign entity must recognize, for purposes of this subpart, a gross credit exposure to each third party that has a contractual obligation to provide credit or liquidity support to an SPV whose failure or material financial distress would cause a loss in the value of the covered foreign entity's SPV exposure.
+
+    ( 2 ) The amount of any gross credit exposure that is required to be recognized to a third party under paragraph (c)(1) of this section is equal to the covered foreign entity's SPV exposure, up to the maximum contractual obligation of that third party to the SPV, valued in accordance with § 252.173(a) . (This gross credit exposure is in addition to the covered foreign entity's gross credit exposure to the SPV or the issuers of assets of the SPV, calculated in accordance with paragraphs (a) and (b) of this section.)
+
+    ( 3 ) A covered foreign entity must aggregate the gross credit exposure to a third party recognized in accordance with paragraphs (c)(1) and (2) of this section with its other gross credit exposures to that third party (that are unrelated to the SPV) for purposes of compliance with the limits of § 252.172 .
+
+## § 252.176 Aggregation of exposures to more than one counterparty due to economic interdependence or control relationships.
+
+  ( a ) In general.
+
+    ( 1 ) This section applies to a covered foreign entity except as provided in paragraph (a)(1)(i) of this section.
+
+      ( i ) Until January 1, 2021, paragraphs (a)(2) through (d) of this section do not apply to a U.S. intermediate holding company that is a covered foreign entity with less than $250 billion in total consolidated assets as of December 31, 2019.
+
+      ( ii ) [Reserved]
+
+    ( 2 )
+
+      ( i ) If a covered foreign entity has an aggregate net credit exposure to any counterparty that exceeds 5 percent of its tier 1 capital, the covered foreign entity must assess its relationship with the counterparty under paragraph (b)(2) of this section to determine whether the counterparty is economically interdependent with one or more other counterparties of the covered foreign entity and under paragraph (c)(1) of this section to determine whether the counterparty is connected by a control relationship with one or more other counterparties.
+
+      ( ii ) If, pursuant to an assessment required under paragraph (a)(2)(i) of this section, the covered foreign entity determines that one or more of the factors of paragraph (b)(2) or (c)(1) of this section are met with respect to one or more counterparties, or the Board determines pursuant to paragraph (d) of this section that one or more other counterparties of a covered foreign entity are economically interdependent or that one or more other counterparties of a covered foreign entity are connected by a control relationship, the covered foreign entity must aggregate its net credit exposure to the counterparties for all purposes under this subpart, including, but not limited to, § 252.172 .
+
+      ( iii ) In connection with any request pursuant to paragraph (b)(3) or (c)(2) of this section, the Board may require the covered foreign entity to provide additional information.
+
+  ( b ) Aggregation of exposures to more than one counterparty due to economic interdependence.
+
+    ( 1 ) For purposes of this paragraph, two counterparties are economically interdependent if the failure, default, insolvency, or material financial distress of one counterparty would cause the failure, default, insolvency, or material financial distress of the other counterparty, taking into account the factors in paragraph (b)(2) of this section.
+
+    ( 2 ) A covered foreign entity must assess whether the financial distress of one counterparty (counterparty A) would prevent the ability of the other counterparty (counterparty B) to fully and timely repay counterparty B's liabilities and whether the insolvency or default of counterparty A is likely to be associated with the insolvency or default of counterparty B and, therefore, these counterparties are economically interdependent, by evaluating the following:
+
+      ( i ) Whether 50 percent or more of one counterparty's gross revenue is derived from, or gross expenditures are directed to, transactions with the other counterparty;
+
+      ( ii ) Whether counterparty A has fully or partly guaranteed the credit exposure of counterparty B, or is liable by other means, in an amount that is 50 percent or more of the covered foreign entity's net credit exposure to counterparty A;
+
+      ( iii ) Whether 25 percent or more of one counterparty's production or output is sold to the other counterparty, which cannot easily be replaced by other customers;
+
+      ( iv ) Whether the expected source of funds to repay the loans of both counterparties is the same and neither counterparty has another independent source of income from which the loans may be serviced and fully repaid; [ 1 ] and
+
+      ( v ) Whether two or more counterparties rely on the same source for the majority of their funding and, in the event of the common provider's default, an alternative provider cannot be found.
+
+    ( 3 )
+
+      ( i ) Notwithstanding paragraph (b)(2) of this section, if a covered foreign entity determines that one or more of the factors in paragraph (b)(2) is met, the covered foreign entity may request in writing a determination from the Board that those counterparties are not economically interdependent and that the covered foreign entity is not required to aggregate those counterparties.
+
+      ( ii ) Upon a request by a covered foreign entity pursuant to paragraph (b)(3) of this section, the Board may grant temporary relief to the covered foreign entity and not require the covered foreign entity to aggregate one counterparty with another counterparty provided that the counterparty could promptly modify its business relationships, such as by reducing its reliance on the other counterparty, to address any economic interdependence concerns, and provided that such relief is in the public interest and is consistent with the purpose of this subpart and 12 U.S.C. 5365(e) .
+
+  ( c ) Aggregation of exposures to more than one counterparty due to certain control relationships.
+
+    ( 1 ) For purposes of this subpart, one counterparty (counterparty A) is deemed to control the other counterparty (counterparty B) if:
+
+      ( i ) Counterparty A owns, controls, or holds with the power to vote 25 percent or more of any class of voting securities of counterparty B; or
+
+      ( ii ) Counterparty A controls in any manner the election of a majority of the directors, trustees, or general partners (or individuals exercising similar functions) of counterparty B.
+
+    ( 2 )
+
+      ( i ) Notwithstanding paragraph (c)(1) of this section, if a covered foreign entity determines that one or more of the factors in paragraph (c)(1) is met, the covered foreign entity may request in writing a determination from the Board that counterparty A does not control counterparty B and that the covered foreign entity is not required to aggregate those counterparties.
+
+      ( ii ) Upon a request by a covered foreign entity pursuant to paragraph (c)(2) of this section, the Board may grant temporary relief to the covered foreign entity and not require the covered foreign entity to aggregate counterparty A with counterparty B provided that, taking into account the specific facts and circumstances, such indicia of control does not result in the entities being connected by control relationships for purposes of this subpart, and provided that such relief is in the public interest and is consistent with the purpose of this subpart and 12 U.S.C. 5365(e) .
+
+  ( d ) Board determinations for aggregation of counterparties due to economic interdependence or control relationships. The Board may determine, after notice to the covered foreign entity and opportunity for hearing, that one or more counterparties of a covered foreign entity are:
+
+    ( 1 ) Economically interdependent for purposes of this subpart, considering the factors in paragraph (b)(2) of this section, as well as any other indicia of economic interdependence that the Board determines in its discretion to be relevant; or
+
+    ( 2 ) Connected by control relationships for purpose of this subpart, considering the factors in paragraph (c)(1) of this section and whether counterparty A:
+
+      ( i ) Controls the power to vote 25 percent or more of any class of voting securities of Counterparty B pursuant to a voting agreement;
+
+      ( ii ) Has significant influence on the appointment or dismissal of counterparty B's administrative, management, or governing body, or the fact that a majority of members of such body have been appointed solely as a result of the exercise of counterparty A's voting rights; or
+
+      ( iii ) Has the power to exercise a controlling influence over the management or policies of counterparty B.
+
+  ( e ) Board determinations for aggregation of counterparties to prevent evasion. Notwithstanding paragraphs (b) and (c) of this section, a covered foreign entity must aggregate its exposures to a counterparty with the covered foreign entity's exposures to another counterparty if the Board determines in writing after notice and opportunity for hearing, that the exposures to the two counterparties must be aggregated to prevent evasions of the purposes of this subpart, including, but not limited to § 252.176 and 12 U.S.C. 5365(e) .
+
+[ 1 ] An employer will not be treated as a source of repayment under this paragraph because of wages and salaries paid to an employee.
+
+## § 252.177 Exemptions.
+
+  ( a ) Exempted exposure categories. The following categories of credit transactions are exempt from the limits on credit exposure under this subpart:
+
+    ( 1 ) Any direct claim on, and the portion of a claim that is directly and fully guaranteed as to principal and interest by, the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, only while operating under the conservatorship or receivership of the Federal Housing Finance Agency, and any additional obligation issued by a U.S. government-sponsored entity as determined by the Board;
+
+    ( 2 ) Intraday credit exposure to a counterparty;
+
+    ( 3 ) Any trade exposure to a qualifying central counterparty related to the covered foreign entity's clearing activity, including potential future exposure arising from transactions cleared by the qualifying central counterparty and pre-funded default fund contributions;
+
+    ( 4 ) Any credit transaction with the Bank for International Settlements, the International Monetary Fund, the International Bank for Reconstruction and Development, the International Finance Corporation, the International Development Association, the Multilateral Investment Guarantee Agency, or the International Centre for Settlement of Investment Disputes;
+
+    ( 5 ) Any credit transaction with the European Commission or the European Central Bank; and
+
+    ( 6 ) Any transaction that the Board exempts if the Board finds that such exemption is in the public interest and is consistent with the purpose of this subpart.
+
+  ( b ) Additional exemptions by the Board. The Board may, by regulation or order, exempt transactions, in whole or in part, from the definition of the term “credit exposure,” if the Board finds that the exemption is in the public interest and is consistent with the purpose of 12 U.S.C. 5365(e) .
+
+## § 252.178 Compliance.
+
+  ( a ) Scope of compliance.
+
+    ( 1 ) Except as provided in paragraph (a)(2) of this section, using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a covered foreign entity must comply with the requirements of this subpart on a daily basis at the end of each business day.
+
+    ( 2 ) Until December 31, 2020, using all available data, including any data required to be maintained or reported to the Federal Reserve under this subpart, a U.S. intermediate holding company that is a covered foreign entity with less than $250 billion in total consolidated assets as of December 31, 2019 must comply with the requirements of this subpart on a quarterly basis, unless the Board determines and notifies the entity in writing that more frequent compliance is required.
+
+    ( 3 ) A covered foreign entity must report its compliance to the Federal Reserve as of the end of the quarter, unless the Board determines and notifies that entity in writing that more frequent reporting is required.
+
+    ( 4 ) In reporting its compliance, a covered foreign entity must calculate and include in its gross credit exposure to an issuer of eligible collateral or eligible guarantor the amounts of eligible collateral, eligible guarantees, eligible equity derivatives, and eligible credit derivatives that were provided to the covered foreign entity in connection with credit transactions with exempt counterparties, valued in accordance with and as required by § 252.174(b) through (d) and (g) .
+
+  ( b ) Qualifying Master Netting Agreement. With respect to any qualifying master netting agreement, a covered foreign entity must establish and maintain procedures that meet or exceed the requirements of § 217.3(d) of the Board's Regulation Q ( 12 CFR 217.3(d) ) to monitor possible changes in relevant law and to ensure that the agreement continues to satisfy these requirements.
+
+  ( c ) Noncompliance.
+
+    ( 1 ) Except as otherwise provided in this section, if a covered foreign entity is not in compliance with this subpart with respect to a counterparty solely due to the circumstances listed in paragraphs (c)(2)(i) through (v) of this section, the covered foreign entity will not be subject to enforcement actions for a period of 90 days (or, with prior notice to the foreign entity, such shorter or longer period determined by the Board, in its sole discretion, to be appropriate to preserve the safety and soundness of the covered foreign entity or U.S. financial stability), if the covered foreign entity uses reasonable efforts to return to compliance with this subpart during this period. The covered foreign entity may not engage in any additional credit transactions with such a counterparty in contravention of this rule during the period of noncompliance, except as provided in paragraph (c)(2) of this section.
+
+    ( 2 ) A covered foreign entity may request a special temporary credit exposure limit exemption from the Board. The Board may grant approval for such exemption in cases where the Board determines that such credit transactions are necessary or appropriate to preserve the safety and soundness of the covered foreign entity or U.S. financial stability. In acting on a request for an exemption, the Board will consider the following:
+
+      ( i ) A decrease in the covered foreign entity's capital stock and surplus or tier 1 capital, as applicable;
+
+      ( ii ) The merger of the covered foreign entity with another covered foreign entity;
+
+      ( iii ) A merger of two counterparties; or
+
+      ( iv ) An unforeseen and abrupt change in the status of a counterparty as a result of which the covered foreign entity's credit exposure to the counterparty becomes limited by the requirements of this section; or
+
+      ( v ) Any other factor(s) the Board determines, in its discretion, is appropriate.
+
+  ( d ) Other measures. The Board may impose supervisory oversight and additional reporting measures that it determines are appropriate to monitor compliance with this subpart. Covered foreign entities must furnish, in the manner and form prescribed by the Board, such information to monitor compliance with this subpart and the limits therein as the Board may require.
+
+## § 252.220 Debt-to-equity limits for U.S. bank holding companies.
+
+  ( a ) Definitions —
+
+    ( 1 ) Debt-to-equity ratio means the ratio of a company's total liabilities to a company's total equity capital less goodwill.
+
+    ( 2 ) Debt and equity have the same meaning as “total liabilities” and “total equity capital,” respectively, as reported by a bank holding company on the FR Y-9C.
+
+  ( b ) Notice and maximum debt-to-equity ratio requirement. The Council, or the Board on behalf of the Council, will provide written notice to a bank holding company to the extent that the Council makes a determination, pursuant to section 165(j) of the Dodd-Frank Act, that a bank holding company poses a grave threat to the financial stability of the United States and that the imposition of a debt-to-equity requirement is necessary to mitigate such risk. Beginning no later than 180 days after receiving written notice from the Council or from the Board on behalf of the Council, the bank holding company must achieve and maintain a debt-to-equity ratio of no more than 15-to-1.
+
+  ( c ) Extension. The Board may, upon request by the bank holding company for which the Council has made a determination pursuant to section 165(j) of the Dodd-Frank Act, extend the time period for compliance established under paragraph (b) of this section for up to two additional periods of 90 days each, if the Board determines that the identified company has made good faith efforts to comply with the debt-to-equity ratio requirement and that each extension would be in the public interest. Requests for an extension must be received in writing by the Board not less than 30 days prior to the expiration of the existing time period for compliance and must provide information sufficient to demonstrate that the bank holding company has made good faith efforts to comply with the debt-to-equity ratio requirement and that each extension would be in the public interest.
+
+  ( d ) Termination. The debt-to-equity ratio requirement in paragraph (b) of this section shall cease to apply to a bank holding company as of the date it receives notice from the Council of a determination that the bank holding company no longer poses a grave threat to the financial stability of the United States and that the imposition of a debt-to-equity requirement is no longer necessary.
+
+## § 252.221 Debt-to-equity limits for foreign banking organizations.
+
+  ( a ) Definitions. For purposes of this subpart, the following definitions apply:
+
+    ( 1 ) Debt and equity have the same meaning as “total liabilities” and “total equity capital,” respectively, as reported by a U.S. intermediate holding company or U.S. subsidiary on the FR Y-9C, or other reporting form prescribed by the Board.
+
+    ( 2 ) Debt-to-equity ratio means the ratio of total liabilities to total equity capital less goodwill.
+
+    ( 3 ) Eligible assets and liabilities of all U.S. branches and agencies of a foreign bank have the same meaning as in § 252.158(a) .
+
+  ( b ) Notice and maximum debt-to-equity ratio requirement. Beginning no later than 180 days after receiving written notice from the Council or from the Board on behalf of the Council that the Council has made a determination, pursuant to section 165(j) of the Dodd-Frank Act, that the foreign banking organization poses a grave threat to the financial stability of the United States and that the imposition of a debt-to-equity requirement is necessary to mitigate such risk:
+
+    ( 1 ) The U.S. intermediate holding company, or if the foreign banking organization has not established a U.S. intermediate holding company, and any U.S. subsidiary (excluding any section 2(h)(2) company or DPC branch subsidiary, if applicable), must achieve and maintain a debt-to-equity ratio of no more than 15-to-1; and
+
+    ( 2 ) The U.S. branches and agencies of the foreign banking organization must maintain eligible assets in its U.S. branches and agencies that, on a daily basis, are not less than 108 percent of the average value over each day of the previous calendar quarter of the total liabilities of all branches and agencies operated by the foreign banking organization in the United States.
+
+  ( c ) Extension. The Board may, upon request by a foreign banking organization for which the Council has made a determination pursuant to section 165(j) of the Dodd-Frank Act, extend the time period for compliance established under paragraph (b) of this section for up to two additional periods of 90 days each, if the Board determines that such company has made good faith efforts to comply with the debt to equity ratio requirement and that each extension would be in the public interest. Requests for an extension must be received in writing by the Board not less than 30 days prior to the expiration of the existing time period for compliance and must provide information sufficient to demonstrate that the foreign banking organization has made good faith efforts to comply with the debt-to-equity ratio requirement and that each extension would be in the public interest.
+
+  ( d ) Termination. The requirements in paragraph (b) of this section cease to apply to a foreign banking organization as of the date it receives notice from the Council of a determination that the company no longer poses a grave threat to the financial stability of the United States and that imposition of the requirements in paragraph (b) of this section are no longer necessary.
+
+---
+
+## Appendix A to Part 252—Policy Statement on the Scenario Design Framework for Stress Testing
+
+1. Background
+( a ) The Board has imposed stress testing requirements through its regulations (stress test rules) implementing section 165(i) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act or Act) and section 401(e) of the Economic Growth, Regulatory Relief, and Consumer Protection Act, and through its capital plan rule ( 12 CFR 225.8 ). Under the stress test rules, the Board conducts a supervisory stress test of each bank holding company with total consolidated assets of $100 billion or more, intermediate holding company of a foreign banking organization with total consolidated assets of $100 billion or more, and nonbank financial company that the Financial Stability Oversight Council has designated for supervision by the Board (together, covered companies). [ 1 ] In addition, under the stress test rules, certain firms are also subject to company-run stress test requirements. [ 2 ] The Board will provide for at least two different sets of conditions (each set, a scenario), including baseline and severely adverse scenarios for both supervisory and company-run stress tests (macroeconomic scenarios). [ 3 ]
+( b ) The stress test rules provide that the Board will notify covered companies by no later than February 15 of each year of the scenarios it will use to conduct its supervisory stress tests and provide, also by no later than February 15, covered companies and other financial companies subject to the final rules the set of scenarios they must use to conduct their company-run stress tests. Under the stress test rules, the Board may require certain companies to use additional components in the severely adverse scenario or additional scenarios. For example, the Board expects to require large banking organizations with significant trading activities to include a trading and counterparty component (market shock, described in the following sections) in their severely adverse scenario. The Board will provide any additional components or scenario by no later than March 1 of each year. [ 4 ] The Board expects that the scenarios it will require the companies to use will be the same as those the Board will use to conduct its supervisory stress tests (together, stress test scenarios).
+( c ) In addition, § 225.8 of the Board's Regulation Y (capital plan rule) requires covered companies to submit annual capital plans, including stress test results, to the Board in order to allow the Board to assess whether they have robust, forward-looking capital planning processes and have sufficient capital to continue operations throughout times of economic and financial stress. [ 5 ]
+( d ) Stress tests required under the stress test rules and under the capital plan rule require the Board and financial companies to calculate pro-forma capital levels—rather than “current” or actual levels—over a specified planning horizon under baseline and stressful scenarios. This approach integrates key lessons of the 2007-2009 financial crisis into the Board's supervisory framework. During the financial crisis, investor and counterparty confidence in the capitalization of financial companies eroded rapidly in the face of changes in the current and expected economic and financial conditions, and this loss in market confidence imperiled companies' ability to access funding, continue operations, serve as a credit intermediary, and meet obligations to creditors and counterparties. Importantly, such a loss in confidence occurred even when a financial institution's capital ratios were in excess of regulatory minimums. This is because the institution's capital ratios were perceived as lagging indicators of its financial condition, particularly when conditions were changing.
+( e ) The stress tests required under the stress test rules and capital plan rule are a valuable supervisory tool that provide a forward-looking assessment of large financial companies' capital adequacy under hypothetical economic and financial market conditions. Currently, these stress tests primarily focus on credit risk and market risk—that is, risk of mark-to-market losses associated with companies' trading and counterparty positions—and not on other types of risk, such as liquidity risk. Pressures stemming from these sources are considered in separate supervisory exercises. No single supervisory tool, including the stress tests, can provide an assessment of a company's ability to withstand every potential source of risk.
+( f ) Selecting appropriate scenarios is an especially significant consideration for stress tests required under the capital plan rule, which ties the review of a company's performance under stress scenarios to its ability to make capital distributions. More severe scenarios, all other things being equal, generally translate into larger projected declines in banks' capital. Thus, a company would need more capital today to meet its minimum capital requirements in more stressful scenarios and have the ability to continue making capital distributions, such as common dividend payments. This translation is far from mechanical, however; it will depend on factors that are specific to a given company, such as underwriting standards and the company's business model, which would also greatly affect projected revenue, losses, and capital.
+2. Overview and Scope
+( a ) This policy statement provides more detail on the characteristics of the stress test scenarios and explains the considerations and procedures that underlie the approach for formulating these scenarios. The considerations and procedures described in this policy statement apply to the Board's stress testing framework, including to the stress tests required under 12 CFR part 252, subparts B , E , and F as well as the Board's capital plan rule ( 12 CFR 225.8 ). [ 6 ]
+( b ) Although the Board does not envision that the broad approach used to develop scenarios will change from year to year, the stress test scenarios will reflect changes in the outlook for economic and financial conditions and changes to specific risks or vulnerabilities that the Board, in consultation with the other federal banking agencies, determines should be considered in the annual stress tests. The stress test scenarios should not be regarded as forecasts; rather, they are hypothetical paths of economic variables that will be used to assess the strength and resilience of the companies' capital in various economic and financial environments.
+( c ) The remainder of this policy statement is organized as follows. Section 3 provides a broad description of the baseline and severely adverse scenarios and describes the types of variables that the Board expects to include in the macroeconomic scenarios and the market shock component of the stress test scenarios applicable to companies with significant trading activity. Section 4 describes the Board's approach for developing the macroeconomic scenarios, and section 5 describes the approach for the market shocks. Section 6 describes the relationship between the macroeconomic scenario and the market shock components. Section 7 provides a timeline for the formulation and publication of the macroeconomic assumptions and market shocks.
+3. Content of the Stress Test Scenarios
+( a ) The Board will publish a minimum of two different scenarios, including baseline and severely adverse conditions, for use in stress tests required in the stress test rules. [ 7 ] In general, the Board anticipates that it will not issue additional scenarios. Specific circumstances or vulnerabilities that in any given year the Board determines require particular vigilance to ensure the resilience of the banking sector will be captured in the severely adverse scenario. A greater number of scenarios could be needed in some years—for example, because the Board identifies a large number of unrelated and uncorrelated but nonetheless significant risks.
+( b ) While the Board generally expects to use the same scenarios for all companies subject to the final rule, it may require a subset of companies— depending on a company's financial condition, size, complexity, risk profile, scope of operations, or activities, or risks to the U.S. economy—to include additional scenario components or additional scenarios that are designed to capture different effects of adverse events on revenue, losses, and capital. One example of such components is the market shock that applies only to companies with significant trading activity. Additional components or scenarios may also include other stress factors that may not necessarily be directly correlated to macroeconomic or financial assumptions but nevertheless can materially affect companies' risks, such as the unexpected default of a major counterparty.
+( c ) Early in each stress testing cycle, the Board plans to publish the macroeconomic scenarios along with a brief narrative summary that provides a description of the economic situation underlying the scenario and explains how the scenarios have changed relative to the previous year. In addition, to assist companies in projecting the paths of additional variables in a manner consistent with the scenario, the narrative will also provide descriptions of the general path of some additional variables. These descriptions will be general—that is, they will describe developments for broad classes of variables rather than for specific variables—and will specify the intensity and direction of variable changes but not numeric magnitudes. These descriptions should provide guidance that will be useful to companies in specifying the paths of the additional variables for their company-run stress tests. Note that in practice it will not be possible for the narrative to include descriptions on all of the additional variables that companies may need for their company-run stress tests. In cases where scenarios are designed to reflect particular risks and vulnerabilities, the narrative will also explain the underlying motivation for these features of the scenario. The Board also plans to release a broad description of the market shock components.
+3.1 Macroeconomic Scenarios
+( a ) The macroeconomic scenarios will consist of the future paths of a set of economic and financial variables. [ 8 ] The economic and financial variables included in the scenarios will likely comprise those included in the “2014 Supervisory Scenarios for Annual Stress Tests Required under the Dodd-Frank Act Stress Testing Rules and the Capital Plan Rule” (2013 supervisory scenarios). The domestic U.S. variables provided for in the 2013 supervisory scenarios included:
+( i ) Six measures of economic activity and prices: Real and nominal gross domestic product (GDP) growth, the unemployment rate of the civilian non-institutional population aged 16 and over, real and nominal disposable personal income growth, and the Consumer Price Index (CPI) inflation rate;
+( ii ) Four measures of developments in equity and property markets: The Core Logic National House Price Index, the National Council for Real Estate Investment Fiduciaries Commercial Real Estate Price Index, the Dow Jones Total Stock Market Index, and the Chicago Board Options Exchange Market Volatility Index; and
+( iii ) Six measures of interest rates: The rate on the 3-month Treasury bill, the yield on the 5-year Treasury bond, the yield on the 10-year Treasury bond, the yield on a 10-year BBB corporate security, the prime rate, and the interest rate associated with a conforming, conventional, fixed-rate, 30-year mortgage.
+( b ) The international variables provided for in the 2014 supervisory scenarios included, for the euro area, the United Kingdom, developing Asia, and Japan:
+( i ) Percent change in real GDP;
+( ii ) Percent change in the Consumer Price Index or local equivalent; and
+( iii ) The U.S./foreign currency exchange rate. [ 9 ]
+( c ) The economic variables included in the scenarios influence key items affecting financial companies' net income, including pre-provision net revenue and credit losses on loans and securities. Moreover, these variables exhibit fairly typical trends in adverse economic climates that can have unfavorable implications for companies' net income and, thus, capital positions.
+( d ) The economic variables included in the scenario may change over time. For example, the Board may add variables to a scenario if the international footprint of companies that are subject to the stress testing rules changed notably over time such that the variables already included in the scenario no longer sufficiently capture the material risks of these companies. Alternatively, historical relationships between macroeconomic variables could change over time such that one variable (e.g., disposable personal income growth) that previously provided a good proxy for another (e.g., light vehicle sales) in modeling companies' pre-provision net revenue or credit losses ceases to do so, resulting in the need to create a separate path, or alternative proxy, for the other variable. However, recognizing the amount of work required for companies to incorporate the scenario variables into their stress testing models, the Board expects to eliminate variables from the scenarios only in rare instances.
+( e ) The Board expects that the company may not use all of the variables provided in the scenario, if those variables are not appropriate to the company's line of business, or may add additional variables, as appropriate. The Board expects the companies to ensure that the paths of such additional variables are consistent with the scenarios the Board provided. For example, the companies may use, as part of their internal stress test models, local-level variables, such as state-level unemployment rates or city-level house prices. While the Board does not plan to include local-level macro variables in the stress test scenarios it provides, it expects the companies to evaluate the paths of local-level macro variables as needed for their internal models, and ensure internal consistency between these variables and their aggregate, macro-economic counterparts. The Board will provide the macroeconomic scenario component of the stress test scenarios for a period that spans a minimum of 13 quarters. The scenario horizon reflects the supervisory stress test approach that the Board plans to use. Under the stress test rules, the Board will assess the effect of different scenarios on the consolidated capital of each company over a forward-looking planning horizon of at least nine quarters.
+3.2 Market Shock Component
+( a ) The market shock component of the severely adverse scenario will only apply to companies with significant trading activity and their subsidiaries. [ 10 ] The component consists of large moves in market prices and rates that would be expected to generate losses. Market shocks differ from macroeconomic scenarios in a number of ways, both in their design and application. For instance, market shocks that might typically be observed over an extended period ( e.g., 6 months) are assumed to be an instantaneous event which immediately affects the market value of the companies' trading assets and liabilities. In addition, under the stress test rules, the as-of date for market shocks will differ from the quarter-end, and the Board will provide the as-of date for market shocks no later than February 1 of each year. Finally, as described in section 4, the market shock includes a much larger set of risk factors than the set of economic and financial variables included in macroeconomic scenarios. Broadly, these risk factors include shocks to financial market variables that affect asset prices, such as a credit spread or the yield on a bond, and, in some cases, the value of the position itself ( e.g., the market value of private equity positions).
+( b ) The Board envisions that the market shocks will include shocks to a broad range of risk factors that are similar in granularity to those risk factors that trading companies use internally to produce profit and loss estimates, under stressful market scenarios, for all asset classes that are considered trading assets, including equities, credit, interest rates, foreign exchange rates, and commodities. Examples of risk factors include, but are not limited to:
+( i ) Equity indices of all developed markets, and of developing and emerging market nations to which companies with significant trading activity may have exposure, along with term structures of implied volatilities;
+( ii ) Cross-currency FX rates of all major and many minor currencies, along term structures of implied volatilities;
+( iii ) Term structures of government rates (e.g., U.S. Treasuries), interbank rates (e.g., swap rates) and other key rates (e.g., commercial paper) for all developed markets and for developing and emerging market nations to which companies may have exposure;
+( iv ) Term structures of implied volatilities that are key inputs to the pricing of interest rate derivatives;
+( v ) Term structures of futures prices for energy products including crude oil (differentiated by country of origin), natural gas, and power;
+( vi ) Term structures of futures prices for metals and agricultural commodities;
+( vii ) “Value-drivers” (credit spreads or instrument prices themselves) for credit-sensitive product segments including: Corporate bonds, credit default swaps, and collateralized debt obligations by risk; non-agency residential mortgage-backed securities and commercial mortgage-backed securities by risk and vintage; sovereign debt; and, municipal bonds; and
+( viii ) Shocks to the values of private equity positions.
+4. Approach for Formulating the Macroeconomic Assumptions for Scenarios
+( a ) This section describes the Board's approach for formulating macroeconomic assumptions for each scenario. The methodologies for formulating this part of each scenario differ by scenario, so these methodologies for the baseline and severely adverse scenarios are described separately in each of the following subsections.
+( b ) In general, the baseline scenario will reflect the most recently available consensus views of the macroeconomic outlook expressed by professional forecasters, government agencies, and other public-sector organizations as of the beginning of the stress-test cycle. The severely adverse scenario will consist of a set of economic and financial conditions that reflect the conditions of post-war U.S. recessions.
+( c ) Each of these scenarios is described further in sections below as follows: Baseline (subsection 4.1) and severely adverse (subsection 4.2)
+4.1 Approach for Formulating Macroeconomic Assumptions in the Baseline Scenario
+( a ) The stress test rules define the baseline scenario as a set of conditions that affect the U.S. economy or the financial condition of a banking organization, and that reflect the consensus views of the economic and financial outlook. Projections under a baseline scenario are used to evaluate how companies would perform in more likely economic and financial conditions. The baseline serves also as a point of comparison to the severely adverse scenario, giving some sense of how much of the company's capital decline could be ascribed to the scenario as opposed to the company's capital adequacy under expected conditions.
+( b ) The baseline scenario will be developed around a macroeconomic projection that captures the prevailing views of private-sector forecasters (e.g., Blue Chip Consensus Forecasts and the Survey of Professional Forecasters), government agencies, and other public-sector organizations (e.g., the International Monetary Fund and the Organization for Economic Co-operation and Development) near the beginning of the annual stress-test cycle. The baseline scenario is designed to represent a consensus expectation of certain economic variables over the time period of the tests and it is not the Board's internal forecast for those economic variables. For example, the baseline path of short-term interest rates is constructed from consensus forecasts and may differ from that implied by the FOMC's Summary of Economic Projections.
+( c ) For some scenario variables—such as U.S. real GDP growth, the unemployment rate, and the consumer price index—there will be a large number of different forecasts available to project the paths of these variables in the baseline scenario. For others, a more limited number of forecasts will be available. If available forecasts diverge notably, the baseline scenario will reflect an assessment of the forecast that is deemed to be most plausible. In setting the paths of variables in the baseline scenario, particular care will be taken to ensure that, together, the paths present a coherent and plausible outlook for the U.S. and global economy, given the economic climate in which they are formulated.
+4.2 Approach for Formulating the Macroeconomic Assumptions in the Severely Adverse Scenario
+The stress test rules define a severely adverse scenario as a set of conditions that affect the U.S. economy or the financial condition of a financial company and that overall are significantly more severe than those associated with the baseline scenario. The financial company will be required to publicly disclose a summary of the results of its stress test under the severely adverse scenario, and the Board intends to publicly disclose the results of its analysis of the financial company under the severely adverse scenario.
+4.2.1 General Approach: The Recession Approach
+( a ) The Board intends to use a recession approach to develop the severely adverse scenario. In the recession approach, the Board will specify the future paths of variables to reflect conditions that characterize post-war U.S. recessions, generating either a typical or specific recreation of a post-war U.S. recession. The Board chose this approach because it has observed that the conditions that typically occur in recessions—such as increasing unemployment, declining asset prices, and contracting loan demand—can put significant stress on companies' balance sheets. This stress can occur through a variety of channels, including higher loss provisions due to increased delinquencies and defaults; losses on trading positions through sharp moves in market prices; and lower bank income through reduced loan originations. For these reasons, the Board believes that the paths of economic and financial variables in the severely adverse scenario should, at a minimum, resemble the paths of those variables observed during a recession.
+( b ) This approach requires consideration of the type of recession to feature. All post-war U.S. recessions have not been identical: Some recessions have been associated with very elevated interest rates, some have been associated with sizable asset price declines, and some have been relatively more global. The most common features of recessions, however, are increases in the unemployment rate and contractions in aggregate incomes and economic activity. For this and the following reasons, the Board intends to use the unemployment rate as the primary basis for specifying the severely adverse scenario. First, the unemployment rate is likely the most representative single summary indicator of adverse economic conditions. Second, in comparison to GDP, labor market data have traditionally featured more prominently than GDP in the set of indicators that the National Bureau of Economic Research reviews to inform its recession dates. [ 11 ] Third and finally, the growth rate of potential output can cause the size of the decline in GDP to vary between recessions. While changes in the unemployment rate can also vary over time due to demographic factors, this seems to have more limited implications over time relative to changes in potential output growth. The unemployment rate used in the severely adverse scenario will reflect an unemployment rate that has been observed in severe post-war U.S. recessions, measuring severity by the absolute level of and relative increase in the unemployment rate. [ 12 ]
+( c ) The Board believes that the severely adverse scenario should also reflect a housing recession. The house prices path set in the severely adverse scenario will reflect developments that have been observed in post-war U.S. housing recessions, measuring severity by the absolute level of and relative decrease in the house prices.
+( d ) The Board will specify the paths of most other macroeconomic variables based on the paths of unemployment, income, house prices, and activity. Some of these other variables, however, have taken wildly divergent paths in previous recessions (e.g., foreign GDP), requiring the Board to use its informed judgment in selecting appropriate paths for these variables. In general, the path for these other variables will be based on their underlying structure at the time that the scenario is designed (e.g., economic or financial-system vulnerabilities in other countries).
+( e ) The Board considered alternative methods for scenario design of the severely adverse scenario, including a probabilistic approach. The probabilistic approach constructs a baseline forecast from a large-scale macroeconomic model and identifies a scenario that would have a specific probabilistic likelihood given the baseline forecast. The Board believes that, at this time, the recession approach is better suited for developing the severely adverse scenario than a probabilistic approach because it guarantees a recession of some specified severity. In contrast, the probabilistic approach requires the choice of an extreme tail outcome—relative to baseline—to characterize the severely adverse scenario (e.g., a 5 percent or a 1 percent tail outcome). In practice, this choice is difficult as adverse economic outcomes are typically thought of in terms of how variables evolve in an absolute sense rather than how far away they lie in the probability space away from the baseline. In this sense, a scenario featuring a recession may be somewhat clearer and more straightforward to communicate. Finally, the probabilistic approach relies on estimates of uncertainty around the baseline scenario and such estimates are in practice model-dependent.
+4.2.2 Setting the Unemployment Rate Under the Severely Adverse Scenario
+( a ) The Board anticipates that the severely adverse scenario will feature an unemployment rate that increases between 3 to 5 percentage points from its initial level over the course of 6 to 8 calendar quarters. [ 13 ] The initial level will be set based on the conditions at the time that the scenario is designed. However, if a 3 to 5 percentage point increase in the unemployment rate does not raise the level of the unemployment rate to at least 10 percent—the average level to which it has increased in the most recent three severe recessions—the path of the unemployment rate in most cases will be specified so as to raise the unemployment rate to at least 10 percent.
+( b ) This methodology is intended to generate scenarios that feature stressful outcomes but do not induce greater procyclicality in the financial system and macroeconomy. When the economy is in the early stages of a recovery, the unemployment rate in a baseline scenario generally trends downward, resulting in a larger difference between the path of the unemployment rate in the severely adverse scenario and the baseline scenario and a severely adverse scenario that is relatively more intense. Conversely, in a sustained strong expansion—when the unemployment rate may be below the level consistent with full employment—the unemployment in a baseline scenario generally trends upward, resulting in a smaller difference between the path of the unemployment rate in the severely adverse scenario and the baseline scenario and a severely adverse scenario that is relatively less intense. Historically, a 3 to 5 percentage point increase in unemployment rate is reflective of stressful conditions. As illustrated in Table 1, over the last half-century, the U.S. economy has experienced four severe post-war recessions. In all four of these recessions, the unemployment rate increased 3 to 5 percentage points and in the three most recent of these recessions, the unemployment rate reached a level between 9 percent and 11 percent.
+( c ) Under this method, if the initial unemployment rate was low—as it would be after a sustained long expansion—the unemployment rate in the scenario would increase to a level as high as what has been seen in past severe recessions. However, if the initial unemployment rate was already high—as would be the case in the early stages of a recovery—the unemployment rate would exhibit a change as large as what has been seen in past severe recessions.
+( d ) The Board believes that the typical increase in the unemployment rate in the severely adverse scenario will be about 4 percentage points. However, the Board will calibrate the increase in unemployment based on its views of the status of cyclical systemic risk. The Board intends to set the unemployment rate at the higher end of the range if the Board believes that cyclical systemic risks are high (as it would be after a sustained long expansion), and to the lower end of the range if cyclical systemic risks are low (as it would be in the earlier stages of a recovery). This may result in a scenario that is slightly more intense than normal if the Board believed that cyclical systemic risks were increasing in a period of robust expansion. [ 14 ] Conversely, it will allow the Board to specify a scenario that is slightly less intense than normal in an environment where systemic risks appeared subdued, such as in the early stages of an expansion. Indeed, the Board expects that, in general, it will adopt a change in the unemployment rate of less than 4 percentage points when the unemployment rate at the start of the scenarios is elevated but the labor market is judged to be strengthening and higher-than-usual credit losses stemming from previously elevated unemployment rates were either already realized—or are in the process of being realized—and thus removed from banks' balance sheets. [ 15 ] However, even at the lower end of the range of unemployment-rate increases, the scenario will still feature an increase in the unemployment rate similar to what has been seen in about half of the severe recessions of the last 50 years.
+( e ) As indicated previously, if a 3 to 5 percentage point increase in the unemployment rate does not raise the level of the unemployment rate to 10 percent—the average level to which it has increased in the most recent three severe recessions—the path of the unemployment rate will be specified so as to raise the unemployment rate to 10 percent. Setting a floor for the unemployment rate at 10 percent recognizes the fact that not only do cyclical systemic risks build up at financial intermediaries during robust expansions but that these risks are also easily obscured by the buoyant environment.
+( f ) In setting the increase in the unemployment rate, the Board will consider the extent to which analysis by economists, supervisors, and financial market experts finds cyclical systemic risks to be elevated (but difficult to be captured more precisely in one of the scenario's other variables). In addition, the Board—in light of impending shocks to the economy and financial system—will also take into consideration the extent to which a scenario of some increased severity might be necessary for the results of the stress test and the associated supervisory actions to sustain confidence in financial institutions.
+( g ) While the approach to specifying the severely adverse scenario is designed to avoid adding sources of procyclicality to the financial system, it is not designed to explicitly offset any existing procyclical tendencies in the financial system. The purpose of the stress test scenarios is to make sure that the companies are properly capitalized to withstand severe economic and financial conditions, not to serve as an explicit countercyclical offset to the financial system.
+( h ) In developing the approach to the unemployment rate, the Board also considered a method that would increase the unemployment rate to some fairly elevated fixed level over the course of 6 to 8 quarters. This would result in scenarios being more severe in robust expansions (when the unemployment rate is low) and less severe in the early stages of a recovery (when the unemployment rate is high) and so would not result in pro-cyclicality. Depending on the initial level of the unemployment rate, this approach could lead to only a very modest increase in the unemployment rate—or even a decline. As a result, this approach—while not procyclical—could result in scenarios not featuring stressful macroeconomic outcomes.
+4.2.3 Setting the Other Variables in the Severely Adverse Scenario
+( a ) Generally, all other variables in the severely adverse scenario will be specified to be consistent with the increase in the unemployment rate. The approach for specifying the paths of these variables in the scenario will be a combination of
+( 1 ) how economic models suggest that these variables should evolve given the path of the unemployment rate,
+( 2 ) how these variables have typically evolved in past U.S. recessions, and
+( 3 ) evaluation of these and other factors.
+( b ) Economic models—such as medium-scale macroeconomic models—should be able to generate plausible paths consistent with the unemployment rate for a number of scenario variables, such as real GDP growth, CPI inflation and short-term interest rates, which have relatively stable (direct or indirect) relationships with the unemployment rate (e.g., Okun's Law, the Phillips Curve, and interest rate feedback rules). For some other variables, specifying their paths will require a case-by-case consideration.
+( c ) Declining house prices, which are an important source of stress to a company's balance sheet, are not a steadfast feature of recessions, and the historical relationship of house prices with the unemployment rate is not strong. Simply adopting their typical path in a severe recession would likely underestimate risks stemming from the housing sector. In specifying the path for nominal house prices, the Board will consider the ratio of the nominal house price index (HPI) to nominal, per capita, disposable income (DPI). The Board believes that the typical decline in the HPI-DPI ratio will be at a minimum 25 percent from its starting value, or enough to bring the ratio down to its Great Recession trough. As illustrated in Table 2, housing recessions have on average featured HPI-DPI ratio declines of about 25 percent and the HPI-DPI ratio fell to its Great Recession trough. [ 16 ]
+( d ) In addition, judgment is necessary in projecting the path of a scenario's international variables. Recessions that occur simultaneously across countries are an important source of stress to the balance sheets of companies with notable international exposures but are not an invariable feature of the international economy. As a result, simply adopting the typical path of international variables in a severe U.S. recession would likely underestimate the risks stemming from the international economy. Consequently, an approach that uses both judgment and economic models informs the path of international variables.
+4.2.4 Adding Salient Risks to the Severely Adverse Scenario
+( a ) The severely adverse scenario will be developed to reflect specific risks to the economic and financial outlook that are especially salient but will feature minimally in the scenario if the Board were only to use approaches that looked to past recessions or relied on historical relationships between variables.
+( b ) There are some important instances when it will be appropriate to augment the recession approach with salient risks. For example, if an asset price were especially elevated and thus potentially vulnerable to an abrupt and potentially destabilizing decline, it would be appropriate to include such a decline in the scenario even if such a large drop were not typical in a severe recession. Likewise, if economic developments abroad were particularly unfavorable, assuming a weakening in international conditions larger than what typically occurs in severe U.S. recessions would likely also be appropriate.
+( c ) Clearly, while the recession component of the severely adverse scenario is within some predictable range, the salient risk aspect of the scenario is far less so, and therefore, needs an annual assessment. Each year, the Board will identify the risks to the financial system and the domestic and international economic outlooks that appear more elevated than usual, using its internal analysis and supervisory information and in consultation with the Federal Deposit Insurance Corporation (FDIC) and the Office of the Comptroller of the Currency (OCC). Using the same information, the Board will then calibrate the paths of the macroeconomic and financial variables in the scenario to reflect these risks.
+( d ) Detecting risks that have the potential to weaken the banking sector is particularly difficult when economic conditions are buoyant, as a boom can obscure the weaknesses present in the system. In sustained robust expansions, therefore, the selection of salient risks to augment the scenario will err on the side of including risks of uncertain significance.
+( e ) The Board will factor in particular risks to the domestic and international macroeconomic outlook identified by its economists, bank supervisors, and financial market experts and make appropriate adjustments to the paths of specific economic variables. These adjustments will not be reflected in the general severity of the recession and, thus, all macroeconomic variables; rather, the adjustments will apply to a subset of variables to reflect co-movements in these variables that are historically less typical. The Board plans to discuss the motivation for the adjustments that it makes to variables to highlight systemic risks in the narrative describing the scenarios. [ 17 ]
+5. Approach for Formulating the Market Shock Component
+( a ) This section discusses the approach the Board proposes to adopt for developing the market shock component of the severely adverse scenario appropriate for companies with significant trading activities. The design and specification of the market shock component differs from that of the macroeconomic scenarios because profits and losses from trading are measured in mark-to-market terms, while revenues and losses from traditional banking are generally measured using the accrual method. As noted above, another critical difference is the time-evolution of the market shock component. The market shock component consists of an instantaneous “shock” to a large number of risk factors that determine the mark-to-market value of trading positions, while the macroeconomic scenarios supply a projected path of economic variables that affect traditional banking activities over the entire planning period.
+( b ) The development of the market shock component that are detailed in this section are as follows: Baseline (subsection 5.1) and severely adverse (subsection 5.2).
+5.1 Approach for Formulating the Market Shock Component Under the Baseline Scenario
+By definition, market shocks are large, previously unanticipated moves in asset prices and rates. Because asset prices should, broadly speaking, reflect consensus opinions about the future evolution of the economy, large price movements, as envisioned in the market shock, should not occur along the baseline path. As a result, the market shock will not be included in the baseline scenario.
+5.2 Approach for Formulating the Market Shock Component Under the Severely Adverse Scenario
+This section addresses possible approaches to designing the market shock component in the severely adverse scenario, including important considerations for scenario design, possible approaches to designing scenarios, and a development strategy for implementing the preferred approach.
+5.2.1 Design Considerations for Market Shocks
+( a ) The general market practice for stressing a trading portfolio is to specify market shocks either in terms of extreme moves in observable, broad market indicators and risk factors or directly as large changes to the mark-to-market values of financial instruments. These moves can be specified either in relative terms or absolute terms. Supplying values of risk factors after a “shock” is roughly equivalent to the macroeconomic scenarios, which supply values for a set of economic and financial variables; however, trading stress testing differs from macroeconomic stress testing in several critical ways.
+( b ) In the past, the Board used one of two approaches to specify market shocks. During SCAP and CCAR in 2011, the Board used a very general approach to market shocks and required companies to stress their trading positions using changes in market prices and rates experienced during the second half of 2008, without specifying risk factor shocks. This broad guidance resulted in inconsistency across companies both in terms of the severity and the application of shocks. In certain areas, companies were permitted to use their own experience during the second half of 2008 to define shocks. This resulted in significant variation in shock severity across companies.
+( c ) To enhance the consistency and comparability in market shocks for the stress tests in 2012 and 2013, the Board provided to each trading company more than 35,000 specific risk factor shocks, primarily based on market moves in the second half of 2008. While the number of risk factors used in companies' pricing and stress-testing models still typically exceed that provided in the Board's scenarios, the greater specificity resulted in more consistency in the scenario across companies. The benefit of the comprehensiveness of risk factor shocks is at least partly offset by the potential difficulty in creating shocks that are coherent and internally consistent, particularly as the framework for developing market shocks deviates from historical events.
+( d ) Also importantly, the ultimate losses associated with a given market shock will depend on a company's trading positions, which can make it difficult to rank order, ex ante, the severity of the scenarios. In certain instances, market shocks that include large market moves may not be particularly stressful for a given company. Aligning the market shock with the macroeconomic scenario for consistency may result in certain companies actually benefiting from risk factor moves of larger magnitude in the market scenario if the companies are hedging against salient risks to other parts of their business. Thus, the severity of market shocks must be calibrated to take into account how a complex set of risks, such as directional risks and basis risks, interacts with each other, given the companies' trading positions at the time of stress. For instance, a large depreciation in a foreign currency would benefit companies with net short positions in the currency while hurting those with net long positions. In addition, longer maturity positions may move differently from shorter maturity positions, adding further complexity.
+( e ) The instantaneous nature of market shocks and the immediate recognition of mark-to-market losses add another element to the design of market shocks, and to determining the appropriate severity of shocks. For instance, in previous stress tests, the Board assumed that market moves that occurred over the six-month period in late 2008 would occur instantaneously. The design of the market shocks must factor in appropriate assumptions around the period of time during which market events will unfold and any associated market responses.
+5.2.2 Approaches to Market Shock Design
+( a ) As an additional component of the severely adverse scenario, the Board plans to use a standardized set of market shocks that apply to all companies with significant trading activity. The market shocks could be based on a single historical episode, multiple historical periods, hypothetical (but plausible) events, or some combination of historical episodes and hypothetical events (hybrid approach). Depending on the type of hypothetical events, a scenario based on such events may result in changes in risk factors that were not previously observed. In the supervisory scenarios for 2012 and 2013, the shocks were largely based on relative moves in asset prices and rates during the second half of 2008, but also included some additional considerations to factor in the widening of spreads for European sovereigns and financial companies based on actual observation during the latter part of 2011.
+( b ) For the market shock component in the severely adverse scenario, the Board plans to use the hybrid approach to develop shocks. The hybrid approach allows the Board to maintain certain core elements of consistency in market shocks each year while providing flexibility to add hypothetical elements based on market conditions at the time of the stress tests. In addition, this approach will help ensure internal consistency in the scenario because of its basis in historical episodes; however, combining the historical episode and hypothetical events may require small adjustments to ensure mutual consistency of the joint moves. In general, the hybrid approach provides considerable flexibility in developing scenarios that are relevant each year, and by introducing variations in the scenario, the approach will also reduce the ability of companies with significant trading activity to modify or shift their portfolios to minimize expected losses in the severely adverse market shock.
+( c ) The Board has considered a number of alternative approaches for the design of market shocks. For example, the Board explored an option of providing tailored market shocks for each trading company, using information on the companies' portfolio gathered through ongoing supervision, or other means. By specifically targeting known or potential vulnerabilities in a company's trading position, the tailored approach would be useful in assessing each company's capital adequacy as it relates to the company's idiosyncratic risk. However, the Board does not believe this approach to be well-suited for the stress tests required by regulation. Consistency and comparability are key features of annual supervisory stress tests and annual company-run stress tests required in the stress test rules. It would be difficult to use the information on the companies' portfolios to design a common set of shocks that are universally stressful for all covered companies. As a result, this approach would be better suited to more customized, tailored stress tests that are part of the company's internal capital planning process or to other supervisory efforts outside of the stress tests conducted under the capital rule and the stress test rules.
+5.2.3 Development of the Market Shock
+( a ) Consistent with the approach described above, the market shock component for the severely adverse scenario will incorporate key elements of market developments during the second half of 2008, but will also incorporate observations from other periods or price and rate movements in certain markets that the Board deems to be plausible, though such movements may not have been observed historically. Over time, the Board also expects to rely less on market events of the second half of 2008 and more on hypothetical events or other historical episodes to develop the market shock.
+( b ) The developments in the credit markets during the second half of 2008 were unprecedented, providing a reasonable basis for market shocks in the severely adverse scenario. During this period, key risk factors in virtually all asset classes experienced extremely large shocks; the collective breadth and intensity of the moves have no parallels in modern financial history and, on that basis, it seems likely that this episode will continue to be the most relevant historical scenario, although experience during other historical episodes may also guide the severity of the market shock component of the severely adverse scenario. Moreover, the risk factor moves during this episode are directly consistent with the “recession” approach that underlies the macroeconomic assumptions. However, market shocks based only on historical events could become stale and less relevant over time as the company's positions change, particularly if more salient features are not added each year.
+( c ) While the market shocks based on the second half of 2008 are of unparalleled magnitude, the shocks may become less relevant over time as the companies' trading positions change. In addition, more recent events could highlight the companies' vulnerability to certain market events. For example, in 2011, Eurozone credit spreads in the sovereign and financial sectors surpassed those observed during the second half of 2008, necessitating the modification of the severely adverse market shock in 2012 and 2013 to reflect a salient source of stress to trading positions. As a result, it is important to incorporate both historical and hypothetical outcomes into market shocks for the severely adverse scenario. For the time being, the development of market shocks in the severely adverse scenario will begin with the risk factor movements in a particular historical period, such as the second half of 2008. The Board will then consider hypothetical but plausible outcomes, based on financial stability reports, supervisory information, and internal and external assessments of market risks and potential flash points. The hypothetical outcomes could originate from major geopolitical, economic, or financial market events with potentially significant impacts on market risk factors. The severity of these hypothetical moves will likely be guided by similar historical events, assumptions embedded in the companies' internal stress tests or market participants, and other available information.
+( d ) Once broad market scenarios are agreed upon, specific risk factor groups will be targeted as the source of the trading stress. For example, a scenario involving the failure of a large, interconnected globally active financial institution could begin with a sharp increase in credit default swap spreads and a precipitous decline in asset prices across multiple markets, as investors become more risk averse and market liquidity evaporates. These broad market movements will be extrapolated to the granular level for all risk factors by examining transmission channels and the historical relationships between variables, though in some cases, the movement in particular risk factors may be amplified based on theoretical relationships, market observations, or the saliency to company trading books. If there is a disagreement between the risk factor movements in the historical event used in the scenario and the hypothetical event, the Board will reconcile the differences by assessing a priori expectations based on financial and economic theory and the importance of the risk factors to the trading positions of the covered companies.
+6. Consistency Between the Macroeconomic Scenarios and the Market Shock
+( a ) As discussed earlier, the market shock comprises a set of movements in a very large number of risk factors that are realized instantaneously. Among the risk factors specified in the market shock are several variables also specified in the macroeconomic scenarios, such as short- and long-maturity interest rates on Treasury and corporate debt, the level and volatility of U.S. stock prices, and exchange rates.
+( b ) The market shock component is an add-on to the macroeconomic scenarios that is applied to a subset of companies, with no assumed effect on other aspects of the stress tests such as balances, revenues, or other losses. As a result, the market shock component may not be always directionally consistent with the macroeconomic scenario. Because the market shock is designed, in part, to mimic the effects of a sudden market dislocation, while the macroeconomic scenarios are designed to provide a description of the evolution of the real economy over two or more years, assumed economic conditions can move in significantly different ways. In effect, the market shock can simulate a market panic, during which financial asset prices move rapidly in unexpected directions, and the macroeconomic assumptions can simulate the severe recession that follows. Indeed, the pattern of a financial crisis, characterized by a short period of wild swings in asset prices followed by a prolonged period of moribund activity, and a subsequent severe recession is familiar and plausible.
+( c ) As discussed in section 4.2.4, the Board may feature a particularly salient risk in the macroeconomic assumptions for the severely adverse scenario, such as a fall in an elevated asset price. In such instances, the Board may also seek to reflect the same risk in one of the market shocks. For example, if the macroeconomic scenario were to feature a substantial decline in house prices, it may seem plausible for the market shock to also feature a significant decline in market values of any securities that are closely tied to the housing sector or residential mortgages.
+7. Timeline for Scenario Publication
+( a ) The Board will provide a description of the macroeconomic scenarios by no later than February 15. During the period immediately preceding the publication of the scenarios, the Board will collect and consider information from academics, professional forecasters, international organizations, domestic and foreign supervisors, and other private-sector analysts that regularly conduct stress tests based on U.S. and global economic and financial scenarios, including analysts at the covered companies. In addition, the Board will consult with the FDIC and the OCC on the salient risks to be considered in the scenarios. The Board expects to conduct this process in October and November of each year and to update the scenarios, based on incoming macroeconomic data releases and other information, through the end of January.
+( b ) The Board expects to provide a broad overview of the market shock component along with the macroeconomic scenarios. The Board will publish the market shock templates by no later than March 1 of each year, and intends to publish the market shock earlier in the stress test and capital plan cycles to allow companies more time to conduct their stress tests.
+Table 1—Classification of U.S. Recessions Peak Trough Severity Duration (quarters) Decline in real GDP Change in the unemployment rate during the recession Total change in the unemployment rate (incl. after the recession) 1957Q3 1958Q2 Severe 4 (Medium) −3.6 3.2 3.2 1960Q2 1961Q1 Moderate 4 (Medium) −1.0 1.6 1.8 1969Q4 1970Q4 Moderate 5 (Medium) −0.2 2.2 2.4 1973Q4 1975Q1 Severe 6 (Long) −3.1 3.4 4.1 1980Q1 1980Q3 Moderate 3 (Short) −2.2 1.4 1.4 1981Q3 1982Q4 Severe 6 (Long) −2.8 3.3 3.3 1990Q3 1991Q1 Mild 3 (Short) −1.3 0.9 1.9 2001Q1 2001Q4 Mild 4 (Medium) 0.2 1.3 2.0 2007Q4 2009Q2 Severe 7 (Long) −4.3 4.5 5.1 Average Severe 6 −3.5 3.7 3.9 Average Moderate 4 −1.1 1.8 1.8 Average Mild 3 −0.6 1.1 1.9 Source: Bureau of Economic Analysis, National Income and Product Accounts, Comprehensive Revision on July 31, 2013.
+Table 1—Classification of U.S. Recessions
+Table 2—House Prices in Housing Recessions Peak Trough Severity Duration (quarters) %-change in NHPI %-change in HPI-DPI HPI-DPI trough level (2000:Q1 = 100) 1980Q2 1985Q2 Moderate 20 (long) 26.6 −15.9 102.1 1989Q4 1997Q1 Moderate 29 (long) 10.5 −17.0 94.9 2005Q4 2012Q1 Severe 25 (long) −29.6 −41.3 86.9 Average 24.7 2.5 −24.7 94.6 Source: CoreLogic, BEA. Note: The date-ranges of housing recessions listed in Table 2 are based on the timing of house-price retrenchments.
+Table 2—House Prices in Housing Recessions
+Footnotes - Appendix A to Part 252
+[ 1 ] 12 U.S.C. 5365(i)(1) ; 12 CFR part 252, subpart E .
+[ 2 ] 12 U.S.C. 5365(i)(2) ; 12 CFR part 252, subparts B and F .
+[ 3 ] The stress test rules define scenarios as those sets of conditions that affect the United States economy or the financial condition of a company that the Board determines are appropriate for use in stress tests, including, but not limited to, baseline and severely adverse scenarios. The stress test rules define baseline scenario as a set of conditions that affect the United States economy or the financial condition of a company and that reflect the consensus views of the economic and financial outlook. The stress test rules define severely adverse scenario as a set of conditions that affect the U.S. economy or the financial condition of a company and that overall are significantly more severe than those associated with the baseline scenario and may include trading or other additional components.
+[ 4 ] Id.
+[ 5 ] See 12 CFR 225.8 .
+[ 6 ] 12 CFR 252.14(a) , 12 CFR 252.44(a) , 12 CFR 252.54(a) .
+[ 7 ] 12 CFR 252.14(b) , 12 CFR 252.44(b) , 12 CFR 252.54(b) .
+[ 8 ] The future path of a variable refers to its specification over a given time period. For example, the path of unemployment can be described in percentage terms on a quarterly basis over the stress testing time horizon.
+[ 9 ] The Board may increase the range of countries or regions included in future scenarios, as appropriate.
+[ 10 ] Currently, companies with significant trading activity include any bank holding company or intermediate holding company that (1) has aggregate trading assets and liabilities of $50 billion or more, or aggregate trading assets and liabilities equal to 10 percent or more of total consolidated assets, and (2) is not a large and noncomplex firm. The Board may also subject a state member bank subsidiary of any such bank holding company to the market shock component. The set of companies subject to the market shock component could change over time as the size, scope, and complexity of financial company's trading activities evolve.
+[ 11 ] More recently, a monthly measure of GDP has been added to the list of indicators.
+[ 12 ] Even though all recessions feature increases in the unemployment rate and contractions in incomes and economic activity, the size of this change has varied over post-war U.S. recessions. Table 1 documents the variability in the depth of post-war U.S. recessions. Some recessions—labeled mild in Table 1—have been relatively modest with GDP edging down just slightly and the unemployment rate moving up about a percentage point. Other recessions—labeled severe in Table 1—have been much harsher with GDP dropping 3 3 ⁄ 4 percent and the unemployment rate moving up a total of about 4 percentage points.
+[ 13 ] Six to eight quarters is the average number of quarters for which a severe recession lasts plus the average number of subsequent quarters over which the unemployment rate continues to rise. The variable length of the timeframe reflects the different paths to the peak unemployment rate depending on the severity of the scenario.
+[ 14 ] Note, however, that the severity of the scenario would not exceed an implausible level: Even at the upper end of the range of unemployment-rate increases, the path of the unemployment rate would still be consistent with severe post-war U.S. recessions.
+[ 15 ] Evidence of a strengthening labor market could include a declining unemployment rate, steadily expanding nonfarm payroll employment, or improving labor force participation. Evidence that credit losses are being realized could include elevated charge-offs on loans and leases, loan-loss provisions in excess of gross charge-offs, or losses being realized in securities portfolios that include securities that are subject to credit risk.
+[ 16 ] The house-price retrenchments that occurred over the periods 1980-1985, 1989-1996, 2006-2011 (as detailed in Table 2) are referred to in this document as housing recessions. The date-ranges of housing recessions are based on the timing of house-price retrenchments. These dates were also associated with sustained declines in real residential investment, although, the precise timings of housing recessions would likely be slightly different were they to be classified based on real residential investment in addition to house prices. The ratios described in Table 2 are calculated based on nominal HPI and HPI-DPI ratios indexed to 100 in 2000:Q1.
+[ 17 ] The means of effecting an adjustment to the severely adverse scenario to address salient systemic risks differs from the means used to adjust the unemployment rate. For example, in adjusting the scenario for an increased unemployment rate, the Board would modify all variables such that the future paths of the variables are similar to how these variables have moved historically. In contrast, to address salient risks, the Board may only modify a small number of variables in the scenario and, as such, their future paths in the scenario would be somewhat more atypical, albeit not implausible, given existing risks.
+
+## Appendix B to Part 252—Stress Testing Policy Statement
+
+This Policy Statement describes the principles, policies, and procedures that guide the development, implementation, and validation of models used in the Federal Reserve's supervisory stress test.
+1. Principles of Supervisory Stress Testing
+The system of models used in the supervisory stress test is designed to result in projections that are (i) from an independent supervisory perspective; (ii) forward-looking; (iii) consistent and comparable across covered companies; (iv) generated from simpler and more transparent approaches, where appropriate; (v) robust and stable; (vi) conservative; and (vii) able to capture the impact of economic stress. These principles are further explained below.
+1.1. Independence
+( a ) In the supervisory stress test, the Federal Reserve uses supervisory models that are developed internally and independently ( i.e., separate from models used by covered companies). The supervisory models rely on detailed portfolio data provided by covered companies but do not rely on models or estimates provided by covered companies to the greatest extent possible.
+( b ) The Federal Reserve's stress testing framework is unique among regulators in its use of independent estimates of losses and revenues under stress. These estimates provide a perspective that is not formed in consultation with covered companies or influenced by firm-provided estimates and that is useful to the public in its evaluation of covered companies' capital adequacy. This perspective is also valuable to covered companies, who may benefit from external assessments of their own losses and revenues under stress, and from the degree of credibility that independence confers upon supervisory stress test results.
+( c ) The independence of the supervisory stress test allows stress test projections to adhere to the other key principles described in the Policy Statement. The use of independent models allows for consistent treatment across firms. Losses and revenues under stress are estimated using the same modeling assumptions for all covered companies, enabling comparisons across supervisory stress test results. Differences in covered companies' results reflect differences in firm-specific risks and input data instead of differences in modeling assumptions. The use of independent models also ensures that stress test results are produced by stress-focused models, designed to project the performance of covered companies in adverse economic conditions.
+( d ) In instances in which it is not possible or appropriate to create a supervisory model for use in the stress test, including when supervisory data are insufficient to support a modeled estimate of losses or revenues, the Federal Reserve may use firm-provided estimates or third-party models or data. For example, in order to project trading and counterparty losses, sensitivities to risk factors and other information generated by covered companies' internal models are used. In the cases where firm-provided or third-party model estimates are used, the Federal Reserve monitors the quality and performance of the estimates through targeted examination, additional data collection, or benchmarking. The Board releases a list of the providers of third-party models or data used in the stress test exercise in the annual disclosure of quantitative results.
+1.2. Forward-Looking
+( a ) The Federal Reserve has designed the supervisory stress test to be forward-looking. Supervisory models are tools for producing projections of potential losses and revenue effects based on each covered company's portfolio and circumstances.
+( b ) While supervisory models are specified using historical data, they should generally avoid relying solely on extrapolation of past trends in order to make projections, and instead should be able to incorporate events or outcomes that have not occurred. As described in Section 2.4, the Federal Reserve implements several supervisory modeling policies to limit reliance on past outcomes in its projections of losses and revenues. The incorporation of the macroeconomic scenario and global market shock component also introduces elements outside of the realm of historical experience into the supervisory stress test.
+1.3. Consistency and Comparability
+The Federal Reserve uses the same set of models and assumptions to produce loss projections for all covered companies participating in the supervisory stress test. A standard set of scenarios, assumptions, and models promotes equitable treatment of firms participating in the supervisory stress test and comparability of results, supporting cross-firm analysis and providing valuable information to supervisors and to the public. Adhering to a consistent modeling approach across covered companies means that differences in projected results are due to differences in input data, such as instrument type or portfolio risk characteristics, rather than differences in firm-specific assumptions made by the Federal Reserve.
+1.4. Simplicity
+The Federal Reserve uses simple approaches in supervisory modeling, where possible. Given a range of modeling approaches that are equally conceptually sound, the Federal Reserve will select the least complex modeling approach. In assessing simplicity, the Federal Reserve favors those modeling approaches that allow for a more straightforward interpretation of the drivers of model results and that minimize operational challenges for model implementation.
+1.5. Robustness and Stability
+The Federal Reserve maintains supervisory models that aim to be robust and stable, such that changes in model projections over time reflect underlying risk factors, scenarios, and model enhancements, rather than transitory factors. The estimates of post-stress capital produced by the supervisory stress test provide information regarding a covered company's capital adequacy to market participants, covered companies, and the public. Adherence to this principle helps to ensure that changes in these model projections over time are not driven by temporary variations in model performance or inputs. Supervisory models are recalibrated with newly available input data each year. These data affect supervisory model projections, particularly in times of evolving risks. However, these changes generally should not be the principal driver of a change in results, year over year.
+1.6. Conservatism
+Given a reasonable set of assumptions or approaches, all else equal, the Federal Reserve will opt to use those that result in larger losses or lower revenue. For example, given a lack of information about the true risk of a portfolio, the Federal Reserve will compensate for the lack of data by using a high percentile loss rate.
+1.7. Focus on the Ability To Evaluate the Impact of Severe Economic Stress
+In evaluating whether supervisory models are appropriate for use in a stress testing exercise, the Federal Reserve places particular emphasis on supervisory models' abilities to project outcomes in stressed economic environments. In the supervisory stress test, the Federal Reserve also seeks to capture risks to capital that arise specifically in times of economic stress, and that would not be prevalent in more typical economic environments. For example, the Federal Reserve includes losses stemming from the default of a covered company's largest counterparty in its projections of post-stress capital for firms with substantial trading or processing and custodian operations. The default of a company's largest counterparty is more likely to occur in times of severe economic stress than in normal economic conditions.
+2. Supervisory Stress Test Model Policies
+To be consistent with the seven principles outlined in Section 1, the Federal Reserve has established policies and procedures to guide the development, implementation, and use of all models used in supervisory stress test projections, described in more detail below. Each policy facilitates adherence to at least one of the modeling principles that govern the supervisory stress test, and in most cases facilitates adherence to several modeling principles.
+2.1. Soundness in Model Design
+( a ) During development, the Federal Reserve
+( i ) subjects supervisory models to extensive review of model theory and logic and general conceptual soundness;
+( ii ) examines and evaluates justifications for modeling assumptions; and
+( iii ) tests models to establish the accuracy and stability of the estimates and forecasts that they produce.
+( b ) After development, the Federal Reserve continues to subject supervisory models to scrutiny during implementation to ensure that the models remain appropriate for use in the stress test exercise. The Federal Reserve monitors changes in the economic environment, the structure of covered companies and their portfolios, and the structure of the stress testing exercise, if applicable, to verify that a model in use continues to serve the purposes for which it was designed. Generally, the same principles, rigor, and standards for evaluating the suitability of supervisory models that apply in model development and design will apply in ongoing monitoring of supervisory models.
+2.2. Disclosure of Information Related to the Supervisory Stress Test
+( a ) In general, the Board does not disclose information related to the supervisory stress test or firm-specific results to covered companies if that information is not also publicly disclosed.
+( b ) The Board has increased the breadth of its public disclosure since the inception of the supervisory stress test to include more information about model changes and key risk drivers, in addition to more detail on different components of projected net revenues and losses. Increasing public disclosure can help the public understand and interpret the results of the supervisory stress test, particularly with respect to the condition and capital adequacy of participating firms. Providing additional information about the supervisory stress test allows the public to make an evaluation of the quality of the Board's assessment. This policy also promotes consistent and equitable treatment of covered companies by ensuring that institutions do not have access to information about the supervisory stress test that is not also accessible publicly, corresponding to the principle of consistency and comparability.
+2.3. Phasing in of Highly Material Model Changes
+( a ) The Federal Reserve may revise its supervisory stress test models to include advances in modeling techniques, enhancements in response to model validation findings, incorporation of richer and more detailed data, public comment, and identification of models with improved performance, particularly under adverse economic conditions. Revisions to supervisory stress models may at times have material impact on modeled outcomes.
+( b ) In order to mitigate sudden and unexpected changes to the supervisory stress test results, the Federal Reserve follows a general policy of phasing highly material model changes into the supervisory stress test over two years. The Federal Reserve assesses whether a model change would have a highly significant impact on the projections of losses, components of revenue, or post-stress capital ratios for covered companies. In these instances, in the first year when the model change is first implemented, estimates produced by the enhanced model are averaged with estimates produced by the model used in the previous stress test exercise. In the second and subsequent years, the supervisory stress test exercise will reflect only estimates produced by the enhanced model. This policy contributes to the stability of the results of the supervisory stress test. By implementing highly material model changes over the course of two stress test cycles, the Federal Reserve seeks to ensure that changes in model projections primarily reflect changes in underlying risk factors and scenarios, year over year.
+( c ) In general, phase-in thresholds for highly material model changes apply only to conceptual changes to models. Model changes related to changes in accounting or regulatory capital rules and model parameter re-estimation based on newly available data are implemented with immediate effect.
+( d ) In assessing the materiality of a model change, the Federal Reserve calculates the impact of using an enhanced model on post-stress capital ratios using data and scenarios from prior years' supervisory stress test exercises. The use of an enhanced model is considered a highly material change if its use results in a change in the CET1 ratio of 50 basis points or more for one or more firms, relative to the model used in prior years' supervisory exercises.
+2.4. Limiting Reliance on Past Outcomes
+( a ) Models should not place undue emphasis on historical outcomes in predicting future outcomes. The Federal Reserve aims to produce supervisory stress test results that reflect likely outcomes under the supervisory scenarios. The supervisory scenarios may potentially incorporate events that have not occurred historically. It is not necessarily consistent with the purpose of a stress testing exercise to assume that the future will be like the past.
+( b ) In order to model potential outcomes outside the realm of historical experience, the Federal Reserve generally does not include variables that would capture unobserved historical patterns in supervisory models. The use of industry-level models, restricted use of firm-specific fixed effects (described below), and minimized use of dummy variables indicating a loan vintage or a specific year, ensure that the outcomes of the supervisory models are forward-looking, consistent and comparable across firms, and robust and stable.
+( c ) Firm-specific fixed effects are variables that identify a specific firm and capture unobserved differences in the revenues, expenses or losses between firms. Firm-specific fixed effects are generally not incorporated in supervisory models in order to avoid the assumption that unobserved firm-specific historical patterns will continue in the future. Exceptions to this policy are made where appropriate. For example, if granular portfolio-level data on key drivers of a covered company's performance are limited or unavailable, and firm-specific fixed effects are more predictive of a covered company's future performance than are industry-level variables, then supervisory models may be specified with firm-specific fixed effects.
+( d ) Models used in the supervisory stress test are developed according to an industry-level approach, calibrated using data from many institutions. In adhering to an industry-level approach, the Federal Reserve models the response of specific portfolios and instruments to variations in macroeconomic and financial scenario variables. In this way, the Federal Reserve ensures that differences across firms are driven by differences in firm-specific input data, as opposed to differences in model parameters or specifications. The industry approach to modeling is also forward-looking, as the Federal Reserve does not assume that historical patterns will necessarily continue into the future for individual firms. By modeling a portfolio or instrument's response to changes in economic or financial conditions at the industry level, the Federal Reserve ensures that projected future losses are a function of that portfolio or instrument's own characteristics, rather than the historical experience of the covered company. This policy helps to ensure that two firms with the same portfolio receive the same results for that portfolio in the supervisory stress test.
+( e ) The Federal Reserve minimizes the use of vintage or year-specific fixed effects when estimating models and producing supervisory projections. In general, these types of variables are employed only when there are significant structural market shifts or other unusual factors for which supervisory models cannot otherwise account. Similar to the firm-specific fixed effects policy, and consistent with the forward-looking principle, this vintage indicator policy is in place so that projections of future performance under stress do not incorporate assumptions that patterns in unmeasured factors from brief historical time periods persist. For example, the loans originated in a particular year should not be assumed to continue to default at a higher rate in the future because they did so in the past.
+2.5. Treatment of Global Market Shock and Counterparty Default Component
+( a ) Both the global market shock and counterparty default components are exogenous components of the supervisory stress scenarios that are independent of the macroeconomic and financial market environment specified in those scenarios, and do not affect projections of risk-weighted assets or balances. The global market shock, which specifies movements in numerous market factors, [ 14 ] applies only to covered companies with significant trading exposure. The counterparty default scenario component applies only to covered companies with substantial trading or processing and custodian operations. Though these stress factors may not be directly correlated to macroeconomic or financial assumptions, they can materially affect covered companies' risks. Losses from both components are therefore considered in addition to the estimates of losses under the macroeconomic scenario.
+( b ) Counterparty credit risk on derivatives and repo-style activities is incorporated in supervisory modeling in part by assuming the default of the single counterparty to which the covered firm would be most exposed in the global market shock event. 15 Requiring covered companies subject to the large counterparty default component to estimate and report the potential losses and effects on capital associated with such an instantaneous default is a simple method for capturing an important risk to capital for firms with large trading and custodian or processing activities. Engagement in substantial trading or custodial operations makes the covered companies subject to the counterparty default scenario component particularly vulnerable to the default of their major counterparty or their clients' counterparty, in transactions for which the covered companies act as agents. The large counterparty default component is consistent with the purpose of a stress testing exercise, as discussed in the principle about the focus on the ability to evaluate the impact of severe economic stress. The default of a covered company's largest counterparty is a salient risk in a macroeconomic and financial crisis, and generally less likely to occur in times of economic stability. This approach seeks to ensure that covered companies can absorb losses associated with the default of any counterparty, in addition to losses associated with adverse economic conditions, in an environment of economic uncertainty.
+( c ) The full effect of the global market shock and counterparty default components is realized in net income in the first quarter of the projection horizon in the supervisory stress test. The Board expects covered companies with material trading and counterparty exposures to be sufficiently capitalized to absorb losses stemming from these exposures that could occur during times of general macroeconomic stress.
+2.6. [Reserved]
+2.7. Credit Supply Maintenance
+( a ) The supervisory stress test incorporates the assumption that aggregate credit supply does not contract during the stress period. The aim of supervisory stress testing is to assess whether firms are sufficiently capitalized to absorb losses during times of economic stress, while also meeting obligations and continuing to lend to households and businesses. The assumption that a balance sheet of consistent magnitude is maintained allows supervisors to evaluate the health of the banking sector assuming firms continue to lend during times of stress.
+( b ) In order to implement this policy, the Federal Reserve must make assumptions about new loan balances. To predict losses on new originations over the planning horizon, newly originated loans are assumed to have the same risk characteristics as the existing portfolio, where applicable, with the exception of loan age and delinquency status. These newly originated loans would be part of a covered company's normal business, even in a stressed economic environment. While an individual firm may assume that it reacts to rising losses by sharply restricting its lending ( e.g., by exiting a particular business line), the banking industry as a whole cannot do so without creating a “credit crunch” and substantially increasing the severity and duration of an economic downturn. The assumption that the magnitude of firm balance sheets will be fixed in the supervisory stress test ensures that covered companies cannot assume they will “shrink to health,” and serves the Federal Reserve's goal of helping to ensure that major financial firms remain sufficiently capitalized to accommodate credit demand in a severe downturn. In addition, by precluding the need to make assumptions about how underwriting standards might tighten or loosen during times of economic stress, the Federal Reserve follows the principle of consistency and comparability and promotes consistency across covered companies.
+( c ) In projecting the denominator for the calculation of the leverage ratio, the Federal Reserve will account for the effect of changes associated with the calculation of regulatory capital or changes to the Board's regulations.
+2.8. Firm-Specific Overlays and Additional Firm-Provided Data
+( a ) The Federal Reserve does not make firm-specific overlays to model results used in the supervisory stress test. This policy ensures that the supervisory stress test results are determined solely by the industry-level supervisory models and by firm-specific input data. The Federal Reserve has instituted a policy of not using additional input data submitted by one or some of the covered companies unless comparable data can be collected from all the firms that have material exposure in a given area. Input data necessary to produce supervisory stress test estimates is collected via the FR Y-14 information collection. The Federal Reserve may request additional information from covered companies, but otherwise will not incorporate additional information provided as part of a firm's CCAR submission or obtained through other channels into stress test projections.
+( b ) This policy curbs the use of data only from firms that have incentives to provide it, as in cases in which additional data would support the estimation of a lower loss rate or a higher revenue rate, and promotes consistency across the stress test results of covered companies.
+2.9. Treatment of Missing or Erroneous Data
+( a ) Missing data, or data with deficiencies significant enough to preclude the use of supervisory models, create uncertainty around estimates of losses or components of revenue. If data that are direct inputs to supervisory models are not provided as required by the FR Y-14 information collection or are reported erroneously, then a conservative value will be assigned to the specific data based on all available data reported by covered companies, depending on the extent of data deficiency. If the data deficiency is severe enough that a modeled estimate cannot be produced for a portfolio segment or portfolio, then the Federal Reserve may assign a conservative rate (e.g., 10th or 90th percentile PPNR or loss rate, respectively) to that segment or portfolio.
+( b ) This policy promotes the principle of conservatism, given a lack of information sufficient to produce a risk-sensitive estimate of losses or revenue components using information on the true characteristics of certain positions. This policy ensures consistent treatment for all covered companies that report data deemed insufficient to produce a modeled estimate. Finally, this policy is simple and transparent.
+2.10. Treatment of Immaterial Portfolio Data
+( a ) The Federal Reserve makes a distinction between insufficient data reported by covered companies for material portfolios and immaterial portfolios. To limit regulatory burden, the Federal Reserve allows covered companies not to report detailed loan-level or portfolio-level data for loan types that are not material as defined in the FR Y-14 reporting instructions. In these cases, a loss rate representing the median rates among covered companies for whom the rate is calculated will be applied to the immaterial portfolio. This approach is consistent across covered companies, simple, and transparent, and promotes the principles of consistency and comparability and simplicity.
+3. Principles and Policies of Supervisory Model Validation
+( a ) Independent and comprehensive model validation is key to the credibility of supervisory stress tests. An independent unit of validation staff within the Federal Reserve, with input from an advisory council of academic experts not affiliated with the Federal Reserve, ensures that stress test models are subject to effective challenge, defined as critical analysis by objective, informed parties that can identify model limitations and recommend appropriate changes.
+( b ) The Federal Reserve's supervisory model validation program, built upon the principles of independence, technical competence, and stature, is able to subject models to effective challenge, expanding upon efforts made by supervisory modeling teams to manage model risk and confirming that supervisory models are appropriate for their intended uses. The supervisory model validation program produces reviews that are consistent, thorough, and comprehensive. Its structure ensures independence from the Federal Reserve's model development function, and its prominent role in communicating the state of model risk to the Board of Governors assures its stature within the Federal Reserve.
+3.1. Structural Independence
+( a ) The management and staff of the internal model validation program are structurally independent from the model development teams. Validators do not report to model developers, and vice versa. This ensures that model validation is conducted and overseen by objective parties. Validation staff's performance criteria include an ability to review all aspects of the models rigorously, thoroughly, and objectively, and to provide meaningful and clear feedback to model developers and users.
+( b ) In addition, the Model Validation Council, a council of external academic experts, provides independent advice on the Federal Reserve's process to assess models used in the supervisory stress test. In biannual meetings with Federal Reserve officials, members of the council discuss selective supervisory models, after being provided with detailed model documentation for and non-public information about those models. The documentation and discussions enable the council to assess the effectiveness of the models used in the supervisory stress tests and of the overarching model validation program.
+3.2. Technical Competence of Validation Staff
+( a ) The model validation program is designed to provide thorough, high-quality reviews that are consistent across supervisory models.
+( b ) First, the model validation program employs technically expert staff with knowledge across model types. Second, reviews for every supervisory model follow the same set of review guidelines, and take place on an ongoing basis. The model validation program is comprehensive, in the sense that validators assess all models currently in use, expand the scope of validation beyond basic model use, and cover both model soundness and performance.
+( c ) The model validation program covers three main areas of validation:
+( 1 ) Conceptual soundness;
+( 2 ) ongoing monitoring; and
+( 3 ) outcomes analysis. Validation staff evaluates all aspects of model development, implementation, and use, including but not limited to theory, design, methodology, input data, testing, performance, documentation standards, implementation controls (including access and change controls), and code verification.
+3.3. Stature of Validation Function
+( a ) The validation program informs the Board of Governors about the state of model risk in the overall stress testing program, along with ongoing practices to control and mitigate model risk.
+( b ) The model validation program communicates its findings and recommendations regarding model risk to relevant parties within the Federal Reserve System. Validators provide detailed feedback to model developers and provide thematic feedback or observations on the overall system of models to the management of the modeling teams. Model validation feedback is also communicated to the users of supervisory model output for use in their deliberations and decisions about supervisory stress testing. In addition, the Director of the Division of Supervision and Regulation approves all models used in the supervisory stress test in advance of each exercise, based on validators' recommendations, development responses, and suggestions for risk mitigants. In several cases, models have been modified or implemented differently based on validators' feedback. The Model Validation Council also contributes to the stature of the Federal Reserve's validation program, by providing an external point of view on modifications to supervisory models and on validation program governance.
+3.4. Simple approach for projecting risk-weighted assets
+( a ) In projecting risk-weighted assets, the Federal Reserve will generally assume that a covered company's risk-weighted assets remain unchanged over the planning horizon. This assumption allows the Federal Reserve to independently project the risk-weighted assets of covered companies in line with the goal of simplicity (Principle 1.4). In addition, this approach is forward-looking (Principle 1.2), as this assumption removes reliance on historical data and past outcomes from the projection of risk-weighted assets.
+( b ) In projecting a firm's risk-weighted assets, the Federal Reserve will account for the effect of changes associated with the calculation of regulatory capital or changes to the Board's regulations in the calculation of risk-weighted assets.
+Footnotes - Appendix B to Part 252
+[ 14 ] See 12 CFR part 252, appendix A , “Policy Statement on the Scenario Design Framework for Stress Testing,” for a detailed description of the global market shock.
+[ 15 ] In addition to incorporating counterparty credit risk by assuming the default of the covered company's largest counterparty, the Federal Reserve incorporates counterparty credit risk in the supervisory stress test by estimating mark-to-market losses, credit valuation adjustment (CVA) losses, and incremental default risk (IDR) losses associated with the global market shock.

@@ -1,0 +1,566 @@
+# PART 271—RULES REGARDING AVAILABILITY OF INFORMATION
+
+**Rules Regarding Availability of Information** | 12 CFR Part 271 | Current as of 2026-03-24
+
+**Authority:** 5 U.S.C. 552; 12 U.S.C. 263.
+
+**Source:** 86 FR 18426, Apr. 9, 2021, unless otherwise noted.
+
+---
+
+
+## § 271.1 Authority, purpose, and scope.
+
+
+(a) Authority and purpose. This part establishes mechanisms for carrying out the Federal Open Market Committee's (Committee) statutory responsibilities relating to the disclosure, production, or withholding of information to facilitate the Committee's interactions with the public. In this regard, the Committee has determined that the Committee, or its delegees, may disclose exempt information of the Committee, in accordance with the procedures set forth in this part, whenever it is necessary or appropriate to do so in the exercise of any of the Committee's authorities, including but not limited to authority granted to the Committee in the Freedom of Information Act, 5 U.S.C. 552, and section 12A of the Federal Reserve Act, 12 U.S.C. 263. The Committee has determined that all such disclosures made in accordance with the rules and procedures specified in this part are authorized by law. This part also sets forth the categories of information made available to the public, the procedures for obtaining information and records, the procedures for limited release of exempt information, and the procedures for protecting confidential business information.
+
+
+(b) Scope. (1) Subpart A of this part contains general provisions and definitions of terms used in this part.
+
+
+(2) Subpart B of this part implements the Freedom of Information Act (FOIA) (5 U.S.C. 552).
+
+
+(3) Subpart C of this part sets forth the procedures with respect to subpoenas, orders compelling production, and other process.
+
+
+## § 271.2 Definitions.
+
+
+For purposes of this part:
+
+
+(a) Board means the Board of Governors of the Federal Reserve System established by the Federal Reserve Act of 1913 (38 Stat. 251).
+
+
+(b) Committee means the Chair of the Committee or the Chair's designee.
+
+
+(c) Exempt information means information that is exempt from disclosure pursuant to § 271.15(a).
+
+
+(d) Federal Reserve Bank or Reserve Bank means one of the District Banks authorized by the Federal Reserve Act, 12 U.S.C. 222, including any branch of any such bank.
+
+
+(e) Records of the Committee or Committee records include all information coming into the possession of the Committee or any member thereof or of any officer, employee, or agent of the Committee, the Board, or any Federal Reserve Bank, in the performance of duties for, or pursuant to the direction of, the Committee. These records include rules, statements, decisions, minutes, memoranda, letters, reports, transcripts, accounts, charts, and other written material.
+
+
+(f) Search means:
+
+
+(1) A reasonable search of such records of the Committee as seem likely in the particular circumstances to contain information of the kind requested.
+
+
+(2) As part of the Committee's search for responsive records, the Committee is not obligated to conduct any research, create any document, or modify an electronic program or automated information system.
+
+
+(g) Working day means any day except Saturday, Sunday, or a legal Federal holiday.
+
+
+## § 271.3 Certification of record; service of subpoenas or other process.
+
+
+(a) Certification of record. The secretary of the Committee may certify the authenticity of any Committee record, or any copy of such record, for any purpose, and for or before any duly constituted Federal or state court, tribunal, or agency.
+
+
+(b) Service of subpoenas or other process. Subpoenas or other judicial or administrative process demanding access to any Committee records or making any claim against the Committee or against Committee members or staff in their official capacity shall be addressed to and served upon the Secretary of the Committee, Federal Open Market Committee, 20th Street & Constitution Avenue NW, Washington, DC 20551. The Committee does not accept service of process on behalf of any employee in respect of purely private legal disputes.
+
+
+## § 271.4 Prohibition against disclosure.
+
+
+Except as provided in this part or as otherwise authorized, no officer, employee, or agent of the Board or any Reserve Bank shall disclose or permit the disclosure of any exempt information of the Committee to any person other than Board or Reserve Bank officers, employees, or agents properly entitled to such information in the performance of duties for, or pursuant to the direction of, the Committee.
+
+
+## § 271.10 Published information.
+
+
+(a) Federal Register. The Committee publishes, or incorporates by reference, in the Federal Register for the guidance of the public:
+
+
+(1) A description of its organization;
+
+
+(2) Statements of the general course and method by which its functions are channeled and determined, including the nature and requirements of procedures;
+
+
+(3) Rules of procedure;
+
+
+(4) Substantive rules, interpretations of general applicability, and statements of general policy formulated and adopted by the Committee;
+
+
+(5) Every amendment, revision, or repeal of the foregoing in paragraphs (a)(1) through (4) of this section; and
+
+
+(6) Other notices as required by law.
+
+
+(b) Publicly available information—(1) Electronic reading room. Information relating to the Committee, including its open market operations, is made publicly available on the websites of the Board and the Federal Reserve Banks, as well as in the Committee's electronic reading room, https://www.federalreserve.gov/foia/fomc/readingrooms.htm#rr1. The Committee also makes the following records available in its electronic reading room.
+
+
+(i) Final opinions, including concurring and dissenting opinions, as well as final orders and written agreements, made in the adjudication of cases.
+
+
+(ii) Statements of policy and interpretations adopted by the Committee that are not published in the Federal Register.
+
+
+(iii) Administrative staff manuals and instructions to staff that affect the public.
+
+
+(iv) Copies of all records, regardless of form or format—
+
+
+(A) That have been released to any person under § 271.11; and
+
+
+(B)(1) That because of the nature of their subject matter, the Committee has determined have become or are likely to become the subject of subsequent requests for substantially the same records; or
+
+
+(2) That have been requested three or more times.
+
+
+(v) A general index of the records referred to in paragraph (b)(1)(iv) of this section.
+
+
+(2) Inspection in electronic format at Reserve Banks. The Committee may determine that certain classes of publicly available filings shall be made available for inspection in electronic format only at the Reserve Bank where those records are filed.
+
+
+(3) Privacy protection. The Committee may delete identifying details from any public record to prevent a clearly unwarranted invasion of personal privacy.
+
+
+## § 271.11 Records available to the public upon request.
+
+
+(a) Procedures for requesting records. (1) Requesters are encouraged to submit requests electronically using the online request form located at www.federalreserve.gov/secure/forms/FOMCForm.aspx. Alternatively, requests may be submitted in writing to the Secretary of the Committee, Federal Open Market Committee, 20th Street and Constitution Avenue NW, Washington, DC 20551; or sent by facsimile to the Secretary of the Committee, (202) 452-2921. Clearly mark the request FREEDOM OF INFORMATION ACT REQUEST.
+
+
+(2) A request may not be combined with any other request or FOIA appeal.
+
+
+(b) Contents of request. A request must include:
+
+
+(1) The requester's name, address, daytime telephone number, and an email address if available.
+
+
+(2) A description of the records that enables the Committee to identify and produce the records with reasonable effort and without unduly burdening or significantly interfering with any of the Committee's operations. Whenever possible, the request should include specific information about each record sought, such as the date, title or name, author, recipient, and subject matter of the record.
+
+
+(3) A statement agreeing to pay the applicable fees. If the information requested is not intended for a commercial use (as defined in § 271.16(d)(1)) and the requester seeks a reduction or waiver of fees because he or she is either a representative of the news media, an educational institution, or a noncommercial scientific institution, the requester should include the information called for in § 271.16(g)(2).
+
+
+(c) Perfected and defective requests. (1) The Committee will consider the request to be perfected on the date the secretary of the Committee receives a request that contains all of the information required by paragraphs (b)(1) through (3) of this section.
+
+
+(2) The Committee need not accept or process a request that does not reasonably describe the records requested or that does not otherwise comply with the requirements of this section.
+
+
+(3) The Committee may return a defective request, specifying the deficiency. The requester may submit a corrected request, which will be treated as a new request.
+
+
+## § 271.12 Processing requests.
+
+
+(a) Receipt of requests. Upon receipt of any request that satisfies the requirements set forth in § 271.11, the Committee shall assign the request to the appropriate processing schedule, pursuant to paragraph (b) of this section. The date of receipt for any request, including one that is addressed incorrectly or that is referred to the Committee by another agency or by a Federal Reserve Bank, is the date the secretary of the Committee actually receives the request.
+
+
+(b) Multitrack processing. (1) The Committee provides different levels of processing for categories of requests under this section.
+
+
+(i) Requests for records that are readily identifiable by the Committee and that have already been cleared for public release or can easily be cleared for public release may qualify for simple processing.
+
+
+(ii) All other requests shall be handled under normal processing procedures, unless expedited processing has been granted pursuant to paragraph (c) of this section.
+
+
+(2) The Committee will make the determination whether a request qualifies for simple processing. A requester may contact the Committee to learn whether a particular request has been assigned to simple processing. If the request has not qualified for simple processing, the requester may limit the scope of the request in order to qualify for simple processing by contacting the Committee in writing, by letter or email, or by telephone.
+
+
+(c) Expedited processing. (1) A request for expedited processing may be made at any time. A request for expedited processing must be clearly labeled “Expedited Processing Requested.” The Committee will process requests and appeals on an expedited basis whenever it is determined that they involve:
+
+
+(i) Circumstances in which the lack of expedited processing could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; or
+
+
+(ii) An urgency to inform the public about an actual or alleged Federal Government activity, if made by a person who is primarily engaged in disseminating information.
+
+
+(2) A requester who seeks expedited processing must submit a statement, certified to be true and correct, explaining in detail the basis for making the request for expedited processing. For example, under paragraph (c)(1)(ii) of this section, a requester who is not a full-time member of the news media must establish that the requester is a person whose primary professional activity or occupation is information dissemination, though it need not be the requester's sole occupation. Such a requester also must establish a particular urgency to inform the public about the Government activity involved in the request—one that extends beyond the public's right to know about Federal Government activity generally. The existence of numerous articles published on a given subject can be helpful in establishing the requirement that there be an “urgency to inform” the public on the topic. As a matter of administrative discretion, the Committee may waive the formal certification requirement.
+
+
+(3) Within 10 calendar days of receipt of a request for expedited processing, the Committee will notify the requester of its decision on the request. A denial of expedited processing may be appealed to the Committee in accordance with § 271.14. The Committee will respond to the appeal within 10 working days of receipt of the appeal.
+
+
+(d) Priority of responses. The Committee will normally process requests in the order they are received in the separate processing tracks, except when expedited processing is granted in which case the request will be processed as soon as practicable.
+
+
+(e) Time limits. The time for response to requests shall be 20 working days from when a request is perfected. Exceptions to the 20-day time limit are only as follows:
+
+
+(1) In the case of expedited treatment under paragraph (c) of this section, the Committee shall give the expedited request priority over non-expedited requests and shall process the expedited request as soon as practicable.
+
+
+(2) Where the running of such time is suspended for a requester to address fee requirements pursuant to § 271.16(c)(1) or (2).
+
+
+(3) In unusual circumstances, as defined in 5 U.S.C. 552(a)(6)(B), the Committee may:
+
+
+(i) Extend the 20-day time limit for a period of time not to exceed 10 working days, where the Committee has provided written notice to the requester setting forth the reasons for the extension and the date on which a determination is expected to be dispatched; and
+
+
+(ii) Extend the 20-day time limit for a period of more than 10 working days where the Committee has provided the requester with an opportunity to modify the scope of the FOIA request so that it can be processed within that time frame or with an opportunity to arrange an alternative time frame for processing the original request or a modified request, and has notified the requester that the Committee's FOIA Public Liaison is available to assist the requester for purposes of this paragraph (e)(3)(ii) and in the resolution of any disputes between the requester and the Committee, and of the requester's right to seek dispute resolution services from the Office of Government Information Services.
+
+
+## § 271.13 Responses to requests.
+
+
+(a) When the Committee receives a perfected request, it will conduct a reasonable search of Committee records in its possession on the date the Committee's search begins and will review any responsive information it locates.
+
+
+(b) If a request covers documents that were created by, obtained from, or classified by another agency, the Committee may refer the request for such documents to that agency for a response and inform the requester promptly of the referral. To the extent there is confidential supervisory information, as that term is defined by 12 CFR 261.2(b), contained within Committee records, disclosure of such information will be handled in consultation with the Board.
+
+
+(c) In responding to a request, the Committee will withhold information under this section only if—
+
+
+(1) The Committee reasonably foresees that disclosure would harm an interest protected by an exemption described in § 271.15(a); or
+
+
+(2) Disclosure is prohibited by law.
+
+
+(d) The Committee will take reasonable steps necessary to segregate and release nonexempt information.
+
+
+(e) The Committee shall notify the requester of:
+
+
+(1) The Committee's determination of the request;
+
+
+(2) The reasons for the determination;
+
+
+(3) An estimate of the amount of information withheld, if any. An estimate is not required if the amount of information is otherwise indicated by deletions marked on records that are disclosed in part or if providing an estimate would harm an interest protected by an applicable exemption;
+
+
+(4) The right of the requester to seek assistance from the Committee's FOIA Public Liaison; and
+
+
+(5) When an adverse determination is made, the Committee will advise the requester in writing of that determination and will further advise the requester of:
+
+
+(i) The right of the requester to appeal any adverse determination within 90 calendar days after the date of the determination, as specified in § 271.14;
+
+
+(ii) The right of the requester to seek dispute resolution services from the Committee's FOIA Public Liaison or from the Office of Government Information Services; and
+
+
+(iii) The name and title or position of the person responsible for the adverse determination.
+
+
+(f) Adverse determinations, or denials of requests, include decisions that the requested record is exempt, in whole or in part; the request does not reasonably describe the records sought; the information requested is not a record subject to the FOIA; the requested record does not exist, cannot be located, or has been destroyed; or the requested record is not readily reproducible in the form or format sought by the requester. Adverse determinations also include denials involving fees or fee waiver matters or denials of requests for expedited treatment.
+
+
+(g) The Committee will normally send responsive, nonexempt documents to the requester by email but may use other means as arranged between the Committee and the requester or as determined by the Committee. The Committee will attempt to provide records in the format requested by the requester.
+
+
+## § 271.14 Appeals.
+
+
+(a) If the Committee makes an adverse determination as defined in § 271.13(f), the requester may file a written appeal with the Committee, as follows:
+
+
+(1) The appeal should prominently display the phrase FREEDOM OF INFORMATION ACT APPEAL on the first page, and can be submitted online at https://www.federalreserve.gov/foia/fomc/appeals.htm or, if sent by mail, addressed to the Secretary of the Committee, Federal Open Market Committee, 20th Street and Constitution Avenue NW, Washington, DC 20551; or sent by facsimile to the Secretary of the Committee, (202) 452-2921. If the requester is appealing the denial of expedited treatment, the appeal should clearly be labeled “Appeal for Expedited Processing.”
+
+
+(2) A request for records under § 271.11 may not be combined in the same letter with an appeal.
+
+
+(3) To be considered timely, an appeal must be postmarked, or in the case of electronic submissions, transmitted, within 90 calendar days after the date of the adverse determination.
+
+
+(b) Except as provided in § 271.12(c)(3), the Committee shall make a determination regarding any appeal within 20 working days of actual receipt of the appeal by the Committee. If an adverse determination is upheld on appeal, in whole or in part, the determination letter shall notify the appealing party of the right to seek judicial review and of the availability of dispute resolution services from the Office of Government Information Services as a non-exclusive alternative to litigation.
+
+
+(c) The Committee may reconsider an adverse determination, including one on appeal, if intervening circumstances or additional facts not known at the time of the adverse determination come to the attention of the Committee.
+
+
+## § 271.15 Exemptions from disclosure.
+
+
+(a) Types of records exempt from disclosure. Pursuant to 5 U.S.C. 552(b), the following records of the Committee are exempt from disclosure under this part.
+
+
+(1) Any information that is specifically authorized under criteria established by an Executive order to be kept secret in the interest of national defense or foreign policy and is in fact properly classified pursuant to the Executive order.
+
+
+(2) Any information related solely to the internal personnel rules and practices of the Committee.
+
+
+(3) Any information specifically exempted from disclosure by statute to the extent required by 5 U.S.C. 552(b)(3).
+
+
+(4) Any matter that is a trade secret or that constitutes commercial or financial information obtained from a person and that is privileged or confidential.
+
+
+(5) Inter- or intra-agency memorandums or letters that would not be available by law to a party other than an agency in litigation with the Committee, provided that the deliberative process privilege shall not apply to records that were created 25 years or more before the date on which the records were requested.
+
+
+(6) Any information contained in personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
+
+
+(7) Any records or information compiled for law enforcement purposes, to the extent permitted under 5 U.S.C. 552(b)(7).
+
+
+(8) Any matter that is contained in or related to examination, operating, or condition reports prepared by, on behalf of, or for the use of an agency responsible for the regulation or supervision of financial institutions, including a state financial institution supervisory agency.
+
+
+(b) Release of exempt information. (1) Except where disclosure is expressly prohibited by statute, regulation, or order, the Committee may release records that are exempt from mandatory disclosure whenever the Committee determines that such disclosure would be in the public interest.
+
+
+(2) The fact that the Committee has determined to release particular exempt information does not waive the Committee's ability to withhold similar exempt information in response to the same or a different request.
+
+
+(c) Delayed release. Except as required by law, publication in the Federal Register or availability to the public of certain information may be delayed if immediate disclosure would likely:
+
+
+(1) Interfere with accomplishing the objectives of the Committee in the discharge of its statutory functions;
+
+
+(2) Interfere with the orderly conduct of the foreign affairs of the United States;
+
+
+(3) Permit speculators or others to gain unfair profits or other unfair advantages by speculative trading in securities or otherwise;
+
+
+(4) Result in unnecessary or unwarranted disturbances in the securities markets;
+
+
+(5) Interfere with the orderly execution of the objectives or policies of other Government agencies; or
+
+
+(6) Impair the ability to negotiate any contract or otherwise harm the commercial or financial interest of the United States, the Committee, any Federal Reserve Bank, or any department or agency of the United States.
+
+
+## § 271.16 Fee schedules; waiver of fees.
+
+
+(a) Fee schedules. Consistent with the limitations set forth in 5 U.S.C. 552(a)(4)(A)(viii), the fees applicable to a request for records pursuant to § 271.11 are set forth in Table 1 to this section. These fees cover only the full allowable direct costs of search, duplication, and review. No fees will be charged where the average cost of collecting the fee (calculated at $5.00) exceeds the amount of the fee.
+
+
+(b) For purposes of computing fees. (1) Search time includes all time spent looking for material that is responsive to a request, including line-by-line identification of material within documents. Such activity is distinct from “review” of material to determine whether the material is exempt from disclosure.
+
+
+(2) Direct costs mean those expenditures that the Committee actually incurs in searching for, reviewing, and duplicating records in response to a request made under § 271.11, as shown in table 1 to this section.
+
+
+(3) Duplication refers to the process of making a copy, in any format, of a document.
+
+
+(4) Review refers to the process of examining documents that have been located as being potentially responsive to a request for records to determine whether any portion of a document is exempt from disclosure. It includes doing all that is necessary to prepare the documents for release, including the redaction of exempt information. It does not include time spent resolving general legal or policy issues regarding the application of exemptions.
+
+
+(c) Payment procedures. The Committee may assume that a person requesting records pursuant to § 271.11 will pay the applicable fees, unless the request includes a limitation on fees to be paid or seeks a waiver or reduction of fees pursuant to paragraph (g) of this section.
+
+
+(1) Advance notification of fees. If the estimated charges are likely to exceed the amount authorized by the requester, the secretary of the Committee shall notify the requester of the estimated amount. Upon receipt of such notice, the requester may confer with the secretary of the Committee to reformulate the request to lower the costs or may authorize a higher amount. The time period for responding to requests under § 271.12(e) and the processing of the request will be suspended until the requester agrees in writing to pay the applicable fees.
+
+
+(2) Advance payment. The Committee may require advance payment of any fee estimated to exceed $250. The Committee may also require full payment in advance where a requester has previously failed to pay a fee in a timely fashion. The time period for responding to a request under § 271.12(e), and the processing of the request shall be suspended until the Committee receives the required payment.
+
+
+(3) Late charges. The Committee may assess interest charges when fee payment is not made within 30 days of the date on which the billing was sent. Interest is at the rate prescribed in 31 U.S.C. 3717 and accrues from the date of the billing.
+
+
+(d) Categories of uses. The fees assessed depend upon the intended use for the records requested. In determining which category is appropriate, the Committee will look to the intended use set forth in the request for records. Where a requester's description of the use is insufficient to make a determination, the Committee may seek additional clarification before categorizing the request.
+
+
+(1) A commercial use requester is one who requests records for a use or purpose that furthers the commercial, trade, or profit interests of the requester or the person on whose behalf the request is made, which can include furthering those interests through litigation.
+
+
+(2) Representative of the news media is any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience, including organizations that disseminate solely on the internet. The term “news” means information that is about current events or that would be of current interest to the public. A non-affiliated journalist who demonstrates a solid basis for expecting publication through a news media entity, such as a publishing contract or past publication record, will be considered as a representative of the news media.
+
+
+(3) Educational institution is any school that operates a program of scholarly research. A requester in this fee category must show that the request is made in connection with his or her role at the educational institution. The Committee may seek verification from the requester that the request is in furtherance of scholarly research.
+
+
+(4) Noncommercial scientific institution is an institution that is not operated on a “commercial” basis, as defined in paragraph (d)(1) of this section, and that is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. A requester in this category must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are sought to further scientific research and are not for a commercial use.
+
+
+(5) All other requesters refers to those requesters who do not fall within any of the categories described in paragraphs (d)(1) through (4) of this section.
+
+
+(6) Please refer to table 1 to this section to determine what fees apply for different categories of users.
+
+
+(e) Nonproductive search. Fees for search and review may be charged even if no responsive documents are located or if the request is denied.
+
+
+(f) Aggregated requests. A requester may not file multiple requests at the same time, solely in order to avoid payment of fees. If the Committee reasonably believes that a requester is separating a single request into a series of requests for the purpose of evading the assessment of fees, the Committee may aggregate any such requests and charge accordingly. It is considered reasonable for the Committee to presume that multiple requests of this type made within a 30-day period have been made to avoid fees. Multiple requests involving unrelated matters cannot be aggregated.
+
+
+(g) Waiver or reduction of fees. A request for a waiver or reduction of the fees, and the justification for the waiver, shall be included with the request for records to which it pertains. If a waiver is requested and the requester has not indicated in writing an agreement to pay the applicable fees if the waiver request is denied, the time for response to the request for documents, as set forth in § 271.12(e), shall not begin until either a waiver has been granted or, if the waiver is denied, until the requester has agreed to pay the applicable fees.
+
+
+(1) The Committee shall grant a waiver or reduction of fees where it is determined both that disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operation or activities of the government, and that the disclosure of information is not primarily in the commercial interest of the requester. In making this determination, the Committee will consider the following factors:
+
+
+(i) Whether the subject of the records would shed light on identifiable operations or activities of the government with a connection that is direct and clear, not remote or attenuated; and
+
+
+(ii) Whether disclosure of the information is likely to contribute significantly to public understanding of those operations or activities. This factor is satisfied when the following criteria are met:
+
+
+(A) Disclosure of the requested records must be meaningfully informative about government operations or activities. The disclosure of information that already is in the public domain, in either the same or a substantially identical form, would not be meaningfully informative if nothing new would be added to the public's understanding.
+
+
+(B) The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject, as opposed to the individual understanding of the requester. A requester's expertise in the subject area as well as the requester's ability and intention to effectively convey information to the public must be considered. The Committee will presume that a representative of the news media will satisfy this consideration.
+
+
+(iii) The disclosure must not be primarily in the commercial interest of the requester. A commercial interest includes any commercial, trade, profit, or litigation interest.
+
+
+(2) A request for a waiver or reduction of fees shall include:
+
+
+(i) A clear statement of the requester's interest in the documents;
+
+
+(ii) The use proposed for the documents and whether the requester will derive income or other benefit for such use;
+
+
+(iii) A statement of how the public will benefit from such use and from the Committee's release of the documents;
+
+
+(iv) A description of the method by which the information will be disseminated to the public; and
+
+
+(v) If specialized use of the information is contemplated, a statement of the requester's qualifications that are relevant to that use.
+
+
+(3) The requester has the burden to present evidence or information in support of a request for a waiver or reduction of fees.
+
+
+(4) The Committee shall notify the requester of its determination on the request for a waiver or reduction of fees. The requester may appeal a denial in accordance with § 271.14(a).
+
+
+(5) Where only some of the records to be released satisfy the requirements for a waiver of fees, a waiver must be granted for those records.
+
+
+(6) A request for a waiver or reduction of fees should be made when the request for records is first submitted to the Committee and should address the criteria referenced in paragraphs (g)(1) through (5) of this section. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester must pay any costs incurred up to the date the fee waiver request was received.
+
+
+(h) Restrictions on charging fees. (1) If the Committee fails to comply with the FOIA's time limits in which to respond to a request, the Committee may not charge search fees, or, in the instances of requests from requesters described in paragraphs (d)(2) through (4) of this section, will not charge duplication fees, except as permitted under paragraphs (h)(2) through (4) of this section.
+
+
+(2) If the Committee has determined that unusual circumstances exist, as described in 5 U.S.C. 552(a)(6)(B), and has provided timely written notice to the requester and subsequently responds within the additional 10 working days provided in § 271.12(e)(3), the Committee may charge search fees, or in the case of requesters described in paragraphs (d)(2) through (4) of this section, may charge duplication fees.
+
+
+(3) If the Committee has determined that unusual circumstances exist, as described in 5 U.S.C. 552(a)(6)(B), and more than 5,000 pages are necessary to respond to the request, the Committee may charge search fees, or, in the case of requesters described in paragraphs (d)(2) through (4) of this section, may charge duplication fees, if the Committee has:
+
+
+(i) Provided timely written notice of unusual circumstances to the requester in accordance with the FOIA; and
+
+
+(ii) Discussed with the requester via written mail, email, or telephone (or made not less than three good-faith attempts to do so) how the requester could effectively limit the scope of the request in accordance with 5 U.S.C. 552(a)(6)(B)(ii).
+
+
+(4) If a court has determined that exceptional circumstances exist, as defined by the FOIA, a failure to comply with the time limits shall be excused for the length of time provided by the court order.
+
+
+(i) Employee requests. In connection with any request by an employee, former employee, or applicant for employment, for records for use in prosecuting a grievance or complaint of discrimination against the Committee, fees shall be waived where the total charges (including charges for information provided under the Privacy Act of 1974 (5 U.S.C. 552a)) are $50 or less; but the Committee may waive fees in excess of that amount.
+
+
+(j) Special services. The Committee may agree to provide, and set fees to recover the costs of, special services not covered by the FOIA, such as certifying records or information and sending records by special methods such as express mail or overnight delivery.
+
+
+Table 1 to § 271.16—Fees
+
+
+Type of requester
+Search costs per hour
+Review costs per hour
+Duplication costs
+
+
+
+
+Commercial
+Clerical/Technical staff, $20
+Clerical/Technical staff, $20
+Photocopy per standard page, .10.
+
+
+ 
+Professional/Supervisory staff, $40
+Professional/Supervisory staff, $40
+Other types of duplication, Direct Costs.
+
+
+ 
+Manager/Senior professional staff, $65
+Manager/Senior professional staff, $65
+
+
+
+ 
+Computer search, including computer search time, output, operator's salary, Direct Costs
+
+
+
+
+Educational; or Non-commercial scientific; or News media
+Costs waived
+Costs waived
+First 100 pages free, then:
+Photocopy per standard page, .10.
+Other types of duplication, Direct Costs.
+
+
+All other requesters
+First 2 hours free, then:
+Costs waived
+First 100 pages free, then:
+
+
+ 
+Clerical/Technical staff, $20
+
+Photocopy per standard page, .10.
+
+
+ 
+Professional/Supervisory staff, $40
+
+Other types of duplication, Direct Costs.
+
+
+ 
+Manager/Senior professional staff, $65
+
+
+
+
+ 
+Computer search, including computer search time, output, operator's salary, Direct Costs
+
+
+## § 271.20 Subpoenas, orders compelling production, and other process.
+
+
+(a) Advice by person served. Any person, whether or not an officer or employee of the Committee, of the Board, or of a Federal Reserve Bank, who is served with a subpoena, order, or other judicial or administrative process requiring the production of exempt information of the Committee or requiring the person's testimony regarding such Committee information in any proceeding, shall:
+
+
+(1) Promptly inform the Committee's General Counsel of the service and all relevant facts, including the documents, information, or testimony demanded, and any facts relevant to the Committee in determining whether the material requested should be made available;
+
+
+(2) Inform the entity issuing the process of the substance of this part; and
+
+
+(3) At the appropriate time, inform the court or tribunal that issued the process of the substance of this part.
+
+
+(b) Appearance by person served. Unless authorized by the Committee or as ordered by a Federal court in a judicial proceeding in which the Committee has had the opportunity to appear and oppose discovery, any person who is required to respond to a subpoena or other legal process concerning exempt Committee information shall attend at the time and place required and respectfully decline to disclose or to give any testimony with respect to the information, basing such refusal upon the provisions of this part. If the court or other body orders the disclosure of the information or the giving of testimony, the person having the information shall continue to decline to disclose such information and shall promptly report the facts to the Committee for such action as the Committee may deem appropriate.

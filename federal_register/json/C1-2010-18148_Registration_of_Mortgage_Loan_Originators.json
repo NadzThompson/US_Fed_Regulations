@@ -1,0 +1,141 @@
+{
+  "doc_id": "usfed.fr.C1-2010-18148",
+  "title": "Registration of Mortgage Loan Originators",
+  "short_title": "C1-2010-18148",
+  "slug": "c1-2010-18148",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Final Rule",
+  "nova_tier": 3,
+  "authority_class": "primary_normative",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "C1-2010-18148",
+  "citation": "75 FR 51623",
+  "publication_date": "2010-08-23",
+  "effective_date_start": "2010-10-01",
+  "abstract": "The OCC, Board, FDIC, OTS, FCA, and NCUA (collectively, the Agencies) are adopting final rules to implement the Secure and Fair Enforcement for Mortgage Licensing Act (the S.A.F.E. Act). The S.A.F.E. Act requires an employee of a bank, savings association, credit union or Farm Credit System (FCS) institution and certain of their subsidiaries that are regulated by a Federal banking agency or the FCA (collectively, Agency-regulated institutions) who acts as a residential mortgage loan originator t",
+  "action": "Final rule.",
+  "html_url": "https://www.federalregister.gov/documents/2010/08/23/C1-2010-18148/registration-of-mortgage-loan-originators",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2010-08-23/pdf/C1-2010-18148.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 34,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 208,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 211,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 365,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 563,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 610,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 741,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 761,
+      "title": 12
+    }
+  ],
+  "docket_ids": [
+    "Docket ID OCC-2010-0007",
+    "Docket No. R-1357",
+    "Docket No. 2010-0021"
+  ],
+  "regulation_id_numbers": [
+    "1550-AC33",
+    "1557-AD23",
+    "3052-AC52",
+    "3064-AD43",
+    "3133-AD59"
+  ],
+  "page_length": 29,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2010/08/23/C1-2010-18148/registration-of-mortgage-loan-originators",
+  "canonical_url": "https://www.federalregister.gov/documents/2010/08/23/C1-2010-18148/registration-of-mortgage-loan-originators",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:47Z",
+  "include_in_primary_corpus": true,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Final Rule > C1-2010-18148",
+  "title_normalized": "Registration of Mortgage Loan Originators",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Final Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.3,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2010-08-23",
+  "document_date_raw": "2010-08-23",
+  "word_count_raw_body": 7250,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 208, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 211, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 34, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 365, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 563, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 610, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 741, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 761, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": false,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": false,
+  "normalized_text_sha256": "5b4cd5cfe79e4e5abd1a5a32dec826f490f82fe37df49faa4d52e5e2a98e68eb",
+  "normalized_md_path": "federal_register/md/C1-2010-18148_Registration_of_Mortgage_Loan_Originators.md",
+  "canonical_json_path": "federal_register/json/C1-2010-18148_Registration_of_Mortgage_Loan_Originators.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "C1-2010-18148 Registration of Mortgage Loan Originators Final rule. The OCC, Board, FDIC, OTS, FCA, and NCUA (collectively, the Agencies) are adopting final rules to implement the Secure and Fair Enforcement for Mortgage Licensing Act (the S.A.F.E. Act). The S.A.F.E. ",
+  "vector_text_prefix": "Federal Reserve Final Rule C1-2010-18148: Registration of Mortgage Loan Originators",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

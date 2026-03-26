@@ -1,0 +1,1632 @@
+# PART 268—RULES REGARDING EQUAL OPPORTUNITY
+
+**Rules Regarding Equal Opportunity** | 12 CFR Part 268 | Current as of 2026-03-24
+
+**Authority:** 12 U.S.C. 244 and 248(i), (k) and (1).
+
+**Source:** 68 FR 18085, Apr. 15, 2003, unless otherwise noted.
+
+---
+
+
+## § 268.1 Authority, purpose and scope.
+
+
+(a) Authority. The regulations in this part (12 CFR part 268) are issued by the Board of Governors of the Federal Reserve System (Board) under the authority of sections 10(4) and 11(i), (k), and (l) of the Federal Reserve Act (partially codified in 12 U.S.C. 244 and 248(i), (k) and (1)).
+
+
+(b) Purpose and scope. This part sets forth the Board's policy, program and procedures for providing equal opportunity to Board employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetic information. It also sets forth the Board's policy, program and procedures for prohibiting discrimination on the basis of disability in programs and activities conducted by the Board.
+
+
+## § 268.2 Definitions.
+
+
+The definitions contained in this section shall have the following meanings throughout this part unless otherwise stated.
+
+
+(a) Commission or EEOC means the Equal Employment Opportunity Commission.
+
+
+(b) Title VII means title VII of the Civil Rights Act (42 U.S.C. 2000e et seq.).
+
+
+## § 268.101 General policy for equal opportunity.
+
+
+(a) It is the policy of the Board to provide equal opportunity in employment for all persons, to prohibit discrimination in employment because of race, color, religion, sex, national origin, age, disability, or genetic information and to promote the full realization of equal opportunity in employment through a continuing affirmative program.
+
+
+(b) No person shall be subject to retaliation for opposing any practice made unlawful by Title VII of the Civil Rights Act (title VII) (42 U.S.C. 2000e et seq.), the Age Discrimination in Employment Act (ADEA) (29 U.S.C. 621 et seq.), the Equal Pay Act (29 U.S.C. 206(d)), the Rehabilitation Act (29 U.S.C. 791 et seq.), or the Genetic Information Nondiscrimination Act (GINA) (42 U.S.C. 2000ff et seq.) or for participating in any stage of administrative or judicial proceedings under those statutes.
+
+
+## § 268.102 Board program for equal employment opportunity.
+
+
+(a) The Board shall maintain a continuing affirmative program to promote equal opportunity and to identify and eliminate discriminatory practices and policies. In support of this program, the Board shall:
+
+
+(1) Provide sufficient resources to its equal opportunity program to ensure efficient and successful operation;
+
+
+(2) Provide for the prompt, fair and impartial processing of complaints in accordance with this part and the instructions contained in the Commission's Management Directives;
+
+
+(3) Conduct a continuing campaign to eradicate every form of prejudice or discrimination from the Board's personnel policies, practices and working conditions;
+
+
+(4) Communicate the Board's equal employment opportunity policy and program and its employment needs to all sources of job candidates without regard to race, color, religion, sex, national origin, age disability, or genetic information, and solicit their recruitment assistance on a continuing basis;
+
+
+(5) Review, evaluate and control managerial and supervisory performance in such a manner as to insure a continuing affirmative application and vigorous enforcement of the policy of equal opportunity, and provide orientation, training and advice to managers and supervisors to assure their understanding and implementation of the equal employment opportunity policy and program;
+
+
+(6) Take appropriate disciplinary action against employees who engage in discriminatory practices;
+
+
+(7) Make reasonable accommodation to the religious needs of employees and applicants for employment when those accommodations can be made without undue hardship on the business of the Board;
+
+
+(8) Make reasonable accommodation to the known physical or mental limitations of qualified applicants and employees with a disability unless the accommodation would impose an undue hardship on the operations of the Board's program;
+
+
+(9) Provide recognition to employees, supervisors, managers and units demonstrating superior accomplishment in equal employment opportunity;
+
+
+(10) Establish a system for periodically evaluating the effectiveness of the Board's overall equal employment opportunity effort;
+
+
+(11) Provide the maximum feasible opportunity to employees to enhance their skills through on-the-job training, work-study programs and other training measures so that they may perform at their highest potential and advance in accordance with their abilities;
+
+
+(12) Inform its employees and recognized labor organizations of the Board's affirmative equal opportunity policy and program and enlist their cooperation; and
+
+
+(13) Participate at the community level with other employers, with schools and universities and with other public and private groups in cooperative action to improve employment opportunities and community conditions that affect employability.
+
+
+(b) In order to implement its program, the Board shall:
+
+
+(1) Develop the plans, procedures and regulations necessary to carry out its program.
+
+
+(2) Establish or make available an alternative dispute resolution program. Such program must be available for both the precomplaint process and the formal complaint process.
+
+
+(3) Appraise its personnel operations at regular intervals to assure their conformity with the Board's program, this part and the instructions contained in the Commission's management directives relating to advice for ensuring compliance with the provisions of title VII, the Equal Pay Act, the Age Discrimination in Employment Act, GINA, and the Rehabilitation Act.
+
+
+(4) Designate a Director for Equal Employment Opportunity (EEO Programs Director), EEO Officer(s), and such Special Emphasis Program Managers/Coordinators (e.g., People with Disabilities Program, Federal Women's Program and Hispanic Employment Program), clerical and administrative support as may be necessary to carry out the functions described in this part in all organizational units of the Board and at all Board installations. The EEO Programs Director shall be under the immediate supervision of the Chair. The EEO Programs Director may also serve as the Director of the Office of Diversity and Inclusion.
+
+
+(5) Make written materials available to all employees and applicants informing them of the variety of equal employment opportunity programs and administrative and judicial remedial procedures available to them and prominently post such written materials in all personnel and EEO offices and throughout the workplace.
+
+
+(6) Ensure that full cooperation is provided by all Board employees to EEO Counselors and Board EEO personnel in the processing and resolution of pre-complaint matters and complaints within the Board and that full cooperation is provided to the Commission in the course of appeals, including, granting the Commission routine access to personnel records of the Board when required in connection with an investigation.
+
+
+(7) Publicize to all employees and post at all times the names, business telephone numbers and business addresses of the EEO Counselors (unless the counseling function is centralized, in which case only the telephone number and address need be publicized and posted), a notice of the time limits and necessity of contacting a Counselor before filing a complaint and the telephone numbers and addresses of the EEO Programs Director, EEO Officer(s) and the Special Emphasis Program Managers/Coordinators.
+
+
+(c) The EEO Programs Director shall be responsible for:
+
+
+(1) Advising the Board of Governors with respect to the preparation of national and regional equal employment opportunity plans, procedures, regulations, reports and other matters pertaining to the policy in § 268.101 and the Board's program;
+
+
+(2) Evaluating from time to time the sufficiency of the total Board program for equal employment opportunity and reporting to the Board of Governors with recommendations as to any improvement or correction needed, including remedial or disciplinary action with respect to managerial, supervisory or other employees who have failed in their responsibilities;
+
+
+(3) When authorized by the Board of Governors, making changes in programs and procedures designed to eliminate discriminatory practices and to improve the Board's program for equal employment opportunity;
+
+
+(4) Providing for counseling of aggrieved individuals and for the receipt and processing of individual and class complaints of discrimination; and
+
+
+(5) Assuring that individual complaints are fairly and thoroughly investigated and that final action is taken in a timely manner in accordance with this part.
+
+
+(d) Directives, instructions, forms and other Commission materials referenced in this part may be obtained in accordance with the provisions of 29 CFR 1610.7.
+
+
+## § 268.103 Complaints of discrimination covered by this part.
+
+
+(a) Individual and class complaints of employment discrimination and retaliation prohibited by title VII (discrimination on the basis of race, color, religion, sex and national origin), the ADEA (discrimination on the basis of age when the aggrieved person is at least 40 years of age), the Rehabilitation Act (discrimination on the basis of disability), the Equal Pay Act (sex-based wage discrimination), or GINA (discrimination on the basis of genetic information) shall be processed in accordance with this part. Complaints alleging retaliation prohibited by the statutes listed in this paragraph (a) are considered to be complaints of discrimination for purposes of this part.
+
+
+(b) This part applies to all Board employees and applicants for employment at the Board, and to all employment policies or practices affecting Board employees or applicants for employment.
+
+
+(c) This part does not apply to Equal Pay Act complaints of employees whose services are performed within a foreign country or certain United States territories as provided in 29 U.S.C. 213(f).
+
+
+## § 268.104 Pre-complaint processing.
+
+
+(a) Aggrieved persons who believe they have been discriminated against on the basis of race, color, religion, sex, national origin, age, disability, or genetic information must consult a Counselor prior to filing a complaint in order to try to informally resolve the matter.
+
+
+(1) An aggrieved person must initiate contact with a Counselor within 45 days of the date of the matter alleged to be discriminatory or, in the case of a personnel action, within 45 days of the effective date of the action.
+
+
+(2) The Board or the Commission shall extend the 45-day time limit in paragraph (a)(1) of this section when the individual shows that he or she was not notified of the time limits and was not otherwise aware of them, that he or she did not know and reasonably should not have known that the discriminatory matter or personnel action occurred, that despite due diligence he or she was prevented by circumstances beyond his or her control from contacting the counselor within the time limits, or for other reasons considered sufficient by the Board or the Commission.
+
+
+(b)(1) At the initial counseling session, Counselors must advise individuals in writing of their rights and responsibilities, including the right to request a hearing or an immediate final decision after an investigation by the Board in accordance with § 268.107(f), election rights pursuant to § 268.302, the right to file a notice of intent to sue pursuant to § 268.201(a) and a lawsuit under the ADEA instead of an administrative complaint of age discrimination under this part, the duty to mitigate damages, administrative and court time frames, and that only the claims raised in precomplaint counseling (or issues or claims like or related to issues or claims raised in pre-complaint counseling) may be alleged in a subsequent complaint filed with the Board. Counselors must advise individuals of their duty to keep the Board and the Commission informed of their current address and to serve copies of appeal papers on the Board. The notice required by paragraphs (d) or (e) of this section shall include a notice of the right to file a class complaint. If the aggrieved person informs the Counselor that he or she wishes to file a class complaint, the Counselor shall explain the class complaint procedures and the responsibilities of a class agent.
+
+
+(2) Counselors shall advise aggrieved persons that, where the Board agrees to offer ADR in the particular case, they may choose between participation in the alternative dispute resolution program and the counseling activities provided for in paragraph (c) of this section.
+
+
+(c) Counselors shall conduct counseling activities in accordance with instructions contained in Commission Management Directives. When advised that a complaint has been filed by an aggrieved person, the Counselor shall submit a written report within 15 days to the EEO Programs Director and the aggrieved person concerning the issues discussed and actions taken during counseling.
+
+
+(d) Unless the aggrieved person agrees to a longer counseling period under paragraph (e) of this section, or the aggrieved person chooses an alternative dispute resolution procedure in accordance with paragraph (b)(2) of this section, the Counselor shall conduct the final interview with the aggrieved person within 30 days of the date the aggrieved person contacted the Board's Office of Diversity and Inclusion to request counseling. If the matter has not been resolved, the aggrieved person shall be informed in writing by the Counselor, not later than the thirtieth day after contacting the Counselor, of the right to file a discrimination complaint with the Board. This notice shall inform the complainant of the right to file a discrimination complaint within 15 days of receipt of the notice, of the appropriate official with whom to file a complaint and of the complainant's duty to assure that the Programs Director is informed immediately if the complainant retains counsel or a representative.
+
+
+(e) Prior to the end of the 30-day period, the aggrieved person may agree in writing with the Board to postpone the final interview and extend the counseling period for an additional period of no more than 60 days. If the matter has not been resolved before the conclusion of the agreed extension, the notice described in paragraph (d) of this section shall be issued.
+
+
+(f) Where the aggrieved person chooses to participate in an alternative dispute resolution procedure in accordance with paragraph (b)(2) of this section, the pre-complaint processing period shall be 90 days. If the claim has not been resolved before the 90th day, the notice described in paragraph (d) of this section shall be issued.
+
+
+(g) The Counselor shall not attempt in any way to restrain the aggrieved person from filing a complaint. The Counselor shall not reveal the identity of an aggrieved person who consulted the Counselor, except when authorized to do so by the aggrieved person, or until the Board has received a discrimination complaint under this part from that person involving the same matter.
+
+
+## § 268.105 Individual complaints.
+
+
+(a) A complaint must be filed with the agency that allegedly discriminated against the complainant.
+
+
+(b) A complaint must be filed within 15 days of receipt of the notice required by § 268.104 (d), (e) or (f).
+
+
+(c) A complaint must contain a signed statement from the person claiming to be aggrieved or that person's attorney. This statement must be sufficiently precise to identify the aggrieved individual and the Board and to describe generally the action(s) or practice(s) that form the basis of the complaint. The complaint must also contain a telephone number and address where the complainant or the representative can be contacted.
+
+
+(d) A complainant may amend a complaint at any time prior to the conclusion of the investigation to include issues or claims like or related to those raised in the complaint. After requesting a hearing, a complainant may file a motion with the administrative judge to amend a complaint to include issues or claims like or related to those raised in the complaint.
+
+
+(e) The Board shall acknowledge receipt of a complaint or an amendment to a complaint in writing and inform the complainant of the date on which the complaint or amendment was filed. The Board shall advise the complainant in the acknowledgment of the EEOC office and its address where a request for a hearing shall be sent. Such acknowledgment shall also advise the complainant that:
+
+
+(1) The complainant has the right to appeal the final action on or dismissal of a complaint; and
+
+
+(2) The Board is required to conduct an impartial and appropriate investigation of the complaint within 180 days of the filing of the complaint unless the parties agree in writing to extend the time period. When a complaint has been amended, the Board shall complete its investigation within the earlier of 180 days after the last amendment to the complaint or 360 days after the filing of the original complaint, except that the complainant may request a hearing from an administrative judge on the consolidated complaints any time after 180 days from the date of the first filed complaint.
+
+
+## § 268.106 Dismissals of complaints.
+
+
+(a) Prior to a request for a hearing in a case, the Board shall dismiss an entire complaint:
+
+
+(1) That fails to state a claim under § 268.103 or § 268.105(a), or states the same claim that is pending before or has been decided by the Board or the Commission;
+
+
+(2) That fails to comply with the applicable time limits contained in §§ 268.104, 268.105 and 268.204(c), unless the Board extends the time limits in accordance with § 268.604(c), or that raises a matter that has not been brought to the attention of a Counselor and is not like or related to a matter that has been brought to the attention of a Counselor;
+
+
+(3) That is the basis of a pending civil action in a United States District Court in which the complainant is a party provided that at least 180 days have passed since the filing of the administrative complaint, or that was the basis of a civil action decided by a United States District Court in which the complainant was a party;
+
+
+(4) [Reserved]
+
+
+(5) That is moot or alleges that a proposal to take a personnel action, or other preliminary step to taking a personnel action, is discriminatory, unless the complaint alleges that the proposal or preliminary step is retaliatory;
+
+
+(6) Where the complainant cannot be located, provided that reasonable efforts have been made to locate the complainant and the complainant has not responded within 15 days to a notice of proposed dismissal sent to his or her last known address;
+
+
+(7) Where the Board has provided the complainant with a written request to provide relevant information or otherwise proceed with the complaint, and the complainant has failed to respond to the request within 15 days of its receipt or the complainant's response does not address the Board's request, provided that the request included a notice of the proposed dismissal. Instead of dismissing for failure to cooperate, the complaint may be adjudicated if sufficient information for that purpose is available;
+
+
+(8) That alleges dissatisfaction with the processing of a previously filed complaint; or
+
+
+(9) Where the Board, strictly applying the criteria set forth in Commission decisions, finds that the complaint is part of a clear pattern of misuse of the EEO process for a purpose other than the prevention and elimination of employment discrimination. A clear pattern of misuse of the EEO process requires:
+
+
+(i) Evidence of multiple complaint filings; and
+
+
+(ii) Allegations that are similar or identical, lack specificity or involve matters previously resolved; or
+
+
+(iii) Evidence of circumventing other administrative processes, retaliating against the Board's in-house administrative processes or overburdening the EEO complaint system.
+
+
+(b) Where the Board believes that some but not all of the claims in a complaint should be dismissed for the reasons contained in paragraphs (a)(1) through (9) of this section, the Board shall notify the complainant in writing of its determination, the rationale for that determination and that those claims will not be investigated, and shall place a copy of the notice in the investigative file. A determination under this paragraph is reviewable by an administrative judge if a hearing is requested on the remainder of the complaint, but is not appealable until final action is taken on the remainder of the complaint.
+
+
+## § 268.107 Investigation of complaints.
+
+
+(a) The investigation of complaints filed against the Board shall be conducted by the Board.
+
+
+(b) In accordance with instructions contained in Commission Management Directives, the Board shall develop an impartial and appropriate factual record upon which to make findings on the claims raised by the written complaint. An appropriate factual record is one that allows a reasonable fact finder to draw conclusions as to whether discrimination occurred. The Board may use an exchange of letters or memoranda, interrogatories, investigations, fact-finding conferences or any other fact-finding methods that efficiently and thoroughly address the matters at issue. The Board may incorporate alternative dispute resolution techniques into its investigative efforts in order to promote early resolution of complaints.
+
+
+(c) The procedures in paragraphs (c)(1) through (3) of this section apply to the investigation of complaints:
+
+
+(1) The complainant, the Board, and any employee of the Board shall produce such documentary and testimonial evidence as the investigator deems necessary.
+
+
+(2) Investigators are authorized to administer oaths. Statements of witnesses shall be made under oath or affirmation or, alternatively, by written statement under penalty of perjury.
+
+
+(3) When the complainant, or the Board or its employees fail without good cause shown to respond fully and in timely fashion to requests for documents, records, comparative data, statistics, affidavits or the attendance of witness(es), the investigator may note in the investigative record that the decisionmaker should, or the Commission on appeal may, in appropriate circumstances:
+
+
+(i) Draw an adverse inference that the requested information, or the testimony of the requested witness, would have reflected unfavorably on the party refusing to provide the requested information;
+
+
+(ii) Consider the matters to which the requested information or testimony pertains to be established in favor of the opposing party;
+
+
+(iii) Exclude other evidence offered by the party failing to produce the requested information or witness;
+
+
+(iv) Issue a decision fully or partially in favor of the opposing party; or
+
+
+(v) Take such other actions as it deems appropriate.
+
+
+(d) Any investigation will be conducted by investigators with appropriate security clearances.
+
+
+(e)(1) The Board shall complete its investigation within 180 days of the date of filing of an individual complaint or within the time period contained in an order from the Office of Federal Operations on an appeal from a dismissal pursuant to § 268.106. By written agreement within those time periods, the complainant and the Board may voluntarily extend the time period for not more than an additional 90 days. The Board may unilaterally extend the time period or any period of extension for not more than 30 days where it must sanitize a complaint file that may contain information classified pursuant to Executive Order No. 12356, or successor orders, as secret in the interest of national defense or foreign policy, provided the Board notifies the complainant of the extension.
+
+
+(2) Confidential supervisory information, as defined in 12 CFR 261.2(c), and other confidential information of the Board may be included in the investigative file by the investigator, the EEO Programs Director, or another appropriate officer of the Board, where such information is relevant to the complaint. Neither the complainant nor the complainant's personal representative may make further disclosure of such information, however, except in compliance with the Board's Rules Regarding Availability of Information, 12 CFR part 261, and where applicable, the Board's Rules Regarding Access to Personal Information under the Privacy Act of 1974, 12 CFR part 261a. Any party or individual, including an investigator, who requires access to FOMC information must agree to abide by the Program for Security of FOMC Information before being granted access to such information.
+
+
+(f) Within 180 days from the filing of the complaint, or where a complaint was amended, within the earlier of 180 days after the last amendment to the complaint or 360 days after the filing of the original complaint, within the time period contained in an order from the Office of Federal Operations on an appeal from a dismissal, or within any period of extension provided for in paragraph (e) of this section, the Board shall provide the complainant with a copy of the investigative file, and shall notify the complainant that, within 30 days of receipt of the investigative file, the complainant has the right to request a hearing and decision from an administrative judge or may request an immediate final decision pursuant to § 268.109(b) from the Board.
+
+
+(g) If the Board does not send the notice required in paragraph (f) of this section within the applicable time limits, it shall, within those same time limits, issue a written notice to the complainant informing the complainant that it has been unable to complete its investigation within the time limits required by paragraph (f) and estimating a date by which the investigation will be completed. Further, the notice must explain that if the complainant does not want to wait until the agency completes the investigation, he or she may request a hearing in accordance with paragraph (h) of this section, or file a civil action in an appropriate United States District Court in accordance with § 268.406(b). Such notice shall contain information about the hearing procedures.
+
+
+(h) Where the complainant has received the notice required in paragraph (f) of this section or at any time after 180 days have elapsed from the filing of the complaint, the complainant may request a hearing by submitting a written request for a hearing directly to the EEOC office indicated in the Board's acknowledgment letter. The complainant shall send a copy of the request for a hearing to the Board's EEO Programs Office. Within 15 days of receipt of the request for a hearing, the Board's EEO Programs Office shall provide a copy of the complaint file to EEOC and, if not previously provided, to the complainant.
+
+
+## § 268.108 Hearings.
+
+
+(a) When a complainant requests a hearing, the Commission shall appoint an administrative judge to conduct a hearing in accordance with this section. Upon appointment, the administrative judge shall assume full responsibility for the adjudication of the complaint, including overseeing the development of the record. Any hearing will be conducted by an administrative judge or hearing examiner with appropriate security clearances.
+
+
+(b) Dismissals. Administrative judges may dismiss complaints pursuant to § 268.106, on their own initiative, after notice to the parties, or upon the Board's motion to dismiss a complaint.
+
+
+(c) Offer of resolution. (1) Any time after the filing of the written complaint but not later than the date an administrative judge is appointed to conduct a hearing, the Board may make an offer of resolution to a complainant who is represented by an attorney.
+
+
+(2) Any time after the parties have received notice that an administrative judge has been appointed to conduct a hearing, but not later than 30 days prior to the hearing, the Board may make an offer of resolution to the complainant, whether represented by an attorney or not.
+
+
+(3) The offer of resolution shall be in writing and shall include a notice explaining the possible consequences of failing to accept the offer. The Board's offer, to be effective, must include attorney's fees and costs and must specify any non-monetary relief. With regard to monetary relief, the Board may make a lump sum offer covering all forms of monetary liability, or it may itemize the amounts and types of monetary relief being offered. The complainant shall have 30 days from receipt of the offer of resolution to accept it. If the complainant fails to accept an offer of resolution and the relief awarded in the administrative judge's decision, the Board's final decision, or the Commission's decision on appeal is not more favorable than the offer, then, except where the interest of justice would not be served, the complainant shall not receive payment from the Board of attorney's fees or costs incurred after the expiration of the 30-day acceptance period. An acceptance of an offer must be in writing and will be timely if postmarked or received within the 30-day period. Where a complainant fails to accept an offer of resolution, the Board may make other offers of resolution and either party may seek to negotiate a settlement of the complaint at any time.
+
+
+(d) Discovery. The administrative judge shall notify the parties of the right to seek discovery prior to the hearing and may issue such discovery orders as are appropriate. Unless the parties agree in writing concerning the methods and scope of discovery, the party seeking discovery shall request authorization from the administrative judge prior to commencing discovery. Both parties are entitled to reasonable development of evidence on matters relevant to the issues raised in the complaint, but the administrative judge may limit the quantity and timing of discovery. Evidence may be developed through interrogatories, depositions, and requests for admissions, stipulations or production of documents. It shall be grounds for objection to producing evidence that the information sought by either party is irrelevant, overburdensome, repetitious, or privileged.
+
+
+(e) Conduct of hearing. The Board shall provide for the attendance at a hearing of all employees approved as witnesses by an administrative judge. Attendance at hearings will be limited to persons determined by the administrative judge to have direct knowledge relating to the complaint. Hearings are part of the investigative process and are thus closed to the public. The administrative judge shall have the power to regulate the conduct of a hearing, limit the number of witnesses where testimony would be repetitious, and exclude any person from the hearing for contumacious conduct or misbehavior that obstructs the hearing. The administrative judge shall receive into evidence information or documents relevant to the complaint. Rules of evidence shall not be applied strictly, but the administrative judge shall exclude irrelevant or repetitious evidence. The administrative judge or the Commission may refer to the Disciplinary Committee of the appropriate Bar Association any attorney or, upon reasonable notice and an opportunity to be heard, suspend or disqualify from representing complainants or agencies in EEOC hearings any representative who refuses to follow the orders of an administrative judge, or who otherwise engages in improper conduct.
+
+
+(f) Procedures. (1) The complainant, the Board and any employee of the Board shall produce such documentary and testimonial evidence as the administrative judge deems necessary. The administrative judge shall serve all orders to produce evidence on both parties.
+
+
+(2) Administrative judges are authorized to administer oaths. Statements of witnesses shall be made under oath or affirmation or, alternatively, by written statement under penalty of perjury.
+
+
+(3) When the complainant, or the Board, or its employees fail without good cause shown to respond fully and in timely fashion to an order of an administrative judge, or requests for the investigative file, for documents, records, comparative data, statistics, affidavits, or the attendance of witness(es), the administrative judge shall, in appropriate circumstances:
+
+
+(i) Draw an adverse inference that the requested information, or the testimony of the requested witness, would have reflected unfavorably on the party refusing to provide the requested information;
+
+
+(ii) Consider the matters to which the requested information or testimony pertains to be established in favor of the opposing party;
+
+
+(iii) Exclude other evidence offered by the party failing to produce the requested information or witness;
+
+
+(iv) Issue a decision fully or partially in favor of the opposing party; or
+
+
+(v) Take such other actions as appropriate.
+
+
+(g) Summary judgement. (1) If a party believes that some or all material facts are not in genuine dispute and there is no genuine issue as to credibility, the party may, at least 15 days prior to the date of the hearing or at such earlier time as required by the administrative judge, file a statement with the administrative judge prior to the hearing setting forth the fact or facts and referring to the parts of the record relied on to support the statement. The statement must demonstrate that there is no genuine issue as to any such material fact. The party shall serve the statement on the opposing party.
+
+
+(2) The opposing party may file an opposition within 15 days of receipt of the statement in paragraph (g)(1) of this section. The opposition may refer to the record in the case to rebut the statement that a fact is not in dispute or may file an affidavit stating that the party cannot, for reasons stated, present facts to oppose the request. After considering the submissions, the administrative judge may order that discovery be permitted on the fact or facts involved, limit the hearing to the issues remaining in dispute, issue a decision without a hearing or make such other ruling as is appropriate.
+
+
+(3) If the administrative judge determines upon his or her own initiative that some or all facts are not in genuine dispute, he or she may, after giving notice to the parties and providing them an opportunity to respond in writing within 15 calendar days, issue an order limiting the scope of the hearing or issue a decision without holding a hearing.
+
+
+(h) Record of hearing. The hearing shall be recorded and the Board shall arrange and pay for verbatim transcripts. All documents submitted to, and accepted by, the administrative judge at the hearing shall be made part of the record of the hearing. If the Board submits a document that is accepted, it shall furnish a copy of the document to the complainant. If the complainant submits a document that is accepted, the administrative judge shall make the document available to the Board's representative for reproduction.
+
+
+(i) Decisions by administrative judges. Unless the administrative judge makes a written determination that good cause exists for extending the time for issuing a decision, an administrative judge shall issue a decision on the complaint, and shall order appropriate remedies and relief where discrimination is found, within 180 days of receipt by the administrative judge of the complaint file from the Board. The administrative judge shall send copies of the hearing record, including the transcript, and the decision to the parties. If the Board does not issue a final order within 40 days of receipt of the administrative judge's decision in accordance with § 268.109(a), then the decision of the administrative judge shall become the final action of the Board.
+
+
+## § 268.109 Final action by the Board.
+
+
+(a) Final action by the Board following a decision by an administrative judge. When an EEOC administrative judge has issued a decision under §§ 268.108(b), (g), or (i), the Board shall take final action on the complaint by issuing a final order within 40 days of receipt of the hearing file and the administrative judge's decision. The final order shall notify the complainant whether or not the Board will fully implement the decision of the administrative judge and shall contain notice of the complainant's right to appeal to the Equal Employment Opportunity Commission, the right to file a civil action in federal district court, the name of the proper defendant in any such lawsuit and the applicable time limits for appeals and lawsuits. If the final order does not fully implement the decision of the administrative judge, then the Board shall simultaneously file an appeal in accordance with § 268.403 and append a copy of its appeal to the final order. A copy of EEOC Form 573 shall be attached to the final order.
+
+
+(b) Final action by the Board in all other circumstances. When the Board dismisses an entire complaint under § 268.106, receives a request for an immediate final decision or does not receive a reply to the notice issued under § 268.107(f), the Board shall take final action by issuing a final decision. The final decision shall consist of findings by the Board on the merits of each issue in the complaint, or, as appropriate, the rationale for dismissing any claims in the complaint and, when discrimination is found, appropriate remedies and relief in accordance with subpart F of this part. The Board shall issue the final decision within 60 days of receiving notification that a complainant has requested an immediate decision from the Board, or within 60 days of the end of the 30-day period for the complainant to request a hearing or an immediate final decision where the complainant has not requested either a hearing or a decision. The final action shall contain notice of the right to appeal the final action to the Equal Employment Opportunity Commission, the right to file a civil action in federal district court, the name of the proper defendant in any such lawsuit and the applicable time limits for appeals and lawsuits. A copy of EEOC Form 573 shall be attached to the final action. The Board may issue a final decision within 30 days after receiving a decision of the Commission pursuant to § 268.405(c) of this part.
+
+
+## § 268.201 Age Discrimination in Employment Act.
+
+
+(a) As an alternative to filing a complaint under this part, an aggrieved individual may file a civil action in a United States district court under the ADEA against the agency after giving the Commission not less than 30 days' notice of the intent to file such an action. Such notice must be filed in writing with EEOC, at P.O. Box 77960, Washington, DC 20013, or by personal delivery or facsimile within 180 days of the occurrence of the alleged unlawful practice.
+
+
+(b) The Commission may exempt a position from the provisions of the ADEA if the Commission establishes a maximum age requirement for the position on the basis of a determination that age is a bona fide occupational qualification necessary to the performance of the duties of the position.
+
+
+(c) When an individual has filed an administrative complaint alleging age discrimination, administrative remedies will be considered to be exhausted for purposes of filing a civil action:
+
+
+(1) 180 days after the filing of an individual complaint if the Board has not taken final action and the individual has not filed an appeal or 180 days after the filing of a class complaint if the Board has not issued a final decision;
+
+
+(2) After final action on an individual or class complaint if the individual has not filed an appeal; or
+
+
+(3) After the issuance of a final decision by the Commission on an appeal or 180 days after the filing of an appeal, if the Commission has not issued a final decision.
+
+
+## § 268.202 Equal Pay Act.
+
+
+Complaints alleging violations of the Equal Pay Act shall be processed under this part.
+
+
+## § 268.203 Rehabilitation Act.
+
+
+(a) Definitions. The following definitions apply for purposes of this section:
+
+
+(1) The term ADA means title I of the Americans with Disabilities Act of 1990, as amended (42 U.S.C. 12101 through 12117), title V of the Americans with Disabilities Act, as amended (42 U.S.C. 12201 through 12213), as it applies to employment, and the regulations of the Equal Employment Opportunity Commission implementing titles I and V of the ADA at 29 CFR part 1630.
+
+
+(2) The term disability means disability as defined under 29 CFR 1630.2(g) through (l).
+
+
+(3) The term hiring authority that takes disability into account means a hiring authority established under written Board policy that permits the Board to consider disability status during the hiring process.
+
+
+(4) The term personal assistance service provider means an employee or independent contractor whose primary job functions include provision of personal assistance services.
+
+
+(5) The term personal assistance services means assistance with performing activities of daily living that an individual would typically perform if he or she did not have a disability, and that is not otherwise required as a reasonable accommodation, including, for example, assistance with removing and putting on clothing, eating, and using the restroom.
+
+
+(6) The term Plan means an affirmative action plan for the hiring, placement, and advancement of individuals with disabilities.
+
+
+(7) [Reserved]
+
+
+(8) The term Section 501 means section 501 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 791).
+
+
+(9) The term targeted disability means a developmental disability, such as cerebral palsy or autism spectrum disorder; a traumatic brain injury; deafness or serious difficulty hearing, benefiting from, for example, American Sign Language, communication access real-time translation (CART), hearing aids, a cochlear implant and/or other supports; blindness or serious difficulty seeing even when wearing glasses; missing extremities (such as an arm, leg, hand and/or foot); a significant mobility impairment benefiting from, for example, the utilization of a wheelchair; partial or complete paralysis; epilepsy or other seizure disorders; an intellectual disability (formerly described as mental retardation); a significant psychiatric disorder such as bipolar disorder, schizophrenia, post-traumatic stress disorder (PTSD), or major depression; dwarfism; or a significant disfigurement such as significant disfigurements caused by burns, wounds, accidents, or congenital disorders.
+
+
+(10) The term undue hardship has the meaning set forth in 29 CFR part 1630.
+
+
+(b) Nondiscrimination. The Board shall not discriminate on the basis of disability in regard to the hiring, advancement or discharge of employees, employee compensation, job training, or other terms, conditions, and privileges of employment. The standards used to determine whether Section 501 has been violated in a complaint alleging employment discrimination under this part shall be the standards applied under the ADA.
+
+
+(c) Model employer. The Board shall be a model employer of individuals with disabilities. The Board shall give full consideration to the hiring, advancement, and retention of qualified individuals with disabilities in its workforce. The Board shall also take affirmative action to promote the recruitment, hiring, and advancement of qualified individuals with disabilities, with the goal of eliminating under-representation of individuals with disabilities in the Board's workforce.
+
+
+(d) Affirmative action plan. The Board shall adopt and implement a Plan that provides sufficient assurances, procedures, and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities at all levels of Board employment. The Board's Plan must meet the following criteria:
+
+
+(1) Disability hiring and advancement program—(i) Recruitment. The Plan shall require the Board to take specific steps to ensure that a broad range of individuals with disabilities, including individuals with targeted disabilities, will be aware of and be encouraged to apply for job vacancies when eligible. Such steps shall include, at a minimum—
+
+
+(A) Use of programs and resources that identify job applicants with disabilities, including individuals with targeted disabilities, who are eligible to be appointed under a hiring authority that takes disability into account, examples of which could include programs that provide the qualifications necessary for particular positions within the Board to individuals with disabilities, databases of individuals with disabilities who previously applied to the Board but were not hired for the positions they applied for, and training and internship programs that lead directly to employment for individuals with disabilities; and
+
+
+(B) Establishment and maintenance of contacts (which may include formal agreements) with organizations that specialize in providing assistance to individuals with disabilities, including individuals with targeted disabilities, in securing and maintaining employment, such as American Job Centers, State Vocational Rehabilitation Agencies, the Veterans' Vocational Rehabilitation and Employment Program, Centers for Independent Living, and Employment Network service providers.
+
+
+(ii) Application process. The Plan shall ensure that the Board has designated sufficient staff to handle any disability-related issues that arise during the application and selection processes, and shall require the Board to provide such individuals with sufficient training, support, and other resources to carry out their responsibilities under this section. Such responsibilities shall include, at a minimum—
+
+
+(A) Ensuring that disability-related questions from members of the public regarding the agency's application and selection processes are answered promptly and correctly, including questions about reasonable accommodations needed by job applicants during the application and selection processes and questions about how individuals may apply for appointment under hiring authorities that take disability into account;
+
+
+(B) Processing requests for reasonable accommodations needed by job applicants during the application and placement processes, and ensuring that the Board provides such accommodations when required to do so under the standards set forth in 29 CFR part 1630;
+
+
+(C) Accepting applications for appointment under hiring authorities that take disability into account, if permitted under written Board policy;
+
+
+(D) If an individual has applied for appointment to a particular position under a hiring authority that takes disability into account, determining whether the individual is eligible for appointment under such authority, and, if so, forwarding the individual's application to the relevant hiring officials with an explanation of how and when the individual may be appointed, consistent with all applicable laws; and
+
+
+(E) Overseeing any other Board programs designed to increase hiring of individuals with disabilities.
+
+
+(iii) Advancement program. The Plan shall require the Board to take specific steps to ensure that current employees with disabilities have sufficient opportunities for advancement. Such steps may include, for example—
+
+
+(A) Efforts to ensure that employees with disabilities are informed of and have opportunities to enroll in relevant training, including management training when eligible;
+
+
+(B) Development or maintenance of a mentoring program for employees with disabilities; and
+
+
+(C) Administration of exit interviews that include questions on how the Board could improve the recruitment, hiring, inclusion, and advancement of individuals with disabilities.
+
+
+(2) Disability anti-harassment policy. The Plan shall require the Board to state specifically in its anti-harassment policy that harassment based on disability is prohibited, and to include in its training materials examples of the types of conduct that would constitute disability-based harassment.
+
+
+(3) Reasonable accommodation—(i) Procedures. The Plan shall require the Board to adopt, post on its public website, and make available to all job applicants and employees in written and accessible formats, reasonable accommodation procedures that are easy to understand and that, at a minimum—
+
+
+(A) Explain relevant terms such as “reasonable accommodation,” “disability,” “interactive process,” “qualified,” and “undue hardship,” consistent with applicable statutory and regulatory definitions, using examples where appropriate;
+
+
+(B) Explain that reassignment to a vacant position for which an employee is qualified, and not just permission to compete for such position, is a reasonable accommodation, and that the Board must consider providing reassignment to a vacant position as a reasonable accommodation when it determines that no other reasonable accommodation will permit an employee with a disability to perform the essential functions of his or her current position;
+
+
+(C) Notify supervisors and other relevant Board employees how and where they are to conduct searches for available vacancies when considering reassignment as a reasonable accommodation;
+
+
+(D) Explain that an individual may request a reasonable accommodation orally or in writing at any time, need not fill out any specific form in order for the interactive process to begin, and need not have a particular accommodation in mind before making a request, and that the request may be made to a supervisor or manager in the individual's chain of command, the office designated by the Board to oversee the reasonable accommodation process, any Board employee connected with the application process, or any other individual designated by the Board to accept such requests;
+
+
+(E) Include any forms the Board uses in connection with a reasonable accommodation request as attachments, and indicate that such forms are available in alternative formats that are accessible to people with disabilities;
+
+
+(F) Describe the Board's process for determining whether to provide a reasonable accommodation, including the interactive process, and provide contact information for the individual or program office from whom requesters will receive a final decision;
+
+
+(G) Provide guidance to supervisors on how to recognize requests for reasonable accommodation;
+
+
+(H) Require that decision makers communicate, early in the interactive process and periodically throughout the process, with individuals who have requested a reasonable accommodation;
+
+
+(I) Explain when the Board may require an individual who requests a reasonable accommodation to provide medical information that is sufficient to explain the nature of the individual's disability, his or her need for reasonable accommodation, and how the requested accommodation, if any, will assist the individual to apply for a job, perform the essential functions of a job, or enjoy the benefits and privileges of the workplace;
+
+
+(J) Explain the Board's right to request relevant supplemental medical information if the information submitted by the requester is insufficient for the purposes specified in paragraph (d)(3)(i)(I) of this section;
+
+
+(K) Explain the Board's right to have medical information reviewed by a medical expert of the Board's choosing at the Board's expense;
+
+
+(L) Explain the Board's obligation to keep medical information confidential, in accordance with applicable laws and regulations, and the limited circumstances under which such information may be disclosed;
+
+
+(M) Designate the maximum amount of time the Board has, absent extenuating circumstances, to either provide a requested accommodation or deny the request, and explain that the time limit begins to run when the accommodation is first requested;
+
+
+(N) Explain that the Board will not be expected to adhere to its usual timelines if an individual's health professional fails to provide needed documentation in a timely manner;
+
+
+(O) Explain that, where a particular reasonable accommodation can be provided in less than the maximum amount of time permitted under paragraph (d)(3)(i)(M) of this section, failure to provide the accommodation in a prompt manner may result in a violation of the Rehabilitation Act;
+
+
+(P) Provide for expedited processing of requests for reasonable accommodations that are needed sooner than the maximum allowable time frame permitted under paragraph (d)(3)(i)(M) of this section;
+
+
+(Q) Explain that, when all the facts and circumstances known to the Board make it reasonably likely that an individual will be entitled to a reasonable accommodation, but the accommodation cannot be provided immediately, the Board shall provide an interim accommodation that allows the individual to perform some or all of the essential functions of his or her job, if it is possible to do so without imposing undue hardship on the Board;
+
+
+(R) Inform applicants and employees how they may track the processing of requests for reasonable accommodation;
+
+
+(S) Explain that, where there is a delay in either processing a request for or providing a reasonable accommodation, the Board must notify the individual of the reason for the delay, including any extenuating circumstances that justify the delay;
+
+
+(T) Explain that individuals who have been denied reasonable accommodations have the right to file complaints pursuant to 12 CFR 268.105;
+
+
+(U) Encourage the use of voluntary informal dispute resolution processes that individuals may use to obtain prompt reconsideration of denied requests for reasonable accommodation;
+
+
+(V) Provide that the Board shall give the requester a notice consistent with the requirements of paragraph (d)(3)(iii) of this section at the time a request for reasonable accommodation is denied; and
+
+
+(W) Provide information on how to access additional information regarding reasonable accommodation, including, at a minimum, Commission guidance and technical assistance documents.
+
+
+(ii) Cost of accommodations. The Plan shall require the Board to take specific steps to ensure that requests for reasonable accommodation are not denied for reasons of cost, and that individuals with disabilities are not excluded from employment due to the anticipated cost of a reasonable accommodation, if the resources available to the Board as a whole, excluding those designated by statute for a specific purpose that does not include reasonable accommodation, would enable it to provide an effective reasonable accommodation without undue hardship. Such steps shall be reasonably designed to, at a minimum—
+
+
+(A) Ensure that anyone who is authorized to grant or deny requests for reasonable accommodation or to make hiring decisions is aware that, pursuant to the regulations implementing the undue hardship defense at 29 CFR part 1630, all resources available to the agency as a whole, excluding those designated by statute for a specific purpose that does not include reasonable accommodation, are considered when determining whether a denial of reasonable accommodation based on cost is lawful; and
+
+
+(B) Ensure that anyone authorized to grant or deny requests for reasonable accommodation or to make hiring decisions is aware of, and knows how to arrange for the use of, Board resources available to provide the accommodation, including any centralized fund the Board may have for that purpose.
+
+
+(iii) Notification of basis for denial. The Plan shall require the Board to provide a job applicant or employee who is denied a reasonable accommodation with a written notice at the time of the denial, in an accessible format when requested, that—
+
+
+(A) Explains the reasons for the denial and notifies the job applicant or employee of any available internal appeal or informal dispute resolution processes;
+
+
+(B) Informs the job applicant or employee of the right to challenge the denial by filing a complaint of discrimination under this part;
+
+
+(C) Provides instructions on how to file such a complaint; and
+
+
+(D) Explains that, pursuant to 12 CFR 268.105, the right to file a complaint will be lost unless the job applicant or employee initiates contact with an EEO Counselor within 45 days of the denial, regardless of whether the applicant or employee participates in an informal dispute resolution process.
+
+
+(4) Accessibility of facilities and technology—(i) Notice of rights. The Plan shall require the Board to adopt, post on its public website, and make available to all employees in written and accessible formats, a notice that—
+
+
+(A) Explains their rights under Section 508 of the Rehabilitation Act of 1973, 29 U.S.C. 794d, concerning the accessibility of agency technology, and the Architectural Barriers Act, 42 U.S.C. 4151 through 4157, concerning the accessibility of agency building and facilities;
+
+
+(B) Provides contact information for a Board employee who is responsible for ensuring the physical accessibility of the Board's facilities under the Architectural Barriers Act of 1968, and a Board employee who is responsible for ensuring that the electronic and information technology purchased, maintained, or used by the agency is readily accessible to, and usable by, individuals with disabilities, as required by Section 508 of the Rehabilitation Act of 1973; and
+
+
+(C) Provides instructions on how to file complaints alleging violations of the accessibility requirements of the Architectural Barriers Act of 1968 and Section 508 of the Rehabilitation Act of 1973.
+
+
+(ii) Assistance with filing complaints at other agencies. If the Board's investigation of a complaint filed under Section 508 of the Rehabilitation Act of 1973 or the Architectural Barriers Act of 1968 shows that a different entity is responsible for the alleged violation, the Plan shall require the Board to inform the individual who filed the complaint where he or she may file a complaint against the other entity, if possible.
+
+
+(5) Personal assistance services allowing employees to participate in the workplace—(i) Obligation to provide personal assistance services. The Plan shall require the Board to provide an employee with, in addition to professional services required as a reasonable accommodation under the standards set forth in 29 CFR part 1630, personal assistance services during work hours and job-related travel if—
+
+
+(A) The employee requires such services because of a targeted disability;
+
+
+(B) Provision of such services would, together with any reasonable accommodations required under the standards set forth in 29 CFR part 1630, enable the employee to perform the essential functions of his or her position; and
+
+
+(C) Provision of such services would not impose undue hardship on the Board.
+
+
+(ii) Service providers. The Plan shall state that personal assistance services required under paragraph (d)(5)(i) of this section must be performed by a personal assistance service provider. The Plan may permit the Board to require personal assistance service providers to provide personal assistance services to more than one individual. The Plan may also permit the Board to require personal assistance service providers to perform tasks unrelated to personal assistance services, but only to the extent that doing so does not result in failure to provide personal assistance services required under paragraph (d)(5)(i) of this section in a timely manner.
+
+
+(iii) No adverse action. The Plan shall prohibit the Board from taking adverse actions against job applicants or employees based on their need for, or perceived need for, personal assistance services.
+
+
+(iv) Selection of personal assistance service providers. The Plan shall require the Board, when selecting someone who will provide personal assistance services to a single individual, to give primary consideration to the individual's preferences to the extent permitted by law.
+
+
+(v) Written procedures. The Plan shall require the Board to adopt, post on its public website, and make available to all job applicants and employees in written and accessible formats, procedures for processing requests for personal assistance services. The Board may satisfy the requirement in this paragraph (d)(5)(v) by stating, in the procedures required under paragraph (d)(3)(i) of this section, that the process for requesting personal assistance services, the process for determining whether such services are required, and the Board's right to deny such requests when provision of the services would pose an undue hardship, are the same as for reasonable accommodations.
+
+
+(6) Utilization analysis—(i) Current utilization. The Plan shall require the Board to perform a workforce analysis annually to determine the percentage of its employees at each grade and salary level who have disabilities, and the percentage of its employees at each grade and salary level who have targeted disabilities.
+
+
+(ii) Source of data. For purposes of the analysis required under paragraph (d)(6)(i) of this section an employee may be classified as an individual with a disability or an individual with a targeted disability on the basis of—
+
+
+(A) The individual's self-identification as an individual with a disability or an individual with a targeted disability on a form, including but not limited to the Office of Personnel Management's Standard Form 256, which states that the information collected will be kept confidential and used only for statistical purposes, and that completion of the form is voluntary;
+
+
+(B) Records relating to the individual's appointment under a hiring authority that takes disability into account, if applicable; and
+
+
+(C) Records relating to the individual's requests for reasonable accommodation, if any.
+
+
+(iii) Data accuracy. The Plan shall require the Board to take steps to ensure that data collected pursuant to paragraph (d)(6)(i) of this section are accurate.
+
+
+(7) Goals—(i) Adoption. The Plan shall commit the Board to the goal of ensuring that—
+
+
+(A) No less than 12% of employees who have salaries equal to or greater than employees at the GS-11, step 1 level in the Washington, DC locality, are individuals with disabilities;
+
+
+(B) No less than 12% of employees who have salaries less than employees at the GS-11, step 1 level in the Washington, DC locality, are individuals with disabilities;
+
+
+(C) No less than 2% of employees who have salaries equal to or greater than employees at the GS-11, step 1 level in the Washington, DC locality, are individuals with targeted disabilities; and
+
+
+(D) No less than 2% of employees who have salaries less than employees at the GS-11, step 1 level in the Washington, DC locality, are individuals with targeted disabilities.
+
+
+(ii) Progression toward goals. The Plan shall require the Board to take specific steps that are reasonably designed to gradually increase the number of persons with disabilities or targeted disabilities employed at the Board until it meets the goals established pursuant to paragraph (d)(7)(i) of this section. Examples of such steps include, but are not limited to—
+
+
+(A) Increased use of hiring authorities that take disability into account to hire or promote individuals with disabilities or targeted disabilities, as applicable;
+
+
+(B) To the extent permitted by applicable laws, consideration of disability or targeted disability status as a positive factor in hiring, promotion, or assignment decisions;
+
+
+(C) Disability-related training and education campaigns for all employees in the Board;
+
+
+(D) Additional outreach or recruitment efforts;
+
+
+(E) Increased efforts to hire and retain individuals who require supported employment because of a disability, who have retained the services of a job coach at their own expense or at the expense of a third party, and who may be given permission to use the job coach during work hours as a reasonable accommodation without imposing undue hardship on the Board; and
+
+
+(F) Adoption of training, mentoring, or internship programs for individuals with disabilities.
+
+
+(8) Recordkeeping. The Plan shall require the Board to keep records that it may use to determine whether it is complying with the nondiscrimination and affirmative action requirements imposed under Section 501, and to make such records available to the Commission upon the Commission's request, including, at a minimum, records of—
+
+
+(i) The number of job applications received from individuals with disabilities, and the number of individuals with disabilities who were hired by the Board;
+
+
+(ii) The number of job applications received from individuals with targeted disabilities, and the number of individuals with targeted disabilities who were hired by the Board;
+
+
+(iii) All rescissions of conditional job offers, demotions, and terminations taken against applicants or employees as a result of medical examinations or inquiries;
+
+
+(iv) All Board employees hired under special hiring authority for person with certain disabilities, and each such employee's date of hire, entering grade level, probationary status, and current grade level;
+
+
+(v) The number of employees appointed under special hiring authority for persons with certain disabilities who successfully completed the Board's Provisional Employment period and the number of such employees who were terminate prior to the end of their Provisional Employment period; and
+
+
+(vi) Details about each request for reasonable accommodation including, at a minimum—
+
+
+(A) The specific reasonable accommodation requested, if any;
+
+
+(B) The job sought by the requesting applicant or held by the requesting employee;
+
+
+(C) Whether the accommodation was needed to apply for a job, perform the essential functions of a job, or enjoy the benefits and privileges of employment;
+
+
+(D) Whether the request was granted (which may include an accommodation different from the one requested) or denied;
+
+
+(E) The identity of the deciding official;
+
+
+(F) If denied, the basis for such denial; and
+
+
+(G) The number of days taken to process the request.
+
+
+(e) Reporting—(1) Submission to the Commission. On an annual basis the Board shall submit to the Commission at such time and in such manner as the Commission deems appropriate—
+
+
+(i) A copy of its current Plan;
+
+
+(ii) The results of the two most recent workforce analyses performed pursuant to paragraph (d)(6) of this section showing the percentage of employees with disabilities and employees with targeted disabilities in each of the designated pay groups;
+
+
+(iii) The number of individuals appointed to positions within the Board under special hiring authority for persons with certain disabilities during the previous year, and the total number of employees whose employment at the Board began by appointment under special hiring authority for persons with certain disabilities; and
+
+
+(iv) A list of changes made to the Plan since the prior submission, if any, and an explanation of why those changes were made.
+
+
+(2) Availability to the public. The Board shall make the information submitted to the Commission pursuant to paragraph (e)(1) of this section available to the public by, at a minimum, posting a copy of the submission on its public website and providing a means by which members of the public may request copies of the submission in accessible formats.
+
+
+## § 268.204 Class complaints.
+
+
+(a) Definitions—(1) Class is a group of Board employees, former employees or applicants for employment who, it is alleged, have been or are being adversely affected by a Board personnel management policy or practice that discriminates against the group on the basis of their race, color, religion, sex, national origin, age or disability.
+
+
+(2) Class complaint is a written complaint of discrimination filed on behalf of a class by the agent of the class alleging that:
+
+
+(i) The class is so numerous that a consolidated complaint of the members of the class is impractical;
+
+
+(ii) There are questions of fact common to the class;
+
+
+(iii) The claims of the agent of the class are typical of the claims of the class;
+
+
+(iv) The agent of the class, or, if represented, the representative, will fairly and adequately protect the interests of the class.
+
+
+(3) An agent of the class is a class member who acts for the class during the processing of the class complaint.
+
+
+(b) Pre-complaint processing. An employee or applicant who wishes to file a class complaint must seek counseling and be counseled in accordance with § 268.104. A complainant may move for class certification at any reasonable point in the process when it becomes apparent that there are class implications to the claim raised in an individual complaint. If a complainant moves for class certification after completing the counseling process contained in § 268.104, no additional counseling is required. The administrative judge shall deny class certification when the complainant has unduly delayed in moving for certification.
+
+
+(c) Filing and presentation of a class complaint. (1) A class complaint must be signed by the agent or representative and must identify the policy or practice adversely affecting the class as well as the specific action or matter affecting the class agent.
+
+
+(2) The complaint must be filed with the Board not later than 15 days after the agent's receipt of the notice of right to file a class complaint.
+
+
+(3) The complaint shall be processed promptly; the parties shall cooperate and shall proceed at all times without undue delay.
+
+
+(d) Acceptance or dismissal. (1) Within 30 days of the Board's receipt of a complaint, the Board shall: Designate an agency representative who shall not be one of the individuals referenced in § 268.102(b)(4), and forward the complaint, along with a copy of the Counselor's report and any other information pertaining to timeliness or other relevant circumstances related to the complaint, to the Commission. The Commission shall assign the complaint to an administrative judge or complaints examiner with a proper security clearance when necessary. The administrative judge may require the complainant or the Board to submit additional information relevant to the complaint.
+
+
+(2) The administrative judge may dismiss the complaint, or any portion, for any of the reasons listed in § 268.106 or because it does not meet the prerequisites of a class complaint under § 268.204(a)(2).
+
+
+(3) If an allegation is not included in the Counselor's report, the administrative judge shall afford the agent 15 days to state whether the matter was discussed with the Counselor and, if not, explain why it was not discussed. If the explanation is not satisfactory, the administrative judge shall dismiss the allegation. If the explanation is satisfactory, the administrative judge shall refer the allegation to the Board for further counseling of the agent. After counseling, the allegation shall be consolidated with the class complaint.
+
+
+(4) If an allegation lacks specificity and detail, the administrative judge shall afford the agent 15 days to provide specific and detailed information. The administrative judge shall dismiss the complaint if the agent fails to provide such information within the specified time period. If the information provided contains new allegations outside the scope of the complaint, the administrative judge shall advise the agent how to proceed on an individual or class basis concerning these allegations.
+
+
+(5) The administrative judge shall extend the time limits for filing a complaint and for consulting with a Counselor in accordance with the time limit extension provisions contained in §§ 268.104(a)(2) and 268.604.
+
+
+(6) When appropriate, the administrative judge may decide that a class be divided into subclasses and that each subclass be treated as a class, and the provisions of this section then shall be construed and applied accordingly.
+
+
+(7) The administrative judge shall transmit his or her decision to accept or dismiss a complaint to the Board and the agent. The Board shall take final action by issuing a final order within 40 days of receipt of the hearing record and administrative judge's decision. The final order shall notify the agent whether or not the Board will implement the decision of the administrative judge. If the final order does not implement the decision of the administrative judge, the Board shall simultaneously appeal the administrative judge's decision in accordance with § 268.403 and append a copy of the appeal to the final order. A dismissal of a class complaint shall inform the agent either that the complaint is being filed on that date as an individual complaint of discrimination and will be processed under subpart B or that the complaint is also dismissed as an individual complaint in accordance with § 268.106. In addition, it shall inform the agent of the right to appeal the dismissal of the class complaint to the Equal Employment Opportunity Commission or to file a civil action and shall include EEOC Form 573, Notice of Appeal/Petition.
+
+
+(e) Notification. (1) Within 15 days of receiving notice that the administrative judge has accepted a class complaint or a reasonable time frame specified by the administrative judge, the Board shall use reasonable means, such as delivery, mailing to last known address or distribution, to notify all class members of the acceptance of the class complaint.
+
+
+(2) Such notice shall contain:
+
+
+(i) An identification of the Board as the named agency, its location, and the date of acceptance of the complaint;
+
+
+(ii) A description of the issues accepted as part of the class complaint;
+
+
+(iii) An explanation of the binding nature of the final decision or resolution of the class complaint on class members; and
+
+
+(iv) The name, address and telephone number of the class representative.
+
+
+(f) Obtaining evidence concerning the complaint. (1) The administrative judge shall notify the agent and the Board's representative of the time period that will be allowed both parties to prepare their cases. This time period will include at least 60 days and may be extended by the administrative judge upon the request of either party. Both parties are entitled to reasonable development of evidence on matters relevant to the issues raised in the complaint. Evidence may be developed through interrogatories, depositions, and requests for admissions, stipulations or production of documents. It shall be grounds for objection to producing evidence that the information sought by either party is irrelevant, overburdensome, repetitious, or privileged.
+
+
+(2) If mutual cooperation fails, either party may request the administrative judge to rule on a request to develop evidence. If a party fails without good cause shown to respond fully and in timely fashion to a request made or approved by the administrative judge for documents, records, comparative data, statistics or affidavits, and the information is solely in the control of one party, such failure may, in appropriate circumstances, cause the administrative judge:
+
+
+(i) To draw an adverse inference that the requested information would have reflected unfavorably on the party refusing to provide the requested information;
+
+
+(ii) To consider the matters to which the requested information pertains to be established in favor of the opposing party;
+
+
+(iii) To exclude other evidence offered by the party failing to produce the requested information;
+
+
+(iv) To recommend that a decision be entered in favor of the opposing party; or
+
+
+(v) To take such other actions as the administrative judge deems appropriate.
+
+
+(3) During the period for development of evidence, the administrative judge may, in his or her discretion, direct that an investigation of facts relevant to the class complaint or any portion be conducted by an agency certified by the Commission.
+
+
+(4) Both parties shall furnish to the administrative judge copies of all materials that they wish to be examined and such other material as may be requested.
+
+
+(g) Opportunity for resolution of the complaint. (1) The administrative judge shall furnish the agent and the Board's representative a copy of all materials obtained concerning the complaint and provide opportunity for the agent to discuss the materials with the Board's representative and attempt resolution of the complaint.
+
+
+(2) The complaint may be resolved by agreement of the Board and the agent at any time pursuant to the notice and approval procedure contained in paragraph (g)(4) of this section.
+
+
+(3) If the complaint is resolved, the terms of the resolution shall be reduced to writing and signed by the agent and the Board.
+
+
+(4) Notice of the resolution shall be given to all class members in the same manner as notification of the acceptance of the class complaint and to the administrative judge. It shall state the relief, if any, to be granted by the Board and the name and address of the EEOC administrative judge assigned to the case. It shall state that within 30 days of the date of the notice of resolution, any member of the class may petition the administrative judge to vacate the resolution because it benefits only the class agent, or is otherwise not fair, adequate and reasonable to the class as a whole. The administrative judge shall review the notice of resolution and consider any petitions to vacate filed. If the administrative judge finds that the proposed resolution is not fair, adequate and reasonable to the class as a whole, the administrative judge shall issue a decision vacating the agreement and may replace the original class agent with a petitioner or some other class member who is eligible to be the class agent during further processing of the class complaint. The decision shall inform the former class agent or the petitioner of the right to appeal the decision to the Equal Employment Opportunity Commission and include EEOC Form 573, Notice of Appeal/Petition. If the administrative judge finds that the resolution is fair, adequate and reasonable to the class as a whole, the resolution shall bind all members of the class.
+
+
+(h) Hearing. On expiration of the period allowed for preparation of the case, the administrative judge shall set a date for hearing. The hearing shall be conducted in accordance with 12 CFR 268.108(a) through (f).
+
+
+(i) Decisions. The administrative judge shall transmit to the agency and class agent a decision on the complaint, including findings, systemic relief for the class and any individual relief, where appropriate, with regard to the personnel action or matter that gave rise to the complaint. If the administrative judge finds no class relief appropriate, he or she shall determine if a finding of individual discrimination is warranted and if so, shall order appropriate relief.
+
+
+(j) Board final action. (1) Within 60 days of receipt of the administrative judge's decision on the complaint, the Board shall take final action by issuing a final order. The final order shall notify the class agent whether or not the Board will fully implement the decision of the administrative judge and shall contain notice of the class agent's right to appeal to the Commission, the right to file a civil action in Federal district court, the name of the proper defendant in any such lawsuit, and the applicable time limits for appeals and lawsuits. If the final order does not fully implement the decision of the administrative judge, then the Board shall simultaneously file an appeal in accordance with § 268.403 and append a copy of the appeal to the final order. A copy of EEOC Form 573 shall be attached to the final order.
+
+
+(2) If the Board does not issue a final order within 60 days of receipt of the administrative judge's decision, then the decision of the administrative judge shall become the final action of the Board.
+
+
+(3) A final order on a class complaint shall, subject to subpart E of this part, be binding on all members of the class and the Board.
+
+
+(k) Notification of final action. The Board shall notify class members of the final action and the relief awarded, if any, through the same media employed to give notice of the existence of the class complaint. The notice, where appropriate, shall include information concerning the rights of class members to seek individual relief, and of the procedures to be followed. Notice shall be given by the Board within 10 days of the transmittal of the final action to the agent.
+
+
+(l) Relief for individual class members. (1) When discrimination is found, the Board must eliminate or modify the employment policy or practice out of which the complaint arose and provide individual relief, including an award of attorney's fees and costs, to the agent in accordance with § 268.501.
+
+
+(2) When class-wide discrimination is not found, but it is found that the class agent is a victim of discrimination, § 268.501 shall apply. The Board shall also, within 60 days of the issuance of the final decision finding no class-wide discrimination, issue the acknowledgment of receipt of an individual complaint as required by § 268.105(d) and process in accordance with the provisions of subpart B of this part, each individual complaint that was subsumed into the class complaint.
+
+
+(3) When discrimination is found in the final decision and a class member believes that he or she is entitled to individual relief, the class member may file a written claim with the Board or the Board's EEO Programs Director within 30 days of receipt of notification by the Board of its final decision. Administrative judges shall retain jurisdiction over the complaint in order to resolve any disputed claims by class members. The claim must include a specific detailed showing that the claimant is a class member who was affected by the discriminatory policy or practice, and that this discriminatory action took place within the period of time for which class-wide discrimination was found in the final order. Where a finding of discrimination against a class has been made, there shall be a presumption of discrimination as to each member of the class. The Board must show by clear and convincing evidence that any class member is not entitled to relief. The administrative judge may hold a hearing or otherwise supplement the record on a claim filed by a class member. The Board or the Commission may find class-wide discrimination and order remedial action for any policy or practice in existence within 45 days of the agent's initial contact with the Counselor. Relief otherwise consistent with this Part may be ordered for the time the policy or practice was in effect. The Board shall issue a final decision on each such claim within 90 days of filing. Such decision must include a notice of the right to file an appeal or a civil action in accordance with subpart E of this part and the applicable time limits.
+
+
+## § 268.205 [Reserved]
+
+
+## § 268.301 Negotiated grievance procedure.
+
+
+When an employee of the Board, which is not an agency subject to 5 U.S.C. 7121(d), is covered by a negotiated grievance procedure, allegations of discrimination shall be processed as complaints under this part, except that the time limits for processing the complaint contained in § 268.105 and for appeal to the Commission contained in § 268.402 may be held in abeyance during processing of a grievance covering the same matter as the complaint if the Board notifies the complainant in writing that the complaint will be held in abeyance pursuant to this section.
+
+
+## § 268.302 [Reserved]
+
+
+## § 268.401 Appeals to the Equal Employment Opportunity Commission.
+
+
+(a) A complainant may appeal the Board's final action or dismissal of a complaint.
+
+
+(b) The Board may appeal as provided in § 268.109(a).
+
+
+(c) A class agent or the Board may appeal an administrative judge's decision accepting or dismissing all or part of a class complaint; a class agent may appeal the Board's final action or the Board may appeal an administrative judge's decision on a class complaint; a class member may appeal a final decision on a claim for individual relief under a class complaint; and a class member, a class agent or the Board may appeal a final decision on a petition pursuant to § 268.204(g)(4).
+
+
+(d) A complainant, agent of the class or individual class claimant may appeal to the Commission the Board's alleged noncompliance with a settlement agreement or final decision in accordance with § 268.504.
+
+
+## § 268.402 Time for appeals to the Equal Employment Opportunity Commission.
+
+
+(a) Appeals described in § 268.401(a) and (c) must be filed within 30 days of receipt of the dismissal, final action or decision. Appeals described in § 268.401(b) must be filed within 40 days of receipt of the hearing file and decision. Where a complainant has notified the Board's EEO Programs Director of alleged noncompliance with a settlement agreement in accordance with § 268.504, the complainant may file an appeal 35 days after service of the allegations of noncompliance, but no later than 30 days after receipt of the Board's determination.
+
+
+(b) If the complainant is represented by an attorney of record, then the 30-day time period provided in paragraph (a) of this section within which to appeal shall be calculated from the receipt of the required document by the attorney. In all other instances, the time within which to appeal shall be calculated from the receipt of the required document by the complainant.
+
+
+## § 268.403 How to appeal.
+
+
+(a) The complainant, the Board, agent or individual class claimant (hereinafter appellant) must file an appeal with the Director, Office of Federal Operations, Equal Employment Opportunity Commission, at P.O. Box 77960, Washington, DC 20013, or electronically, or by personal delivery or facsimile. The appellant should use EEOC Form 573, Notice of Appeal/Petition, and should indicate what is being appealed.
+
+
+(b) The appellant shall furnish a copy of the appeal to the opposing party at the same time it is filed with the Commission. In or attached to the appeal to the Commission, the appellant must certify the date and method by which service was made on the opposing party.
+
+
+(c) If an appellant does not file an appeal within the time limits of this subpart, the appeal shall be dismissed by the Commission as untimely.
+
+
+(d) Any statement or brief on behalf of a complainant in support of the appeal must be submitted to the Office of Federal Operations within 30 days of filing the notice of appeal. Any statement or brief on behalf of the Board in support of its appeal must be submitted to the Office of Federal Operations within 20 days filing the notice of appeal. The Office of Federal Operations will accept statements or briefs in support of an appeal by facsimile transmittal, provided they are no more than 10 pages long.
+
+
+(e) The Board must submit the complaint file to the Office of Federal Operations within 30 days of initial notification that the complainant has filed an appeal or within 30 days of submission of an appeal by the Board.
+
+
+(f) Any statement or brief in opposition to an appeal must be submitted to the Commission and served on the opposing party within 30 days of receipt of the statement or brief supporting the appeal, or, if no statement or brief supporting the appeal is filed, within 60 days of receipt of the appeal. The Office of Federal Operations will accept statements or briefs in opposition to an appeal by facsimile provided they are no more than 10 pages long.
+
+
+(g) The Board will submit appeals, complaint files, and other filings to the Commission's Office of Federal Operations in a digital format acceptable to the Commission, absent a showing of good cause why the Board cannot submit digital records. Appellants are encouraged, but not required, to submit digital appeals and supporting documentation to the Commission's Office of Federal Operations in a format acceptable to the Commission.
+
+
+## § 268.404 Appellate Procedure.
+
+
+(a) On behalf of the Commission, the Office of Federal Operations shall review the complaint file and all written statements and briefs from either party. The Commission may supplement the record by an exchange of letters or memoranda, investigation, remand to the Board or other procedures.
+
+
+(b) If the Office of Federal Operations requests information from one or both of the parties to supplement the record, each party providing information shall send a copy of the information to the other party.
+
+
+(c) When either party to an appeal fails without good cause shown to comply with the requirements of this section or to respond fully and in timely fashion to requests for information, the Office of Federal Operations shall, in appropriate circumstances:
+
+
+(1) Draw an adverse inference that the requested information would have reflected unfavorably on the party refusing to provide the requested information;
+
+
+(2) Consider the matters to which the requested information or testimony pertains to be established in favor of the opposing party;
+
+
+(3) Issue a decision fully or partially in favor of the opposing party; or
+
+
+(4) Take such other actions as appropriate.
+
+
+## § 268.405 Decisions on appeals.
+
+
+(a) The Office of Federal Operations, on behalf of the Commission, shall issue a written decision setting forth its reasons for the decision. The Commission shall dismiss appeals in accordance with §§ 268.106, 268.403(c) and 268.408. The decision shall be based on the preponderance of the evidence. The decision on an appeal from the Board's final action shall be based on a de novo review, except that the review of the factual findings in a decision by an administrative judge issued pursuant to § 268.108(i) shall be based on a substantial evidence standard of review. If the decision contains a finding of discrimination, appropriate remedy(ies) shall be included and, where appropriate, the entitlement to interest, attorney's fees or costs shall be indicated. The decision shall reflect the date of its issuance, inform the complainant of his or her civil action rights, and be transmitted to the complainant and the Board by first class mail.
+
+
+(b) The Office of Federal Operations, on behalf of the Commission, shall issue decisions on appeals of decisions to accept or dismiss a class complaint issued pursuant to § 268.204(d)(7) within 90 days of receipt of the appeal.
+
+
+(c) A decision issued under paragraph (a) of this section is final within the meaning of § 268.406 unless the Board issues a final decision under paragraph (d) of this section or unless a timely request for reconsideration is filed by a party to the case. A party may request reconsideration within 30 days of receipt of a decision of the Commission, which the Commission in its discretion may grant, if the party demonstrates that:
+
+
+(1) The appellate decision involved a clearly erroneous interpretation of material fact or law; or
+
+
+(2) The decision will have a substantial impact on the policies, practices, or operations of the Board.
+
+
+(d) The Board, within 30 days of receiving a decision of the Commission, may issue a final decision based upon that decision, which shall be final within the meaning of § 268.406.
+
+
+## § 268.406 Civil action: title VII, Age Discrimination in Employment Act and Rehabilitation Act.
+
+
+A complainant who has filed an individual complaint, an agent who has filed a class complaint or a claimant who has filed a claim for individual relief pursuant to a class complaint is authorized under title VII, the ADEA and the Rehabilitation Act to file a civil action in an appropriate United States District Court:
+
+
+(a) Within 90 days of receipt of the final action on an individual or class complaint if no appeal has been filed;
+
+
+(b) After 180 days from the date of filing an individual or class complaint if an appeal has not been filed and final action has not been taken;
+
+
+(c) Within 90 days of receipt of the Commission's final decision on an appeal; or
+
+
+(d) After 180 days from the date of filing an appeal with the Commission if there has been no final decision by the Commission.
+
+
+## § 268.407 Civil action: Equal Pay Act.
+
+
+A complainant is authorized under section 16(b) of the Fair Labor Standards Act (29 U.S.C. 216(b)) to file a civil action in a court of competent jurisdiction within two years or, if the violation is willful, three years of the date of the alleged violation of the Equal Pay Act regardless of whether he or she pursued any administrative complaint processing. Recovery of back wages is limited to two years prior to the date of filing suit, or to three years if the violation is deemed willful; liquidated damages in an equal amount may also be awarded. The filing of a complaint or appeal under this part shall not toll the time for filing a civil action.
+
+
+## § 268.408 Effect of filing a civil action.
+
+
+Filing a civil action under §§ 268.406 or 268.407 shall terminate Commission processing of the appeal. If private suit is filed subsequent to the filing of an appeal, the parties are requested to notify the Commission in writing.
+
+
+## § 268.501 Remedies and relief.
+
+
+(a) When the Board, or the Commission, in an individual case of discrimination, finds that an applicant or an employee has been discriminated against, the Board shall provide full relief which shall include the following elements in appropriate circumstances:
+
+
+(1) Notification to all employees of the Board in the affected facility of their right to be free of unlawful discrimination and assurance that the particular types of discrimination found will not recur;
+
+
+(2) Commitment that corrective, curative or preventive action will be taken, or measures adopted, to ensure that violations of the law similar to those found unlawful will not recur;
+
+
+(3) An unconditional offer to each identified victim of discrimination of placement in the position the person would have occupied but for the discrimination suffered by that person, or a substantially equivalent position;
+
+
+(4) Payment to each identified victim of discrimination on a make whole basis for any loss of earnings the person may have suffered as a result of the discrimination; and
+
+
+(5) Commitment that the Board shall cease from engaging in the specific unlawful employment practice found in the case.
+
+
+(b) Relief for an applicant. (1)(i) When the Board, or the Commission, finds that an applicant for employment has been discriminated against, the Board shall offer the applicant the position that the applicant would have occupied absent discrimination or, if justified by the circumstances, a substantially equivalent position unless clear and convincing evidence indicates that the applicant would not have been selected even absent the discrimination. The offer shall be made in writing. The individual shall have 15 days from receipt of the offer within which to accept or decline the offer. Failure to accept the offer within the 15-day period will be considered a declination of the offer, unless the individual can show that circumstances beyond his or her control prevented a response within the time limit.
+
+
+(ii) If the offer is accepted, appointment shall be retroactive to the date the applicant would have been hired. Back pay, computed in the manner prescribed in 5 CFR 550.805, shall be awarded from the date the individual would have entered on duty until the date the individual actually enters on duty unless clear and convincing evidence indicates that the applicant would not have been selected even absent discrimination. Interest on back pay shall be included in the back pay computation where sovereign immunity has been waived. The individual shall be deemed to have performed service for the Board during this period for all purposes except for meeting service requirements for completion of a required probationary or trial period.
+
+
+(iii) If the offer of employment is declined, the Board shall award the individual a sum equal to the back pay he or she would have received, computed in the manner prescribed in 5 CFR 550.805, from the date he or she would have been appointed until the date the offer was declined, subject to the limitation of paragraph (b)(3) of this section. Interest on back pay shall be included in the back pay computation. The Board shall inform the applicant, in its offer of employment, of the right to this award in the event the offer is declined.
+
+
+(2) When the Board, or the Commission, finds that discrimination existed at the time the applicant was considered for employment but also finds by clear and convincing evidence that the applicant would not have been hired even absent discrimination, the Board shall nevertheless take all steps necessary to eliminate the discriminatory practice and ensure it does not recur.
+
+
+(3) Back pay under this paragraph (b) for complaints under title VII or the Rehabilitation Act may not extend from a date earlier than two years prior to the date on which the complaint was initially filed by the applicant.
+
+
+(c) Relief for an employee. When the Board, or the Commission, finds that an employee of the Board was discriminated against, the Board shall provide relief, which shall include, but need not be limited to, one or more of the following actions:
+
+
+(1) Nondiscriminatory placement, with back pay computed in the manner prescribed in 5 CFR 550.805, unless clear and convincing evidence contained in the record demonstrates that the personnel action would have been taken even absent the discrimination. Interest on back pay shall be included in the back pay computation where sovereign immunity has been waived. The back pay liability under title VII or the Rehabilitation Act is limited to two years prior to the date the discrimination complaint was filed.
+
+
+(2) If clear and convincing evidence indicates that, although discrimination existed at the time the personnel action was taken, the personnel action would have been taken even absent discrimination, the Board shall nevertheless eliminate any discriminatory practice and ensure it does not recur.
+
+
+(3) Cancellation of an unwarranted personnel action and restoration of the employee.
+
+
+(4) Expunction from the Board's records of any adverse materials relating to the discriminatory employment practice.
+
+
+(5) Full opportunity to participate in the employee benefit denied (e.g., training, preferential work assignments, overtime scheduling).
+
+
+(d) The Board has the burden of proving by a preponderance of the evidence that the complainant has failed to mitigate his or her damages.
+
+
+(e) Attorney's fees or costs—(1) Awards of attorney's fees or costs. The provisions of this paragraph relating to the award of attorney's fees or costs shall apply to allegations of discrimination prohibited by title VII and the Rehabilitation Act. In a decision or final action, the Board, administrative judge, or Commission may award the applicant or employee or reasonable attorney's fees (including expert witness fees) and other costs incurred in the processing of the complaint.
+
+
+(i) A finding of discrimination raises a presumption of entitlement to an award of attorney's fees.
+
+
+(ii) Any award of attorney's fees or costs shall be paid by the Board.
+
+
+(iii) Attorney's fees are allowable only for the services of members of the Bar and law clerks, paralegals or law students under the supervision of members of the Bar, except that no award is allowable for the services of any employee of the Federal Government.
+
+
+(iv) Attorney's fees shall be paid for services performed by an attorney after the filing of a written complaint, provided that the attorney provides reasonable notice of representation to the Board, administrative judge or Commission, except that fees are allowable for a reasonable period of time prior to the notification of representation for any services performed in reaching a determination to represent the complainant. The Board is not required to pay attorney's fees for services performed during the pre-complaint process, except that fees are allowable when the Commission affirms on appeal an administrative judge's decision finding discrimination after the Board takes final action by not implementing an administrative judge's decision. Written submissions to the Board that are signed by the representative shall be deemed to constitute notice of representation.
+
+
+(2) Amount of awards. (i) When the Board, administrative judge or the Commission determines an entitlement to attorney's fees or costs, the complainant's attorney shall submit a verified statement of attorney's fees (including expert witness fees) and other costs, as appropriate, to the Board or administrative judge within 30 days of receipt of the decision and shall submit a copy of the statement to the Board. A statement of attorney's fees and costs shall be accompanied by an affidavit executed by the attorney of record itemizing the attorney's charges for legal services. The Board may respond to a statement of attorney's fees and costs within 30 days of its receipt. The verified statement, accompanying affidavit and any Board response shall be made a part of the complaint file.
+
+
+(ii)(A) The Board or administrative judge shall issue a decision determining the amount of attorney's fees or costs due within 60 days of receipt of the statement and affidavit. The decision shall include a notice of right to appeal to the EEOC along with EEOC Form 573, Notice of Appeal/Petition and shall include the specific reasons for determining the amount of the award.
+
+
+(B) The amount of attorney's fees shall be calculated using the following standards: The starting point shall be the number of hours reasonably expended multiplied by a reasonable hourly rate. There is a strong presumption that this amount represents the reasonable fee. In limited circumstances, this amount may be reduced or increased in consideration of the degree of success, quality of representation, and long delay caused by the Board.
+
+
+(C) The costs that may be awarded are those authorized by 28 U.S.C. 1920 to include: Fees of the reporter for all or any of the stenographic transcript necessarily obtained for use in the case; fees and disbursements for printing and witnesses; and fees for exemplification and copies necessarily obtained for use in the case.
+
+
+(iii) Witness fees shall be awarded in accordance with the provisions of 28 U.S.C. 1821, except that no award shall be made for a Federal employee who is in a duty status when made available as a witness.
+
+
+## § 268.502 Compliance with final Commission decisions.
+
+
+(a) Relief ordered in a final Commission decision, if accepted pursuant to § 268.405(c) as a final decision, or not acted upon the Board within the time periods of § 268.405(c), is mandatory and binding on the Board except as provided in this section. Failure to implement ordered relief shall be subject to judicial enforcement as specified in § 268.503(f).
+
+
+(b) Notwithstanding paragraph (a) of this section, when the Board requests reconsideration and the case involves removal, separation, or a suspension continuing beyond the date of the request for reconsideration, and when the decision orders retroactive restoration, the Board shall comply with the decision to the extent of the temporary or conditional restoration of the employee to duty status in the position specified by the Commission, pending the outcome of the Board's request for reconsideration.
+
+
+(1) Service under the temporary or conditional restoration provisions of this paragraph (b) shall be credited toward the completion of a probationary or trial period or the completion of the service requirement for career tenure, if the Commission upholds its decision after reconsideration.
+
+
+(2) When the Board requests reconsideration, it may delay the payment of any amounts ordered to be paid to the complainant until after the request for reconsideration is resolved. If the Board delays payment of any amount pending the outcome of the request to reconsider and the resolution of the request (including under § 268.405(d)) requires the Board to make the payment, then the Board shall pay interest from the date of the original appellate decision until payment is made.
+
+
+(3) The Board shall notify the Commission and the employee in writing at the same time it requests reconsideration that the relief it provides is temporary or conditional and, if applicable, that it will delay the payment of any amounts owed but will pay interest as specified in paragraph (b)(2) of this section. Failure of the Board to provide notification will result in the dismissal of the Board's request.
+
+
+(c) When no request for reconsideration or final decision under § 268.405(d) is filed or when a request for reconsideration is denied, the Board shall provide the relief ordered and there is no further right to delay implementation of the ordered relief. The relief shall be provided in full not later than 120 days after receipt of the final decision unless otherwise ordered in the decision.
+
+
+## § 268.503 Enforcement of final EEOC decisions.
+
+
+(a) Petition for enforcement. A complainant may petition the Commission for enforcement of a decision issued under the Commission's appellate jurisdiction. The petition shall be submitted to the Office of Federal Operations. The petition shall specifically set forth the reasons that lead the complainant to believe that the Board is not complying with the decision.
+
+
+(b) Compliance. On behalf of the Commission, the Office of Federal Operations shall take all necessary action to ascertain whether the Board is implementing the decision of the Commission. If the Board is found not to be in compliance with the decision, efforts shall be undertaken to obtain compliance.
+
+
+(c) Clarification. On behalf of the Commission, the Office of Federal Operations may, on its own motion or in response to a petition for enforcement or in connection with a timely request for reconsideration, issue a clarification of a prior decision. A clarification cannot change the result of a prior decision or enlarge or diminish the relief ordered but may further explain the meaning or intent of the prior decision.
+
+
+(d) Referral to the Commission. Where the Director, Office of Federal Operations, is unable to obtain satisfactory compliance with the final decision, the Director shall submit appropriate findings and recommendations for enforcement to the Commission, or, as directed by the Commission, refer the matter to another appropriate agency.
+
+
+(e) Commission notice to show cause. The Commission may issue a notice to the Chairman of the Board to show cause why there is noncompliance. Such notice may request the Chairman of the Board or a representative to appear before the Commission or to respond to the notice in writing with adequate evidence of compliance or with compelling reasons for noncompliance.
+
+
+(f) Notification to complainant of completion of administrative efforts. Where the Commission has determined that the Board is not complying with a prior decision, or where the Board has failed or refused to submit any required report of compliance, the Commission shall notify the complainant the right to file a civil action for enforcement of the decision pursuant to title VII, the ADEA, the Equal Pay Act or the Rehabilitation Act and to seek judicial review of the Board's refusal to implement the ordered relief pursuant to the Administrative Procedures Act, 5 U.S.C. 701 et seq., and the mandamus statute, 28 U.S.C. 1361, or to commence de novo proceedings pursuant to the appropriate statutes.
+
+
+## § 268.504 Compliance with settlement agreements and final actions.
+
+
+(a) Any settlement agreement knowingly and voluntarily agreed to by the parties, reached at any stage of the complaint process, shall be binding on both parties. Final action that has not been the subject of an appeal or a civil action shall be binding on the Board. If the complainant believes that the Board has failed to comply with the terms of a settlement agreement or decision, the complainant shall notify the Board's EEO Programs Director, in writing, of the alleged noncompliance within 30 days of when the complainant knew or should have known of the alleged noncompliance. The complainant may request that the terms of the settlement agreement be specifically implemented or, alternatively, that the complaint be reinstated for further processing from the point processing ceased.
+
+
+(b) The Board shall resolve the matter and respond to the complainant, in writing. If the Board has not responded to the complainant, in writing, or if the complainant is not satisfied with the Board's attempt to resolve the matter, the complainant may appeal to the Commission for a determination as to whether the Board has complied with the terms of the settlement agreement or decision. The complainant may file such an appeal 35 days after he or she has served the Board with the allegations of noncompliance, but must file an appeal within 30 days of his or her receipt of the Board's determination. The complainant must serve a copy of the appeal on the Board and the Board may submit a response to the Commission within 30 days of receiving notice of the appeal.
+
+
+(c) Prior to rendering its determination, the Commission may request that the parties submit whatever additional information or documentation it deems necessary or may direct that an investigation or hearing on the matter be conducted. If the Commission determines that the Board is not in compliance with a decision or a settlement agreement, and the noncompliance is not attributable to acts or conduct of the complainant, it may order such compliance with the decision or settlement agreement, or, alternatively, for a settlement agreement, it may order that the complaint be reinstated for further processing from the point processing ceased. Allegations that subsequent acts of discrimination violate a settlement agreement shall be processed as separate complaints under § 268.105 or § 268.204, as appropriate, rather than under this section.
+
+
+## § 268.505 Interim relief.
+
+
+(a)(1) When the Board appeals and the case involves removal, separation, or suspension continuing beyond the date of the appeal, and when the administrative judge orders retroactive restoration, the Board shall comply with the decision to the extent of the temporary or conditional restoration of the employee to duty status in the position specified in the decision, pending the outcome of the Board appeal. The employee may decline the offer of interim relief.
+
+
+(2) Service under the temporary or conditional restoration provisions of paragraph (a)(1) of this section shall be credited toward the completion of a probationary or trial period, eligibility for a within-grade increase, or the completion of the service requirement for career tenure, if the Commission upholds the decision on appeal. Such service shall not be credited toward the completion of any applicable probationary or trial period or the completion of the service requirement for career tenure if the Commission reverses the decision on appeal.
+
+
+(3) When the Board appeals, it may delay the payment of any amount, other than prospective pay and benefits, ordered to be paid to the complainant until after the appeal is resolved. If the Board delays payment of any amount pending the outcome of the appeal and the resolution of the appeal requires the Board to make the payment, then the Board shall pay interest from the date of the original decision until payment is made.
+
+
+(4) The Board shall notify the Commission and the employee in writing at the same time it appeals that the relief it provides is temporary or conditional and, if applicable, that it will delay the payment of any amounts owed but will pay interest as specified in paragraph (b)(2) of this section. Failure of the Board to provide notification will result in the dismissal of the Board's appeal.
+
+
+(5) The Board may, by notice to the complainant, decline to return the complainant to his or her place of employment if it determines that the return or presence of the complainant will be unduly disruptive to the work environment. However, prospective pay and benefits must be provided. The determination not to return the complainant to his or her place of employment is not reviewable. A grant of interim relief does not insulate a complainant from subsequent disciplinary or adverse action.
+
+
+(b) If the Board files an appeal and has not provided required interim relief, the complainant may request dismissal of the Board's appeal. Any such request must be filed with the Office of Federal Operations within 25 days of the date of service of the Board's appeal. A copy of the request must be served on the Board at the same time it is filed with EEOC. The Board may respond with evidence and argument to the complainant's request to dismiss within 15 days of the date of service of the request.
+
+
+## § 268.601 EEO group statistics.
+
+
+(a) The Board shall establish a system to collect and maintain accurate employment information on the race, national origin, sex and disability(ies) of its employees.
+
+
+(b) Data on race, national origin and sex shall be collected by voluntary self-identification. If an employee does not voluntarily provide the requested information, the Board shall advise the employee of the importance of the data and of the Board's obligation to report it. If the employee still refuses to provide the information, the Board must make a visual identification and inform the employee of the data it will be reporting. If the Board believes that information provided by an employee is inaccurate, the Board shall advise the employee about the solely statistical purpose for which the data is being collected, the need for accuracy, the Board's recognition of the sensitivity of the information and the existence of procedures to prevent its unauthorized disclosure. If, thereafter, the employee declines to change the apparently inaccurate self identification, the Board must accept it.
+
+
+(c) Subject to applicable law, the information collected under paragraph (b) of this section shall be disclosed only in the form of gross statistics. The Board shall not collect or maintain any information on the race, national origin or sex of individual employees except in accordance with applicable law and when an automated data processing system is used in accordance with standards and requirements prescribed by the Commission to insure individual privacy and the separation of that information from personnel records.
+
+
+(d) The Board's system is subject to the following controls:
+
+
+(1) Only those categories of race and national origin prescribed by the Commission may be used;
+
+
+(2) Only the specific procedures for the collection and maintenance of data that are prescribed or approved by the Commission may be used.
+
+
+(e) The Board may use the data only in studies and analyses which contribute affirmatively to achieving the objectives of the Board's equal employment opportunity program. The Board shall not establish a quota for the employment of persons on the basis of race, color, religion, sex, or national origin.
+
+
+(f) Data on disabilities shall also be collected by voluntary self-identification. If an employee does not voluntarily provide the requested information, the Board shall advise the employee of the importance of the data and of the Board's obligation to report it. If an employee who has been appointed pursuant to a special Board program for hiring individuals with a disability still refuses to provide the requested information, the Board must identify the employee's disability based upon the records supporting the appointment. If any other employee still refuses to provide the requested information or provides information that the Board believes to be inaccurate, the Board should report the employee's disability status as unknown.
+
+
+(g) The Board shall report to the Commission on employment by race, national origin, sex and disability in the form and at such times as the Board and Commission shall agree.
+
+
+## § 268.602 Reports to the Commission.
+
+
+(a) The Board shall report to the Commission information concerning pre-complaint counseling and the status, processing, and disposition of complaints under this part at such times and in such manner as the Board and Commission shall agree.
+
+
+(b) The Board shall advise the Commission whenever it is served with a Federal court complaint based upon a complaint that is pending on appeal at the Commission.
+
+
+(c) The Board shall submit annually for the review and approval of the Commission written equal employment opportunity plans of action. Plans shall be submitted in the format prescribed by the Commission and shall include, but not be limited to:
+
+
+(1) Provision for the establishment of training and education programs designed to provide maximum opportunity for employees to advance so as to perform at their highest potential;
+
+
+(2) Description of the qualifications, in terms of training and experience relating to equal employment opportunity, of the principal and operating officials concerned with administration of the Board's equal employment opportunity program; and
+
+
+(3) Description of the allocation of personnel and resources proposed by the Board to carry out its equal employment opportunity program.
+
+
+## § 268.603 Voluntary settlement attempts.
+
+
+The Board shall make reasonable efforts to voluntarily settle complaints of discrimination as early as possible in, and throughout, the administrative processing of complaints, including the pre-complaint counseling stage. Any settlement reached shall be in writing and signed by both parties and shall identify the claims resolved.
+
+
+## § 268.604 Filing and computation of time.
+
+
+(a) All time periods in this part that are stated in terms of days are calendar days unless otherwise stated.
+
+
+(b) A document shall be deemed timely if it is received or postmarked before the expiration of the applicable filing period, or, in the absence of a legible postmark, if it is received by mail within five days of the expiration of the applicable filing period.
+
+
+(c) The time limits in this part are subject to waiver, estoppel and equitable tolling.
+
+
+(d) The first day counted shall be the day after the event from which the time period begins to run and the last day of the period shall be included, unless it falls on a Saturday, Sunday or Federal holiday, in which case the period shall be extended to include the next business day.
+
+
+## § 268.605 Representation and official time.
+
+
+(a) At any stage in the processing of a complaint, including the counseling stage under § 268.104, the complainant shall have the right to be accompanied, represented, and advised by a representative of complainant's choice.
+
+
+(b) If the complainant is an employee of the Board, he or she shall have a reasonable amount of official time, if otherwise on duty, to prepare the complaint and to respond to Board and EEOC requests for information. If the complainant is an employee of the Board and he designates another employee of the Board as his or her representative, the representative shall have a reasonable amount of official time, if otherwise on duty, to prepare the complaint and respond to Board and EEOC requests for information. The Board is not obligated to change work schedules, incur overtime wages, or pay travel expenses to facilitate the choice of a specific representative or to allow the complainant and representative to confer. The complainant and the representative, if employed by the Board and otherwise in a pay status, shall be on official time, regardless of their tour of duty, when their presence is authorized or required by the Board or the Commission during the investigation, informal adjustment, or hearing on the complaint.
+
+
+(c) In cases where the representation of a complainant or the Board would conflict with the official or collateral duties of the representative, the Commission or the Board may, after giving the representative an opportunity to respond, disqualify the representative.
+
+
+(d) Unless the complainant states otherwise in writing, after the Board has received written notice of the name, address and telephone number of a representative for the complainant, all official correspondence shall be with the representative with copies to the complainant. When the complainant designates an attorney as representative, service of all official correspondence shall be made on the attorney and the complainant, but time frames for receipt of material shall be computed from the time of receipt by the attorney. The complainant must serve all official correspondence on the designated representative of the Board.
+
+
+(e) The complainant shall at all times be responsible for proceeding with the complaint whether or not he or she has designated a representative.
+
+
+(f) Witnesses who are Board employees shall be in a duty status when their presence is authorized or required by Commission or Board officials in connection with a complaint.
+
+
+## § 268.606 Joint processing and consolidation of complaints.
+
+
+Complaints of discrimination filed by two or more complainants consisting of substantially similar allegations of discrimination or relating to the same matter may be consolidated by the Board or the Commission for joint processing after appropriate notification to the parties. Two or more complaints of discrimination filed by the same complainant shall be consolidated by the Board for joint processing after appropriate notification to the complainant. When a complaint has been consolidated with one or more earlier filed complaints, the Board shall complete its investigation within the earlier of 180 days after the filing of the last complaint or 360 days after the filing of the original complaint, except that the complainant may request a hearing from an administrative judge on the consolidated complaints any time after 180 days from the date of the first filed complaint. Administrative judges or the Commission may, in their discretion, consolidate two or more complaints of discrimination filed by the same complainant.
+
+
+## § 268.607 Delegation of authority.
+
+
+The Board of Governors may delegate authority under this part, to one or more designees.
+
+
+## § 268.701 Purpose and application.
+
+
+(a) Purpose. The purpose of this subpart H is to prohibit discrimination on the basis of a disability in programs or activities conducted by the Board.
+
+
+(b) Application. (1) This subpart H applies to all programs and activities conducted by the Board. Such programs and activities include:
+
+
+(i) Holding open meetings of the Board or other meetings or public hearings at the Board's office in Washington, DC;
+
+
+(ii) Responding to inquiries, filing complaints, or applying for employment at the Board's office;
+
+
+(iii) Making available the Board's library facilities; and
+
+
+(iv) Any other lawful interaction with the Board or its staff in any official matter with people who are not employees of the Board.
+
+
+(2) This subpart H does not apply to Federal Reserve Banks or to financial institutions or other companies supervised or regulated by the Board.
+
+
+## § 268.702 Definitions.
+
+
+For purposes of this subpart, the following definitions apply:
+
+
+(a) Auxiliary aids means services or devices that enable persons with impaired sensory, manual, or speaking skills to have an equal opportunity to participate in, and enjoy the benefits of, programs or activities conducted by the Board. For example, auxiliary aids useful for persons with impaired vision include readers, Brailled materials, audio recordings, telecommunications devices and other similar services and devices. Auxiliary aids useful for persons with impaired hearing include telephone handset amplifiers, telephones compatible with hearing aids, telecommunication devices for deaf persons (TDD's), interpreters, notetakers, written materials, and other similar services and devices.
+
+
+(b) Complete complaint means a written statement that contains the complainant's name and address and describes the Board's alleged discriminatory action in sufficient detail to inform the Board of the nature and date of the alleged violation. It shall be signed by the complainant or by someone authorized to do so on his or her behalf. Complaints filed on behalf of classes or third parties shall describe or identify (by name, if possible) the alleged victims of discrimination.
+
+
+(c) Facility means all or any portion of buildings, structures, equipment, roads, walks, parking lots, rolling stock or other conveyances, or other real or personal property.
+
+
+(d) Person with a disability means any person who has a physical or mental impairment that substantially limits one or more major life activities, has a record of such an impairment, or is regarded as having such an impairment. As used in this definition, the phrase:
+
+
+(1) Physical or mental impairment includes—
+
+
+(i) Any physiological disorder or condition, cosmetic disfigurement, or anatomical loss affecting one of more of the following body systems: Neurological; musculoskeletal; special sense organs; respiratory, including speech organs; cardiovascular; reproductive; digestive; genitourinary; hemic and lymphatic; skin; and endocrine; or
+
+
+(ii) Any mental or psychological disorder, such as mental retardation, organic brain syndrome, emotional or mental illness, and specific learning disabilities. The term physical or mental impairment includes, but is not limited to, such diseases and conditions as orthopedic, visual, speech, and hearing impairments, cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis, cancer, heart disease, diabetes, mental retardation, emotional illness, and drug addiction and alcoholism.
+
+
+(2) Major life activities includes functions such as caring for one's self, performing manual tasks, walking, seeing, hearing, speaking, breathing, learning, and working.
+
+
+(3) Has a record of such an impairment means has a history of, or has been misclassified as having, a mental or physical impairment that substantially limits one or more major life activities.
+
+
+(4) Is regarded as having an impairment means—
+
+
+(i) Has a physical or mental impairment that does not substantially limit major life activities but is treated by the Board as constituting such a limitation;
+
+
+(ii) Has a physical or mental impairment that substantially limits major life activities only as a result of the attitudes of others toward such impairment; or
+
+
+(iii) Has none of the impairments defined in paragraph (d)(1) of this section but is treated by Board as having such an impairment.
+
+
+(e) Qualified person with a disability means—
+
+
+(1) With respect to any Board program or activity under which a person is required to perform services or to achieve a level of accomplishment, a person with a disability who meets the essential eligibility requirements and who can achieve the purpose of the program or activity without modifications in the program or activity that the Board can demonstrate would result in a fundamental alteration in its nature; or
+
+
+(2) With respect to any other program or activity, a person with a disability who meets the essential eligibility requirements for participation in, or receipt of benefits from, that program or activity.
+
+
+(3) Qualified individual with a disability is defined for purposes of employment in § 268.203 of this part, which is made applicable to this subpart by § 268.705.
+
+
+## § 268.703 Notice.
+
+
+The Board shall make available to employees, applicants for employment, participants, beneficiaries, and other interested persons information regarding the provisions of this subpart and its applicability to the programs and activities conducted by the Board, and make this information available to them in such manner as the Board finds necessary to apprise such persons of the protections against discrimination assured them by this subpart.
+
+
+## § 268.704 General prohibitions against discrimination.
+
+
+(a) No qualified individual with a disability shall, on the basis of a disability, be excluded from participation in, be denied the benefits of, or otherwise be subjected to discrimination in any program or activity conducted by the Board.
+
+
+(b)(1) The Board, in providing any aid, benefit, or service, may not, directly or through contractual, licensing, or other arrangements, on the basis of a disability:
+
+
+(i) Deny a qualified individual with a disability the opportunity to participate in or benefit from the aid, benefit, or service that is not equal to that provided to others;
+
+
+(ii) Afford a qualified individual with a disability an opportunity to participate in or benefit from the aid, benefit, or service that is not equal to that afforded others;
+
+
+(iii) Provide a qualified individual with a disability with an aid, benefit, or service that is not as effective in affording equal opportunity to obtain the same result, to gain the same benefit, or to reach the same level of achievement as that provided to others;
+
+
+(iv) Provide different or separate aid, benefits, or services to individuals with a disability or to any class of individuals with a disability than is provided to others unless such action is necessary to provide qualified individuals with a disability with aid, benefits, or services that are as effective as those provided to others;
+
+
+(v) Deny a qualified individual with a disability the opportunity to participate as a member of planning or advisory boards; or
+
+
+(vi) Otherwise limit a qualified individual with a disability in the enjoyment of any right, privilege, advantage, or opportunity enjoyed by others receiving the aid, benefit, or service.
+
+
+(2) The Board may not deny a qualified individual with a disability the opportunity to participate in programs or activities that are not separate or different, despite the existence of permissibly separate or different programs or activities.
+
+
+(3) The Board may not, directly or through contractual or other arrangements, utilize criteria or methods of administration, the purpose or effect of which would:
+
+
+(i) Subject qualified individuals with a disability to discrimination on the basis of a disability; or
+
+
+(ii) Defeat or substantially impair accomplishment of the objectives of a program or activity with respect to individuals with a disability.
+
+
+(4) The Board may not, in determining the site or location of a facility, make selections the purpose or effect of which would:
+
+
+(i) Exclude individuals with a disability from, deny them the benefits of, or otherwise subject them to discrimination under any program or activity conducted by the Board; or
+
+
+(ii) Defeat or substantially impair the accomplishment of the objectives or a program or activity with respect to individuals with a disability.
+
+
+(5) The Board, in the selection of procurement contractors, may not use criteria that subject qualified individuals with a disability to discrimination on the basis of a disability.
+
+
+(6) The Board may not administer a licensing or certification program in a manner that subjects qualified individuals with a disability to discrimination on the basis of a disability, nor may the Board establish requirements for the programs and activities of licensees or certified entities that subject qualified individuals with a disability to discrimination on the basis of a disability. However, the programs and activities of entities that are licensed or certified by the Board are not, themselves, covered by this subpart.
+
+
+(c) The exclusion of individuals who do not have a disability from the benefits of a program limited by Federal statute or Board order to individuals with a disability or the exclusion of a specific class of individuals with a disability from a program limited by Federal statute or Board order to a different class of individuals with a disability is not prohibited by this subpart.
+
+
+(d) The Board shall administer programs and activities in the most integrated setting appropriate to the needs of qualified individuals with a disability.
+
+
+## § 268.705 Employment.
+
+
+No qualified individual with a disability shall, on the basis of a disability, be subjected to discrimination in employment under any program or activity conducted by the Board. The definitions, requirements and procedures of § 268.203 of this part shall apply to discrimination in employment in federally conducted programs or activities.
+
+
+## § 268.706 Program accessibility: Discrimination prohibited.
+
+
+Except as otherwise provided in § 268.707 of this subpart, no qualified individual with a disability shall, because the Board's facilities are inaccessible to or unusable by individuals with a disability, be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by the Board.
+
+
+## § 268.707 Program accessibility: Existing facilities.
+
+
+(a) General. The Board shall operate each program or activity so that the program or activity, when viewed in its entirety, is readily accessible to and usable by individuals with a disability. This paragraph (a) does not:
+
+
+(1) Necessarily require the Board to make each of its existing facilities accessible to and usable by individuals with a disability; or
+
+
+(2) Require the Board to take any action that it can demonstrate would result in a fundamental alteration in the nature of a program or activity or in undue financial and administrative burdens. In those circumstances where the Board believes that the proposed action would fundamentally alter the program or activity or would result in undue financial and administrative burdens, the Board has the burden of proving that compliance with this paragraph (a) would result in such alterations or burdens. The decision that compliance would result in such alterations or burdens shall be made by the Board of Governors or their designee after considering all Board resources available for use in the funding and operation of the conducted program or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action would result in such an alteration or such burdens, the Board shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that individuals with a disability receive the benefits and services of the program or activity.
+
+
+(b) Methods. The Board may comply with the requirements of this subpart H through such means as redesign of equipment, reassignment of services to accessible buildings, assignment of aides to individuals with a disability, home visits, delivery of service at alternate accessible sites, alteration of existing facilities and construction of new facilities, use of accessible rolling stock, or any other methods that result in making its programs or activities readily accessible to and usable by individuals with a disability. The Board is not required to make structural changes in existing facilities where other methods are effective in achieving compliance with this section. In choosing among available methods for meeting the requirements of this section, the Board shall give priority to those methods that offer programs and activities to qualified individuals with a disability in the most integrated setting appropriate.
+
+
+(c) Time period for compliance. The Board shall comply with any obligations established under this section as expeditiously as possible.
+
+
+## § 268.708 Program accessibility: New construction and alterations.
+
+
+Each building or part of a building that is constructed or altered by, on behalf of, or for the use of the Board shall be designed, constructed, or altered so as to be readily accessible to and usable by individuals with a disability.
+
+
+## § 268.709 Communications.
+
+
+(a) The Board shall take appropriate steps to ensure effective communication with applicants, participants, personnel of other Federal entities, and members of the public.
+
+
+(1) The Board shall furnish appropriate auxiliary aids where necessary to afford an individual with a disability an equal opportunity to participate in, and enjoy the benefits of, a program or activity conducted by the Board.
+
+
+(i) In determining what type of auxiliary aid is necessary, the Board shall give primary consideration to the requests of the individual with a disability.
+
+
+(ii) The Board need not provide individually prescribed devices, readers for personal use or study, or other devices of a personal nature.
+
+
+(2) Where the Board communicates with employees and others by telephone, telecommunication devices for deaf persons (TDD's) or equally effective telecommunication systems shall be used.
+
+
+(b) The Board shall ensure that interested persons, including persons with impaired vision or hearing, can obtain information as to the existence and location of accessible services, activities, and facilities.
+
+
+(c) The Board shall provide signage at a primary entrance to each of its inaccessible facilities, directing users to a location at which they can obtain information about accessible facilities. The international symbol for accessibility shall be used at each primary entrance of an accessible facility.
+
+
+(d) This section does not require the Board to take any action that would result in a fundamental alteration in the nature of a program or activity or in undue financial and administrative burdens. In those circumstances where the Board believes that the proposed action would fundamentally alter the program or activity or would result in undue financial and administrative burdens, the Board has the burden of proving that compliance with section 268.709 would result in such alterations or burdens. The determination that compliance would result in such alteration or burdens must be made by the Board of Governors or their designee after considering all Board resources available for use in the funding and operation of the conducted program or activity, and must be accompanied by a written statement of the reasons for reaching that conclusion. If an action required to comply with this section would result in such an alteration or such burdens, the Board shall take any other action that would not result in such an alteration or such burdens but would nevertheless ensure that, to the maximum extent possible, individuals with a disability receive the benefits and services of the program or activity.
+
+
+## § 268.710 Compliance procedures.
+
+
+(a) Applicability. Except as provided in paragraph (b) of this section, this section, rather than subpart B and § 268.203 of this part, applies to all allegations of discrimination on the basis of a disability in programs or activities conducted by the Board.
+
+
+(b) Employment complaints. The Board shall process complaints alleging discrimination in employment on the basis of a disability in accordance with subparts A through G of this part.
+
+
+(c) Responsible official. The Office of Diversity and Inclusion Programs Director (“Programs Director”) shall be responsible for coordinating implementation of this section.
+
+
+(d) Filing the complaint—(1) Who may file. Any person who believes that he or she has been subjected to discrimination prohibited by this subpart may, personally or by his or her authorized representative, file a complaint of discrimination with the Programs Director.
+
+
+(2) Confidentiality. The Programs Director shall not reveal the identity of any person submitting a complaint, except when authorized to do so in writing by the complainant, and except to the extent necessary to carry out the purposes of this subpart , including the conduct of any investigation, hearing, or proceeding under this subpart.
+
+
+(3) When to file. Complaints shall be filed within 180 days of the alleged act of discrimination. The Programs Director may extend this time limit for good cause shown. For the purpose of determining when a complaint is timely filed under this paragraph (d), a complaint mailed to the Board shall be deemed filed on the date it is postmarked. Any other complaint shall be deemed filed on the date it is received by the Board.
+
+
+(4) How to file. Complaints may be delivered or mailed to the Administrative Governor, the Chief Operating Officer, the Programs Director, the Federal Women's Program Manager, the Hispanic Employment Program Coordinator, or the People with Disabilities Program Coordinator. Complaints should be sent to the Programs Director, Office of Diversity and Inclusion, Board of Governors of the Federal Reserve System, 20th and C Street NW, Washington, DC 20551. If any Board official other than the Programs Director receives a complaint, he or she shall forward the complaint to the Programs Director.
+
+
+(e) Acceptance of complaint. (1) The Programs Director shall accept a complete complaint that is filed in accordance with paragraph (d) of this section and over which the Board has jurisdiction. The Programs Director shall notify the complainant of receipt and acceptance of the complaint.
+
+
+(2) If the Programs Director receives a complaint that is not complete, he or she shall notify the complainant, within 30 days of receipt of the incomplete complaint, that additional information is needed. If the complainant fails to complete the complaint within 30 days of receipt of this notice, the Programs Director shall dismiss the complaint without prejudice.
+
+
+(3) If the Programs Director receives a complaint over which the Board does not have jurisdiction, the Programs Director shall notify the complainant and shall make reasonable efforts to refer the complaint to the appropriate government entity.
+
+
+(f) Investigation/conciliation. (1) Within 180 days of the receipt of a complete complaint, the Programs Director shall complete the investigation of the complaint, attempt informal resolution of the complaint, and if no informal resolution is achieved, the Programs Director shall forward the investigative report to the Chief Operating Officer.
+
+
+(2) The Programs Director may request Board employees to cooperate in the investigation and attempted resolution of complaints. Employees who are requested by the Programs Director to participate in any investigation under this section shall do so as part of their official duties and during the course of regular duty hours.
+
+
+(3) The Programs Director shall furnish the complainant with a copy of the investigative report promptly after completion of the investigation and provide the complainant with an opportunity for informal resolution of the complaint.
+
+
+(4) If a complaint is resolved informally, the terms of the agreement shall be reduced to writing and made a part of the complaint file, with a copy of the agreement provided to the complainant. The written agreement may include a finding on the issue of discrimination and shall describe any corrective action to which the complainant has agreed.
+
+
+(g) Letter of findings. (1) If an informal resolution of the complaint is not reached, the Programs Director shall transmit the complaint file to the Chief Operating Officer. The Chief Operating Officer shall, within 180 days of the receipt of the complete complaint by the Programs Director, notify the complainant of the results of the investigation in a letter sent by certified mail, return receipt requested, containing:
+
+
+(i) Findings of fact and conclusions of law;
+
+
+(ii) A description of a remedy for each violation found;
+
+
+(iii) A notice of right of the complainant to appeal the letter of findings under paragraph (k) of this section; and
+
+
+(iv) A notice of right of the complainant to request a hearing.
+
+
+(2) If the complainant does not file a notice of appeal or does not request a hearing within the times prescribed in paragraph (h)(1) and (j)(1) of this section, the Programs Director shall certify that the letter of findings under this paragraph (g) is the final decision of the Board at the expiration of those times.
+
+
+(h) Filing an appeal. (1) Notice of appeal, with or without a request for hearing, shall be filed by the complainant with the Programs Director within 30 days of receipt from the Chief Operating Officer of the letter of findings required by paragraph (g) of this section.
+
+
+(2) If the complainant does not request a hearing, the Programs Director shall notify the Board of Governors of the appeal by the complainant and that a decision must be made under paragraph (k) of this section.
+
+
+(i) Acceptance of appeal. The Programs Director shall accept and process any timely appeal. A complainant may appeal to the Administrative Governor from a decision by the Programs Director that an appeal is untimely. This appeal shall be filed within 15 calendar days of receipt of the decision from the Programs Director.
+
+
+(j) Hearing. (1) Notice of a request for a hearing, with or without a request for an appeal, shall be filed by the complainant with the Programs Director within 30 days of receipt from the Chief Operating Officer of the letter of findings required by paragraph (g) of this section. Upon a timely request for a hearing, the Programs Director shall request that the Board of Governors, or its designee, appoint an administrative law judge to conduct the hearing. The administrative law judge shall issue a notice to the complainant and the Board specifying the date, time, and place of the scheduled hearing. The hearing shall be commenced no earlier than 15 calendar days after the notice is issued and no later than 60 days after the request for a hearing is filed, unless all parties agree to a different date.
+
+
+(2) The hearing, decision, and any administrative review thereof shall be conducted in conformity with 5 U.S.C. 554-557. The administrative law judge shall have the duty to conduct a fair hearing, to take all necessary actions to avoid delay, and to maintain order. He or she shall have all powers necessary to these ends, including (but not limited to) the power to:
+
+
+(i) Arrange and change the dates, times, and places of hearings and prehearing conferences and to issue notice thereof;
+
+
+(ii) Hold conferences to settle, simplify, or determine the issues in a hearing, or to consider other matters that may aid in the expeditious disposition of the hearing;
+
+
+(iii) Require parties to state their positions in writing with respect to the various issues in the hearing and to exchange such statements with all other parties;
+
+
+(iv) Examine witnesses and direct witnesses to testify;
+
+
+(v) Receive, rule on, exclude, or limit evidence;
+
+
+(vi) Rule on procedural items pending before him or her; and
+
+
+(vii) Take any action permitted to the administrative law judge as authorized by this subpart G or by the provisions of the Administrative Procedures Act (5 U.S.C. 554-557).
+
+
+(3) Technical rules of evidence shall not apply to hearings conducted pursuant to this paragraph (j), but rules or principles designed to assure production of credible evidence and to subject testimony to cross-examination shall be applied by the administrative law judge wherever reasonably necessary. The administrative law judge may exclude irrelevant, immaterial, or unduly repetitious evidence. All documents and other evidence offered or taken for the record shall be open to examination by the parties, and opportunity shall be given to refute facts and arguments advanced on either side of the issues. A transcript shall be made of the oral evidence except to the extent the substance thereof is stipulated for the record. All decisions shall be based upon the hearing record.
+
+
+(4) The costs and expenses for the conduct of a hearing shall be allocated as follows:
+
+
+(i) Employees of the Board shall, upon the request of the administrative law judge, be made available to participate in the hearing and shall be on official duty status for this purpose. They shall not receive witness fees.
+
+
+(ii) Employees of other Federal agencies called to testify at a hearing, at the request of the administrative law judge and with the approval of the employing agency, shall be on official duty status during any absence from normal duties caused by their testimony, and shall not receive witness fees.
+
+
+(iii) The fees and expenses of other persons called to testify at a hearing shall be paid by the party requesting their appearance.
+
+
+(iv) The administrative law judge may require the Board to pay travel expenses necessary for the complainant to attend the hearing.
+
+
+(v) The Board shall pay the required expenses and charges for the administrative law judge and court reporter.
+
+
+(vi) All other expenses shall be paid by the parties incurring them.
+
+
+(5) The administrative law judge shall submit in writing recommended findings of fact, conclusions of law, and remedies to the complainant and the Programs Director within 30 days, after the receipt of the hearing transcripts, or within 30 days after the conclusion of the hearing if no transcripts are made. This time limit may be extended with the permission of the Programs Director.
+
+
+(6) Within 15 calendar days after receipt of the recommended decision of the administrative law judge, the complainant may file exceptions to the recommended decision with the Programs Director. On behalf of the Board, the Programs Director may, within 15 calendar days after receipt of the recommended decision of the administrative law judge, take exception to the recommended decision of the administrative law judge and shall notify the complainant in writing of the Board's exception. Thereafter, the complainant shall have 10 calendar days to file reply exceptions with the Programs Director. The Programs Director shall retain copies of the exceptions and replies to the Board's exception for consideration by the Board. After the expiration of the time to reply, the recommended decision shall be ripe for a decision under paragraph (k) of this section.
+
+
+(k) Decision. (1) The Programs Director shall notify the Board of Governors when a complaint is ripe for decision under this paragraph (k). At the request of any member of the Board of Governors made within 3 business days of such notice, the Board of Governors shall make the decision on the complaint. If no such request is made, the Administrative Governor, or the Chief Operating Officer if he or she is delegated the authority to do so, shall make the decision on the complaint. The decision shall be made based on information in the investigative record and, if a hearing is held, on the hearing record. The decision shall be made within 60 days of the receipt by the Programs Director of the notice of appeal and investigative record pursuant to paragraph (h)(1) of this section or 60 days following the end of the period for filing reply exceptions set forth in paragraph (j)(6) of this section, whichever is applicable. If the decision-maker under this paragraph (k) determines that additional information is needed from any party, the decision-maker shall request the information and provide the other party or parties an opportunity to respond to that information. The decision-maker shall have 60 days from receipt of the additional information to render the decision on the appeal. The decision-maker shall transmit the decision by letter to all parties. The decision shall set forth the findings, any remedial actions required, and the reasons for the decision. If the decision is based on a hearing record, the decision-maker shall consider the recommended decision of the administrative law judge and render a final decision based on the entire record. The decision-maker may also remand the hearing record to the administrative law judge for a fuller development of the record.
+
+
+(2) The Board shall take any action required under the terms of the decision promptly. The decision-maker may require periodic compliance reports specifying:
+
+
+(i) The manner in which compliance with the provisions of the decision has been achieved;
+
+
+(ii) The reasons any action required by the final Board decision has not been taken; and
+
+
+(iii) The steps being taken to ensure full compliance.
+
+
+(3) The decision-maker may retain responsibility for resolving disputes that arise between parties over interpretation of the final Board decision, or for specific adjudicatory decisions arising out of implementation.

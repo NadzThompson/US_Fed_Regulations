@@ -1,0 +1,18 @@
+# Consumer Leasing
+
+**Final Rule** | 72 FR 63456 | Published 2007-11-09
+**Effective:** 2007-12-10
+**Document Number:** E7-21699
+
+---
+
+## Action
+
+Final rule; official staff interpretation.
+
+## Abstract
+
+The Board is amending Regulation M, which implements the Consumer Leasing Act, to withdraw portions of the interim final rules for the electronic delivery of disclosures issued March 30, 2001. The interim final rules addressed the timing and delivery of electronic disclosures, consistent with the requirements of the Electronic Signatures in Global and National Commerce Act (E-Sign Act). Because compliance with the 2001 interim final rules has not been mandatory, withdrawal of these provisions from the Code of Federal Regulations reduces confusion about the status of the provisions and simplifies the regulation. In addition, the Board is adopting final amendments to Regulation M to provide guidance on the electronic delivery of disclosures. For example, the final rules provide that when a lease advertisement is accessed by a consumer in electronic form, disclosures may be provided to the consumer in electronic form in the advertisement without regard to the consumer consent and other provisions of the E-Sign Act. Similar final rules are being adopted under other consumer fair lending and financial services regulations administered by the Board.
+
+**Federal Register:** [https://www.federalregister.gov/documents/2007/11/09/E7-21699/consumer-leasing](https://www.federalregister.gov/documents/2007/11/09/E7-21699/consumer-leasing)
+**PDF:** [https://www.govinfo.gov/content/pkg/FR-2007-11-09/pdf/E7-21699.pdf](https://www.govinfo.gov/content/pkg/FR-2007-11-09/pdf/E7-21699.pdf)

@@ -1,0 +1,216 @@
+{
+  "doc_id": "usfed.fr.2018-28281",
+  "title": "Regulatory Capital Rule: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and Related Adjustments to the Regulatory Capital Rule and Conforming Amendments to Other Regulations",
+  "short_title": "2018-28281",
+  "slug": "2018-28281",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Final Rule",
+  "nova_tier": 2,
+  "authority_class": "primary_normative",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "2018-28281",
+  "citation": "84 FR 4222",
+  "publication_date": "2019-02-14",
+  "effective_date_start": "2019-04-01",
+  "abstract": "The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation (collectively, the agencies) are adopting a final rule to address changes to credit loss accounting under U.S. generally accepted accounting principles, including banking organizations' implementation of the current expected credit losses methodology (CECL). The final rule provides banking organizations the option to phase in over a three-year period ",
+  "action": "Final rule.",
+  "html_url": "https://www.federalregister.gov/documents/2019/02/14/2018-28281/regulatory-capital-rule-implementation-and-transition-of-the-current-expected-credit-losses",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2019-02-14/pdf/2018-28281.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 1,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 3,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 5,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 23,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 24,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 32,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 46,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 208,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 211,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 215,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 217,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 223,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 225,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 252,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 324,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 325,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 327,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 347,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 390,
+      "title": 12
+    }
+  ],
+  "docket_ids": [
+    "Docket ID OCC-2018-0009",
+    "Regulation Q",
+    "Docket No. R-1605"
+  ],
+  "regulation_id_numbers": [
+    "1557-AE32",
+    "3064-AE74",
+    "7100-AF04"
+  ],
+  "page_length": 29,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2019/02/14/2018-28281/regulatory-capital-rule-implementation-and-transition-of-the-current-expected-credit-losses",
+  "canonical_url": "https://www.federalregister.gov/documents/2019/02/14/2018-28281/regulatory-capital-rule-implementation-and-transition-of-the-current-expected-credit-losses",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:26Z",
+  "include_in_primary_corpus": true,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Final Rule > 2018-28281",
+  "title_normalized": "Regulatory Capital Rule: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and Related Adjustments to the Regulatory Capital Rule and Conforming Amendments to Other Regulations",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Final Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.6,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2019-02-14",
+  "document_date_raw": "2019-02-14",
+  "word_count_raw_body": 7250,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 1, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 208, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 211, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 215, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 217, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 223, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 225, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 23, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 24, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 252, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 3, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 32, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 324, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 325, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 327, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 347, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 390, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 46, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 5, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": false,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": false,
+  "normalized_text_sha256": "162bc027d99556ed1d45c9f3c043a91377e2afaf48eefed20b94a298c5b19d8f",
+  "normalized_md_path": "federal_register/md/2018-28281_Regulatory_Capital_Rule_Implementation_and_Transition_of_the_Current_Expected_Cr.md",
+  "canonical_json_path": "federal_register/json/2018-28281_Regulatory_Capital_Rule_Implementation_and_Transition_of_the_Current_Expected_Cr.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "2018-28281 Regulatory Capital Rule: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and Related Adjustments to the Regulatory Capital Rule and Conforming Amendments to Other Regulations Final rule. The Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation (collectively, the agencies) are adopting a final rul",
+  "vector_text_prefix": "Federal Reserve Final Rule 2018-28281: Regulatory Capital Rule: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and Related Adjustments to the",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

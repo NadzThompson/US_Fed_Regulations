@@ -1,0 +1,1947 @@
+# PART 211 — INTERNATIONAL BANKING OPERATIONS (REGULATION K)
+
+**Regulation K** | 12 CFR Part 211 | Current as of 2026-03-09
+
+**Authority:** 12 U.S.C. 221 et seq., 1818, 1835a, 1841 et seq., 3101 et seq., 3901 et seq., and 5101 et seq.; 15 U.S.C. 1681s , 1681w , 6801 and 6805 .
+
+**Source:** Reg. K, 66 FR 54374 , Oct. 26, 2001, unless otherwise noted.
+
+---
+
+## § 211.1 Authority, purpose, and scope.
+
+  ( a ) Authority. This subpart is issued by the Board of Governors of the Federal Reserve System (Board) under the authority of the Federal Reserve Act (FRA) ( 12 U.S.C. 221 et seq. ); the Bank Holding Company Act of 1956 (BHC Act) ( 12 U.S.C. 1841 et seq. ); and the International Banking Act of 1978 (IBA) ( 12 U.S.C. 3101 et seq. ).
+
+  ( b ) Purpose. This subpart sets out rules governing the international and foreign activities of U.S. banking organizations, including procedures for establishing foreign branches and Edge and agreement corporations to engage in international banking, and for investments in foreign organizations.
+
+  ( c ) Scope. This subpart applies to:
+
+    ( 1 ) Member banks with respect to their foreign branches and investments in foreign banks under section 25 of the FRA ( 12 U.S.C. 601-604a ); [ 1 ] and
+
+    ( 2 ) Corporations organized under section 25A of the FRA ( 12 U.S.C. 611-631 ) (Edge corporations);
+
+    ( 3 ) Corporations having an agreement or undertaking with the Board under section 25 of the FRA ( 12 U.S.C. 601-604a ) (agreement corporations); and
+
+    ( 4 ) Bank holding companies with respect to the exemption from the nonbanking prohibitions of the BHC Act afforded by section 4(c)(13) of that act ( 12 U.S.C. 1843(c)(13) ).
+
+[ 1 ] Section 25 of the FRA ( 12 U.S.C. 601-604a ), which refers to national banking associations, also applies to state member banks of the Federal Reserve System by virtue of section 9 of the FRA ( 12 U.S.C. 321 )
+
+## § 211.2 Definitions.
+
+Unless otherwise specified, for purposes of this subpart:
+
+  ( a ) An affiliate of an organization means:
+
+    ( 1 ) Any entity of which the organization is a direct or indirect subsidiary; or
+
+    ( 2 ) Any direct or indirect subsidiary of the organization or such entity.
+
+  ( b ) Capital and surplus means, unless otherwise provided in this part:
+
+    ( 1 ) For organizations subject to the capital rule:
+
+      ( i ) Tier 1 and tier 2 capital included in an organization's risk-based capital (under the capital rule); and
+
+      ( ii ) The balance of allowance for loan and lease losses or adjusted allowance for credit losses, as applicable, not included in an organization's tier 2 capital for calculation of risk-based capital, based on the organization's most recent consolidated Report of Condition and Income.
+
+      ( iii ) For qualifying community banking organizations (as defined in § 217.12 of this chapter ) that are subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter ), tier 1 capital (as defined in § 217.2 of this chapter and calculated in accordance with § 217.12(b) of this chapter ) plus allowances for loan and lease losses or adjusted allowance for credit losses, as applicable.
+
+    ( 2 ) For all other organizations, paid-in and unimpaired capital and surplus, and includes undivided profits but does not include the proceeds of capital notes or debentures.
+
+  ( c ) Capital rule means part 217 of this chapter .
+
+  ( d ) Directly or indirectly, when used in reference to activities or investments of an organization, means activities or investments of the organization or of any subsidiary of the organization.
+
+  ( e ) Eligible country means any country:
+
+    ( 1 ) For which an allocated transfer risk reserve is required pursuant to § 211.43 of this part and that has restructured its sovereign debt held by foreign creditors; and
+
+    ( 2 ) Any other country that the Board deems to be eligible.
+
+  ( f ) An Edge corporation is engaged in banking if it is ordinarily engaged in the business of accepting deposits in the United States from nonaffiliated persons.
+
+  ( g ) Engaged in business or engaged in activities in the United States means maintaining and operating an office (other than a representative office) or subsidiary in the United States.
+
+  ( h ) Equity means an ownership interest in an organization, whether through:
+
+    ( 1 ) Voting or nonvoting shares;
+
+    ( 2 ) General or limited partnership interests;
+
+    ( 3 ) Any other form of interest conferring ownership rights, including warrants, debt, or any other interests that are convertible into shares or other ownership rights in the organization; or
+
+    ( 4 ) Loans that provide rights to participate in the profits of an organization, unless the investor receives a determination that such loans should not be considered equity in the circumstances of the particular investment.
+
+  ( i ) Foreign or foreign country refers to one or more foreign nations, and includes the overseas territories, dependencies, and insular possessions of those nations and of the United States, and the Commonwealth of Puerto Rico.
+
+  ( j ) Foreign bank means an organization that:
+
+    ( 1 ) Is organized under the laws of a foreign country;
+
+    ( 2 ) Engages in the business of banking;
+
+    ( 3 ) Is recognized as a bank by the bank supervisory or monetary authority of the country of its organization or principal banking operations;
+
+    ( 4 ) Receives deposits to a substantial extent in the regular course of its business; and
+
+    ( 5 ) Has the power to accept demand deposits.
+
+  ( k ) Foreign branch means an office of an organization (other than a representative office) that is located outside the country in which the organization is legally established and at which a banking or financing business is conducted.
+
+  ( l ) Foreign person means an office or establishment located outside the United States, or an individual residing outside the United States.
+
+  ( m ) Investment means:
+
+    ( 1 ) The ownership or control of equity;
+
+    ( 2 ) Binding commitments to acquire equity;
+
+    ( 3 ) Contributions to the capital and surplus of an organization; or
+
+    ( 4 ) The holding of an organization's subordinated debt when the investor and the investor's affiliates hold more than 5 percent of the equity of the organization.
+
+  ( n ) Investment grade means a security that is rated in one of the four highest rating categories by:
+
+    ( 1 ) Two or more NRSROs; or
+
+    ( 2 ) One NRSRO if the security has been rated by only one NRSRO.
+
+  ( o ) Investor means an Edge corporation, agreement corporation, bank holding company, or member bank.
+
+  ( p ) Joint venture means an organization that has 20 percent or more of its voting shares held directly or indirectly by the investor or by an affiliate of the investor under any authority, but which is not a subsidiary of the investor or of an affiliate of the investor.
+
+  ( q ) Loans and extensions of credit means all direct and indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds.
+
+  ( r ) NRSRO means a nationally recognized statistical rating organization as designated by the Securities and Exchange Commission.
+
+  ( s ) Organization means a corporation, government, partnership, association, or any other entity.
+
+  ( t ) Person means an individual or an organization.
+
+  ( u ) Portfolio investment means an investment in an organization other than a subsidiary or joint venture.
+
+  ( v ) Representative office means an office that:
+
+    ( 1 ) Engages solely in representational and administrative functions (such as soliciting new business or acting as liaison between the organization's head office and customers in the United States); and
+
+    ( 2 ) Does not have authority to make any business decision (other than decisions relating to its premises or personnel) for the account of the organization it represents, including contracting for any deposit or deposit-like liability on behalf of the organization.
+
+  ( w ) Subsidiary means an organization that has more than 50 percent of its voting shares held directly or indirectly, or that otherwise is controlled or capable of being controlled, by the investor or an affiliate of the investor under any authority. Among other circumstances, an investor is considered to control an organization if:
+
+    ( 1 ) The investor or an affiliate is a general partner of the organization; or
+
+    ( 2 ) The investor and its affiliates directly or indirectly own or control more than 50 percent of the equity of the organization.
+
+  ( x ) Tier 1 capital has the same meaning as provided in § 217.2 of this chapter . A qualifying community banking organization (as defined in § 217.12 of this chapter ) that is subject to the community bank leverage ratio framework (as defined in § 217.12 of this chapter ), calculates its tier 1 capital in accordance with § 217.12(b) of this chapter .
+
+  ( y ) Well capitalized means:
+
+    ( 1 ) In relation to a parent member or insured bank, that the standards set out in § 208.43(b)(1) of Regulation H ( 12 CFR 208.43(b)(1) ) are satisfied;
+
+    ( 2 ) In relation to a bank holding company, that the standards set out in § 225.2(r)(1) of Regulation Y ( 12 CFR 225.2(r)(1) ) are satisfied; and
+
+    ( 3 ) In relation to an Edge or agreement corporation, that it has tier 1 and total risk-based capital ratios of 6.0 and 10.0 percent, respectively, or greater.
+
+  ( z ) Well managed means that the Edge or agreement corporation, any parent insured bank, and the bank holding company either received a composite rating of 1 or 2 or is considered satisfactory under the applicable rating system, and has at least a satisfactory rating for management if such a rating is given, at their most recent examination or review.
+
+## § 211.3 Foreign branches of U.S. banking organizations.
+
+  ( a ) General —
+
+    ( 1 ) Definition of banking organization. For purposes of this section, a banking organization is defined as a member bank and its affiliates.
+
+    ( 2 ) A banking organization is considered to be operating a branch in a foreign country if it has an affiliate that is a member bank, Edge or agreement corporation, or foreign bank that operates an office (other than a representative office) in that country.
+
+    ( 3 ) For purposes of this subpart, a foreign office of an operating subsidiary of a member bank shall be treated as a foreign branch of the member bank and may engage only in activities permissible for a branch of a member bank.
+
+    ( 4 ) At any time upon notice, the Board may modify or suspend branching authority conferred by this section with respect to any banking organization.
+
+  ( b )
+
+    ( 1 ) Establishment of foreign branches.
+
+      ( i ) Foreign branches may be established by any member bank having capital and surplus of $1,000,000 or more, an Edge corporation, an agreement corporation, any subsidiary the shares of which are held directly by the member bank, or any other subsidiary held pursuant to this subpart.
+
+      ( ii ) The Board grants its general consent under section 25 of the FRA ( 12 U.S.C. 601-604a ) for a member bank to establish a branch in the Commonwealth of Puerto Rico and the overseas territories, dependencies, and insular possessions of the United States.
+
+    ( 2 ) Prior notice. Unless otherwise provided in this section, the establishment of a foreign branch requires 30 days' prior written notice to the Board.
+
+    ( 3 ) Branching into additional foreign countries. After giving the Board 12 business days prior written notice, a banking organization that operates branches in two or more foreign countries may establish a branch in an additional foreign country.
+
+    ( 4 ) Additional branches within a foreign country. No prior notice is required to establish additional branches in any foreign country where the banking organization operates one or more branches.
+
+    ( 5 ) Branching by nonbanking affiliates. No prior notice is required for a nonbanking affiliate of a banking organization ( i.e., an organization that is not a member bank, an Edge or agreement corporation, or foreign bank) to establish branches within a foreign country or in additional foreign countries.
+
+    ( 6 ) Expiration of branching authority. Authority to establish branches, when granted following prior written notice to the Board, shall expire one year from the earliest date on which the authority could have been exercised, unless extended by the Board.
+
+  ( c ) Reporting. Any banking organization that opens, closes, or relocates a branch shall report such change in a manner prescribed by the Board.
+
+  ( d ) Reserves of foreign branches of member banks. Member banks shall maintain reserves against foreign branch deposits when required by Regulation D ( 12 CFR part 204 ).
+
+  ( e ) Conditional approval; access to information. The Board may impose such conditions on authority granted by it under this section as it deems necessary, and may require termination of any activities conducted under authority of this section if a member bank is unable to provide information on its activities or those of its affiliates that the Board deems necessary to determine and enforce compliance with U.S. banking laws.
+
+## § 211.4 Permissible activities and investments of foreign branches of member banks.
+
+  ( a ) Permissible activities and investments. In addition to its general banking powers, and to the extent consistent with its charter, a foreign branch of a member bank may engage in the following activities and make the following investments, so far as is usual in connection with the business of banking in the country where it transacts business:
+
+    ( 1 ) Guarantees. Guarantee debts, or otherwise agree to make payments on the occurrence of readily ascertainable events (including, but not limited to, nonpayment of taxes, rentals, customs duties, or costs of transport, and loss or nonconformance of shipping documents) if the guarantee or agreement specifies a maximum monetary liability; however, except to the extent that the member bank is fully secured, it may not have liabilities outstanding for any person on account of such guarantees or agreements which, when aggregated with other unsecured obligations of the same person, exceed the limit contained in section 5200(a)(1) of the Revised Statutes ( 12 U.S.C. 84 ) for loans and extensions of credit;
+
+    ( 2 ) Government obligations.
+
+      ( i ) Underwrite, distribute, buy, sell, and hold obligations of:
+
+        ( A ) The national government of the country where the branch is located and any political subdivision of that country;
+
+        ( B ) An agency or instrumentality of the national government of the country where the branch is located where such obligations are supported by the taxing authority, guarantee, or full faith and credit of that government;
+
+        ( C ) The national government or political subdivision of any country, where such obligations are rated investment grade; and
+
+        ( D ) An agency or instrumentality of any national government where such obligations are rated investment grade and are supported by the taxing authority, guarantee or full faith and credit of that government.
+
+      ( ii ) No member bank, under authority of this paragraph (a)(2) , may hold, or be under commitment with respect to, such obligations for its own account in relation to any one country in an amount exceeding the greater of:
+
+        ( A ) 10 percent of its tier 1 capital; or
+
+        ( B ) 10 percent of the total deposits of the bank's branches in that country on the preceding year-end call report date (or the date of acquisition of the branch, in the case of a branch that has not been so reported);
+
+    ( 3 ) Other investments.
+
+      ( i ) Invest in:
+
+        ( A ) The securities of the central bank, clearinghouses, governmental entities other than those authorized under paragraph (a)(2) of this section, and government-sponsored development banks of the country where the foreign branch is located;
+
+        ( B ) Other debt securities eligible to meet local reserve or similar requirements; and
+
+        ( C ) Shares of automated electronic-payments networks, professional societies, schools, and the like necessary to the business of the branch;
+
+      ( ii ) The total investments of a bank's branches in a country under this paragraph (a)(3) (exclusive of securities held as required by the law of that country or as authorized under section 5136 of the Revised Statutes ( 12 U.S.C. 24 , Seventh)) may not exceed 1 percent of the total deposits of the bank's branches in that country on the preceding year-end call report date (or on the date of acquisition of the branch, in the case of a branch that has not been so reported);
+
+    ( 4 ) Real estate loans. Take liens or other encumbrances on foreign real estate in connection with its extensions of credit, whether or not of first priority and whether or not the real estate has been improved;
+
+    ( 5 ) Insurance. Act as insurance agent or broker;
+
+    ( 6 ) Employee benefits program. Pay to an employee of the branch, as part of an employee benefits program, a greater rate of interest than that paid to other depositors of the branch;
+
+    ( 7 ) Repurchase agreements. Engage in repurchase agreements involving securities and commodities that are the functional equivalents of extensions of credit;
+
+    ( 8 ) Investment in subsidiaries. With the Board's prior approval, acquire all of the shares of a company (except where local law requires other investors to hold directors' qualifying shares or similar types of instruments) that engages solely in activities:
+
+      ( i ) In which the member bank is permitted to engage; or
+
+      ( ii ) That are incidental to the activities of the foreign branch.
+
+  ( b ) Other activities. With the Board's prior approval, engage in other activities that the Board determines are usual in connection with the transaction of the business of banking in the places where the member bank's branches transact business.
+
+## § 211.5 Edge and agreement corporations.
+
+  ( a ) Board Authority. The Board shall have the authority to approve:
+
+    ( 1 ) The establishment of Edge corporations;
+
+    ( 2 ) Investments in agreement corporations; and
+
+    ( 3 ) A member bank's proposal to invest more than 10 percent of its capital and surplus in the aggregate amount of stock held in all Edge and agreement corporations.
+
+  ( b ) Organization of an Edge corporation —
+
+    ( 1 ) Permit. A proposed Edge corporation shall become a body corporate when the Board issues a permit approving its proposed name, articles of association, and organization certificate.
+
+    ( 2 ) Name. The name of the Edge corporation shall include international, foreign, overseas, or a similar word, but may not resemble the name of another organization to an extent that might mislead or deceive the public.
+
+    ( 3 ) Federal Register notice. The Board shall publish in the Federal Register notice of any proposal to organize an Edge corporation and shall give interested persons an opportunity to express their views on the proposal.
+
+    ( 4 ) Factors considered by Board. The factors considered by the Board in acting on a proposal to organize an Edge corporation include:
+
+      ( i ) The financial condition and history of the applicant;
+
+      ( ii ) The general character of its management;
+
+      ( iii ) The convenience and needs of the community to be served with respect to international banking and financing services; and
+
+      ( iv ) The effects of the proposal on competition.
+
+    ( 5 ) Authority to commence business. After the Board issues a permit, the Edge corporation may elect officers and otherwise complete its organization, invest in obligations of the U.S. government, and maintain deposits with depository institutions, but it may not exercise any other powers until at least 25 percent of the authorized capital stock specified in the articles of association has been paid in cash, and each shareholder has paid in cash at least 25 percent of that shareholder's stock subscription.
+
+    ( 6 ) Expiration of unexercised authority. Unexercised authority to commence business as an Edge corporation shall expire one year after issuance of the permit, unless the Board extends the period.
+
+  ( c ) Other provisions regarding Edge corporations —
+
+    ( 1 ) Amendments to articles of association. No amendment to the articles of association shall become effective until approved by the Board.
+
+    ( 2 ) Shareholders' meeting. An Edge corporation shall provide in its bylaws that:
+
+      ( i ) A shareholders' meeting shall be convened at the request of the Board within five business days after the Board gives notice of the request to the Edge corporation;
+
+      ( ii ) Any shareholder or group of shareholders that owns or controls 25 percent or more of the shares of the Edge corporation shall attend such a meeting in person or by proxy; and
+
+      ( iii ) Failure by a shareholder or authorized representative to attend such meeting in person or by proxy may result in removal or barring of the shareholder or representative from further participation in the management or affairs of the Edge corporation.
+
+    ( 3 ) Nature and ownership of shares —
+
+      ( i ) Shares. Shares of stock in an Edge corporation may not include no-par-value shares and shall be issued and transferred only on its books and in compliance with section 25A of the FRA ( 12 U.S.C. 611 et seq. ) and this subpart.
+
+      ( ii ) Contents of share certificates. The share certificates of an Edge corporation shall:
+
+        ( A ) Name and describe each class of shares, indicating its character and any unusual attributes, such as preferred status or lack of voting rights; and
+
+        ( B ) Conspicuously set forth the substance of:
+
+          ( 1 ) Any limitations on the rights of ownership and transfer of shares imposed by section 25A of the FRA ( 12 U.S.C. 611 et seq. ); and
+
+          ( 2 ) Any rules that the Edge corporation prescribes in its bylaws to ensure compliance with this paragraph (c) .
+
+    ( 4 ) Change in status of shareholder. Any change in status of a shareholder that causes a violation of section 25A of the FRA ( 12 U.S.C. 611 et seq. ) shall be reported to the Board as soon as possible, and the Edge corporation shall take such action as the Board may direct.
+
+  ( d ) Ownership of Edge corporations by foreign institutions —
+
+    ( 1 ) Prior Board approval. One or more foreign or foreign-controlled domestic institutions referred to in section 25A(11) of the FRA ( 12 U.S.C. 619 ) may apply for the Board's prior approval to acquire, directly or indirectly, a majority of the shares of the capital stock of an Edge corporation.
+
+    ( 2 ) Conditions and requirements. Such an institution shall:
+
+      ( i ) Provide the Board with information related to its financial condition and activities and such other information as the Board may require;
+
+      ( ii ) Ensure that any transaction by an Edge corporation with an affiliate [ 2 ] is on substantially the same terms, including interest rates and collateral, as those prevailing at the same time for comparable transactions by the Edge corporation with nonaffiliated persons, and does not involve more than the normal risk of repayment or present other unfavorable features;
+
+      ( iii ) Ensure that the Edge corporation will not provide funding on a continual or substantial basis to any affiliate or office of the foreign institution through transactions that would be inconsistent with the international and foreign business purposes for which Edge corporations are organized; and
+
+      ( iv ) Comply with the limitation on aggregate investments in all Edge and agreement corporations set forth in paragraph (h) of this section.
+
+    ( 3 ) Foreign institutions not subject to the BHC Act. In the case of a foreign institution not subject to section 4 of the BHC Act ( 12 U.S.C. 1843 ), that institution shall:
+
+      ( i ) Comply with any conditions that the Board may impose that are necessary to prevent undue concentration of resources, decreased or unfair competition, conflicts of interest, or unsound banking practices in the United States; and
+
+      ( ii ) Give the Board 30 days' prior written notice before engaging in any nonbanking activity in the United States, or making any initial or additional investments in another organization, that would require prior Board approval or notice by an organization subject to section 4 of the BHC Act ( 12 U.S.C. 1843 ); in connection with such notice, the Board may impose conditions necessary to prevent adverse effects that may result from such activity or investment.
+
+  ( e ) Change in control of an Edge corporation —
+
+    ( 1 ) Prior notice.
+
+      ( i ) Any person shall give the Board 60 days' prior written notice before acquiring, directly or indirectly, 25 percent or more of the voting shares, or otherwise acquiring control, of an Edge corporation.
+
+      ( ii ) The Board may extend the 60-day period for an additional 30 days by notifying the acquiring party.
+
+      ( iii ) A notice under this paragraph (e) need not be filed where a change in control is effected through a transaction requiring the Board's approval under section 3 of the BHC Act ( 12 U.S.C. 1842 ).
+
+    ( 2 ) Board review. In reviewing a notice filed under this paragraph (e) , the Board shall consider the factors set forth in paragraph (b)(4) of this section, and may disapprove a notice or impose any conditions that it finds necessary to assure the safe and sound operation of the Edge corporation, to assure the international character of its operation, and to prevent adverse effects, such as decreased or unfair competition, conflicts of interest, or undue concentration of resources.
+
+  ( f ) Domestic branching by Edge corporations —
+
+    ( 1 ) Prior notice.
+
+      ( i ) An Edge corporation may establish branches in the United States 30 days after the Edge corporation has given written notice of its intention to do so to its Reserve Bank, unless the Edge corporation is notified to the contrary within that time.
+
+      ( ii ) The notice to the Reserve Bank shall include a copy of the notice of the proposal published in a newspaper of general circulation in the communities to be served by the branch.
+
+      ( iii ) The newspaper notice may appear no earlier than 90 calendar days prior to submission of notice of the proposal to the Reserve Bank. The newspaper notice shall provide an opportunity for the public to give written comment on the proposal to the appropriate Federal Reserve Bank for at least 30 days after the date of publication.
+
+    ( 2 ) Factors considered. The factors considered in acting upon a proposal to establish a branch are enumerated in paragraph (b)(4) of this section.
+
+    ( 3 ) Expiration of authority. Authority to establish a branch under prior notice shall expire one year from the earliest date on which that authority could have been exercised, unless the Board extends the period.
+
+  ( g ) Agreement corporations —
+
+    ( 1 ) General. With the prior approval of the Board, a member bank or bank holding company may invest in a federally or state-chartered corporation that has entered into an agreement or undertaking with the Board that it will not exercise any power that is impermissible for an Edge corporation under this subpart.
+
+    ( 2 ) Factors considered by Board. The factors considered in acting upon a proposal to establish an agreement corporation are enumerated in paragraph (b)(4) of this section.
+
+  ( h )
+
+    ( 1 ) Limitation on investment in Edge and agreement corporations. A member bank may invest up to 10 percent of its capital and surplus in the capital stock of Edge and agreement corporations or, with the prior approval of the Board, up to 20 percent of its capital and surplus in such stock.
+
+    ( 2 ) Factors considered by Board. The factors considered by the Board in acting on a proposal under paragraph (h)(1) of this section shall include:
+
+      ( i ) The composition of the assets of the bank's Edge and agreement corporations;
+
+      ( ii ) The total capital invested by the bank in its Edge and agreement corporations when combined with retained earnings of the Edge and agreement corporations (including amounts invested in and retained earnings of any foreign bank subsidiaries) as a percentage of the bank's capital;
+
+      ( iii ) Whether the bank, bank holding company, and Edge and agreement corporations are well-capitalized and well-managed;
+
+      ( iv ) Whether the bank is adequately capitalized after deconsolidating and deducting the aggregate investment in and assets of all Edge or agreement corporations and all foreign bank subsidiaries; and
+
+      ( v ) Any other factor the Board deems relevant to the safety and soundness of the member bank.
+
+  ( i ) Reserve requirements and interest rate limitations. The deposits of an Edge or agreement corporation are subject to Regulations D and Q ( 12 CFR parts 204 and 217 ) in the same manner and to the same extent as if the Edge or agreement corporation were a member bank.
+
+  ( j ) Liquid funds. Funds of an Edge or agreement corporation that are not currently employed in its international or foreign business, if held or invested in the United States, shall be in the form of:
+
+    ( 1 ) Cash;
+
+    ( 2 ) Deposits with depository institutions, as described in Regulation D ( 12 CFR part 204 ), and other Edge and agreement corporations;
+
+    ( 3 ) Money-market instruments (including repurchase agreements with respect to such instruments), such as bankers' acceptances, federal funds sold, and commercial paper; and
+
+    ( 4 ) Short- or long-term obligations of, or fully guaranteed by, federal, state, and local governments and their instrumentalities.
+
+  ( k ) Reports by Edge and agreement corporations of crimes and suspected crimes. An Edge or agreement corporation, or any branch or subsidiary thereof, shall file a suspicious-activity report in accordance with the provisions of § 208.62 of Regulation H ( 12 CFR 208.62 ).
+
+  ( l ) Protection of customer information and consumer information. An Edge or agreement corporation shall comply with the Interagency Guidelines Establishing Information Security Standards prescribed pursuant to sections 501 and 505 of the Gramm-Leach-Bliley Act ( 15 U.S.C. 6801 and 6805 ) and, with respect to the proper disposal of consumer information, section 216 of the Fair and Accurate Credit Transactions Act of 2003 ( 15 U.S.C. 1681w ), set forth in appendix D-2 to part 208 of this chapter .
+
+  ( m ) Procedures for monitoring Bank Secrecy Act compliance.
+
+    ( 1 ) Establishment of Compliance Program. Each Edge corporation and each agreement corporation shall, in accordance with the provisions of § 208.63 of the Board's Regulation H, 12 CFR 208.63 , develop and provide for the continued administration of a program reasonably designed to assure and monitor compliance with the provisions of subchapter II of chapter 53 of title 31, United States Code , the Bank Secrecy Act, and the implementing regulations promulgated thereunder by the Department of the Treasury at 31 CFR part 103 . The compliance program shall be reduced to writing, approved by the board of directors, and noted in the minutes.
+
+    ( 2 ) Customer identification program. Each Edge or agreement corporation is subject to the requirements of 31 U.S.C. 5318(l) and the implementing regulation jointly promulgated by the Board and the Department of the Treasury at 31 CFR 103.121 , which require a customer identification program.
+
+[ 2 ] For purposes of this paragraph (d)(2) , affiliate means any organization that would be an affiliate under section 23A of the FRA ( 12 U.S.C. 371c ) if the Edge corporation were a member bank.
+
+## § 211.6 Permissible activities of Edge and agreement corporations in the United States.
+
+  ( a ) Activities incidental to international or foreign business. An Edge or agreement corporation may engage, directly or indirectly, in activities in the United States that are permitted by section 25A(6) of the FRA ( 12 U.S.C. 615 ) and are incidental to international or foreign business, and in such other activities as the Board determines are incidental to international or foreign business. The following activities will ordinarily be considered incidental to an Edge or agreement corporation's international or foreign business:
+
+    ( 1 ) Deposit-taking activities —
+
+      ( i ) Deposits from foreign governments and foreign persons. An Edge or agreement corporation may receive in the United States transaction accounts, savings, and time deposits (including issuing negotiable certificates of deposits) from foreign governments and their agencies and instrumentalities, and from foreign persons.
+
+      ( ii ) Deposits from other persons. An Edge or agreement corporation may receive from any other person in the United States transaction accounts, savings, and time deposits (including issuing negotiable certificates of deposit) if such deposits:
+
+        ( A ) Are to be transmitted abroad;
+
+        ( B ) Consist of funds to be used for payment of obligations to the Edge or agreement corporation or collateral securing such obligations;
+
+        ( C ) Consist of the proceeds of collections abroad that are to be used to pay for exported or imported goods or for other costs of exporting or importing or that are to be periodically transferred to the depositor's account at another financial institution;
+
+        ( D ) Consist of the proceeds of extensions of credit by the Edge or agreement corporation;
+
+        ( E ) Represent compensation to the Edge or agreement corporation for extensions of credit or services to the customer;
+
+        ( F ) Are received from Edge or agreement corporations, foreign banks, and other depository institutions (as described in Regulation D ( 12 CFR part 204 )); or
+
+        ( G ) Are received from an organization that by its charter, license, or enabling law is limited to business that is of an international character, including foreign sales corporations, as defined in 26 U.S.C. 922 ; transportation organizations engaged exclusively in the international transportation of passengers or in the movement of goods, wares, commodities, or merchandise in international or foreign commerce; and export trading companies established under subpart C of this part .
+
+    ( 2 ) Borrowings. An Edge or agreement corporation may:
+
+      ( i ) Borrow from offices of other Edge and agreement corporations, foreign banks, and depository institutions (as described in Regulation D ( 12 CFR part 204 ));
+
+      ( ii ) Issue obligations to the United States or any of its agencies or instrumentalities;
+
+      ( iii ) Incur indebtedness from a transfer of direct obligations of, or obligations that are fully guaranteed as to principal and interest by, the United States or any agency or instrumentality thereof that the Edge or agreement corporation is obligated to repurchase; and
+
+      ( iv ) Issue long-term subordinated debt that does not qualify as a deposit under Regulation D ( 12 CFR part 204 ).
+
+    ( 3 ) Credit activities. An Edge or agreement corporation may:
+
+      ( i ) Finance the following:
+
+        ( A ) Contracts, projects, or activities performed substantially abroad;
+
+        ( B ) The importation into or exportation from the United States of goods, whether direct or through brokers or other intermediaries;
+
+        ( C ) The domestic shipment or temporary storage of goods being imported or exported (or accumulated for export); and
+
+        ( D ) The assembly or repackaging of goods imported or to be exported;
+
+      ( ii ) Finance the costs of production of goods and services for which export orders have been received or which are identifiable as being directly for export;
+
+      ( iii ) Assume or acquire participations in extensions of credit, or acquire obligations arising from transactions the Edge or agreement corporation could have financed, including acquisition of obligations of foreign governments;
+
+      ( iv ) Guarantee debts, or otherwise agree to make payments on the occurrence of readily ascertainable events (including, but not limited to, nonpayment of taxes, rentals, customs duties, or cost of transport, and loss or nonconformance of shipping documents), so long as the guarantee or agreement specifies the maximum monetary liability thereunder and is related to a type of transaction described in paragraphs (a)(3)(i) and (ii) of this section; and
+
+      ( v ) Provide credit and other banking services for domestic and foreign purposes to foreign governments and their agencies and instrumentalities, foreign persons, and organizations of the type described in paragraph (a)(1)(ii)(G) of this section.
+
+    ( 4 ) Payments and collections. An Edge or agreement corporation may receive checks, bills, drafts, acceptances, notes, bonds, coupons, and other instruments for collection abroad, and collect such instruments in the United States for a customer abroad; and may transmit and receive wire transfers of funds and securities for depositors.
+
+    ( 5 ) Foreign exchange. An Edge or agreement corporation may engage in foreign exchange activities.
+
+    ( 6 ) Fiduciary and investment advisory activities. An Edge or agreement corporation may:
+
+      ( i ) Hold securities in safekeeping for, or buy and sell securities upon the order and for the account and risk of, a person, provided such services for U.S. persons are with respect to foreign securities only;
+
+      ( ii ) Act as paying agent for securities issued by foreign governments or other entities organized under foreign law;
+
+      ( iii ) Act as trustee, registrar, conversion agent, or paying agent with respect to any class of securities issued to finance foreign activities and distributed solely outside the United States;
+
+      ( iv ) Make private placements of participations in its investments and extensions of credit; however, except to the extent permissible for member banks under section 5136 of the Revised Statutes ( 12 U.S.C. 24 (Seventh)), no Edge or agreement corporation otherwise may engage in the business of underwriting, distributing, or buying or selling securities in the United States;
+
+      ( v ) Act as investment or financial adviser by providing portfolio investment advice and portfolio management with respect to securities, other financial instruments, real-property interests, and other investment assets, [ 3 ] and by providing advice on mergers and acquisitions, provided such services for U.S. persons are with respect to foreign assets only; and
+
+      ( vi ) Provide general economic information and advice, general economic statistical forecasting services, and industry studies, provided such services for U.S. persons shall be with respect to foreign economies and industries only.
+
+    ( 7 ) Banking services for employees. Provide banking services, including deposit services, to the officers and employees of the Edge or agreement corporation and its affiliates; however, extensions of credit to such persons shall be subject to the restrictions of Regulation O ( 12 CFR part 215 ) as if the Edge or agreement corporation were a member bank.
+
+  ( b ) Other activities. With the Board's prior approval, an Edge or agreement corporation may engage, directly or indirectly, in other activities in the United States that the Board determines are incidental to their international or foreign business.
+
+[ 3 ] For purposes of this section, management of an investment portfolio does not include operational management of real property, or industrial or commercial assets.
+
+## § 211.7 Voluntary liquidation of Edge and agreement corporations.
+
+  ( a ) Prior notice. An Edge or agreement corporation desiring voluntarily to discontinue normal business and dissolve, shall provide the Board with 45 days' prior written notice of its intent to do so.
+
+  ( b ) Waiver of notice period. The Board may waive the 45-day period if it finds that immediate action is required by the circumstances presented.
+
+## § 211.8 Investments and activities abroad.
+
+  ( a ) General policy. Activities abroad, whether conducted directly or indirectly, shall be confined to activities of a banking or financial nature and those that are necessary to carry on such activities. In doing so, investors [ 4 ] shall at all times act in accordance with high standards of banking or financial prudence, having due regard for diversification of risks, suitable liquidity, and adequacy of capital. Subject to these considerations and the other provisions of this section, it is the Board's policy to allow activities abroad to be organized and operated as best meets corporate policies.
+
+  ( b ) Direct investments by member banks. A member bank's direct investments under section 25 of the FRA ( 12 U.S.C. 601 et seq. ) shall be limited to:
+
+    ( 1 ) Foreign banks;
+
+    ( 2 ) Domestic or foreign organizations formed for the sole purpose of holding shares of a foreign bank;
+
+    ( 3 ) Foreign organizations formed for the sole purpose of performing nominee, fiduciary, or other banking services incidental to the activities of a foreign branch or foreign bank affiliate of the member bank; and
+
+    ( 4 ) Subsidiaries established pursuant to § 211.4(a)(8) of this part .
+
+  ( c ) Eligible investments. Subject to the limitations set out in paragraphs (b) and (d) of this section, an investor may, directly or indirectly:
+
+    ( 1 ) Investment in subsidiary. Invest in a subsidiary that engages solely in activities listed in § 211.10 of this part , or in such other activities as the Board has determined in the circumstances of a particular case are permissible; provided that, in the case of an acquisition of a going concern, existing activities that are not otherwise permissible for a subsidiary may account for not more than 5 percent of either the consolidated assets or consolidated revenues of the acquired organization;
+
+    ( 2 ) Investment in joint venture. Invest in a joint venture; provided that, unless otherwise permitted by the Board, not more than 10 percent of the joint venture's consolidated assets or consolidated revenues are attributable to activities not listed in § 211.10 of this part ; and
+
+    ( 3 ) Portfolio investments. Make portfolio investments in an organization, provided that:
+
+      ( i ) Individual investment limits. The total direct and indirect portfolio investments by the investor and its affiliates in an organization engaged in activities that are not permissible for joint ventures, when combined with all other shares in the organization held under any other authority, do not exceed:
+
+        ( A ) 40 percent of the total equity of the organization; or
+
+        ( B ) 19.9 percent of the organization's voting shares.
+
+      ( ii ) Aggregate Investment Limit. Portfolio investments made under authority of this subpart shall be subject to the aggregate equity limit of § 211.10(a)(15)(iii) .
+
+      ( iii ) Loans and extensions of credit. Any loans and extensions of credit made by an investor or its affiliates to the organization are on substantially the same terms, including interest rates and collateral, as those prevailing at the same time for comparable transactions between the investor or its affiliates and nonaffiliated persons; and
+
+      ( iv ) Protecting shareholder rights. Nothing in this paragraph (c)(3) shall prohibit an investor from otherwise exercising rights it may have as shareholder to protect the value of its investment, so long as the exercise of such rights does not result in the investor's direct or indirect control of the organization.
+
+  ( d ) Investment limit. In calculating the amount that may be invested in any organization under this section and §§ 211.9 and 211.10 of this part , there shall be included any unpaid amount for which the investor is liable and any investments in the same organization held by affiliates under any authority.
+
+  ( e ) Divestiture. An investor shall dispose of an investment promptly (unless the Board authorizes retention) if:
+
+    ( 1 ) The organization invested in:
+
+      ( i ) Engages in impermissible activities to an extent not permitted under paragraph (c) of this section; or
+
+      ( ii ) Engages directly or indirectly in other business in the United States that is not permitted to an Edge corporation in the United States; provided that an investor may:
+
+        ( A ) Retain portfolio investments in companies that derive no more than 10 percent of their total revenue from activities in the United States; and
+
+        ( B ) Hold up to 5 percent of the shares of a foreign company that engages directly or indirectly in business in the United States that is not permitted to an Edge corporation; or
+
+    ( 2 ) After notice and opportunity for hearing, the investor is advised by the Board that such investment is inappropriate under the FRA, the BHC Act, or this subpart.
+
+  ( f ) Debts previously contracted. Shares or other ownership interests acquired to prevent a loss upon a debt previously contracted in good faith are not subject to the limitations or procedures of this section; provided that such interests shall be disposed of promptly but in no event later than two years after their acquisition, unless the Board authorizes retention for a longer period.
+
+  ( g ) Investments made through debt-for-equity conversions —
+
+    ( 1 ) Permissible investments. A bank holding company may make investments through the conversion of sovereign-or private-debt obligations of an eligible country, either through direct exchange of the debt obligations for the investment, or by a payment for the debt in local currency, the proceeds of which, including an additional cash investment not exceeding in the aggregate more than 10 percent of the fair value of the debt obligations being converted as part of such investment, are used to purchase the following investments:
+
+      ( i ) Public-sector companies. A bank holding company may acquire up to and including 100 percent of the shares of (or other ownership interests in) any foreign company located in an eligible country, if the shares are acquired from the government of the eligible country or from its agencies or instrumentalities.
+
+      ( ii ) Private-sector companies. A bank holding company may acquire up to and including 40 percent of the shares, including voting shares, of (or other ownership interests in) any other foreign company located in an eligible country subject to the following conditions:
+
+        ( A ) A bank holding company may acquire more than 25 percent of the voting shares of the foreign company only if another shareholder or group of shareholders unaffiliated with the bank holding company holds a larger block of voting shares of the company;
+
+        ( B ) The bank holding company and its affiliates may not lend or otherwise extend credit to the foreign company in amounts greater than 50 percent of the total loans and extensions of credit to the foreign company; and
+
+        ( C ) The bank holding company's representation on the board of directors or on management committees of the foreign company may be no more than proportional to its shareholding in the foreign company.
+
+    ( 2 ) Investments by bank subsidiary of bank holding company. Upon application, the Board may permit an indirect investment to be made pursuant to this paragraph (g) through an insured bank subsidiary of the bank holding company, where the bank holding company demonstrates that such ownership is consistent with the purposes of the FRA. In granting its consent, the Board may impose such conditions as it deems necessary or appropriate to prevent adverse effects, including prohibiting loans from the bank to the company in which the investment is made.
+
+    ( 3 ) Divestiture —
+
+      ( i ) Time limits for divestiture. A bank holding company shall divest the shares of, or other ownership interests in, any company acquired pursuant to this paragraph (g) within the longer of:
+
+        ( A ) Ten years from the date of acquisition of the investment, except that the Board may extend such period if, in the Board's judgment, such an extension would not be detrimental to the public interest; or
+
+        ( B ) Two years from the date on which the bank holding company is permitted to repatriate in full the investment in the foreign company.
+
+      ( ii ) Maximum retention period. Notwithstanding the provisions of paragraph (g)(3)(i) of this section:
+
+        ( A ) Divestiture shall occur within 15 years of the date of acquisition of the shares of, or other ownership interests in, any company acquired pursuant to this paragraph (g) ; and
+
+        ( B ) A bank holding company may retain such shares or ownership interests if such retention is otherwise permissible at the time required for divestiture.
+
+      ( iii ) Report to Board. The bank holding company shall report to the Board on its plans for divesting an investment made under this paragraph (g) two years prior to the final date for divestiture, in a manner to be prescribed by the Board.
+
+      ( iv ) Other conditions requiring divestiture. All investments made pursuant to this paragraph (g) are subject to paragraph (e) of this section requiring prompt divestiture (unless the Board upon application authorizes retention), if the company invested in engages in impermissible business in the United States that exceeds in the aggregate 10 percent of the company's consolidated assets or revenues calculated on an annual basis; provided that such company may not engage in activities in the United States that consist of banking or financial operations (as defined in § 211.23(f)(5)(iii)(B) ) of this part, or types of activities permitted by regulation or order under section 4(c)(8) of the BHC Act ( 12 U.S.C. 1843(c)(8) ), except under regulations of the Board or with the prior approval of the Board.
+
+    ( 4 ) Investment procedures —
+
+      ( i ) General consent. Subject to the other limitations of this paragraph (g) , the Board grants its general consent for investments made under this paragraph (g) if the total amount invested does not exceed the greater of $25 million or 1 percent of the tier 1 capital of the investor.
+
+      ( ii ) All other investments shall be made in accordance with the procedures of § 211.9(f) and (g) of this part , requiring prior notice or specific consent.
+
+    ( 5 ) Conditions —
+
+      ( i ) Name. Any company acquired pursuant to this paragraph (g) shall not bear a name similar to the name of the acquiring bank holding company or any of its affiliates.
+
+      ( ii ) Confidentiality. Neither the bank holding company nor its affiliates shall provide to any company acquired pursuant to this paragraph (g) any confidential business information or other information concerning customers that are engaged in the same or related lines of business as the company.
+
+[ 4 ] For purposes of this section and §§ 211.9 and 211.10 of this part , a direct subsidiary of a member bank is deemed to be an investor.
+
+## § 211.9 Investment procedures.
+
+  ( a ) General provisions. [ 1 ] Direct and indirect investments shall be made in accordance with the general consent, limited general consent, prior notice, or specific consent procedures contained in this section.
+
+    ( 1 ) Minimum capital adequacy standards. Except as the Board may otherwise determine, in order for an investor to make investments pursuant to the procedures set out in this section, the investor, the bank holding company, and the member bank shall be in compliance with applicable minimum standards for capital adequacy set out in the capital rule; provided that, if the investor is an Edge or agreement corporation, the minimum capital required is total and tier 1 capital ratios of 8 percent and 4 percent, respectively.
+
+    ( 2 ) Composite rating. Except as the Board may otherwise determine, in order for an investor to make investments under the general consent or limited general consent procedures of paragraphs (b) and (c) of this section, at the most recent examination the investor and any parent insured bank must have either received a composite rating of at least 2 or be considered satisfactory under the applicable rating system.
+
+    ( 3 ) Board's authority to modify or suspend procedures. The Board, at any time upon notice, may modify or suspend the procedures contained in this section with respect to any investor or with respect to the acquisition of shares of organizations engaged in particular kinds of activities.
+
+    ( 4 ) Long-range investment plan. Any investor may submit to the Board for its specific consent a long-range investment plan. Any plan so approved shall be subject to the other procedures of this section only to the extent determined necessary by the Board to assure safety and soundness of the operations of the investor and its affiliates.
+
+    ( 5 ) Prior specific consent for initial investment. An investor shall apply for and receive the prior specific consent of the Board for its initial investment under this subpart in its first subsidiary or joint venture, unless an affiliate previously has received approval to make such an investment.
+
+    ( 6 ) Expiration of investment authority. Authority to make investments granted under prior notice or specific consent procedures shall expire one year from the earliest date on which the authority could have been exercised, unless the Board determines a longer period shall apply.
+
+    ( 7 ) Conditional approval; Access to information. The Board may impose such conditions on authority granted by it under this section as it deems necessary, and may require termination of any activities conducted under authority of this subpart if an investor is unable to provide information on its activities or those of its affiliates that the Board deems necessary to determine and enforce compliance with U.S. banking laws.
+
+  ( b ) General consent. The Board grants its general consent for a well capitalized and well managed investor to make investments, subject to the following:
+
+    ( 1 ) Well capitalized and well managed investor. In order to qualify for making investments under authority of this paragraph (b) , both before and immediately after the proposed investment, the investor, any parent insured bank, and any parent bank holding company shall be well capitalized and well managed.
+
+    ( 2 ) Individual limit for investment in subsidiary. In the case of an investment in a subsidiary, the total amount invested directly or indirectly in such subsidiary (in one transaction or a series of transactions) does not exceed:
+
+      ( i ) 10 percent of the investor's tier 1 capital, where the investor is a bank holding company; or
+
+      ( ii ) 2 percent of the investor's tier 1 capital, where the investor is a member bank; or
+
+      ( iii ) The lesser of 2 percent of the tier 1 capital of any parent insured bank or 10 percent of the investor's tier 1 capital, for any other investor.
+
+    ( 3 ) Individual limit for investment in joint venture. In the case of an investment in a joint venture, the total amount invested directly or indirectly in such joint venture (in one transaction or a series of transactions) does not exceed:
+
+      ( i ) 5 percent of the investor's tier 1 capital, where the investor is a bank holding company; or
+
+      ( ii ) 1 percent of the investor's tier 1 capital, where the investor is a member bank; or
+
+      ( iii ) The lesser of 1 percent of the tier 1 capital of any parent insured bank or 5 percent of the investor's tier 1 capital, for any other investor.
+
+    ( 4 ) Individual limit for portfolio investment. In the case of a portfolio investment, the total amount invested directly or indirectly in such company (in one transaction or a series of transactions) does not exceed the lesser of $25 million, or
+
+      ( i ) 5 percent of the investor's tier 1 capital in the case of a bank holding company or its subsidiary, or Edge corporation engaged in banking; or
+
+      ( ii ) 25 percent of the investor's tier 1 capital in the case of an Edge corporation not engaged in banking.
+
+    ( 5 ) Investment in a general partnership or unlimited liability company. An investment in a general partnership or unlimited liability company may be made under authority of paragraph (b) of this section, subject to the limits set out in paragraph (c) of this section.
+
+    ( 6 ) Aggregate investment limits —
+
+      ( i ) Investment limits. All investments made, directly or indirectly, during the previous 12-month period under authority of this section, when aggregated with the proposed investment, shall not exceed:
+
+        ( A ) 20 percent of the investor's tier 1 capital, where the investor is a bank holding company;
+
+        ( B ) 10 percent of the investor's tier 1 capital, where the investor is a member bank; or
+
+        ( C ) The lesser of 10 percent of the tier 1 capital of any parent insured bank or 50 percent of the tier 1 capital of the investor, for any other investor.
+
+      ( ii ) Downstream investments. In determining compliance with the aggregate limits set out in this paragraph (b) , an investment by an investor in a subsidiary shall be counted only once, notwithstanding that such subsidiary may, within 12 months of the date of making the investment, downstream all or any part of such investment to another subsidiary.
+
+    ( 7 ) Application of limits. In determining compliance with the limits set out in this paragraph (b) , an investor is not required to combine the value of all shares of an organization held in trading or dealing accounts under § 211.10(a)(15) of this part with investments in the same organization.
+
+  ( c ) Limited general consent —
+
+    ( 1 ) Individual limit. The Board grants its general consent for an investor that is not well capitalized and well managed to make an investment in a subsidiary or joint venture, or to make a portfolio investment, if the total amount invested directly or indirectly (in one transaction or in a series of transactions) does not exceed the lesser of $25 million or:
+
+      ( i ) 5 percent of the investor's tier 1 capital, where the investor is a bank holding company;
+
+      ( ii ) 1 percent of the investor's tier 1 capital, where the investor is a member bank; or
+
+      ( iii ) The lesser of 1 percent of any parent insured bank's tier 1 capital or 5 percent of the investor's tier 1 capital, for any other investor.
+
+    ( 2 ) Aggregate limit. The amount of general consent investments made by any investor directly or indirectly under authority of this paragraph (c) during the previous 12-month period, when aggregated with the proposed investment, shall not exceed:
+
+      ( i ) 10 percent of the investor's tier 1 capital, where the investor is a bank holding company;
+
+      ( ii ) 5 percent of the investor's tier 1 capital, where the investor is a member bank; and
+
+      ( iii ) The lesser of 5 percent of any parent insured bank's tier 1 capital or 25 percent of the investor's tier 1 capital, for any other investor.
+
+    ( 3 ) Application of limits. In calculating compliance with the limits of this paragraph (c) , the rules set forth in paragraphs (b)(6)(ii) and (b)(7) of this section shall apply.
+
+  ( d ) Other eligible investments under general consent. In addition to the authority granted under paragraphs (b) and (c) of this section, the Board grants its general consent for any investor to make the following investments:
+
+    ( 1 ) Investment in organization equal to cash dividends. Any investment in an organization in an amount equal to cash dividends received from that organization during the preceding 12 calendar months; and
+
+    ( 2 ) Investment acquired from affiliate. Any investment that is acquired from an affiliate at net asset value or through a contribution of shares.
+
+  ( e ) Investments ineligible for general consent. An investment in a foreign bank may not be made under authority of paragraphs (b) or (c) of this section if:
+
+    ( 1 ) After the investment, the foreign bank would be an affiliate of a member bank; and
+
+    ( 2 ) The foreign bank is located in a country in which the member bank and its affiliates have no existing banking presence.
+
+  ( f ) Prior notice. An investment that does not qualify for general consent under paragraph (b) , (c) , or (d) of this section may be made after the investor has given the Board 30 days' prior written notice, such notice period to commence at the time the notice is received, provided that:
+
+    ( 1 ) The Board may waive the 30-day period if it finds the full period is not required for consideration of the proposed investment, or that immediate action is required by the circumstances presented; and
+
+    ( 2 ) The Board may suspend the 30-day period or act on the investment under the Board's specific consent procedures.
+
+  ( g ) Specific consent. Any investment that does not qualify for either the general consent or the prior notice procedure may not be consummated without the specific consent of the Board.
+
+[ 1 ] When necessary, the provisions of this section relating to general consent and prior notice constitute the Board's approval under section 25A(8) of the FRA ( 12 U.S.C. 615 ) for investments in excess of the limitations therein based on capital and surplus.
+
+## § 211.10 Permissible activities abroad.
+
+  ( a ) Activities usual in connection with banking. The Board has determined that the following activities are usual in connection with the transaction of banking or other financial operations abroad:
+
+    ( 1 ) Commercial and other banking activities;
+
+    ( 2 ) Financing, including commercial financing, consumer financing, mortgage banking, and factoring;
+
+    ( 3 ) Leasing real or personal property, or acting as agent, broker, or advisor in leasing real or personal property consistent with the provisions of Regulation Y ( 12 CFR part 225 );
+
+    ( 4 ) Acting as fiduciary;
+
+    ( 5 ) Underwriting credit life insurance and credit accident and health insurance;
+
+    ( 6 ) Performing services for other direct or indirect operations of a U.S. banking organization, including representative functions, sale of long-term debt, name-saving, holding assets acquired to prevent loss on a debt previously contracted in good faith, and other activities that are permissible domestically for a bank holding company under sections 4(a)(2)(A) and 4(c)(1)(C) of the BHC Act ( 12 U.S.C. 1843(a)(2)(A) , (c)(1)(C));
+
+    ( 7 ) Holding the premises of a branch of an Edge or agreement corporation or member bank or the premises of a direct or indirect subsidiary, or holding or leasing the residence of an officer or employee of a branch or subsidiary;
+
+    ( 8 ) Providing investment, financial, or economic advisory services;
+
+    ( 9 ) General insurance agency and brokerage;
+
+    ( 10 ) Data processing;
+
+    ( 11 ) Organizing, sponsoring, and managing a mutual fund, if the fund's shares are not sold or distributed in the United States or to U.S. residents and the fund does not exercise managerial control over the firms in which it invests;
+
+    ( 12 ) Performing management consulting services, if such services, when rendered with respect to the U.S. market, shall be restricted to the initial entry;
+
+    ( 13 ) Underwriting, distributing, and dealing in debt securities outside the United States;
+
+    ( 14 ) Underwriting and distributing equity securities outside the United States as follows:
+
+      ( i ) Limits for well-capitalized and well-managed investor —
+
+        ( A ) General. After providing 30 days' prior written notice to the Board, an investor that is well capitalized and well managed may underwrite equity securities, provided that commitments by an investor and its subsidiaries for the shares of a single organization do not, in the aggregate, exceed:
+
+          ( 1 ) 15 percent of the bank holding company's tier 1 capital, where the investor is a bank holding company;
+
+          ( 2 ) 3 percent of the investor's tier 1 capital, where the investor is a member bank; or
+
+          ( 3 ) The lesser of 3 percent of any parent insured bank's tier 1 capital or 15 percent of the investor's tier 1 capital, for any other investor;
+
+        ( B ) Qualifying criteria. An investor will be considered well-capitalized and well-managed for purposes of paragraph (a)(14)(i) of this section only if each of the bank holding company, member bank, and Edge or agreement corporation qualify as well-capitalized and well-managed.
+
+      ( ii ) Limits for investor that is not well capitalized and well managed. After providing 30 days' prior written notice to the Board, an investor that is not well capitalized and well managed may underwrite equity securities, provided that commitments by the investor and its subsidiaries for the shares of an organization do not, in the aggregate, exceed $60 million; and
+
+      ( iii ) Application of limits. For purposes of determining compliance with the limitations of this paragraph (a)(14) , the investor may subtract portions of an underwriting that are covered by binding commitments obtained by the investor or its affiliates from sub-underwriters or other purchasers;
+
+    ( 15 ) Dealing in equity securities outside the United States as follows:
+
+      ( i ) Grandfathered authority. By an investor, or an affiliate, that had commenced such activities prior to March 27, 1991, and subject to the limitations in effect at that time (See 12 CFR part 211 , revised January 1, 1991); or
+
+      ( ii ) Limit on shares of a single issuer. After providing 30 days' prior written notice to the Board, an investor may deal in the shares of an organization where the shares held in the trading or dealing accounts of an investor and its affiliates under authority of this paragraph (a)(15) do not in the aggregate exceed the lesser of:
+
+        ( A ) $40 million; or
+
+        ( B ) 10 percent of the investor's tier 1 capital;
+
+      ( iii ) Aggregate equity limit. The total shares held directly and indirectly by the investor and its affiliates under authority of this paragraph (a)(15) and § 211.8(c)(3) of this part in organizations engaged in activities that are not permissible for joint ventures do not exceed:
+
+        ( A ) 25 percent of the bank holding company's tier 1 capital, where the investor is a bank holding company;
+
+        ( B ) 20 percent of the investor's tier 1 capital, where the investor is a member bank; [ 6 ] and
+
+        ( C ) The lesser of 20 percent of any parent insured bank's tier 1 capital or 100 percent of the investor's tier 1 capital, for any other investor;
+
+      ( iv ) Determining compliance with limits —
+
+        ( A ) General. For purposes of determining compliance with all limits set out in this paragraph (a)(15) :
+
+          ( 1 ) Long and short positions in the same security may be netted; and
+
+          ( 2 ) Except as provided in paragraph (a)(15)(iv)(B)( 4 ) of this section, equity securities held in order to hedge bank permissible equity derivatives contracts shall not be included.
+
+        ( B ) Use of internal hedging models. After providing 30 days' prior written notice to the Board the investor may use an internal hedging model that:
+
+          ( 1 ) Nets long and short positions in the same security and offsets positions in a security by futures, forwards, options, and other similar instruments referenced to the same security, for purposes of determining compliance with the single issuer limits of paragraph (a)(15)(ii) of this section; [ 7 ] and
+
+          ( 2 ) Offsets its long positions in equity securities by futures, forwards, options, and similar instruments, on a portfolio basis, and for purposes of determining compliance with the aggregate equity limits of paragraph (a)(15)(iii) of this section.
+
+          ( 3 ) With respect to all equity securities held under authority of paragraph (a)(15) of this section, no net long position in a security shall be deemed to have been reduced by more than 75 percent through use of internal hedging models under this paragraph (a)(15)(iv)(B) ; and
+
+          ( 4 ) With respect to equity securities acquired to hedge bank permissible equity derivatives contracts under authority of paragraph (a)(1) of this section, any residual position that remains in the securities of a single issuer after netting and offsetting of positions relating to the security under the investor's internal hedging models shall be included in calculating compliance with the limits of this paragraph (a)(15)(ii) and (iii).
+
+        ( C ) Underwriting commitments. Any shares acquired pursuant to an underwriting commitment that are held for longer than 90 days after the payment date for such underwriting shall be subject to the limits set out in paragraph (a)(15) of this section and the investment provisions of §§ 211.8 and 211.9 of this part .
+
+      ( v ) Authority to deal in shares of U.S. organization. The authority to deal in shares under paragraph (a)(15) of this section includes the authority to deal in the shares of a U.S. organization:
+
+        ( A ) With respect to foreign persons only; and
+
+        ( B ) Subject to the limitations on owning or controlling shares of a company in section 4(c)(6) of the BHC Act ( 12 U.S.C. 1843(c)(6) ) and Regulation Y ( 12 CFR part 225 ).
+
+      ( vi ) Report to senior management. Any shares held in trading or dealing accounts for longer than 90 days shall be reported to the senior management of the investor;
+
+    ( 16 ) Operating a travel agency, but only in connection with financial services offered abroad by the investor or others;
+
+    ( 17 ) Underwriting life, annuity, pension fund-related, and other types of insurance, where the associated risks have been previously determined by the Board to be actuarially predictable; provided that:
+
+      ( i ) Investments in, and loans and extensions of credit (other than loans and extensions of credit fully secured in accordance with the requirements of section 23A of the FRA ( 12 U.S.C. 371c ), or with such other standards as the Board may require) to, the company by the investor or its affiliates are deducted from the capital of the investor (with 50 percent of such capital deduction to be taken from tier 1 capital); and
+
+      ( ii ) Activities conducted directly or indirectly by a subsidiary of a U.S. insured bank are excluded from the authority of this paragraph (a)(17) , unless authorized by the Board;
+
+    ( 18 ) Providing futures commission merchant services (including clearing without executing and executing without clearing) for nonaffiliated persons with respect to futures and options on futures contracts for financial and nonfinancial commodities; provided that prior notice under § 211.9(f) of this part shall be provided to the Board before any subsidiaries of a member bank operating pursuant to this subpart may join a mutual exchange or clearinghouse, unless the potential liability of the investor to the exchange, clearinghouse, or other members of the exchange, as the case may be, is legally limited by the rules of the exchange or clearinghouse to an amount that does not exceed applicable general consent limits under § 211.9 of this part ;
+
+    ( 19 ) Acting as principal or agent in commodity-swap transactions in relation to:
+
+      ( i ) Swaps on a cash-settled basis for any commodity, provided that the investor's portfolio of swaps contracts is hedged in a manner consistent with safe and sound banking practices; and
+
+      ( ii ) Contracts that require physical delivery of a commodity, provided that:
+
+        ( A ) Such contracts are entered into solely for the purpose of hedging the investor's positions in the underlying commodity or derivative contracts based on the commodity;
+
+        ( B ) The contract allows for assignment, termination or offset prior to expiration; and
+
+        ( C ) Reasonable efforts are made to avoid delivery.
+
+  ( b ) Regulation Y activities. An investor may engage in activities that the Board has determined in § 225.28(b) of Regulation Y ( 12 CFR 225.28(b) ) are closely related to banking under section 4(c)(8) of the BHC Act ( 12 U.S.C. 1843(c)(8) ).
+
+  ( c ) Specific approval. With the Board's specific approval, an investor may engage in other activities that the Board determines are usual in connection with the transaction of the business of banking or other financial operations abroad and are consistent with the FRA or the BHC Act.
+
+[ 6 ] For this purpose, a direct subsidiary of a member bank is deemed to be an investor.
+
+[ 7 ] A basket of stocks, specifically segregated as an offset to a position in a stock index derivative product, as computed by the investor's internal model, may be offset against the stock index.
+
+## § 211.11 Advisory opinions under Regulation K.
+
+  ( a ) Request for advisory opinion. Any person may submit a request to the Board for an advisory opinion regarding the scope of activities permissible under any subpart of this part.
+
+  ( b ) Form and content of the request. Any request for an advisory opinion under this section shall be:
+
+    ( 1 ) Submitted in writing to the Board;
+
+    ( 2 ) Contain a clear description of the proposed parameters of the activity, or the service or product, at issue; and
+
+    ( 3 ) Contain a concise explanation of the grounds on which the submitter contends the activity is or should be considered by the Board to be permissible under this part.
+
+  ( c ) Response to request. In response to a request received under this section, the Board shall:
+
+    ( 1 ) Direct the submitter to provide such additional information as the Board may deem necessary to complete the record for a full consideration of the issue presented; and
+
+    ( 2 ) Provide an advisory opinion within 45 days after the record on the request has been determined to be complete.
+
+## § 211.12 Lending limits and capital requirements.
+
+  ( a ) Acceptances of Edge corporations.
+
+    ( 1 ) Limitations. An Edge corporation shall be and remain fully secured for acceptances of the types described in section 13(7) of the FRA ( 12 U.S.C. 372 ), as follows:
+
+      ( i ) All acceptances outstanding in excess of 200 percent of its tier 1 capital; and
+
+      ( ii ) All acceptances outstanding for any one person in excess of 10 percent of its tier 1 capital.
+
+    ( 2 ) Exceptions. These limitations do not apply if the excess represents the international shipment of goods, and the Edge corporation is:
+
+      ( i ) Fully covered by primary obligations to reimburse it that are guaranteed by banks or bankers; or
+
+      ( ii ) Covered by participation agreements from other banks, as described in 12 CFR 250.165 .
+
+  ( b ) Loans and extensions of credit to one person —
+
+    ( 1 ) Loans and extensions of credit defined. Loans and extensions of credit has the meaning set forth in § 211.2(q) of this part [ 8 ] and, for purposes of this paragraph (b) , also include:
+
+      ( i ) Acceptances outstanding that are not of the types described in section 13(7) of the FRA ( 12 U.S.C. 372 );
+
+      ( ii ) Any liability of the lender to advance funds to or on behalf of a person pursuant to a guarantee, standby letter of credit, or similar agreements;
+
+      ( iii ) Investments in the securities of another organization other than a subsidiary; and
+
+      ( iv ) Any underwriting commitments to an issuer of securities, where no binding commitments have been secured from subunderwriters or other purchasers.
+
+    ( 2 ) Limitations. Except as the Board may otherwise specify:
+
+      ( i ) The total loans and extensions of credit outstanding to any person by an Edge corporation engaged in banking, and its direct or indirect subsidiaries, may not exceed 15 percent of the Edge corporation's tier 1 capital; [ 9 ] and
+
+      ( ii ) The total loans and extensions of credit to any person by a foreign bank or Edge corporation subsidiary of a member bank, and by majority-owned subsidiaries of a foreign bank or Edge corporation, when combined with the total loans and extensions of credit to the same person by the member bank and its majority-owned subsidiaries, may not exceed the member bank's limitation on loans and extensions of credit to one person.
+
+    ( 3 ) Exceptions. The limitations of paragraph (b)(2) of this section do not apply to:
+
+      ( i ) Deposits with banks and federal funds sold;
+
+      ( ii ) Bills or drafts drawn in good faith against actual goods and on which two or more unrelated parties are liable;
+
+      ( iii ) Any banker's acceptance, of the kind described in section 13(7) of the FRA ( 12 U.S.C. 372 ), that is issued and outstanding;
+
+      ( iv ) Obligations to the extent secured by cash collateral or by bonds, notes, certificates of indebtedness, or Treasury bills of the United States;
+
+      ( v ) Loans and extensions of credit that are covered by bona fide participation agreements; and
+
+      ( vi ) Obligations to the extent supported by the full faith and credit of the following:
+
+        ( A ) The United States or any of its departments, agencies, establishments, or wholly owned corporations (including obligations, to the extent insured against foreign political and credit risks by the Export-Import Bank of the United States or the Foreign Credit Insurance Association), the International Bank for Reconstruction and Development, the International Finance Corporation, the International Development Association, the Inter-American Development Bank, the African Development Bank, the Asian Development Bank, or the European Bank for Reconstruction and Development;
+
+        ( B ) Any organization, if at least 25 percent of such an obligation or of the total credit is also supported by the full faith and credit of, or participated in by, any institution designated in paragraph (b)(3)(vi)(A) of this section in such manner that default to the lender would necessarily include default to that entity. The total loans and extensions of credit under this paragraph (b)(3)(vi)(B) to any person shall at no time exceed 100 percent of the tier 1 capital of the Edge corporation.
+
+  ( c ) Capitalization.
+
+    ( 1 ) An Edge corporation shall at all times be capitalized in an amount that is adequate in relation to the scope and character of its activities.
+
+    ( 2 ) In the case of an Edge corporation engaged in banking, the minimum ratio of qualifying total capital to risk-weighted assets, as determined under the capital rule, shall not be less than 10 percent, of which at least 50 percent shall consist of tier 1 capital.
+
+    ( 3 ) For purposes of this paragraph (c) , no limitation shall apply on the inclusion of subordinated debt that qualifies as tier 2 capital under the capital rule.
+
+[ 8 ] In the case of a foreign government, these includes loans and extensions of credit to the foreign government's departments or agencies deriving their current funds principally from general tax revenues. In the case of a partnership or firm, these include loans and extensions of credit to its members and, in the case of a corporation, these include loans and extensions of credit to the corporation's affiliates, where the affiliate incurs the liability for the benefit of the corporation.
+
+[ 9 ] For purposes of this paragraph (b) , subsidiaries includes subsidiaries controlled by the Edge corporation, but does not include companies otherwise controlled by affiliates of the Edge corporation.
+
+## § 211.13 Supervision and reporting.
+
+  ( a ) Supervision —
+
+    ( 1 ) Foreign branches and subsidiaries. U.S. banking organizations conducting international operations under this subpart shall supervise and administer their foreign branches and subsidiaries in such a manner as to ensure that their operations conform to high standards of banking and financial prudence.
+
+      ( i ) Effective systems of records, controls, and reports shall be maintained to keep management informed of their activities and condition.
+
+      ( ii ) Such systems shall provide, in particular, information on risk assets, exposure to market risk, liquidity management, operations, internal controls, legal and operational risk, and conformance to management policies.
+
+      ( iii ) Reports on risk assets shall be sufficient to permit an appraisal of credit quality and assessment of exposure to loss, and, for this purpose, provide full information on the condition of material borrowers.
+
+      ( iv ) Reports on operations and controls shall include internal and external audits of the branch or subsidiary.
+
+    ( 2 ) Joint ventures. Investors shall maintain sufficient information with respect to joint ventures to keep informed of their activities and condition.
+
+      ( i ) Such information shall include audits and other reports on financial performance, risk exposure, management policies, operations, and controls.
+
+      ( ii ) Complete information shall be maintained on all transactions with the joint venture by the investor and its affiliates.
+
+    ( 3 ) Availability of reports and information to examiners. The reports specified in paragraphs (a)(1) and (2) of this section and any other information deemed necessary to determine compliance with U.S. banking law shall be made available to examiners of the appropriate bank supervisory agencies.
+
+  ( b ) Examinations. Examiners appointed by the Board shall examine each Edge corporation once a year. An Edge or agreement corporation shall make available to examiners information sufficient to assess its condition and operations and the condition and activities of any organization whose shares it holds.
+
+  ( c ) Reports —
+
+    ( 1 ) Reports of condition. Each Edge or agreement corporation shall make reports of condition to the Board at such times and in such form as the Board may prescribe. The Board may require that statements of condition or other reports be published or made available for public inspection.
+
+    ( 2 ) Foreign operations. Edge and agreement corporations, member banks, and bank holding companies shall file such reports on their foreign operations as the Board may require.
+
+    ( 3 ) Acquisition or disposition of shares. Member banks, Edge and agreement corporations, and bank holding companies shall report, in a manner prescribed by the Board, any acquisition or disposition of shares.
+
+  ( d ) Filing and processing procedures —
+
+    ( 1 ) Place of filing. Unless otherwise directed by the Board, applications, notices, and reports required by this part shall be filed with the Federal Reserve Bank of the District in which the parent bank or bank holding company is located or, if none, the Reserve Bank of the District in which the applying or reporting institution is located. Instructions and forms for applications, notices, and reports are available from the Reserve Banks.
+
+    ( 2 ) Timing. The Board shall act on an application under this subpart within 60 calendar days after the Reserve Bank has received the application, unless the Board notifies the investor that the 60-day period is being extended and states the reasons for the extension.
+
+## § 211.20 Authority, purpose, and scope.
+
+  ( a ) Authority. This subpart is issued by the Board of Governors of the Federal Reserve System (Board) under the authority of the Bank Holding Company Act of 1956 (BHC Act) ( 12 U.S.C. 1841 et seq. ) and the International Banking Act of 1978 (IBA) ( 12 U.S.C. 3101 et seq. ).
+
+  ( b ) Purpose and scope. This subpart is in furtherance of the purposes of the BHC Act and the IBA. It applies to foreign banks and foreign banking organizations with respect to:
+
+    ( 1 ) The limitations on interstate banking under section 5 of the IBA ( 12 U.S.C. 3103 );
+
+    ( 2 ) The exemptions from the nonbanking prohibitions of the BHC Act and the IBA afforded by sections 2(h) and 4(c)(9) of the BHC Act ( 12 U.S.C. 1841(h) , 1843(c)(9) );
+
+    ( 3 ) Board approval of the establishment of an office of a foreign bank in the United States under sections 7(d) and 10(a) of the IBA ( 12 U.S.C. 3105(d) , 3107(a) );
+
+    ( 4 ) The termination by the Board of a foreign bank's representative office, state branch, state agency, or commercial lending company subsidiary under sections 7(e) and 10(b) of the IBA ( 12 U.S.C. 3105(e) , 3107(b) ), and the transmission of a recommendation to the Comptroller to terminate a federal branch or federal agency under section 7(e)(5) of the IBA ( 12 U.S.C. 3105(e)(5) );
+
+    ( 5 ) The examination of an office or affiliate of a foreign bank in the United States as provided in sections 7(c) and 10(c) of the IBA ( 12 U.S.C. 3105(c) , 3107(c) );
+
+    ( 6 ) The disclosure of supervisory information to a foreign supervisor under section 15 of the IBA ( 12 U.S.C. 3109 );
+
+    ( 7 ) The limitations on loans to one borrower by state branches and state agencies of a foreign bank under section 7(h)(2) of the IBA ( 12 U.S.C. 3105(h)(2) );
+
+    ( 8 ) The limitation of a state branch and a state agency to conducting only activities that are permissible for a federal branch under section (7)(h)(1) of the IBA ( 12 U.S.C. 3105(h)(1) ); and
+
+    ( 9 ) The deposit insurance requirement for retail deposit taking by a foreign bank under section 6 of the IBA ( 12 U.S.C. 3104 ).
+
+    ( 10 ) The management of shell branches ( 12 U.S.C. 3105(k) ).
+
+  ( c ) Additional requirements. Compliance by a foreign bank with the requirements of this subpart and the laws administered and enforced by the Board does not relieve the foreign bank of responsibility to comply with the laws and regulations administered by the licensing authority.
+
+## § 211.21 Definitions.
+
+The definitions contained in §§ 211.1 and 211.2 apply to this subpart, except as a term is otherwise defined in this section:
+
+  ( a ) Affiliate of a foreign bank or of a parent of a foreign bank means any company that controls, is controlled by, or is under common control with, the foreign bank or the parent of the foreign bank.
+
+  ( b ) Agency means any place of business of a foreign bank, located in any state, at which credit balances are maintained, checks are paid, money is lent, or, to the extent not prohibited by state or federal law, deposits are accepted from a person or entity that is not a citizen or resident of the United States. Obligations shall not be considered credit balances unless they are:
+
+    ( 1 ) Incidental to, or arise out of the exercise of, other lawful banking powers;
+
+    ( 2 ) To serve a specific purpose;
+
+    ( 3 ) Not solicited from the general public;
+
+    ( 4 ) Not used to pay routine operating expenses in the United States such as salaries, rent, or taxes;
+
+    ( 5 ) Withdrawn within a reasonable period of time after the specific purpose for which they were placed has been accomplished; and
+
+    ( 6 ) Drawn upon in a manner reasonable in relation to the size and nature of the account.
+
+  ( c )
+
+    ( 1 ) Appropriate Federal Reserve Bank means, unless the Board designates a different Federal Reserve Bank:
+
+      ( i ) For a foreign banking organization, the Reserve Bank assigned to the foreign banking organization in § 225.3(b)(2) of Regulation Y ( 12 CFR 225.3(b)(2) );
+
+      ( ii ) For a foreign bank that is not a foreign banking organization and proposes to establish an office, an Edge corporation, or an agreement corporation, the Reserve Bank of the Federal Reserve District in which the foreign bank proposes to establish such office or corporation; and
+
+      ( iii ) In all other cases, the Reserve Bank designated by the Board.
+
+    ( 2 ) The appropriate Federal Reserve Bank need not be the Reserve Bank of the Federal Reserve District in which the foreign bank's home state is located.
+
+  ( d ) Banking subsidiary, with respect to a specified foreign bank, means a bank that is a subsidiary as the terms bank and subsidiary are defined in section 2 of the BHC Act ( 12 U.S.C. 1841 ).
+
+  ( e ) Branch means any place of business of a foreign bank, located in any state, at which deposits are received, and that is not an agency, as that term is defined in paragraph (b) of this section.
+
+  ( f ) Change the status of an office means to convert a representative office into a branch or agency, or an agency or limited branch into a branch, but does not include renewal of the license of an existing office.
+
+  ( g ) Commercial lending company means any organization, other than a bank or an organization operating under section 25 of the Federal Reserve Act (FRA) ( 12 U.S.C. 601-604a ), organized under the laws of any state, that maintains credit balances permissible for an agency, and engages in the business of making commercial loans. Commercial lending company includes any company chartered under article XII of the banking law of the State of New York.
+
+  ( h ) Comptroller means the Office of the Comptroller of the Currency.
+
+  ( i ) Control has the same meaning as in section 2(a) of the BHC Act ( 12 U.S.C. 1841(a) ), and the terms controlled and controlling shall be construed consistently with the term control.
+
+  ( j ) Domestic branch means any place of business of a foreign bank, located in any state, that may accept domestic deposits and deposits that are incidental to or for the purpose of carrying out transactions in foreign countries.
+
+  ( k ) A foreign bank engages directly in the business of banking outside the United States if the foreign bank engages directly in banking activities usual in connection with the business of banking in the countries where it is organized or operating.
+
+  ( l ) To establish means:
+
+    ( 1 ) To open and conduct business through an office;
+
+    ( 2 ) To acquire directly, through merger, consolidation, or similar transaction with another foreign bank, the operations of an office that is open and conducting business;
+
+    ( 3 ) To acquire an office through the acquisition of a foreign bank subsidiary that will cease to operate in the same corporate form following the acquisition;
+
+    ( 4 ) To change the status of an office; or
+
+    ( 5 ) To relocate an office from one state to another.
+
+  ( m ) Federal agency, federal branch, state agency, and state branch have the same meanings as in section 1 of the IBA ( 12 U.S.C. 3101 ).
+
+  ( n ) Foreign bank means an organization that is organized under the laws of a foreign country and that engages directly in the business of banking outside the United States. The term foreign bank does not include a central bank of a foreign country that does not engage or seek to engage in a commercial banking business in the United States through an office.
+
+  ( o ) Foreign banking organization means:
+
+    ( 1 ) A foreign bank, as defined in section 1(b)(7) of the IBA ( 12 U.S.C. 3101(7) ), that:
+
+      ( i ) Operates a branch, agency, or commercial lending company subsidiary in the United States;
+
+      ( ii ) Controls a bank in the United States; or
+
+      ( iii ) Controls an Edge corporation acquired after March 5, 1987; and
+
+    ( 2 ) Any company of which the foreign bank is a subsidiary.
+
+  ( p ) Home country, with respect to a foreign bank, means the country in which the foreign bank is chartered or incorporated.
+
+  ( q ) Home country supervisor, with respect to a foreign bank, means the governmental entity or entities in the foreign bank's home country with responsibility for the supervision and regulation of the foreign bank.
+
+  ( r ) Licensing authority means:
+
+    ( 1 ) The relevant state supervisor, with respect to an application to establish a state branch, state agency, commercial lending company, or representative office of a foreign bank; or
+
+    ( 2 ) The Comptroller, with respect to an application to establish a federal branch or federal agency.
+
+  ( s ) Limited branch means a branch of a foreign bank that receives only such deposits as would be permitted for a corporation organized under section 25A of the Federal Reserve Act ( 12 U.S.C. 611-631 ).
+
+  ( t ) Office or office of a foreign bank means any branch, agency, representative office, or commercial lending company subsidiary of a foreign bank in the United States.
+
+  ( u ) A parent of a foreign bank means a company of which the foreign bank is a subsidiary. An immediate parent of a foreign bank is a company of which the foreign bank is a direct subsidiary. An ultimate parent of a foreign bank is a parent of the foreign bank that is not the subsidiary of any other company.
+
+  ( v ) Regional administrative office means a representative office that:
+
+    ( 1 ) Is established by a foreign bank that operates two or more branches, agencies, commercial lending companies, or banks in the United States;
+
+    ( 2 ) Is located in the same city as one or more of the foreign bank's branches, agencies, commercial lending companies, or banks in the United States;
+
+    ( 3 ) Manages, supervises, or coordinates the operations of the foreign bank or its affiliates, if any, in a particular geographic area that includes the United States or a region thereof, including by exercising credit approval authority in that area pursuant to written standards, credit policies, and procedures established by the foreign bank; and
+
+    ( 4 ) Does not solicit business from actual or potential customers of the foreign bank or its affiliates.
+
+  ( w ) Relevant state supervisor means the state entity that is authorized to supervise and regulate a state branch, state agency, commercial lending company, or representative office.
+
+  ( x ) Representative office means any office of a foreign bank which is located in any state and is not a Federal branch, Federal agency, State branch, State agency, or commercial lending company subsidiary.
+
+  ( y ) State means any state of the United States or the District of Columbia.
+
+  ( z ) Subsidiary means any organization that:
+
+    ( 1 ) Has 25 percent or more of its voting shares directly or indirectly owned, controlled, or held with the power to vote by a company, including a foreign bank or foreign banking organization; or
+
+    ( 2 ) Is otherwise controlled, or capable of being controlled, by a foreign bank or foreign banking organization.
+
+## § 211.22 Interstate banking operations of foreign banking organizations.
+
+  ( a ) Determination of home state.
+
+    ( 1 ) A foreign bank that, as of December 10, 1997, had declared a home state or had a home state determined pursuant to the law and regulations in effect prior to that date shall have that state as its home state.
+
+    ( 2 ) A foreign bank that has any branches, agencies, commercial lending company subsidiaries, or subsidiary banks in one state, and has no such offices or subsidiaries in any other states, shall have as its home state the state in which such offices or subsidiaries are located.
+
+  ( b ) Change of home state —
+
+    ( 1 ) Prior notice. A foreign bank may change its home state once, if it files 30 days' prior notice of the proposed change with the Board.
+
+    ( 2 ) Application to change home state.
+
+      ( i ) A foreign bank, in addition to changing its home state by filing prior notice under paragraph (b)(1) of this section, may apply to the Board to change its home state, upon showing that a national bank or state-chartered bank with the same home state as the foreign bank would be permitted to change its home state to the new home state proposed by the foreign bank.
+
+      ( ii ) A foreign bank may apply to the Board for such permission one or more times.
+
+      ( iii ) In determining whether to grant the request of a foreign bank to change its home state, the Board shall consider whether the proposed change is consistent with competitive equity between foreign and domestic banks.
+
+    ( 3 ) Effect of change in home state. The home state of a foreign bank and any change in its home state by a foreign bank shall not affect which Federal Reserve Bank or Reserve Banks supervise the operations of the foreign bank, and shall not affect the obligation of the foreign bank to file required reports and applications with the appropriate Federal Reserve Bank.
+
+    ( 4 ) Conforming branches to new home state. Upon any change in home state by a foreign bank under paragraph (b)(1) or (b)(2) of this section, the domestic branches of the foreign bank established in reliance on any previous home state of the foreign bank shall be conformed to those which a foreign bank with the new home state could permissibly establish or operate as of the date of such change.
+
+  ( c ) Prohibition against interstate deposit production offices. A covered interstate branch of a foreign bank may not be used as a deposit production office in accordance with the provisions in § 208.7 of Regulation H ( 12 CFR 208.7 ).
+
+## § 211.23 Nonbanking activities of foreign banking organizations.
+
+  ( a ) Qualifying foreign banking organizations. Unless specifically made eligible for the exemptions by the Board, a foreign banking organization shall qualify for the exemptions afforded by this section only if, disregarding its United States banking, more than half of its worldwide business is banking; and more than half of its banking business is outside the United States. [ 10 ] In order to qualify, a foreign banking organization shall:
+
+    ( 1 ) Meet at least two of the following requirements:
+
+      ( i ) Banking assets held outside the United States exceed total worldwide nonbanking assets;
+
+      ( ii ) Revenues derived from the business of banking outside the United States exceed total revenues derived from its worldwide nonbanking business; or
+
+      ( iii ) Net income derived from the business of banking outside the United States exceeds total net income derived from its worldwide nonbanking business; and
+
+    ( 2 ) Meet at least two of the following requirements:
+
+      ( i ) Banking assets held outside the United States exceed banking assets held in the United States;
+
+      ( ii ) Revenues derived from the business of banking outside the United States exceed revenues derived from the business of banking in the United States; or
+
+      ( iii ) Net income derived from the business of banking outside the United States exceeds net income derived from the business of banking in the United States.
+
+  ( b ) Determining assets, revenues, and net income.
+
+    ( 1 )
+
+      ( i ) For purposes of paragraph (a) of this section, the total assets, revenues, and net income of an organization may be determined on a consolidated or combined basis.
+
+      ( ii ) The foreign banking organization shall include assets, revenues, and net income of companies in which it owns 50 percent or more of the voting shares when determining total assets, revenues, and net income.
+
+      ( iii ) The foreign banking organization may include assets, revenues, and net income of companies in which it owns 25 percent or more of the voting shares, if all such companies within the organization are included.
+
+    ( 2 ) Assets devoted to, or revenues or net income derived from, activities listed in § 211.10(a) shall be considered banking assets, or revenues or net income derived from the banking business, when conducted within the foreign banking organization by a foreign bank or its subsidiaries.
+
+  ( c ) Limited exemptions available to foreign banking organizations in certain circumstances. The following shall apply where a foreign bank meets the requirements of paragraph (a) of this section but its ultimate parent does not:
+
+    ( 1 ) Such foreign bank shall be entitled to the exemptions available to a qualifying foreign banking organization if its ultimate parent meets the requirements set forth in paragraph (a)(2) of this section and could meet the requirements in paragraph (a)(1) of this section but for the requirement in paragraph (b)(2) of this section that activities must be conducted by the foreign bank or its subsidiaries in order to be considered derived from the banking business;
+
+    ( 2 ) An ultimate parent as described in paragraph (c)(1) of this section shall be eligible for the exemptions available to a qualifying foreign banking organization except for those provided in § 211.23(f)(5)(iii) .
+
+  ( d ) Loss of eligibility for exemptions —
+
+    ( 1 ) Failure to meet qualifying test. A foreign banking organization that qualified under paragraph (a) or (c) of this section shall cease to be eligible for the exemptions of this section if it fails to meet the requirements of paragraphs (a) or (c) of this section for two consecutive years, as reflected in its annual reports (FR Y-7) filed with the Board.
+
+    ( 2 ) Continuing activities and investments.
+
+      ( i ) A foreign banking organization that ceases to be eligible for the exemptions of this section may continue to engage in activities or retain investments commenced or acquired prior to the end of the first fiscal year for which its annual report reflects nonconformance with paragraph (a) or (c) of this section.
+
+      ( ii ) Termination or divestiture. Activities commenced or investments made after that date shall be terminated or divested within three months of the filing of the second annual report, or at such time as the Board may determine upon request by the foreign banking organization to extend the period, unless the Board grants consent to continue the activity or retain the investment under paragraph (e) of this section.
+
+    ( 3 ) Request for specific determination of eligibility.
+
+      ( i ) A foreign banking organization that ceases to qualify under paragraph (a) or (c) of this section, or an affiliate of such foreign banking organization, that requests a specific determination of eligibility under paragraph (e) of this section may, prior to the Board's determination on eligibility, continue to engage in activities and make investments under the provisions of paragraphs (f)(1) , (2) , (3) , and (4) of this section.
+
+      ( ii ) The Board may grant consent for the foreign banking organization or its affiliate to make investments under paragraph (f)(5) of this section.
+
+  ( e ) Specific determination of eligibility for organizations that do not qualify for the exemptions —
+
+    ( 1 ) Application.
+
+      ( i ) A foreign organization that is not a foreign banking organization or a foreign banking organization that does not qualify under paragraph (a) or (c) of this section for some or all of the exemptions afforded by this section, or that has lost its eligibility for the exemptions under paragraph (d) of this section, may apply to the Board for a specific determination of eligibility for some or all of the exemptions.
+
+      ( ii ) A foreign banking organization may apply for a specific determination prior to the time it ceases to be eligible for the exemptions afforded by this section.
+
+    ( 2 ) Factors considered by Board. In determining whether eligibility for the exemptions would be consistent with the purposes of the BHC Act and in the public interest, the Board shall consider:
+
+      ( i ) The history and the financial and managerial resources of the foreign organization or foreign banking organization;
+
+      ( ii ) The amount of its business in the United States;
+
+      ( iii ) The amount, type, and location of its nonbanking activities, including whether such activities may be conducted by U.S. banks or bank holding companies;
+
+      ( iv ) Whether eligibility of the foreign organization or foreign banking organization would result in undue concentration of resources, decreased or unfair competition, conflicts of interests, or unsound banking practices; and
+
+      ( v ) The extent to which the foreign banking organization is subject to comprehensive supervision or regulation on a consolidated basis or the foreign organization is subject to oversight by regulatory authorities in its home country.
+
+    ( 3 ) Conditions and limitations. The Board may impose any conditions and limitations on a determination of eligibility, including requirements to cease activities or dispose of investments.
+
+    ( 4 ) Eligibility not granted. Determinations of eligibility generally would not be granted where a majority of the business of the foreign organization or foreign banking organization derives from commercial or industrial activities.
+
+  ( f ) Permissible activities and investments. A foreign banking organization that qualifies under paragraph (a) of this section may:
+
+    ( 1 ) Engage in activities of any kind outside the United States;
+
+    ( 2 ) Engage directly in activities in the United States that are incidental to its activities outside the United States;
+
+    ( 3 ) Own or control voting shares of any company that is not engaged, directly or indirectly, in any activities in the United States, other than those that are incidental to the international or foreign business of such company;
+
+    ( 4 ) Own or control voting shares of any company in a fiduciary capacity under circumstances that would entitle such shareholding to an exemption under section 4(c)(4) of the BHC Act ( 12 U.S.C. 1843(c)(4) ) if the shares were held or acquired by a bank;
+
+    ( 5 ) Own or control voting shares of a foreign company that is engaged directly or indirectly in business in the United States other than that which is incidental to its international or foreign business, subject to the following limitations:
+
+      ( i ) More than 50 percent of the foreign company's consolidated assets shall be located, and consolidated revenues derived from, outside the United States; provided that, if the foreign company fails to meet the requirements of this paragraph (f)(5)(i) for two consecutive years (as reflected in annual reports (FR Y-7) filed with the Board by the foreign banking organization), the foreign company shall be divested or its activities terminated within one year of the filing of the second consecutive annual report that reflects nonconformance with the requirements of this paragraph (f)(5)(i) , unless the Board grants consent to retain the investment under paragraph (g) of this section;
+
+      ( ii ) The foreign company shall not directly underwrite, sell, or distribute, nor own or control more than 10 percent of the voting shares of a company that underwrites, sells, or distributes securities in the United States, except to the extent permitted bank holding companies;
+
+      ( iii ) If the foreign company is a subsidiary of the foreign banking organization, the foreign company must be, or must control, an operating company, and its direct or indirect activities in the United States shall be subject to the following limitations:
+
+        ( A ) The foreign company's activities in the United States shall be the same kind of activities, or related to the activities, engaged in directly or indirectly by the foreign company abroad, as measured by the “establishment” categories of the Standard Industrial Classification (SIC). An activity in the United States shall be considered related to an activity outside the United States if it consists of supply, distribution, or sales in furtherance of the activity;
+
+        ( B ) The foreign company may engage in activities in the United States that consist of banking, securities, insurance, or other financial operations, or types of activities permitted by regulation or order under section 4(c)(8) of the BHC Act ( 12 U.S.C. 1843(c)(8) ), only under regulations of the Board or with the prior approval of the Board, subject to the following;
+
+          ( 1 ) Activities within Division H (Finance, Insurance, and Real Estate) of the SIC shall be considered banking or financial operations for this purpose, with the exception of acting as operators of nonresidential buildings (SIC 6512), operators of apartment buildings (SIC 6513), operators of dwellings other than apartment buildings (SIC 6514), and operators of residential mobile home sites (SIC 6515); and operating title abstract offices (SIC 6541); and
+
+          ( 2 ) The following activities shall be considered financial activities and may be engaged in only with the approval of the Board under paragraph (g) of this section: credit reporting services (SIC 7323); computer and data processing services (SIC 7371, 7372, 7373, 7374, 7375, 7376, 7377, 7378, and 7379); armored car services (SIC 7381); management consulting (SIC 8732, 8741, 8742, and 8748); certain rental and leasing activities (SIC 4741, 7352, 7353, 7359, 7513, 7514, 7515, and 7519); accounting, auditing, and bookkeeping services (SIC 8721); courier services (SIC 4215 and 4513); and arrangement of passenger transportation (SIC 4724, 4725, and 4729).
+
+  ( g ) Exemptions under section 4(c)(9) of the BHC Act. A foreign banking organization that is of the opinion that other activities or investments may, in particular circumstances, meet the conditions for an exemption under section 4(c)(9) of the BHC Act ( 12 U.S.C. 1843(c)(9) ) may apply to the Board for such a determination by submitting to the appropriate Federal Reserve Bank a letter setting forth the basis for that opinion.
+
+  ( h ) Reports. The foreign banking organization shall report in a manner prescribed by the Board any direct activities in the United States by a foreign subsidiary of the foreign banking organization and the acquisition of all shares of companies engaged, directly or indirectly, in activities in the United States that were acquired under the authority of this section.
+
+  ( i ) Availability of information. If any information required under this section is unknown and not reasonably available to the foreign banking organization (either because obtaining it would involve unreasonable effort or expense, or because it rests exclusively within the knowledge of a company that is not controlled by the organization) the organization shall:
+
+    ( 1 ) Give such information on the subject as it possesses or can reasonably acquire, together with the sources thereof; and
+
+    ( 2 ) Include a statement showing that unreasonable effort or expense would be involved, or indicating that the company whose shares were acquired is not controlled by the organization, and stating the result of a request for information.
+
+[ 10 ] None of the assets, revenues, or net income, whether held or derived directly or indirectly, of a subsidiary bank, branch, agency, commercial lending company, or other company engaged in the business of banking in the United States (including any territory of the United States, Puerto Rico, Guam, American Samoa, or the Virgin Islands) shall be considered held or derived from the business of banking “outside the United States”.
+
+## § 211.24 Approval of offices of foreign banks; procedures for applications; standards for approval; representative office activities and standards for approval; preservation of existing authority.
+
+  ( a ) Board approval of offices of foreign banks —
+
+    ( 1 ) Prior Board approval of branches, agencies, commercial lending companies, or representative offices of foreign banks.
+
+      ( i ) Except as otherwise provided in paragraphs (a)(2) and (a)(3) of this section, a foreign bank shall obtain the approval of the Board before it:
+
+        ( A ) Establishes a branch, agency, commercial lending company subsidiary, or representative office in the United States; or
+
+        ( B ) Acquires ownership or control of a commercial lending company subsidiary.
+
+    ( 2 ) Prior notice for certain offices.
+
+      ( i ) After providing 45 days' prior written notice to the Board, a foreign bank may establish:
+
+        ( A ) An additional office (other than a domestic branch outside the home state of the foreign bank established pursuant to section 5(a)(3) of the IBA ( 12 U.S.C. 3103(a)(3) )), provided that the Board has previously determined the foreign bank to be subject to comprehensive supervision or regulation on a consolidated basis by its home country supervisor ( comprehensive consolidated supervision or CCS ); or
+
+        ( B ) A representative office, if:
+
+          ( 1 ) The Board has not yet determined the foreign bank to be subject to consolidated comprehensive supervision, but the foreign bank is subject to the BHC Act, either directly or through section 8(a) of the IBA ( 12 U.S.C. 3106(a) ); or
+
+          ( 2 ) The Board previously has approved an application by the foreign bank to establish a branch or agency pursuant to the standard set forth in paragraph (c)(1)(iii) of this section; or
+
+          ( 3 ) The Board previously has approved an application by the foreign bank to establish a representative office.
+
+      ( ii ) The Board may waive the 45-day notice period if it finds that immediate action is required by the circumstances presented. The notice period shall commence at the time the notice is received by the appropriate Federal Reserve Bank. The Board may suspend the period or require Board approval prior to the establishment of such office if the notification raises significant policy or supervisory concerns.
+
+    ( 3 ) General consent for certain representative offices.
+
+      ( i ) The Board grants its general consent for a foreign bank that is subject to the BHC Act, either directly or through section 8(a) of the IBA ( 12 U.S.C. 3106(a) ), to establish:
+
+        ( A ) A representative office, but only if the Board has previously determined that the foreign bank proposing to establish a representative office is subject to consolidated comprehensive supervision;
+
+        ( B ) A regional administrative office; or
+
+        ( C ) An office that solely engages in limited administrative functions (such as separately maintaining back-office support systems) that:
+
+          ( 1 ) Are clearly defined;
+
+          ( 2 ) Are performed in connection with the U.S. banking activities of the foreign bank; and
+
+          ( 3 ) Do not involve contact or liaison with customers or potential customers, beyond incidental contact with existing customers relating to administrative matters (such as verification or correction of account information).
+
+    ( 4 ) Suspension of general consent or prior notice procedures. The Board may, at any time, upon notice, modify or suspend the prior notice and general consent procedures in paragraphs (a)(2) and (3) of this section for any foreign bank with respect to the establishment by such foreign bank of any U.S. office of such foreign bank.
+
+    ( 5 ) Temporary offices. The Board may, in its discretion, determine that a foreign bank has not established an office if the foreign bank temporarily operates at one or more additional locations in the same city of an existing branch or agency due to renovations, an expansion of activities, a merger or consolidation of the operations of affiliated foreign banks or companies, or other similar circumstances. The foreign bank must provide reasonable advance notice of its intent temporarily to utilize additional locations, and the Board may impose such conditions in connection with its determination as it deems necessary.
+
+    ( 6 ) After-the-fact Board approval. Where a foreign bank proposes to establish an office in the United States through the acquisition of, or merger or consolidation with, another foreign bank with an office in the United States, the Board may, in its discretion, allow the acquisition, merger, or consolidation to proceed before an application to establish the office has been filed or acted upon under this section if:
+
+      ( i ) The foreign bank or banks resulting from the acquisition, merger, or consolidation, will not directly or indirectly own or control more than 5 percent of any class of the voting securities of, or control, a U.S. bank;
+
+      ( ii ) The Board is given reasonable advance notice of the proposed acquisition, merger, or consolidation; and
+
+      ( iii ) Prior to consummation of the acquisition, merger, or consolidation, each foreign bank, as appropriate, commits in writing either:
+
+        ( A ) To comply with the procedures for an application under this section within a reasonable period of time; to engage in no new lines of business, or otherwise to expand its U.S. activities until the disposition of the application; and to abide by the Board's decision on the application, including, if necessary, a decision to terminate the activities of any such U.S. office, as the Board or the Comptroller may require; or
+
+        ( B ) Promptly to wind-down and close any office, the establishment of which would have required an application under this section; and to engage in no new lines of business or otherwise to expand its U.S. activities prior to the closure of such office.
+
+    ( 7 ) Notice of change in ownership or control or conversion of existing office or establishment of representative office under general-consent authority. A foreign bank with a U.S. office shall notify the Board in writing within 10 days of the occurrence of any of the following events:
+
+      ( i ) A change in the foreign bank's ownership or control, where the foreign bank is acquired or controlled by another foreign bank or company and the acquired foreign bank with a U.S. office continues to operate in the same corporate form as prior to the change in ownership or control;
+
+      ( ii ) The conversion of a branch to an agency or representative office; an agency to a representative office; or a branch or agency from a federal to a state license, or a state to a federal license; or
+
+      ( iii ) The establishment of a representative office under general-consent authority.
+
+    ( 8 ) Transactions subject to approval under Regulation Y. Subpart B of Regulation Y ( 12 CFR 225.11-225.17 ) governs the acquisition by a foreign banking organization of direct or indirect ownership or control of any voting securities of a bank or bank holding company in the United States if the acquisition results in the foreign banking organization's ownership or control of more than 5 percent of any class of voting securities of a U.S. bank or bank holding company, including through acquisition of a foreign bank or foreign banking organization that owns or controls more than 5 percent of any class of the voting securities of a U.S. bank or bank holding company.
+
+  ( b ) Procedures for application —
+
+    ( 1 ) Filing application. An application for the Board's approval pursuant to this section shall be filed in the manner prescribed by the Board.
+
+    ( 2 ) Publication requirement —
+
+      ( i ) Newspaper notice. Except with respect to a proposed transaction where more extensive notice is required by statute or as otherwise provided in paragraphs (b)(2)(ii) and (iii) of this section, an applicant under this section shall publish a notice in a newspaper of general circulation in the community in which the applicant proposes to engage in business.
+
+      ( ii ) Contents of notice. The newspaper notice shall:
+
+        ( A ) State that an application is being filed as of the date of the newspaper notice; and
+
+        ( B ) Provide the name of the applicant, the subject matter of the application, the place where comments should be sent, and the date by which comments are due, pursuant to paragraph (b)(3) of this section.
+
+      ( iii ) Copy of notice with application. The applicant shall furnish with its application to the Board a copy of the newspaper notice, the date of its publication, and the name and address of the newspaper in which it was published.
+
+      ( iv ) Exception. The Board may modify the publication requirement of paragraphs (b)(2)(i) and (ii) of this section in appropriate circumstances.
+
+      ( v ) Federal branch or federal agency. In the case of an application to establish a federal branch or federal agency, compliance with the publication procedures of the Comptroller shall satisfy the publication requirement of this section. Comments regarding the application should be sent to the Board and the Comptroller.
+
+    ( 3 ) Written comments.
+
+      ( i ) Within 30 days after publication, as required in paragraph (b)(2) of this section, any person may submit to the Board written comments and data on an application.
+
+      ( ii ) The Board may extend the 30-day comment period if the Board determines that additional relevant information is likely to be provided by interested persons, or if other extenuating circumstances exist.
+
+    ( 4 ) Board action on application —
+
+      ( i ) Time limits.
+
+        ( A ) The Board shall act on an application from a foreign bank to establish a branch, agency, or commercial lending company subsidiary within 180 calendar days after the receipt of the application.
+
+        ( B ) The Board may extend for an additional 180 calendar days the period within which to take final action, after providing notice of and reasons for the extension to the applicant and the licensing authority.
+
+        ( C ) The time periods set forth in this paragraph (b)(4)(i) may be waived by the applicant.
+
+      ( ii ) Additional information. The Board may request any information in addition to that supplied in the application when the Board believes that the information is necessary for its decision, and may deny an application if it does not receive the information requested from the applicant or its home country supervisor in sufficient time to permit adequate evaluation of the information within the time periods set forth in paragraph (b)(4)(i) of this section.
+
+    ( 5 ) Coordination with other regulators. Upon receipt of an application by a foreign bank under this section, the Board shall promptly notify, consult with, and consider the views of the licensing authority.
+
+  ( c ) Standards for approval of U.S. offices of foreign banks —
+
+    ( 1 ) Mandatory standards —
+
+      ( i ) General. As specified in section 7(d) of the IBA ( 12 U.S.C. 3105(d) ), the Board may not approve an application to establish a branch or an agency, or to establish or acquire ownership or control of a commercial lending company, unless it determines that:
+
+        ( A ) Each of the foreign bank and any parent foreign bank engages directly in the business of banking outside the United States and, except as provided in paragraph (c)(1)(iii) of this section, is subject to comprehensive supervision or regulation on a consolidated basis by its home country supervisor; and
+
+        ( B ) The foreign bank has furnished to the Board the information that the Board requires in order to assess the application adequately.
+
+      ( ii ) Basis for determining comprehensive consolidated supervision. In determining whether a foreign bank and any parent foreign bank is subject to comprehensive consolidated supervision, the Board shall determine whether the foreign bank is supervised or regulated in such a manner that its home country supervisor receives sufficient information on the worldwide operations of the foreign bank (including the relationships of the bank to any affiliate) to assess the foreign bank's overall financial condition and compliance with law and regulation. In making such a determination, the Board shall assess, among other factors, the extent to which the home country supervisor:
+
+        ( A ) Ensures that the foreign bank has adequate procedures for monitoring and controlling its activities worldwide;
+
+        ( B ) Obtains information on the condition of the foreign bank and its subsidiaries and offices outside the home country through regular reports of examination, audit reports, or otherwise;
+
+        ( C ) Obtains information on the dealings and relationship between the foreign bank and its affiliates, both foreign and domestic;
+
+        ( D ) Receives from the foreign bank financial reports that are consolidated on a worldwide basis, or comparable information that permits analysis of the foreign bank's financial condition on a worldwide, consolidated basis;
+
+        ( E ) Evaluates prudential standards, such as capital adequacy and risk asset exposure, on a worldwide basis.
+
+      ( iii ) Determination of comprehensive consolidated supervision not required in certain circumstances.
+
+        ( A ) If the Board is unable to find, under paragraph (c)(1)(i) of this section, that a foreign bank is subject to comprehensive consolidated supervision, the Board may, nevertheless, approve an application by the foreign bank if:
+
+          ( 1 ) The home country supervisor is actively working to establish arrangements for the consolidated supervision of such bank; and
+
+          ( 2 ) All other factors are consistent with approval.
+
+        ( B ) In deciding whether to use its discretion under this paragraph (c)(1)(iii) , the Board also shall consider whether the foreign bank has adopted and implemented procedures to combat money laundering. The Board also may take into account whether the home country supervisor is developing a legal regime to address money laundering or is participating in multilateral efforts to combat money laundering. In approving an application under this paragraph (c)(1)(iii) , the Board, after requesting and taking into consideration the views of the licensing authority, may impose any conditions or restrictions relating to the activities or business operations of the proposed branch, agency, or commercial lending company subsidiary, including restrictions on sources of funding. The Board shall coordinate with the licensing authority in the implementation of such conditions or restrictions.
+
+    ( 2 ) Additional standards. In acting on any application under this subpart, the Board may take into account:
+
+      ( i ) Consent of home country supervisor. Whether the home country supervisor of the foreign bank has consented to the proposed establishment of the branch, agency, or commercial lending company subsidiary;
+
+      ( ii ) Financial resources. The financial resources of the foreign bank (including the foreign bank's capital position, projected capital position, profitability, level of indebtedness, and future prospects) and the condition of any U.S. office of the foreign bank;
+
+      ( iii ) Managerial resources. The managerial resources of the foreign bank, including the competence, experience, and integrity of the officers and directors; the integrity of its principal shareholders; management's experience and capacity to engage in international banking; and the record of the foreign bank and its management of complying with laws and regulations, and of fulfilling any commitments to, and any conditions imposed by, the Board in connection with any prior application;
+
+      ( iv ) Sharing information with supervisors. Whether the foreign bank's home country supervisor and the home country supervisor of any parent of the foreign bank share material information regarding the operations of the foreign bank with other supervisory authorities;
+
+      ( v ) Assurances to Board.
+
+        ( A ) Whether the foreign bank has provided the Board with adequate assurances that information will be made available to the Board on the operations or activities of the foreign bank and any of its affiliates that the Board deems necessary to determine and enforce compliance with the IBA, the BHC Act, and other applicable federal banking statutes.
+
+        ( B ) These assurances shall include a statement from the foreign bank describing the laws that would restrict the foreign bank or any of its parents from providing information to the Board;
+
+      ( vi ) Measures for prevention of money laundering. Whether the foreign bank has adopted and implemented procedures to combat money laundering, whether there is a legal regime in place in the home country to address money laundering, and whether the home country is participating in multilateral efforts to combat money laundering;
+
+      ( vii ) Compliance with U.S. law. Whether the foreign bank and its U.S. affiliates are in compliance with applicable U.S. law, and whether the applicant has established adequate controls and procedures in each of its offices to ensure continuing compliance with U.S. law, including controls directed to detection of money laundering and other unsafe or unsound banking practices; and
+
+      ( viii ) The needs of the community and the history of operation of the foreign bank and its relative size in its home country, provided that the size of the foreign bank is not the sole factor in determining whether an office of a foreign bank should be approved.
+
+    ( 3 ) Additional standards for certain interstate applications.
+
+      ( i ) As specified in section 5(a)(3) of the IBA ( 12 U.S.C. 3103(a)(3) ), the Board may not approve an application by a foreign bank to establish a branch, other than a limited branch, outside the home state of the foreign bank under section 5(a)(1) or (2) of the IBA ( 12 U.S.C. 3103(a)(1) , (2)) unless the Board:
+
+        ( A ) Determines that the foreign bank's financial resources, including the capital level of the bank, are equivalent to those required for a domestic bank to be approved for branching under section 5155 of the Revised Statutes ( 12 U.S.C. 36 ) and section 44 of the Federal Deposit Insurance Act (FDIA) ( 12 U.S.C. 1831u );
+
+        ( B ) Consults with the Department of the Treasury regarding capital equivalency;
+
+        ( C ) Applies the standards specified in section 7(d) of the IBA ( 12 U.S.C. 3105(d) ) and this paragraph (c) ; and
+
+        ( D ) Applies the same requirements and conditions to which an application by a domestic bank for an interstate merger is subject under section 44(b)(1), (3), and (4) of the FDIA ( 12 U.S.C. 1831u(b)(1) , (3), (4)); and
+
+      ( ii ) As specified in section 5(a)(7) of the IBA ( 12 U.S.C. 3103(a)(7) ), the Board may not approve an application to establish a branch through a change in status of an agency or limited branch outside the foreign bank's home state unless:
+
+        ( A ) The establishment and operation of such branch is permitted by such state; and
+
+        ( B ) Such agency or branch has been in operation in such state for a period of time that meets the state's minimum age requirement permitted under section 44(a)(5) of the Federal Deposit Insurance Act ( 12 U.S.C. 183u(a)(5) ).
+
+    ( 4 ) Board conditions on approval. The Board may impose any conditions on its approval as it deems necessary, including a condition which may permit future termination by the Board of any activities or, in the case of a federal branch or a federal agency, by the Comptroller, based on the inability of the foreign bank to provide information on its activities or those of its affiliates that the Board deems necessary to determine and enforce compliance with U.S. banking laws.
+
+  ( d ) Representative offices —
+
+    ( 1 ) Permissible activities. A representative office may engage in:
+
+      ( i ) Representational and administrative functions. Representational and administrative functions in connection with the banking activities of the foreign bank, which may include soliciting new business for the foreign bank; conducting research; acting as liaison between the foreign bank's head office and customers in the United States; performing preliminary and servicing steps in connection with lending; [ 11 ] or performing back-office functions; but shall not include contracting for any deposit or deposit-like liability, lending money, or engaging in any other banking activity for the foreign bank;
+
+      ( ii ) Credit approvals under certain circumstances. Making credit decisions if the foreign bank also operates one or more branches or agencies in the United States, the loans approved at the representative office are made by a U.S. office of the bank, and the loan proceeds are not disbursed in the representative office; and
+
+      ( iii ) Other functions. Other functions for or on behalf of the foreign bank or its affiliates, such as operating as a regional administrative office of the foreign bank, but only to the extent that these other functions are not banking activities and are not prohibited by applicable federal or state law, or by ruling or order of the Board.
+
+    ( 2 ) Standards for approval of representative offices. As specified in section 10(a)(2) of the IBA ( 12 U.S.C. 3107(a)(2) ), in acting on the application of a foreign bank to establish a representative office, the Board shall take into account, to the extent it deems appropriate, the standards for approval set out in paragraph (c) of this section. The standard regarding supervision by the foreign bank's home country supervisor (as set out in paragraph (c)(1)(i)(A) of this section) will be met, in the case of a representative office application, if the Board makes a finding that the applicant bank is subject to a supervisory framework that is consistent with the activities of the proposed representative office, taking into account the nature of such activities and the operating record of the applicant.
+
+    ( 3 ) Special-purpose foreign government-owned banks. A foreign government-owned organization engaged in banking activities in its home country that are not commercial in nature may apply to the Board for a determination that the organization is not a foreign bank for purposes of this section. A written request setting forth the basis for such a determination may be submitted to the Reserve Bank of the District in which the foreign organization's representative office is located in the United States, or to the Board, in the case of a proposed establishment of a representative office. The Board shall review and act upon each request on a case-by-case basis.
+
+    ( 4 ) Additional requirements. The Board may impose any additional requirements that it determines to be necessary to carry out the purposes of the IBA.
+
+  ( e ) Preservation of existing authority. Nothing in this subpart shall be construed to relieve any foreign bank or foreign banking organization from any otherwise applicable requirement of federal or state law, including any applicable licensing requirement.
+
+  ( f ) Reports of crimes and suspected crimes. Except for a federal branch or a federal agency or a state branch that is insured by the Federal Deposit Insurance Corporation (FDIC), a branch, agency, or representative office of a foreign bank operating in the United States shall file a suspicious activity report in accordance with the provisions of § 208.62 of Regulation H ( 12 CFR 208.62 ).
+
+  ( g ) Management of shell branches.
+
+    ( 1 ) A state-licensed branch or agency shall not manage, through an office of the foreign bank which is located outside the United States and is managed or controlled by such state-licensed branch or agency, any type of activity that a bank organized under the laws of the United States or any state is not permitted to manage at any branch or subsidiary of such bank which is located outside the United States.
+
+    ( 2 ) For purposes of this paragraph (g) , an office of a foreign bank located outside the United States is “managed or controlled” by a state-licensed branch or agency if a majority of the responsibility for business decisions, including but not limited to decisions with regard to lending or asset management or funding or liability management, or the responsibility for recordkeeping in respect of assets or liabilities for that non-U.S. office, resides at the state-licensed branch or agency.
+
+    ( 3 ) The types of activities that a state-licensed branch or agency may manage through an office located outside the United States that it manage or controls include the types of activities authorized to a U.S. bank by state or federal charters, regulations issued by chartering or regulatory authorities, and other U.S. banking laws, including the Federal Reserve Act, and the implementing regulations, but U.S. procedural or quantitative requirements that may be applicable to the conduct of such activities by U.S. banks shall not apply.
+
+  ( h ) Government securities sales practices. An uninsured state-licensed branch or agency of a foreign bank that is required to give notice to the Board under section 15C of the Securities Exchange Act of 1934 ( 15 U.S.C. 78o-5 ) and the Department of the Treasury rules under section 15C ( 17 CFR 400.1(d) and part 401 ) shall be subject to the provisions of 12 CFR 208.37 to the same extent as a state member bank that is required to give such notice.
+
+  ( i ) Protection of customer information and consumer information. An uninsured state-licensed branch or agency of a foreign bank shall comply with the Interagency Guidelines Establishing Information Security Standards prescribed pursuant to sections 501 and 505 of the Gramm-Leach-Bliley Act ( 15 U.S.C. 6801 and 6805 ) and, with respect to the proper disposal of consumer information, section 216 of the Fair and Accurate Credit Transactions Act of 2003 ( 15 U.S.C. 1681w ), set forth in appendix D-2 to part 208 of this chapter .
+
+  ( j ) Procedures for monitoring Bank Secrecy Act compliance —
+
+    ( 1 ) Establishment of Compliance Program. Except for a Federal branch or a Federal agency or a state branch that is insured by the FDIC, a branch, agency, or representative office of a foreign bank operating in the United States shall, in accordance with the provisions of § 208.63 of the Board's Regulation H, 12 CFR 208.63 , develop and provide for the continued administration of a program reasonably designed to assure and monitor compliance with the provisions of subchapter II of chapter 53 of title 31, United States Code , the Bank Secrecy Act, and the implementing regulations promulgated thereunder by the Department of the Treasury at 31 CFR part 103 . The compliance program shall be reduced to writing, and either:
+
+      ( i ) Approved by the foreign bank's board of directors and noted in the minutes, or
+
+      ( ii ) Approved by a delegee acting under the express authority of the board of directors to approve the Bank Secrecy Act compliance program.
+
+    ( 2 ) Customer identification program. Except for a federal branch or a federal agency or a state branch that is insured by the FDIC, a branch, agency, or representative office of a foreign bank operating in the United States is subject to the requirements of 31 U.S.C. 5318(l) and the implementing regulation jointly promulgated by the Board and the Department of the Treasury at 31 CFR 103.121 , which require a customer identification program.
+
+[ 11 ] See 12 CFR 250.141(h) for activities that constitute preliminary and servicing steps.
+
+## § 211.25 Termination of offices of foreign banks.
+
+  ( a ) Grounds for termination —
+
+    ( 1 ) General. Under sections 7(e) and 10(b) of the IBA ( 12 U.S.C. 3105(d) , 3107(b) ), the Board may order a foreign bank to terminate the activities of its representative office, state branch, state agency, or commercial lending company subsidiary if the Board finds that:
+
+      ( i ) The foreign bank is not subject to comprehensive consolidated supervision in accordance with § 211.24(c)(1) , and the home country supervisor is not making demonstrable progress in establishing arrangements for the consolidated supervision of the foreign bank; or
+
+      ( ii ) Both of the following criteria are met:
+
+        ( A ) There is reasonable cause to believe that the foreign bank, or any of its affiliates, has committed a violation of law or engaged in an unsafe or unsound banking practice in the United States; and
+
+        ( B ) As a result of such violation or practice, the continued operation of the foreign bank's representative office, state branch, state agency, or commercial lending company subsidiary would not be consistent with the public interest, or with the purposes of the IBA, the BHC Act, or the FDIA.
+
+    ( 2 ) Additional ground. The Board also may enforce any condition imposed in connection with an order issued under § 211.24 .
+
+  ( b ) Factor. In making its findings under this section, the Board may take into account the needs of the community, the history of operation of the foreign bank, and its relative size in its home country, provided that the size of the foreign bank shall not be the sole determining factor in a decision to terminate an office.
+
+  ( c ) Consultation with relevant state supervisor. Except in the case of termination pursuant to the expedited procedure in paragraph (d)(3) of this section, the Board shall request and consider the views of the relevant state supervisor before issuing an order terminating the activities of a state branch, state agency, representative office, or commercial lending company subsidiary under this section.
+
+  ( d ) Termination procedures —
+
+    ( 1 ) Notice and hearing. Except as otherwise provided in paragraph (d)(3) of this section, an order issued under paragraph (a)(1) of this section shall be issued only after notice to the relevant state supervisor and the foreign bank and after an opportunity for a hearing.
+
+    ( 2 ) Procedures for hearing. Hearings under this section shall be conducted pursuant to the Board's Rules of Practice for Hearings ( 12 CFR part 263 ).
+
+    ( 3 ) Expedited procedure. The Board may act without providing an opportunity for a hearing, if it determines that expeditious action is necessary in order to protect the public interest. When the Board finds that it is necessary to act without providing an opportunity for a hearing, the Board, solely in its discretion, may:
+
+      ( i ) Provide the foreign bank that is the subject of the termination order with notice of the intended termination order;
+
+      ( ii ) Grant the foreign bank an opportunity to present a written submission opposing issuance of the order; or
+
+      ( iii ) Take any other action designed to provide the foreign bank with notice and an opportunity to present its views concerning the order.
+
+  ( e ) Termination of federal branch or federal agency. The Board may transmit to the Comptroller a recommendation that the license of a federal branch or federal agency be terminated if the Board has reasonable cause to believe that the foreign bank or any affiliate of the foreign bank has engaged in conduct for which the activities of a state branch or state agency may be terminated pursuant to this section.
+
+  ( f ) Voluntary termination. A foreign bank shall notify the Board at least 30 days prior to terminating the activities of any office. Notice pursuant to this paragraph (f) is in addition to, and does not satisfy, any other federal or state requirements relating to the termination of an office or the requirement for prior notice of the closing of a branch, pursuant to section 39 of the FDIA ( 12 U.S.C. 1831p ).
+
+## § 211.26 Examination of offices and affiliates of foreign banks.
+
+  ( a ) Conduct of examinations —
+
+    ( 1 ) Examination of branches, agencies, commercial lending companies, and affiliates. The Board may examine:
+
+      ( i ) Any branch or agency of a foreign bank;
+
+      ( ii ) Any commercial lending company or bank controlled by one or more foreign banks, or one or more foreign companies that control a foreign bank; and
+
+      ( iii ) Any other office or affiliate of a foreign bank conducting business in any state.
+
+    ( 2 ) Examination of representative offices. The Board may examine any representative office in the manner and with the frequency it deems appropriate.
+
+  ( b ) Coordination of examinations. To the extent possible, the Board shall coordinate its examinations of the U.S. offices and U.S. affiliates of a foreign bank with the licensing authority and, in the case of an insured branch, the Federal Deposit Insurance Corporation (FDIC), including through simultaneous examinations of the U.S. offices and U.S. affiliates of a foreign bank.
+
+  ( c ) Frequency of on-site examination —
+
+    ( 1 ) General. Each branch or agency of a foreign bank shall be examined on-site at least once during each 12-month period (beginning on the date the most recent examination of the office ended) by—
+
+      ( i ) The Board;
+
+      ( ii ) The FDIC, if the branch of the foreign bank accepts or maintains insured deposits;
+
+      ( iii ) The Comptroller, if the branch or agency of the foreign bank is licensed by the Comptroller; or
+
+      ( iv ) The state supervisor, if the office of the foreign bank is licensed or chartered by the state.
+
+    ( 2 ) 18-month cycle for certain small institutions —
+
+      ( i ) Mandatory standards. The Board may conduct a full-scope, on-site examination at least once during each 18-month period, rather than each 12-month period as required in paragraph (c)(1) of this section, if the branch or agency—
+
+        ( A ) Has total assets of less than $3 billion;
+
+        ( B ) Has received a composite ROCA supervisory rating (which rates risk management, operational controls, compliance, and asset quality) of 1 or 2 at its most recent examination;
+
+        ( C ) Satisfies the requirement of either the following paragraph (c)(2)(i)(C)( 1 ) or ( 2 ):
+
+          ( 1 ) The foreign bank's most recently reported capital adequacy position consists of, or is equivalent to, tier 1 and total risk-based capital ratios of at least 6 percent and 10 percent, respectively, on a consolidated basis; or
+
+          ( 2 ) The branch or agency has maintained on a daily basis, over the past three quarters, eligible assets in an amount not less than 108 percent of the preceding quarter's average third-party liabilities (determined consistent with applicable federal and state law) and sufficient liquidity is currently available to meet its obligations to third parties;
+
+        ( D ) Is not subject to a formal enforcement action or order by the Board, FDIC, or OCC; and
+
+        ( E ) Has not experienced a change in control during the preceding 12-month period in which a full-scope, on-site examination would have been required but for this section.
+
+      ( ii ) Discretionary standards. In determining whether a branch or agency of a foreign bank that meets the standards of paragraph (c)(2)(i) of this section should not be eligible for an 18-month examination cycle pursuant to this paragraph (c)(2) , the Board may consider additional factors, including whether—
+
+        ( A ) Any of the individual components of the ROCA supervisory rating of a branch or agency of a foreign bank is rated “3” or worse;
+
+        ( B ) The results of any off-site surveillance indicate a deterioration in the condition of the office;
+
+        ( C ) The size, relative importance, and role of a particular office when reviewed in the context of the foreign bank's entire U.S. operations otherwise necessitate an annual examination; and
+
+        ( D ) The condition of the foreign bank gives rise to such a need.
+
+      ( iii )
+
+        ( A ) Except as provided in paragraph (c)(2)(iii)(B) of this section, from December 2, 2020 through December 31, 2021, for purposes of determining eligibility for the extended examination cycle described in paragraph (c)(2) of this section, the total assets of a branch or agency shall be determined based on the lesser of:
+
+          ( 1 ) The total assets of the branch or agency as of December 31, 2019; and
+
+          ( 2 ) The total assets of the branch or agency as of the end of the most recent calendar quarter.
+
+        ( B ) The relief provided under paragraph (c)(2)(iii)(A) of this section does not apply to a branch or agency if the Board determines that permitting the branch or agency to determine its assets in accordance with that paragraph would not be commensurate with the risk profile of the branch or agency. When making this determination, the Board will consider all relevant factors, including the extent of asset growth of the branch or agency since December 31, 2019; the causes of such growth, including whether growth occurred as a result of mergers or acquisitions; whether such growth is likely to be temporary or permanent; whether the branch or agency has become involved in any additional activities since December 31, 2019; the asset size of any parent companies; and the type of assets held by the branch or agency. In making a determination pursuant to this paragraph (c)(2)(iii)(B) , the Board will apply notice and response procedures in the same manner and to the same extent as the notice and response procedures in 12 CFR 263.202 .
+
+    ( 3 ) Authority to conduct more frequent examinations. Nothing in paragraphs (c)(1) and (2) of this section limits the authority of the Board to examine any U.S. branch or agency of a foreign bank as frequently as it deems necessary.
+
+## § 211.27 Disclosure of supervisory information to foreign supervisors.
+
+  ( a ) Disclosure by Board. The Board may disclose information obtained in the course of exercising its supervisory or examination authority to a foreign bank regulatory or supervisory authority, if the Board determines that disclosure is appropriate for bank supervisory or regulatory purposes and will not prejudice the interests of the United States.
+
+  ( b ) Confidentiality. Before making any disclosure of information pursuant to paragraph (a) of this section, the Board shall obtain, to the extent necessary, the agreement of the foreign bank regulatory or supervisory authority to maintain the confidentiality of such information to the extent possible under applicable law.
+
+## § 211.28 Provisions applicable to branches and agencies: limitation on loans to one borrower.
+
+  ( a ) Limitation on loans to one borrower. Except as provided in paragraph (b) of this section, the total loans and extensions of credit by all the state branches and state agencies of a foreign bank outstanding to a single borrower at one time shall be aggregated with the total loans and extensions of credit by all federal branches and federal agencies of the same foreign bank outstanding to such borrower at the time; and shall be subject to the limitations and other provisions of section 5200 of the Revised Statutes ( 12 U.S.C. 84 ), and the regulations promulgated thereunder, in the same manner that extensions of credit by a federal branch or federal agency are subject to section 4(b) of the IBA ( 12 U.S.C. 3102(b) ) as if such state branches and state agencies were federal branches and federal agencies.
+
+  ( b ) Preexisting loans and extensions of credit. Any loans or extensions of credit to a single borrower that were originated prior to December 19, 1991, by a state branch or state agency of the same foreign bank and that, when aggregated with loans and extensions of credit by all other branches and agencies of the foreign bank, exceed the limits set forth in paragraph (a) of this section, may be brought into compliance with such limitations through routine repayment, provided that any new loans or extensions of credit (including renewals of existing unfunded credit lines, or extensions of the maturities of existing loans) to the same borrower shall comply with the limits set forth in paragraph (a) of this section.
+
+## § 211.29 Applications by state branches and state agencies to conduct activities not permissible for federal branches.
+
+  ( a ) Scope. A state branch or state agency shall file with the Board a prior written application for permission to engage in or continue to engage in any type of activity that:
+
+    ( 1 ) Is not permissible for a federal branch, pursuant to statute, regulation, official bulletin or circular, or order or interpretation issued in writing by the Comptroller; or
+
+    ( 2 ) Is rendered impermissible due to a subsequent change in statute, regulation, official bulletin or circular, written order or interpretation, or decision of a court of competent jurisdiction.
+
+  ( b ) Exceptions. No application shall be required by a state branch or state agency to conduct any activity that is otherwise permissible under applicable state and federal law or regulation and that:
+
+    ( 1 ) Has been determined by the FDIC, pursuant to 12 CFR 362.4(c)(3)(i) through (c)(3)(ii)(A) , not to present a significant risk to the affected deposit insurance fund;
+
+    ( 2 ) Is permissible for a federal branch, but the Comptroller imposes a quantitative limitation on the conduct of such activity by the federal branch;
+
+    ( 3 ) Is conducted as agent rather than as principal, provided that the activity is one that could be conducted by a state-chartered bank headquartered in the same state in which the branch or agency is licensed; or
+
+    ( 4 ) Any other activity that the Board has determined may be conducted by any state branch or state agency of a foreign bank without further application to the Board.
+
+  ( c ) Contents of application. An application submitted pursuant to paragraph (a) of this section shall be in letter form and shall contain the following information:
+
+    ( 1 ) A brief description of the activity, including the manner in which it will be conducted, and an estimate of the expected dollar volume associated with the activity;
+
+    ( 2 ) An analysis of the impact of the proposed activity on the condition of the U.S. operations of the foreign bank in general, and of the branch or agency in particular, including a copy, if available, of any feasibility study, management plan, financial projections, business plan, or similar document concerning the conduct of the activity;
+
+    ( 3 ) A resolution by the applicant's board of directors or, if a resolution is not required pursuant to the applicant's organizational documents, evidence of approval by senior management, authorizing the conduct of such activity and the filing of this application;
+
+    ( 4 ) If the activity is to be conducted by a state branch insured by the FDIC, statements by the applicant:
+
+      ( i ) Of whether or not it is in compliance with 12 CFR 346.19 (Pledge of Assets) and 12 CFR 346.20 (Asset Maintenance);
+
+      ( ii ) That it has complied with all requirements of the FDIC concerning an application to conduct the activity and the status of the application, including a copy of the FDIC's disposition of such application, if available; and
+
+      ( iii ) Explaining why the activity will pose no significant risk to the deposit insurance fund; and
+
+    ( 5 ) Any other information that the Reserve Bank deems appropriate.
+
+  ( d ) Factors considered in determination.
+
+    ( 1 ) The Board shall consider the following factors in determining whether a proposed activity is consistent with sound banking practice:
+
+      ( i ) The types of risks, if any, the activity poses to the U.S. operations of the foreign banking organization in general, and the branch or agency in particular;
+
+      ( ii ) If the activity poses any such risks, the magnitude of each risk; and
+
+      ( iii ) If a risk is not de minimis, the actual or proposed procedures to control and minimize the risk.
+
+    ( 2 ) Each of the factors set forth in paragraph (d)(1) of this section shall be evaluated in light of the financial condition of the foreign bank in general and the branch or agency in particular and the volume of the activity.
+
+  ( e ) Application procedures. Applications pursuant to this section shall be filed with the appropriate Federal Reserve Bank. An application shall not be deemed complete until it contains all the information requested by the Reserve Bank and has been accepted. Approval of such an application may be conditioned on the applicant's agreement to conduct the activity subject to specific conditions or limitations.
+
+  ( f ) Divestiture or cessation.
+
+    ( 1 ) If an application for permission to continue to conduct an activity is not approved by the Board or, if applicable, the FDIC, the applicant shall submit a detailed written plan of divestiture or cessation of the activity to the appropriate Federal Reserve Bank within 60 days of the disapproval.
+
+      ( i ) The divestiture or cessation plan shall describe in detail the manner in which the applicant will divest itself of or cease the activity, and shall include a projected timetable describing how long the divestiture or cessation is expected to take.
+
+      ( ii ) Divestiture or cessation shall be complete within one year from the date of the disapproval, or within such shorter period of time as the Board shall direct.
+
+    ( 2 ) If a foreign bank operating a state branch or state agency chooses not to apply to the Board for permission to continue to conduct an activity that is not permissible for a federal branch, or which is rendered impermissible due to a subsequent change in statute, regulation, official bulletin or circular, written order or interpretation, or decision of a court of competent jurisdiction, the foreign bank shall submit a written plan of divestiture or cessation, in conformance with paragraph (f)(1) of this section within 60 days of the effective date of this part or of such change or decision.
+
+## § 211.30 Criteria for evaluating U.S. operations of foreign banks not subject to consolidated supervision.
+
+  ( a ) Development and publication of criteria. Pursuant to the Foreign Bank Supervision Enhancement Act, Pub. L. 102-242, 105 Stat. 2286 (1991), the Board shall develop and publish criteria to be used in evaluating the operations of any foreign bank in the United States that the Board has determined is not subject to comprehensive consolidated supervision.
+
+  ( b ) Criteria considered by Board. Following a determination by the Board that, having taken into account the standards set forth in § 211.24(c)(1) , a foreign bank is not subject to CCS, the Board shall consider the following criteria in determining whether the foreign bank's U.S. operations should be permitted to continue and, if so, whether any supervisory constraints should be placed upon the bank in connection with those operations:
+
+    ( 1 ) The proportion of the foreign bank's total assets and total liabilities that are located or booked in its home country, as well as the distribution and location of its assets and liabilities that are located or booked elsewhere;
+
+    ( 2 ) The extent to which the operations and assets of the foreign bank and any affiliates are subject to supervision by its home country supervisor;
+
+    ( 3 ) Whether the home country supervisor of such foreign bank is actively working to establish arrangements for comprehensive consolidated supervision of the bank, and whether demonstrable progress is being made;
+
+    ( 4 ) Whether the foreign bank has effective and reliable systems of internal controls and management information and reporting, which enable its management properly to oversee its worldwide operations;
+
+    ( 5 ) Whether the foreign bank's home country supervisor has any objection to the bank continuing to operate in the United States;
+
+    ( 6 ) Whether the foreign bank's home country supervisor and the home country supervisor of any parent of the foreign bank share material information regarding the operations of the foreign bank with other supervisory authorities;
+
+    ( 7 ) The relationship of the U.S. operations to the other operations of the foreign bank, including whether the foreign bank maintains funds in its U.S. offices that are in excess of amounts due to its U.S. offices from the foreign bank's non-U.S. offices;
+
+    ( 8 ) The soundness of the foreign bank's overall financial condition;
+
+    ( 9 ) The managerial resources of the foreign bank, including the competence, experience, and integrity of the officers and directors, and the integrity of its principal shareholders;
+
+    ( 10 ) The scope and frequency of external audits of the foreign bank;
+
+    ( 11 ) The operating record of the foreign bank generally and its role in the banking system in its home country;
+
+    ( 12 ) The foreign bank's record of compliance with relevant laws, as well as the adequacy of its anti-money-laundering controls and procedures, in respect of its worldwide operations;
+
+    ( 13 ) The operating record of the U.S. offices of the foreign bank;
+
+    ( 14 ) The views and recommendations of the Comptroller or the relevant state supervisors in those states in which the foreign bank has operations, as appropriate;
+
+    ( 15 ) Whether the foreign bank, if requested, has provided the Board with adequate assurances that such information will be made available on the operations or activities of the foreign bank and any of its affiliates as the Board deems necessary to determine and enforce compliance with the IBA, the BHC Act, and other U.S. banking statutes; and
+
+    ( 16 ) Any other information relevant to the safety and soundness of the U.S. operations of the foreign bank.
+
+  ( c ) Restrictions on U.S. operations —
+
+    ( 1 ) Terms of agreement. Any foreign bank that the Board determines is not subject to CCS may be required to enter into an agreement to conduct its U.S. operations subject to such restrictions as the Board, having considered the criteria set forth in paragraph (b) of this section, determines to be appropriate in order to ensure the safety and soundness of its U.S. operations.
+
+    ( 2 ) Failure to enter into or comply with agreement. A foreign bank that is required by the Board to enter into an agreement pursuant to paragraph (c)(1) of this section and either fails to do so, or fails to comply with the terms of such agreement, may be subject to:
+
+      ( i ) Enforcement action, in order to ensure safe and sound banking operations, under 12 U.S.C. 1818 ; or
+
+      ( ii ) Termination or a recommendation for termination of its U.S. operations, under § 211.25(a) and (e) and section (7)(e) of the IBA ( 12 U.S.C. 3105(e) ).
+
+## § 211.31 Authority, purpose, and scope.
+
+  ( a ) Authority. This subpart is issued by the Board of Governors of the Federal Reserve System (Board) under the authority of the Bank Holding Company Act of 1956 (BHC Act) ( 12 U.S.C. 1841 et seq. ), the Bank Export Services Act (title II, Pub. L. 97-290, 96 Stat. 1235 (1982)) (BESA), and the Export Trading Company Act Amendments of 1988 (title III, Pub. L. 100-418, 102 Stat. 1384 (1988)) (ETC Act Amendments).
+
+  ( b ) Purpose and scope. This subpart is in furtherance of the purposes of the BHC Act, the BESA, and the ETC Act Amendments, the latter two statutes being designed to increase U.S. exports by encouraging investments and participation in export trading companies by bank holding companies and the specified investors. The provisions of this subpart apply to eligible investors as defined in this subpart.
+
+## § 211.32 Definitions.
+
+The definitions in §§ 211.1 and 211.2 of subpart A apply to this subpart, subject to the following:
+
+  ( a ) Appropriate Federal Reserve Bank has the same meaning as in § 211.21(c) .
+
+  ( b ) Bank has the same meaning as in section 2(c) of the BHC Act ( 12 U.S.C. 1841(c) ).
+
+  ( c ) Company has the same meaning as in section 2(b) of the BHC Act ( 12 U.S.C. 1841(b) ).
+
+  ( d ) Eligible investors means:
+
+    ( 1 ) Bank holding companies, as defined in section 2(a) of the BHC Act ( 12 U.S.C. 1841(a) );
+
+    ( 2 ) Edge and agreement corporations that are subsidiaries of bank holding companies but are not subsidiaries of banks;
+
+    ( 3 ) Banker's banks, as described in section 4(c)(14)(F)(iii) of the BHC Act ( 12 U.S.C. 1843(c)(14)(F)(iii) ); and
+
+    ( 4 ) Foreign banking organizations, as defined in § 211.21(o) .
+
+  ( e ) Export trading company means a company that is exclusively engaged in activities related to international trade and, by engaging in one or more export trade services, derives:
+
+    ( 1 ) At least one-third of its revenues in each consecutive four-year period from the export of, or from facilitating the export of, goods and services produced in the United States by persons other than the export trading company or its subsidiaries; and
+
+    ( 2 ) More revenues in each four-year period from export activities as described in paragraph (e)(1) of this section than it derives from the import, or facilitating the import, into the United States of goods or services produced outside the United States. The four-year period within which to calculate revenues derived from its activities under this section shall be deemed to have commenced with the first fiscal year after the respective export trading company has been in operation for two years.
+
+  ( f ) Revenues shall include net sales revenues from exporting, importing, or third-party trade in goods by the export trading company for its own account and gross revenues derived from all other activities of the export trading company.
+
+  ( g ) Subsidiary has the same meaning as in section 2(d) of the BHC Act ( 12 U.S.C. 1841(d) ).
+
+  ( h ) Well capitalized has the same meaning as in § 225.2(r) of Regulation Y ( 12 CFR 225.2(r) ).
+
+  ( i ) Well managed has the same meaning as in § 225.2(s) of Regulation Y ( 12 CFR 225.2(s) ).
+
+## § 211.33 Investments and extensions of credit.
+
+  ( a ) Amount of investments. In accordance with the procedures of § 211.34 , an eligible investor may invest no more than 5 percent of its consolidated capital and surplus in one or more export trading companies, except that an Edge or agreement corporation not engaged in banking may invest as much as 25 percent of its consolidated capital and surplus but no more than 5 percent of the consolidated capital and surplus of its parent bank holding company.
+
+  ( b ) Extensions of credit —
+
+    ( 1 ) Amount. An eligible investor in an export trading company or companies may extend credit directly or indirectly to the export trading company or companies in a total amount that at no time exceeds 10 percent of the investor's consolidated capital and surplus.
+
+    ( 2 ) Terms.
+
+      ( i ) An eligible investor in an export trading company may not extend credit directly or indirectly to the export trading company or any of its customers or to any other investor holding 10 percent or more of the shares of the export trading company on terms more favorable than those afforded similar borrowers in similar circumstances, and such extensions of credit shall not involve more than the normal risk of repayment or present other unfavorable features.
+
+      ( ii ) For the purposes of this section, an investor in an export trading company includes any affiliate of the investor.
+
+    ( 3 ) Collateral requirements. Covered transactions between a bank and an affiliated export trading company in which a bank holding company has invested pursuant to this subpart are subject to the collateral requirements of section 23A of the Federal Reserve Act ( 12 U.S.C. 371c ), except where a bank issues a letter of credit or advances funds to an affiliated export trading company solely to finance the purchase of goods for which:
+
+      ( i ) The export trading company has a bona fide contract for the subsequent sale of the goods; and
+
+      ( ii ) The bank has a security interest in the goods or in the proceeds from their sale at least equal in value to the letter of credit or the advance.
+
+## § 211.34 Procedures for filing and processing notices.
+
+  ( a ) General policy. Direct and indirect investments by eligible investors in export trading companies shall be made in accordance with the general consent or prior notice procedures contained in this section. The Board may at any time, upon notice, modify or suspend the general-consent procedures with respect to any eligible investor.
+
+  ( b ) General consent —
+
+    ( 1 ) Eligibility for general consent. Subject to the other limitations of this subpart, the Board grants its general consent for any investment an export trading company:
+
+      ( i ) If the eligible investor is well capitalized and well managed;
+
+      ( ii ) In an amount equal to cash dividends received from that export trading company during the preceding 12 calendar months; or
+
+      ( iii ) That is acquired from an affiliate at net asset value or through a contribution of shares.
+
+    ( 2 ) Post-investment notice. By the end of the month following the month in which the investment is made, the investor shall provide the Board with the following information:
+
+      ( i ) The amount of the investment and the source of the funds with which the investment was made; and
+
+      ( ii ) In the case of an initial investment, a description of the activities in which the export trading company proposes to engage and projections for the export trading company for the first year following the investment.
+
+  ( c ) Filing notice —
+
+    ( 1 ) Prior notice. An eligible investor shall give the Board 60 days' prior written notice of any investment in an export trading company that does not qualify under the general consent procedure.
+
+    ( 2 ) Notice of change of activities.
+
+      ( i ) An eligible investor shall give the Board 60 days' prior written notice of changes in the activities of an export trading company that is a subsidiary of the investor if the export trading company expands its activities beyond those described in the initial notice to include:
+
+        ( A ) Taking title to goods where the export trading company does not have a firm order for the sale of those goods;
+
+        ( B ) Product research and design;
+
+        ( C ) Product modification; or
+
+        ( D ) Activities not specifically covered by the list of activities contained in section 4(c)(14)(F)(ii) of the BHC Act ( 12 U.S.C. 1843(c)(14)(F)(ii) ).
+
+      ( ii ) Such an expansion of activities shall be regarded as a proposed investment under this subpart.
+
+  ( d ) Time period for Board action.
+
+    ( 1 ) A proposed investment that has not been disapproved by the Board may be made 60 days after the appropriate Federal Reserve Bank accepts the notice for processing. A proposed investment may be made before the expiration of the 60-day period if the Board notifies the investor in writing of its intention not to disapprove the investment.
+
+    ( 2 ) The Board may extend the 60-day period for an additional 30 days if the Board determines that the investor has not furnished all necessary information or that any material information furnished is substantially inaccurate. The Board may disapprove an investment if the necessary information is provided within a time insufficient to allow the Board reasonably to consider the information received.
+
+    ( 3 ) Within three days of a decision to disapprove an investment, the Board shall notify the investor in writing and state the reasons for the disapproval.
+
+  ( e ) Time period for investment. An investment in an export trading company that has not been disapproved shall be made within one year from the date of the notice not to disapprove, unless the time period is extended by the Board or by the appropriate Federal Reserve Bank.
+
+## § 211.41 Authority, purpose, and scope.
+
+  ( a ) Authority. This subpart is issued by the Board of Governors of the Federal Reserve System (Board) under the authority of the International Lending Supervision Act of 1983 (Pub. L. 98-181, title IX, 97 Stat. 1153) (International Lending Supervision Act); the Federal Reserve Act ( 12 U.S.C. 221 et seq. ) (FRA), and the Bank Holding Company Act of 1956, as amended ( 12 U.S.C. 1841 et seq. ) (BHC Act).
+
+  ( b ) Purpose and scope. This subpart is issued in furtherance of the purposes of the International Lending Supervision Act. It applies to State banks that are members of the Federal Reserve System (State member banks); corporations organized under section 25A of the FRA ( 12 U.S.C. 611 through 631 ) (Edge Corporations); corporations operating subject to an agreement with the Board under section 25 of the FRA ( 12 U.S.C. 601 through 604a ) (Agreement Corporations); and bank holding companies (as defined in section 2 of the BHC Act ( 12 U.S.C. 1841(a) ) but not including a bank holding company that is a foreign banking organization as defined in § 211.21(o) .
+
+## § 211.42 Definitions.
+
+For the purposes of this subpart:
+
+  ( a ) Administrative cost means those costs which are specifically identified with negotiating, processing and consummating the loan. These costs include, but are not necessarily limited to: legal fees; costs of preparing and processing loan documents; and an allocable portion of salaries and related benefits of employees engaged in the international lending function. No portion of supervisory and administrative expenses or other indirect expenses such as occupancy and other similar overhead costs shall be included.
+
+  ( b ) Banking institution means a State member bank; bank holding company; Edge Corporation and Agreement Corporation engaged in banking. Banking institution does not include a foreign banking organization as defined in § 211.21(o) .
+
+  ( c ) Federal banking agencies means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation.
+
+  ( d ) International assets means those assets required to be included in banking institutions' Country Exposure Report forms (FFIEC No. 009).
+
+  ( e ) International loan means a loan as defined in the instructions to the Report of Condition and Income for the respective banking institution (FFIEC Nos. 031 and 041) and made to a foreign government, or to an individual, a corporation, or other entity not a citizen of, resident in, or organized or incorporated in the United States.
+
+  ( f ) Restructured international loan means a loan that meets the following criteria:
+
+    ( 1 ) The borrower is unable to service the existing loan according to its terms and is a resident of a foreign country in which there is a generalized inability of public and private sector obligors to meet their external debt obligations on a timely basis because of a lack of, or restraints on the availability of, needed foreign exchange in the country; and
+
+    ( 2 ) The terms of the existing loan are amended to reduce stated interest or extend the schedule of payments; or
+
+    ( 3 ) A new loan is made to, or for the benefit of, the borrower, enabling the borrower to service or refinance the existing debt.
+
+  ( g ) Transfer risk means the possibility that an asset cannot be serviced in the currency of payment because of a lack of, or restraints on the availability of, needed foreign exchange in the country of the obligor.
+
+## § 211.43 Allocated transfer risk reserve.
+
+  ( a ) Establishment of Allocated Transfer Risk Reserve. A banking institution shall establish an allocated transfer risk reserve (ATRR) for specified international assets when required by the Board in accordance with this section.
+
+  ( b ) Procedures and standards —
+
+    ( 1 ) Joint agency determination. At least annually, the Federal banking agencies shall determine jointly, based on the standards set forth in paragraph (b)(2) of this section, the following:
+
+      ( i ) Which international assets subject to transfer risk warrant establishment of an ATRR;
+
+      ( ii ) The amount of the ATRR for the specified assets; and
+
+      ( iii ) Whether an ATRR established for specified assets may be reduced.
+
+    ( 2 ) Standards for requiring ATRR —
+
+      ( i ) Evaluation of assets. The Federal banking agencies shall apply the following criteria in determining whether an ATRR is required for particular international assets:
+
+        ( A ) Whether the quality of a banking institution's assets has been impaired by a protracted inability of public or private obligors in a foreign country to make payments on their external indebtedness as indicated by such factors, among others, as whether:
+
+          ( 1 ) Such obligors have failed to make full interest payments on external indebtedness; or
+
+          ( 2 ) Such obligors have failed to comply with the terms of any restructured indebtedness; or
+
+          ( 3 ) A foreign country has failed to comply with any International Monetary Fund or other suitable adjustment program; or
+
+        ( B ) Whether no definite prospects exist for the orderly restoration of debt service.
+
+      ( ii ) Determination of amount of ATRR.
+
+        ( A ) In determining the amount of the ATRR, the Federal banking agencies shall consider:
+
+          ( 1 ) The length of time the quality of the asset has been impaired;
+
+          ( 2 ) Recent actions taken to restore debt service capability;
+
+          ( 3 ) Prospects for restored asset quality; and
+
+          ( 4 ) Such other factors as the Federal banking agencies may consider relevant to the quality of the asset.
+
+        ( B ) The initial year's provision for the ATRR shall be ten percent of the principal amount of each specified international asset, or such greater or lesser percentage determined by the Federal banking agencies. Additional provision, if any, for the ATRR in subsequent years shall be fifteen percent of the principal amount of each specified international asset, or such greater or lesser percentage determined by the Federal banking agencies.
+
+    ( 3 ) Board notification. Based on the joint agency determinations under paragraph (b)(1) of this section, the Board shall notify each banking institution holding assets subject to an ATRR:
+
+      ( i ) Of the amount of the ATRR to be established by the institution for specified international assets; and
+
+      ( ii ) That an ATRR established for specified assets may be reduced.
+
+  ( c ) Accounting treatment of ATRR —
+
+    ( 1 ) Charge to current income. A banking institution shall establish an ATRR by a charge to current income and the amounts so charged shall not be included in the banking institution's capital or surplus.
+
+    ( 2 ) Separate accounting. A banking institution shall account for an ATRR separately from the Allowance for Loan and Lease Losses, and shall deduct the ATRR from “gross loans and leases” to arrive at “net loans and leases.” The ATRR must be established for each asset subject to the ATRR in the percentage amount specified.
+
+    ( 3 ) Consolidation. A banking institution shall establish an ATRR, as required, on a consolidated basis. For banks, consolidation should be in accordance with the procedures and tests of significance set forth in the instructions for preparation of Consolidated Reports of Condition and Income (FFIEC 031 and 041). For bank holding companies, the consolidation shall be in accordance with the principles set forth in the “Instructions to Consolidated Financial Statements for Bank Holding Companies” (Form F.R. Y-9C). Edge and Agreement corporations engaged in banking shall report in accordance with instructions for preparation of the Report of Condition for Edge and Agreement Corporations (Form F.R. 2886b).
+
+    ( 4 ) Alternative accounting treatment. A banking institution is not required to establish an ATRR if it writes down in the period in which the ATRR is required, or has written down in prior periods, the value of the specified international assets in the requisite amount for each such asset. For purposes of this paragraph, international assets may be written down by a charge to the Allowance for Loan and Lease Losses or the allowance for credit losses, as applicable, to the extent permitted under U.S. generally accepted accounting principles, or a reduction in the principal amount of the asset by application of interest payments or other collections on the asset. However, the Allowance for Loan and Lease Losses or allowance for credit losses, as applicable, must be replenished in such amount necessary to restore it to a level which adequately provides for the estimated losses inherent in the banking institution's loan portfolio.
+
+    ( 5 ) Reduction of ATRR. A banking institution may reduce an ATRR when notified by the Board or, at any time, by writing down such amount of the international asset for which the ATRR was established.
+
+## § 211.44 Reporting and disclosure of international assets.
+
+  ( a ) Requirements.
+
+    ( 1 ) Pursuant to section 907(a) of the International Lending Supervision Act of 1983 (Title IX, Pub. L. 98-181, 97 Stat. 1153) (ILSA), a banking institution shall submit to the Board, at least quarterly, information regarding the amounts and composition of its holdings of international assets.
+
+    ( 2 ) Pursuant to section 907(b) of ILSA, a banking institution shall submit to the Board information regarding concentrations in its holdings of international assets that are material in relation to total assets and to capital of the institution, such information to be made publicly available by the Board on request.
+
+  ( b ) Procedures. The format, content and reporting and filing dates of the reports required under paragraph (a) of this section shall be determined jointly by the Federal banking agencies. The requirements to be prescribed by the Federal banking agencies may include changes to existing reporting forms (such as the Country Exposure Report, form FFIEC No. 009) or such other requirements as the Federal banking agencies deem appropriate. The Federal banking agencies also may determine to exempt from the requirements of paragraph (a) of this section banking institutions that, in the Federal banking agencies' judgment, have de minimis holdings of international assets.
+
+  ( c ) Reservation of authority. Nothing contained in this rule shall preclude the Board from requiring from a banking institution such additional or more frequent information on the institution's holding of international assets as the Board may consider necessary.
+
+## § 211.45 Accounting for fees on international loans.
+
+  ( a ) Restrictions on fees for restructured international loans. No banking institution shall charge, in connection with the restructuring of an international loan, any fee exceeding the administrative cost of the restructuring unless it amortizes the amount of the fee exceeding the administrative cost over the effective life of the loan.
+
+  ( b ) Accounting treatment. Subject to paragraph (a) of this section, banking institutions shall account for fees on international loans in accordance with generally accepted accounting principles.
+
+## § 211.601 Status of certain offices for purposes of the International Banking Act restrictions on interstate banking operations.
+
+The Board has considered the question of whether a foreign bank's California office that may accept deposits from certain foreign sources (e.g., a United States citizen residing abroad) is a branch or an agency for the purposes of the grandfather provisions of section 5 of the International Banking Act of 1978 ( 12 U.S.C. 3103(b) ). The question has arisen as a result of the definitions in the International Banking Act of branch and agency, and the limited deposit-taking capabilities of certain California offices of foreign banks.
+
+The International Banking Act defines agency as “any office * * * at which deposits may not be accepted from citizens or residents of the United States,” and defines branch as “any office * * * of a foreign bank * * * at which deposits are received” ( 12 U.S.C. 3101(1) and (3) ). Offices of foreign banks in California prior to the International Banking Act were generally prohibited from accepting deposits by the requirement of State law that such offices obtain Federal deposit insurance (Cal. Fin. Code 1756); until the passage of the International Banking Act an office of a foreign bank could not obtain such insurance. California law, however, permits offices of foreign banks, with the approval of the Banking Department, to accept deposits from any person that resides, is domiciled, and maintains its principal place of business in a foreign country (Cal. Fin. Code 1756.2). Thus, under a literal reading of the definitions of branch and agency contained in the International Banking Act, a foreign bank's California office that accepts deposits from certain foreign sources (e.g., a U.S. citizen residing abroad), is a branch rather than an agency.
+
+Section 5 of the International Banking Act establishes certain limitations on the expansion of the domestic deposit-taking capabilities of a foreign bank outside its home State. It also grandfathers offices established or applied for prior to July 27, 1978, and permits a foreign bank to select its home State from among the States in which it operated branches and agencies on the grandfather date. If a foreign bank's office that was established or applied for prior to June 27, 1978, is a branch as defined in the International Banking Act, then it is grandfathered as a branch. Accordingly, a foreign bank could designate a State other than California as its home State and subsequently convert its California office to a full domestic deposit-taking facility by obtaining Federal deposit insurance. If, however, the office is determined to be an agency, then it is grandfathered as such and the foreign bank may not expand its deposit-taking capabilities in California without declaring California its home State.
+
+In the Board's view, it would be inconsistent with the purposes and the legislative history of the International Banking Act to enable a foreign bank to expand its domestic interstate deposit-taking capabilities by grandfathering these California offices as branches because of their ability to receive certain foreign source deposits. The Board also notes that such deposits are of the same general type that may be received by an Edge Corporation and, hence in accordance with section 5(a) of the International Banking Act, by branches established and operated outside a foreign bank's home State. It would be inconsistent with the structure of the interstate banking provisions of the International Banking Act to grandfather as full deposit-taking offices those facilities whose activities have been determined by Congress to be appropriate for a foreign bank's out-of-home State branches.
+
+Accordingly, the Board, in administering the interstate banking provisions of the IBA, regards as agencies those offices of foreign banks that do not accept domestic deposits but that may accept deposits from any person that resides, is domiciled, and maintains its principal place of business in a foreign country.
+
+## § 211.602 Investments by United States Banking Organizations in foreign companies that transact business in the United States.
+
+Section 25(a) of the Federal Reserve Act ( 12 U.S.C. 611 , the “Edge Act”) provides for the establishment of corporations to engage in international or foreign banking or other international or foreign financial operations (“Edge Corporations”). Congress has declared that Edge Corporations are to serve the purpose of stimulating the provision of international banking and financing services throughout the United States and are to have powers sufficiently broad to enable them to compete effectively with foreign-owned institutions in the United States and abroad. The Board was directed by the International Banking Act of 1978 ( 12 U.S.C. 3101 ) to revise its regulations governing Edge Corporations in order to accomplish these and other objectives and was further directed to modify or eliminate any interpretations that impede the attainment of these purposes.
+
+One of the powers of Edge Corporations is that of investing in foreign companies. Under the relevant statutes, however, an Edge Corporation is prohibited from investing in foreign companies that engage in the general business of buying or selling goods, wares, merchandise or commodities in the United States. In addition, an Edge Corporation may not invest in foreign companies that transact any business in the United States that is not, in the Board's judgment, “incidental” to its international or foreign business. The latter limitation also applies to investments by bank holding companies ( 12 U.S.C. 1843(c)(13) ) and member banks ( 12 U.S.C. 601 ).
+
+The Board has been asked to determine whether an Edge Corporation's minority investment (involving less than 25 percent of the voting shares) in a foreign company would continue to be permissible after the foreign company establishes or acquires a United States subsidiary that engages in domestic activities that are closely related to banking. The Board has also been asked to determine whether an Edge Corporation's minority investment in a foreign bank would continue to be permissible after the foreign bank establishes a branch in the United States that engages in domestic banking activities. In the latter case, the branch would be located outside the State in which the Edge Corporation and its parent bank are located.
+
+In the past the Board, in exercising its discretionary authority to determine those activities that are permissible in the United States, has followed the policy that an Edge Corporation could not hold even a minority interest in a foreign company that engaged, directly or indirectly, in any purely domestic business in the United States. The United States activities considered permissible were those internationally related activities that Edge Corporations may engage in directly. If this policy were applied to the subject requests, the Edge Corporations would be required to divest their interests in the foreign companies notwithstanding the fact that, in each case, the Edge Corporation, as a minority investor, did not control the decision to undertake activities in the United States, and that even after the United States activities are undertaken the business of the foreign company will remain predominantly outside the United States.
+
+International banking and finance have undergone considerable growth and change in recent years. It is increasingly common, for example, for United States institutions to have direct or indirect offices in foreign countries and to engage in activities at those offices that are domestically as well as internationally oriented. In this climate, United States banking organizations would be placed at a competitive disadvantage if their minority investments in foreign companies were limited to those companies that do no domestic business in the United States. Moreover, continued adherence to the existing policy would be contrary to the declaration in the International Banking Act of 1978 that Edge Corporations' powers are to be sufficiently broad to enable them to compete effectively in the United States and abroad. Furthermore, where the activities to be conducted in the United States by the foreign company are banking or closely related to banking, it does not appear that any regulatory or supervisory purpose would be served by prohibiting a minority investment in the foreign firm by a United States banking organization.
+
+In view of these considerations, the Board has reviewed its policy relating to the activities that may be engaged in the United States by foreign companies (including foreign banks) in which Edge Corporations, member banks, and bank holding companies invest. As a result of that review, the Board has determined that it would be appropriate to interpret sections 25 and 25(a)of the Federal Reserve Act ( 12 U.S.C. 601 , 611 ) and section 4(c)(13) of the Bank Holding Company Act ( 12 U.S.C. 1843(c)(13) ) generally to allow United States banking organizations, with the prior consent of the Board, to acquire and hold investments in foreign companies that do business in the United States subject to the following conditions:
+
+  ( 1 ) The foreign company is engaged predominantly in business outside the United States or in internationally related activities in the United States;*
+
+  ( 2 ) The direct or indirect activities of the foreign company in the United States are either banking or closely related to banking; and
+
+  ( 3 ) The United States banking organization does not own 25 percent or more of the voting stock of, or otherwise control, the foreign company.
+
+In considering whether to grant its consent for such investments, the Board would also review the proposals to ensure that they are consistent with the purposes of the Bank Holding Company Act and the Federal Reserve Act.
+
+*This condition would ordinarily not be met where a foreign company merely maintains a majority of its business in international activities. Each case will be scrutinized to ensure that the activities in the United States do not alter substantially the international orientation of the foreign company's business.
+
+## § 211.603 Commodity swap transactions.
+
+For text of interpretation relating to this subject, see § 208.128 of this chapter .
+
+## § 211.604 Data processing activities.
+
+  ( a ) Introduction. As a result of a recent proposal by a bank holding company to engage in data processing activities abroad, the Board has considered the scope of permissible data processing activities under Regulation K ( 12 CFR part 211 ). This question has arisen as a result of the fact that § 211.5(d)(10) of Regulation K does not specifically indicate the scope of data processing as a permissible activity abroad.
+
+  ( b ) Scope of data processing activities.
+
+    ( 1 ) Prior to 1979, the Board authorized specific banking organizations to engage in data processing activities abroad with the expectation that such activity would be primarily related to financial activities. When Regulation K was issued in 1979, data processing was included as a permissible activity abroad. Although the regulation did not provide specific guidance on the scope of this authority, the Board has considered such authority to be coextensive with the authority granted in specific cases prior to the issuance of Regulation K, which relied on the fact that most of the activity would relate to financial data. Regulation K does not address related activities such as the manufacture of hardware or the provision of software or related or incidental services.
+
+    ( 2 ) In 1979, when the activity was included in Regulation K for the first time, the data processing authority in Regulation K was somewhat broader than that permissible in the United States under Regulation Y ( 12 CFR part 225 ) at that time, as the Regulation K authority permitted limited non-financial data processing. In 1979, Regulation Y authorized only financial data processing activities for third parties, with very limited exceptions. By 1997, however, the scope of data processing activities under Regulation Y was expanded such that bank holding companies are permitted to derive up to 30 percent of their data processing revenues from processing data that is not financial, banking, or economic. Moreover, in other respects, the Regulation Y provision is broader than the data processing provision in Regulation K.
+
+    ( 3 ) In light of the fact that the permissible scope of data processing activities under Regulation Y is now equal to, and in some respects, broader than the activity originally authorized under Regulation K, the Board believes that § 211.5(d)(10) should be read to encompass all of the activities permissible under § 225.28(b)(14) of Regulation Y. In addition, the limitations of that section would also apply to § 211.5(d)(10) .
+
+  ( c ) Applications. If a U.S. banking organization wishes to engage abroad in data processing or data transmission activities beyond those described in Regulation Y, it must apply for the Board's prior consent under § 211.5(d)(20) of Regulation K. In addition, if any investor has commenced activities beyond those permitted under § 225.28(b)(14) of Regulation Y in reliance on Regulation K, it should consult with staff of the Board to determine whether such activities have been properly authorized under Regulation K.
+
+## § 211.605 Permissible underwriting activities of foreign banks.
+
+  ( a ) Introduction. A number of foreign banks that are subject to the Bank Holding Company Act (“BHC Act”) have participated as co-managers in the underwriting of securities to be distributed in the United States despite the fact that the foreign banks in question do not have authority to engage in underwriting activity in the United States under either the Gramm-Leach-Bliley Act (“GLB Act”) or section 4(c)(8) of the BHC Act ( 12 U.S.C. 1843(c)(8) ). This interpretation clarifies the scope of existing restrictions on underwriting by such foreign banks with respect to securities that are distributed in the United States.
+
+  ( b ) Underwriting transactions engaged in by foreign banks.
+
+    ( 1 ) In the transactions in question, a foreign bank typically becomes a member of the underwriting syndicate for securities that are registered and intended to be distributed in the United States. The lead underwriter, usually a registered U.S. broker-dealer not affiliated with the foreign bank, agrees to be responsible for distributing the securities being underwritten. The underwriting obligation is assumed by a foreign office or affiliate of the foreign bank.
+
+    ( 2 ) The foreign banks have used their U.S. offices or affiliates to act as liaison with the U.S. issuer and the lead underwriter in the United States, to prepare documentation and to provide other services in connection with the underwriting. In some cases, the U.S. offices or affiliates that assisted the foreign bank with the underwriting receive a substantial portion of the revenue generated by the foreign bank's participation in the underwriting. In other cases, the U.S. offices receive “credit” from the head office of the foreign bank for their assistance in generating profits arising from the underwriting.
+
+    ( 3 ) By assuming the underwriting risk and booking the underwriting fees in their foreign offices or affiliates, the foreign banks are able to take advantage of an exemption under U.S. securities laws; a foreign underwriter is not required to register in the United States if the underwriter either does not distribute any of the securities in the United States or distributes them only through a registered broker-dealer.
+
+  ( c ) Permissible scope of underwriting activities.
+
+    ( 1 ) A foreign bank that is subject to the BHC Act may engage in underwriting activities in the United States only if it has been authorized under section 4 of the Act. The foreign banks in question have argued that they are not engaged in underwriting activity in the United States because the underwriting activity takes place only outside the United States where the transaction is booked. The foreign banks refer to Regulation K, which defines “engaged in business” or “engaged in activities” to mean conducting an activity through an office or subsidiary in the United States. Because the underwriting is not booked in a U.S. office or subsidiary, the banks assert that the activity cannot be considered conducted in the United States.
+
+    ( 2 ) The Board believes that the position taken by the foreign banks is not supported by the Board's regulations or policies. Section 225.124 of the Board's Regulation Y ( 12 CFR 225.124(d) ) states that a foreign bank will not be considered to be engaged in the activity of underwriting in the United States if the shares to be underwritten are distributed outside the United States. In the transactions in question, all of the securities to be underwritten by the foreign banks are distributed in the United States.
+
+    ( 3 ) Regulation K ( 12 CFR part 211 ) was amended in 1985 to provide clarification that a foreign bank may not own or control voting shares of a foreign company that directly underwrites, sells or distributes securities in the United States (emphasis added). 12 CFR 211.23(f)(5)(ii) . In proposing this latter provision, the Board clarified that no part of the prohibited underwriting process may take place in the United States and that the prohibition on the activity does not depend on the activity being conducted through an office or subsidiary in the United States. Moreover, in the transactions in question, there was significant participation by U.S. offices and affiliates of the foreign banks in the underwriting process. In some transactions, the foreign office at which the transactions were booked did not have any documentation on the particular transactions; all documentation was maintained in the United States office. In all cases, the U.S. offices or affiliates provided virtually all technical support for participation in the underwriting process and benefitted from profits generated by the activity.
+
+    ( 4 ) The fact that some technological and regulatory constraints on the delivery of cross-border services into the United States have been eliminated since the Regulation K definition of “engaged in business” was adopted in 1979 creates greater scope for banking organizations to deal with customers outside the U.S. bank regulatory framework. The definition in Regulation K, however, does not authorize foreign banking organizations to evade regulatory restrictions on securities activities in the United States by directly underwriting securities to be distributed in the United States or by using U.S. offices and affiliates to facilitate the prohibited activity. In the GLB Act, Congress established a framework within which both domestic and foreign banking organizations may underwrite and deal in securities in the United States. The GLB Act requires that banking organizations meet certain financial and managerial requirements in order to be able to engage in these activities in the United States. The Board believes the practices described above undermine this legislative framework and constitute an evasion of the requirements of the GLB Act and the Board's Regulation K. Foreign banking organizations that wish to conduct securities underwriting activity in the United States have long had the option of obtaining section 20 authority and now have the option of obtaining financial holding company status.
+
+  ( d ) Conclusion. The Board finds that the underwriting of securities to be distributed in the United States is an activity conducted in the United States, regardless of the location at which the underwriting risk is assumed and the underwriting fees are booked. Consequently, any banking organization that wishes to engage in such activity must either be a financial holding company under the GLB Act or have authority to engage in underwriting activity under section 4(c)(8) of the BHC Act (so-called “section 20 authority”). Revenue generated by underwriting bank-ineligible securities in such transactions should be attributed to the section 20 company for those foreign banks that operate under section 20 authority.

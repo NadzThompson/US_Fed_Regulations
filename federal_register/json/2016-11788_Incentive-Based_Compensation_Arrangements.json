@@ -1,0 +1,151 @@
+{
+  "doc_id": "usfed.fr.2016-11788",
+  "title": "Incentive-Based Compensation Arrangements",
+  "short_title": "2016-11788",
+  "slug": "2016-11788",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Proposed Rule",
+  "nova_tier": 2,
+  "authority_class": "guidance_interpretive",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "2016-11788",
+  "citation": "81 FR 37670",
+  "publication_date": "2016-06-10",
+  "effective_date_start": null,
+  "abstract": "The OCC, Board, FDIC, FHFA, NCUA, and SEC (the Agencies) are seeking comment on a joint proposed rule (the proposed rule) to revise the proposed rule the Agencies published in the Federal Register on April 14, 2011, and to implement section 956 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act). Section 956 generally requires that the Agencies jointly issue regulations or guidelines: (1) Prohibiting incentive-based payment arrangements that the Agencies determine e",
+  "action": "Notice of proposed rulemaking and request for comment.",
+  "html_url": "https://www.federalregister.gov/documents/2016/06/10/2016-11788/incentive-based-compensation-arrangements",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2016-06-10/pdf/2016-11788.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 42,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 236,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 372,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 741,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 751,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 1232,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 240,
+      "title": 17
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 275,
+      "title": 17
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 303,
+      "title": 17
+    }
+  ],
+  "docket_ids": [
+    "Docket No. OCC-2011-0001",
+    "Docket No. R-1536",
+    "Release No. 34-77776",
+    "IA-4383",
+    "File No. S7-07-16"
+  ],
+  "regulation_id_numbers": [
+    "1557-AD39",
+    "2590-AA42",
+    "3064-AD86",
+    "3133-AE48",
+    "3235-AL06",
+    "7100 AE50"
+  ],
+  "page_length": 169,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2016/06/10/2016-11788/incentive-based-compensation-arrangements",
+  "canonical_url": "https://www.federalregister.gov/documents/2016/06/10/2016-11788/incentive-based-compensation-arrangements",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:24Z",
+  "include_in_primary_corpus": false,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2016-11788",
+  "title_normalized": "Incentive-Based Compensation Arrangements",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Proposed Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.6,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2016-06-10",
+  "document_date_raw": "2016-06-10",
+  "word_count_raw_body": 42250,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 1232, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 236, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 240, 'title': 17}",
+    "{'chapter': None, 'citation_url': None, 'part': 275, 'title': 17}",
+    "{'chapter': None, 'citation_url': None, 'part': 303, 'title': 17}",
+    "{'chapter': None, 'citation_url': None, 'part': 372, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 42, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 741, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 751, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": false,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": false,
+  "normalized_text_sha256": "93e68de042555a4ee44941b365b6be0f29ec29fe87d1f98103c9eb9be9e51c98",
+  "normalized_md_path": "federal_register/md/2016-11788_Incentive-Based_Compensation_Arrangements.md",
+  "canonical_json_path": "federal_register/json/2016-11788_Incentive-Based_Compensation_Arrangements.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "2016-11788 Incentive-Based Compensation Arrangements Notice of proposed rulemaking and request for comment. The OCC, Board, FDIC, FHFA, NCUA, and SEC (the Agencies) are seeking comment on a joint proposed rule (the proposed rule) to revise the proposed rule the Agencies published in the Federal Register on ",
+  "vector_text_prefix": "Federal Reserve Proposed Rule 2016-11788: Incentive-Based Compensation Arrangements",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

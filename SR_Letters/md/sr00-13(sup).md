@@ -1,0 +1,261 @@
+# SR 00-13 (SUP): FRB: Supervisory Letter SR 00-13 (SUP) on framework for supervision of financial holding companies--August 15, 2000
+
+**Issuer:** Board of Governors of the Federal Reserve System
+**Division:** Division of Supervision and Regulation
+**Date:** August 15, 2000
+**Applicability:** 
+**Source:** [https://www.federalreserve.gov/boarddocs/srletters/2000/SR0013.HTM](https://www.federalreserve.gov/boarddocs/srletters/2000/SR0013.HTM)
+
+---
+
+BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551
+
+
+
+
+
+DIVISION OF BANKINGSUPERVISION AND REGULATION
+
+
+
+SR 00-13 (SUP)
+August 15, 2000
+
+
+
+
+
+
+
+
+
+TO THE 
+OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY STAFF AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL HOLDING COMPANIES
+
+
+
+
+
+SUBJECT:  
+Framework for Financial Holding Company Supervision
+
+
+
+
+Introduction
+
+                    
+The Gramm-Leach-Bliley Act ("GLB Act") repeals those provisions of the Glass-Steagall Act and the Bank Holding Company Act that restrict the ability of bank holding companies ("BHCs") to affiliate with securities firms and insurance companies.  The GLB Act authorizes qualifying BHCs to operate as financial holding companies ("FHCs") and to engage in a diversified range of financial activities.  In addition to controlling depository institutions, permissible activities for FHCs include conducting securities underwriting and dealing, serving as an insurance agent and insurance underwriter, acting as a futures commission merchant, and engaging in merchant banking.  Permissible activities also include those that the Board and the Secretary of the Treasury jointly determine to be financial in nature or incidental to financial activities, or that the Board determines is complementary to a financial activity and does not pose a substantial risk to the safety
+and soundness of depository institutions or the financial system generally.
+
+                    
+Under the GLB Act, the Federal Reserve has supervisory oversight authority and responsibility for BHCs, including BHCs that operate as FHCs.  The statute includes provisions that streamline various aspects of the Federal Reserve's supervision for all BHCs and sets forth parameters for the relationship between the Federal Reserve and other regulators.  The statute differentiates between the Federal Reserve's relations with regulators of depository institutions and functional regulators, which include insurance, securities and commodities regulators.  There should be minimal, if any, noticeable change in the well-established relationships between the Federal Reserve as BHC (including FHC) supervisor and bank and thrift supervisors (federal and state).  The Federal Reserve's relationships with functional regulators will, in practice, depend upon the extent to which an FHC is engaged in functionally regulated activities and also will be influenced by already established working
+arrangements.
+
+                    
+This SR letter provides guidance concerning the purpose and scope of the Federal Reserve's supervision of FHCs, with particular focus on the legislation's requirements for working with functional regulators.  The framework should be used by Federal Reserve staff in supervising FHCs and coordinating activities with the appropriate primary supervisors of an FHC's banking, insurance, and securities subsidiaries.  
+
+                    
+The Federal Reserve's supervisory oversight role is that of an umbrella supervisor concentrating on a consolidated or group-wide analysis of an organization.  Umbrella supervision is not viewed as an extension of more traditional bank-like supervision throughout an FHC.  The FHC framework set forth in this letter is consistent with and incorporates principles that are well established for BHCs.  Because the GLB Act does not require significant changes in supervisory practice for non-FHC BHCs, this document focuses on addressing supervisory practice for, and relationships with, FHCs, particularly those that are engaged in securities or insurance activities.
+
+
+Roles of Supervisors
+
+                    
+The Federal Reserve is responsible for the consolidated supervision of FHCs.  In this regard, the Federal Reserve will assess the holding company on a consolidated or group-wide basis with the objective of ensuring that the holding company does not threaten the viability of its depository institution subsidiaries.  The manner in which the Federal Reserve fulfills this role will likely evolve along with the activities and structure of FHCs and may differ depending on the mix of banking, securities, and insurance activities of an FHC.
+
+                    
+Depository institution subsidiaries of FHCs are supervised by their appropriate primary bank or thrift supervisor (federal and state).  The GLB Act did not alter the role of the Federal Reserve, as holding company supervisor, vis-a-vis the primary supervisors of FHC-associated bank and thrift subsidiaries because the Federal Reserve has traditionally relied to the fullest extent possible on those supervisors.
+
+                    
+Nonbank (or nonthrift) subsidiaries engaged in securities, commodities or insurance activities are supervised by their appropriate functional regulators.  Such functionally regulated subsidiaries include a broker, dealer, investment adviser, and investment company registered with and regulated by the SEC (or, in the case of an investment adviser, registered with any state); an insurance company or insurance agent subject to supervision by a state insurance regulator; and a nonbank subsidiary engaged in CFTC-regulated activities.
+
+
+Objectives of Financial Holding Company Supervision
+
+                    
+The Federal Reserve, as umbrella supervisor, will seek to determine that FHCs are operated in a safe and sound manner so that their financial condition does not threaten the viability of affiliated depository institutions.  Oversight of FHCs (particularly those engaged in a broad range of financial activities) at the consolidated level is important because the risks associated with those activities can cut across legal entities and business lines.  The purpose of FHC supervision is to identify and evaluate, on a consolidated or group-wide basis, the significant risks that exist in a diversified holding company in order to assess how these risks might affect the safety and soundness of depository institution subsidiaries.  
+
+                    
+Accordingly, the Federal Reserve will focus on the financial strength and stability of FHCs, their consolidated risk-management processes, and overall capital adequacy.  The Federal Reserve will review and assess the internal policies, reports, and procedures and effectiveness of the FHC consolidated risk management process.  The appropriate bank, thrift, or functional regulator will continue to have primary responsibility for evaluating risks, hedging, and risk management at the legal-entity level for the entity or entities that it supervises.
+
+                    
+As noted above, financial holding company supervision is not intended to impose bank-like supervision on FHCs, nor is it intended to duplicate or replace supervision by the primary bank, thrift, or functional regulators of FHC subsidiaries.  Rather, it seeks, on the one hand, to balance the objective of protecting the depository institution subsidiaries of increasingly complex organizations with significant inter-related activities and risks, against, on the other, the objective of not imposing an unduly duplicative or onerous burden on the subsidiaries of the organization.  Effective financial holding company supervision requires:
+
+
+
+Strong, cooperative relationships between the Federal Reserve and primary bank, thrift, and functional regulators and foreign supervisors.	 These relationships respect the individual statutory authorities and responsibilities of the respective supervisors, but at the same time, allow for enhanced information flows and coordination so that individual responsibilities can be carried out effectively without creating duplication or excessive burden;
+
+Substantial reliance by the Federal Reserve on reports filed with, or prepared by, bank, thrift, and functional regulators, as well as on publicly available information for both regulated and non-regulated subsidiaries; and
+
+Continued reliance on the risk-focused supervision and examination process and on market discipline.
+
+
+
+
+Financial Holding Company Supervision in Practice
+
+                    
+The supervisory activities of the Federal Reserve fall into three broad categories: information gathering, assessments and supervisory cooperation; ongoing supervision; and promotion of sound practices and improved disclosure.
+ 
+Information gathering, assessments, and supervisory cooperation
+
+                    
+To fulfill its responsibilities, the Federal Reserve needs to interact closely and exchange information with the primary bank, thrift, and functional regulators.  It is also important that the Federal Reserve develop strong relationships with senior management and boards of directors of FHCs, and have access to timely information from FHCs.  In order to understand how risk management and internal control policies and procedures established at the consolidated level are being implemented and assessed, these relationships will need to include heads of significant business lines and key internal audit, control, and risk management officials.
+
+                    
+To achieve these objectives, Federal Reserve supervisory staff will:
+
+
+Regularly assess an FHC's centralized risk management and control processes.  Such assessments are necessary to understand an organization's overall risk profile, to identify material contributions to core risks, and to determine how such risks are being managed and controlled on a consolidated basis.
+
+Perform limited targeted transaction testing, where appropriate, to verify that risk management systems of the FHC are adequately and appropriately measuring and managing areas of risk for the organization, and to confirm that laws and regulations applicable to the FHC and within the jurisdiction of the Federal Reserve are being followed.
+
+Have periodic discussions with FHC senior management and boards of directors. Such discussions will enable the Federal Reserve to build relationships with key personnel and to understand changing activities and the evolving risk profile of the consolidated organization.  Periodic discussions also will provide a forum for supervisory staff to present any findings or concerns related to the activities of the group as a whole or to business lines that cut across legal entities.
+
+Have periodic discussions with key personnel responsible for corporate management and control functions, such as heads of business lines, risk management, internal audit and internal control.
+
+
+
+                    
+In performing the tasks described above, Federal Reserve supervisory staff, to the extent possible, should coordinate their actions with those of the primary bank, thrift, and functional regulators of the FHC's subsidiaries.  For example, in order to understand the risks and risk-management systems of an FHC at the consolidated level, the Federal Reserve will need information concerning assets or liabilities booked in significant bank, thrift, and functionally regulated subsidiaries within the FHC group.  The primary bank, thrift, and functional regulators of such subsidiaries also may have a need for information from the FHC, consistent with their respective statutory mandates.  To assist in sharing needed information, Federal Reserve supervisory staff should:
+
+
+Have periodic meetings with the primary bank, thrift and functional regulators of an FHC's subsidiaries to develop an understanding of the risk profiles of the individual regulated legal entities and their relation to the FHC's overall risk profile.  These meetings also should be used, where appropriate, to share information regarding supervisory plans and coordinate supervisory activities and follow-up, as needed.
+
+Review the examination findings of primary bank, thrift and functional regulators (and their self-regulatory organizations) together with other relevant information in order to develop a consolidated picture of the FHC's financial condition and risk profile, the effectiveness of risk management and internal control policies, and the implications for the affiliated depository institutions. 
+
+Make available to primary bank, thrift and functional regulators, to the extent permissible, pertinent information regarding the financial condition, risk management policies, and operations of an FHC that may have a material impact on individual regulated subsidiaries, as well as information concerning transactions or relationships between the regulated subsidiaries and other subsidiaries within the FHC group.   This process will assist supervisors in performing their statutory and supervisory responsibilities over regulated subsidiaries.
+
+Participate in the sharing of information among international supervisors, consistent with applicable law, to ensure that an FHC's global activities are supervised on a consolidated basis and to minimize material gaps in supervision.
+
+Review internal audit and management reports and publicly available information (including market information on equity and debt prices of the consolidated organization), as well as reports and statistics collected by other regulators, including those of depository institution subsidiaries.  To limit regulatory burden, this information should be obtained, to the fullest extent possible, from the parent organization, from primary bank, thrift, and functional regulators of the FHC's regulated subsidiaries, and from publicly available sources, such as externally audited financial statements.  
+
+
+
+Ongoing supervision
+
+FHC structure, management, and the applications process
+
+                    
+The Federal Reserve is responsible for understanding the consolidated organization's legal, organizational, and risk management structure, major business activities, and risk exposures and risk management systems.  The Federal Reserve needs to understand the nature and degree of involvement of the board of directors at the consolidated group level in overseeing the risk management and control process of the organization.  The Federal Reserve, when considering any formal application, declaration, certification, or notification process at the FHC level, will coordinate, as appropriate, with primary bank, thrift, and functional regulators.
+ 
+Reporting and examination
+
+                    
+The Federal Reserve will rely, to the fullest extent possible, on reports that an FHC or its subsidiaries are required to file with, or are prepared by, federal or state authorities (or self-regulatory organizations).  The Federal Reserve will rely on routinely prepared management reports, publicly reported information, and externally audited financial statements.  The Federal Reserve also will rely to the fullest extent possible on the examination of an FHC's bank and nonbank subsidiaries by their appropriate primary bank, thrift, and functional regulators (and their self-regulatory organizations). 
+
+                    
+If supervisory staff requires a specialized report from a functionally regulated subsidiary of an FHC, staff first will request it from the subsidiary's appropriate functional regulator.  In the event that the report is not made available to the Federal Reserve, supervisory staff may obtain the report directly from the functionally regulated subsidiary if it is necessary to assess (i) a material risk to the FHC or any of its depository institution subsidiaries, (ii) compliance with any federal law that the Federal Reserve has specific jurisdiction to enforce against the FHC or a subsidiary, or (iii) the FHC's systems for monitoring and controlling financial and operational risks that may pose a safety and soundness threat to a depository institution subsidiary.
+
+                    
+The Federal Reserve may examine a functionally regulated subsidiary when it has reasonable cause to believe (or reasonably determines) that (i) the subsidiary is engaged in an activity that poses a material risk to an affiliated depository institution, (ii) the examination is necessary to be adequately informed about the FHC's systems for monitoring and controlling the financial and operational risks that may pose a safety and soundness risk to a depository institution subsidiary, or (iii) the subsidiary is not in compliance with any federal law that the Board has specific jurisdiction to enforce (and the Board cannot determine compliance by examining the FHC or its affiliated depository institutions).  Before examining a functionally regulated subsidiary, supervisory staff should first seek to obtain the necessary information from the appropriate functional regulator.  If an examination is determined to be necessary, the Federal Reserve should coordinate its actions with the appropriate
+functional regulator. 
+
+                    
+Consistent with current practice, the Federal Reserve will continue to rely to the fullest extent possible on the work performed by bank, thrift, and functional regulators to validate that material risks are measured and managed adequately at the regulated subsidiary level.  Where necessary and appropriate, and consistent with (i) through (iii) above, the Federal Reserve may conduct or participate in reviews at banks, thrifts, or functionally regulated subsidiaries to validate that risk management and internal control policies established at the consolidated level are being implemented effectively.
+
+                    
+For a subsidiary of an FHC that is not supervised by a bank, thrift, or functional regulator, the Federal Reserve will obtain information from the subsidiary, as appropriate and necessary, to assess the financial condition of the FHC as a whole.  In addition, the Federal Reserve will conduct examinations of such subsidiaries, if necessary, to be informed as to the nature of the subsidiary's operations and financial condition, as well as the subsidiary's financial and operational risks that may pose a threat to the safety and soundness of any depository institution subsidiary of the FHC and the systems for monitoring and controlling such risks. Under the GLB Act, the Federal Reserve may not examine any subsidiary of an FHC that is an investment company registered with the SEC and that is not itself a BHC.
+
+Capital adequacy
+
+                    
+The Federal Reserve is responsible for assessing consolidated capital adequacy for FHCs with the ultimate objective of protecting the insured depository subsidiaries from the effects of disruptions in the nonbank portions of the organization.  Capital adequacy will be assessed in relation to the risk profile of the consolidated organization.  The Federal Reserve will review the FHC's internal risk assessment and related capital analysis process for determining the adequacy of its overall capital position.  Such a review will include consideration of present and future economic conditions, future business development plans, possible stress scenarios, and internal risk control and audit procedures.  As BHCs, FHCs are subject to the Federal Reserve's holding company capital guidelines, which set forth minimum capital ratios that serve as tripwires for additional supervisory scrutiny and corrective action.  The Federal Reserve will review these requirements as they apply to
+FHCs and may, if warranted, adapt the manner in which they apply to FHCs that engage in a broad range of financial activities.
+
+                    
+Although the Federal Reserve is responsible for assessing the consolidated capital adequacy of FHCs, the primary bank, thrift, or functional regulators of FHC subsidiaries will continue to set and enforce applicable capital requirements for the regulated entities within their jurisdiction.  Under the GLB Act, the Federal Reserve may not establish separate capital adequacy requirements for an FHC subsidiary that is in compliance with the capital requirements of its functional regulator.
+
+                    
+Consistent with current practice, the Federal Reserve will continue to place significant reliance on the primary bank, thrift, or functional regulator's analysis of the capital adequacy of a regulated subsidiary and use that analysis as significant input in assessing an FHC's consolidated capital adequacy.  This is especially true where a securities broker-dealer or insurance company comprises a predominant part of an FHC.
+
+                    
+When assessing consolidated capital adequacy for FHCs with functionally regulated subsidiaries, several issues take on particular prominence.  Capital adequacy requirements that have been established for banking, securities, and insurance entities by their respective regulators reflect varying definitions of the elements of capital and varying approaches to asset and liability valuations.  Techniques for assessing capital adequacy must be sufficiently robust to identify situations such as double or multiple leverage or double gearing, because in such cases the actual capital protection may be overstated.
+
+Intra-group exposures and concentrations
+
+                    
+Intra-group exposures, including servicing arrangements and risk concentrations, have the potential to threaten the condition of regulated entities.  Intra-group exposures may be significant at large, complex FHCs, especially those that operate their businesses on global lines that cut across legal entities within the firm.  The focus of the Federal Reserve in this area is on the potential impact of intra-group exposures and concentrations on insured depository institution subsidiaries of an FHC.    
+
+                    
+Risk concentrations can take many forms, including exposures to one or more  counterparties or related entities, industry sectors, and geographic regions.  For risk concentrations, the holding company supervisor is uniquely positioned to understand the combinations of exposures within an organization across all legal entities.  This understanding is critical at the group level -- risk concentrations that are prudent on a legal entity basis may aggregate to an unsafe level for the consolidated organization.
+
+                    
+The Federal Reserve will monitor intra-group exposures and risk concentrations as follows:
+
+
+The appropriate primary bank and thrift regulators will continue to monitor and enforce section 23A and 23B restrictions at the bank or thrift level. The Federal Reserve will focus on assessing whether the FHC monitors and ensures compliance with these statutory requirements.  The Federal Reserve plans to begin collecting data from each depository institution subsidiary of BHCs, including FHCs, on their covered transactions with affiliates that are subject to sections 23A and 23B and will share that data with primary bank and thrift regulators.
+
+Functional regulators will continue to monitor and enforce any intra-group exposure restrictions that may apply to the regulated entities under their jurisdictions.
+
+The Federal Reserve will focus on understanding and monitoring related-party exposures at the group level, including areas such as servicing agreements, derivatives exposures, and payments system exposures, with an important focus on the extent to which a depository institution subsidiary's risk management is dependant on transactions with affiliates. 
+
+The Federal Reserve also will focus on management's effectiveness in monitoring and controlling intra-group exposures and risk concentrations.  The Federal Reserve will consider how an organization's risk management processes measure and manage group-wide risk concentrations.
+
+
+
+Enforcement powers
+
+                    
+The Federal Reserve generally is authorized to take enforcement action against FHCs and their nonbank subsidiaries.  The primary bank and thrift supervisors have the authority to take enforcement action against the banks and thrifts under their jurisdictions.  Under the GLB Act, the Federal Reserve may take enforcement action against a functionally regulated subsidiary of an FHC, but only when such action is necessary to prevent or redress an unsafe or unsound practice or breach of fiduciary duty that poses a material risk either to the financial safety, soundness or stability of an affiliated depository institution, or to the domestic or international payments system.  In such circumstances, the Federal Reserve may only take the action if it is not reasonably possible to protect effectively against the material risk through an action directed at or against an affiliated depository institution.
+
+                    
+Under any circumstances, the Board may take enforcement action against a functionally regulated subsidiary to enforce compliance with any federal law that the Federal Reserve has specific jurisdiction to enforce against the subsidiary.  In the event the Federal Reserve believes that an enforcement action by the Federal Reserve against a functionally regulated entity is necessary, the Federal Reserve will notify the entity's appropriate functional regulator and will coordinate such an action with any taken by the functional regulator wherever practical.  It is expected that the Federal Reserve will not take an enforcement action against a functionally regulated subsidiary (or a person associated with the subsidiary) if the problem involves factors and statutes that are the primary responsibility of the functional regulator.
+
+                    
+Under the existing bank holding company framework, the Federal Reserve coordinates enforcement actions with the primary bank and thrift regulators, possibly with some adaptation of the action for the holding company context (such as limitations on parent company debt or dividends).  The Federal Reserve will continue to coordinate enforcement actions with those regulators.  In a similar fashion, the Federal Reserve will coordinate with functional regulators when formulating and issuing enforcement actions that involve or may have an impact on functionally regulated subsidiaries.
+
+Promotion of sound practices and improved disclosure
+
+                    
+The Federal Reserve can promote sound practices in a number of ways, such as by monitoring trends in risk exposures and risk management practices across the FHC population through a combination of efforts.  These include regular discussions, centered on specific issues and emerging risks, with FHC management; regular meetings with primary bank, thrift, and functional regulators to explore and discuss issues of mutual interest and/or concern; interagency working groups or specialty teams to gain early insight into risks that cut across the various entities of a conglomerate or groups of conglomerates; and industry conferences on relevant topics of interest.
+
+                    
+These initiatives will contribute to the development of sound practices that the Federal Reserve and other primary bank, thrift, and functional regulators can communicate to the senior management and board of directors of the FHCs, as well as to the senior management of their bank and nonbank subsidiaries.
+ 
+                    
+Improved transparency and public disclosure can meaningfully supplement the efforts of supervisors to monitor the increasingly complex and global activities of diversified banking organizations.  The Federal Reserve will, consistent with sound accounting principles and practices, and with considerations of depository institution safety and soundness, participate in efforts to enhance disclosures that illuminate group-wide activities, risk exposures, risk management, controls, and intra-group exposures.
+
+Ongoing challenges
+
+                    
+Most of the concepts discussed in this framework are already being applied by the Federal Reserve in the context of the consolidated supervision of BHCs.1  Examples include greater reliance on risk-focused supervision; strengthening relationships with senior management; improving coordination with other federal, state and international regulatory and supervisory authorities; greater reliance on specialty teams, sound practices papers and public disclosures; and simplification of the applications process.
+
+                    
+Still, supervision of more diversified FHCs presents new challenges.  To address these challenges, the Federal Reserve will continue its efforts to strengthen (i) cooperative arrangements with bank and thrift regulators, the SEC, CFTC, state insurance and securities regulators, and foreign supervisors; (ii) relationships with FHC management and personnel responsible for significant risk management functions and, where necessary, the management of the organization's nonbank subsidiaries; (iii) information flows that provide supervisors with relevant, up-to-date information without imposing unwarranted burden on financial organizations; (iv) techniques for evaluating capital adequacy for FHCs engaged in an expanded range of nonbank financial activities; (v) public disclosures and market discipline; (vi) techniques for assessing the overall risk profile of FHCs and the implications for affiliated depository institutions; and (vii) incentives for FHCs to continually review and improve their
+risk management processes, internal controls, and audit practices.
+
+                    
+The Federal Reserve is committed to continuing to work in a constructive and cooperative fashion with all regulators involved in overseeing the activities of FHCs and their bank and nonbank subsidiaries.
+
+                    
+Reserve Banks are asked to distribute this SR letter to FHCs as well as to the state banking agencies and functional regulators in their districts.  Questions pertaining to this framework should be directed to Roger Cole, Associate Director, at (202) 452-2618, Michael Martinson, Deputy Associate Director, at (202) 452-3640, or Barbara Bouchard, Manager, Policy Development, at (202) 452-3072.
+
+
+Richard Spillenkothen
+Director
+
+
+Cross Reference:  SR 99-15
+
+
+
+
+Notes:
+
+1.  
+The Federal Reserve�s framework for supervising large complex banking organizations (LCBOs) is described in SR letter 99-15.  Return to text
+
+
+
+
+
+
+
+SR letters | 2000
+
+
+Home | Banking information and regulation
+Accessibility | Contact Us
+Last update: July 26, 2001

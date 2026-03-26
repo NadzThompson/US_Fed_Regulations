@@ -1,0 +1,146 @@
+{
+  "doc_id": "usfed.fr.00-15798",
+  "title": "Interagency Guidelines Establishing Standards for Safeguarding Customer Information and Rescission of Year 2000 Standards for Safety and Soundness",
+  "short_title": "00-15798",
+  "slug": "00-15798",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Proposed Rule",
+  "nova_tier": 3,
+  "authority_class": "guidance_interpretive",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "00-15798",
+  "citation": "65 FR 39472",
+  "publication_date": "2000-06-26",
+  "effective_date_start": null,
+  "abstract": "The Office of the Comptroller of the Currency, Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, and Office of Thrift Supervision, (collectively, the Agencies) are requesting comment on proposed Guidelines establishing standards for safeguarding customer information published to implement sections 501 and 505(b) of the Gramm-Leach-Bliley Act (the G-L-B Act or Act). Section 501 of the G-L-B Act requires the Agencies to establish appropriate standards for the",
+  "action": "Joint notice of proposed rule making.",
+  "html_url": "https://www.federalregister.gov/documents/2000/06/26/00-15798/interagency-guidelines-establishing-standards-for-safeguarding-customer-information-and-rescission",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2000-06-26/pdf/00-15798.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 30,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 208,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 211,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 225,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 263,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 308,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 364,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 568,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 570,
+      "title": 12
+    }
+  ],
+  "docket_ids": [
+    "Docket No. 00-13",
+    "Docket No. R-1073",
+    "Docket No. 2000-51"
+  ],
+  "regulation_id_numbers": [
+    "1550-AB36",
+    "1557-AB84",
+    "3064-AC39"
+  ],
+  "page_length": 18,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2000/06/26/00-15798/interagency-guidelines-establishing-standards-for-safeguarding-customer-information-and-rescission",
+  "canonical_url": "https://www.federalregister.gov/documents/2000/06/26/00-15798/interagency-guidelines-establishing-standards-for-safeguarding-customer-information-and-rescission",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:17Z",
+  "include_in_primary_corpus": false,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 00-15798",
+  "title_normalized": "Interagency Guidelines Establishing Standards for Safeguarding Customer Information and Rescission of Year 2000 Standards for Safety and Soundness",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Proposed Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.3,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2000-06-26",
+  "document_date_raw": "2000-06-26",
+  "word_count_raw_body": 4500,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 208, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 211, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 225, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 263, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 30, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 308, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 364, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 568, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 570, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": false,
+  "applies_to_savings_loan_holding": true,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": false,
+  "normalized_text_sha256": "0ad42f6452b2e371e31940450b1ab50383163e068886e00dfc7b5c9bfbf29a9f",
+  "normalized_md_path": "federal_register/md/00-15798_Interagency_Guidelines_Establishing_Standards_for_Safeguarding_Customer_Informat.md",
+  "canonical_json_path": "federal_register/json/00-15798_Interagency_Guidelines_Establishing_Standards_for_Safeguarding_Customer_Informat.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "00-15798 Interagency Guidelines Establishing Standards for Safeguarding Customer Information and Rescission of Year 2000 Standards for Safety and Soundness Joint notice of proposed rule making. The Office of the Comptroller of the Currency, Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, and Office of Thrift Supervision, (collectively, the Agencies) a",
+  "vector_text_prefix": "Federal Reserve Proposed Rule 00-15798: Interagency Guidelines Establishing Standards for Safeguarding Customer Information and Rescission of Year 2000 Standards for Safety and Soundness",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

@@ -1,0 +1,130 @@
+{
+  "doc_id": "usfed.fr.02-18191",
+  "title": "Customer Identification Programs for Banks, Savings Associations, and Credit Unions",
+  "short_title": "02-18191",
+  "slug": "02-18191",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Proposed Rule",
+  "nova_tier": 2,
+  "authority_class": "guidance_interpretive",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "02-18191",
+  "citation": "67 FR 48290",
+  "publication_date": "2002-07-23",
+  "effective_date_start": null,
+  "abstract": "The Department of the Treasury, through the Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Reserve System (Board), the Federal Deposit Insurance Corporation (FDIC), the Office of Thrift Supervision (OTS), and the National Credit Union Administration (NCUA) (collectively, the Agencies) are jointly issuing a proposed regulation to implement section 326 of the Uniting and Strengthening America b",
+  "action": "Joint notice of proposed rulemaking.",
+  "html_url": "https://www.federalregister.gov/documents/2002/07/23/02-18191/customer-identification-programs-for-banks-savings-associations-and-credit-unions",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2002-07-23/pdf/02-18191.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 21,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 208,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 211,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 326,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 563,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 748,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 103,
+      "title": 31
+    }
+  ],
+  "docket_ids": [
+    "Docket No. 02-11",
+    "Docket No. R-1127",
+    "No. 2002-27"
+  ],
+  "regulation_id_numbers": [
+    "1506-AA31"
+  ],
+  "page_length": 10,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2002/07/23/02-18191/customer-identification-programs-for-banks-savings-associations-and-credit-unions",
+  "canonical_url": "https://www.federalregister.gov/documents/2002/07/23/02-18191/customer-identification-programs-for-banks-savings-associations-and-credit-unions",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:18Z",
+  "include_in_primary_corpus": false,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 02-18191",
+  "title_normalized": "Customer Identification Programs for Banks, Savings Associations, and Credit Unions",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Proposed Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.6,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2002-07-23",
+  "document_date_raw": "2002-07-23",
+  "word_count_raw_body": 2500,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 103, 'title': 31}",
+    "{'chapter': None, 'citation_url': None, 'part': 208, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 21, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 211, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 326, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 563, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 748, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": false,
+  "applies_to_savings_loan_holding": true,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": false,
+  "normalized_text_sha256": "86b4e1c6053ee8ee4a1437500aecec77feaaf12a02dcd41e54cbb16f738a9fc3",
+  "normalized_md_path": "federal_register/md/02-18191_Customer_Identification_Programs_for_Banks_Savings_Associations_and_Credit_Union.md",
+  "canonical_json_path": "federal_register/json/02-18191_Customer_Identification_Programs_for_Banks_Savings_Associations_and_Credit_Union.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "02-18191 Customer Identification Programs for Banks, Savings Associations, and Credit Unions Joint notice of proposed rulemaking. The Department of the Treasury, through the Financial Crimes Enforcement Network (FinCEN), together with the Office of the Comptroller of the Currency (OCC), the Board of Governors of the Federal Rese",
+  "vector_text_prefix": "Federal Reserve Proposed Rule 02-18191: Customer Identification Programs for Banks, Savings Associations, and Credit Unions",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

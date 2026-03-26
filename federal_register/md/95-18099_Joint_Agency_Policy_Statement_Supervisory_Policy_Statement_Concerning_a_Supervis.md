@@ -1,0 +1,18 @@
+# Joint Agency Policy Statement: Supervisory Policy Statement Concerning a Supervisory Framework for Measuring and Assessing Banks' Interest Rate Risk Exposure
+
+**Proposed Rule** | 60 FR 39495 | Published 1995-08-02
+
+**Document Number:** 95-18099
+
+---
+
+## Action
+
+Policy statement; request for comment.
+
+## Abstract
+
+The OCC, the Board, and the FDIC (collectively, ``the agencies'') seek comment on a proposed interagency Supervisory Policy to establish a uniform supervisory framework for measuring banks' interest rate risk (IRR) exposures. The proposed policy establishes a framework that the agencies would use to measure and monitor the level of IRR at individual banks. The measurement process proposed and described in this policy statement is intended to facilitate the agencies' assessment of a bank's IRR exposure and its capital adequacy. The results of the supervisory and internal models would be one factor used by the agencies in their assessments' of a bank's capital adequacy for IRR. Other factors that the agencies will consider include the quality of the bank's IRR risk management process, the overall financial condition of the bank, and the level of other risks at the bank for which capital is needed. Pursuant to the final rule banks may be required to hold additional capital. The proposed supervisory framework provides measures of the change in a bank's economic value for a given change in interest rates using a supervisory model. The framework also considers the results of a bank's internal model results when that model provides a measure of the change in a bank's economic value. Banks not specifically exempted from detailed IRR reporting would submit new IRR Call Report schedules indicating the maturity, repricing, or price sensitivity of their various on- and off-balance sheet instruments. A bank also would have the option of reporting its internal model estimates of the price sensitivity of its major portfolios and its economic value. Concurrent with the publication of this proposed Supervisory Policy statement, the agencies have issued a final rule that amends their capital guidelines for IRR. Those amendments indicate that the agencies will consider in their evaluation of a bank's capital adequacy, the exposure of a bank's capital and economic value to changes in interest rates. The amendments are in response to section 305 of the FDIC Improvement Act of 1991 (FDICIA) which requires the agencies to amend their risk-based capital standards to take adequate account of interest rate risk. As noted in the discussion of the final rule on IRR, the agencies intend, at a subsequent date, to incorporate explicit minimum requirements for IRR into their risk-based capital standards. The agencies anticipate that the measurement framework described in this proposed policy, will be the basis for such a capital requirement. Toward that end, the agencies intend to work with the industry to evaluate the reliability and accuracy of the results from the supervisory model and bank internal models. Any explicit minimum capital charge would be implemented through the agencies' rulemaking process and would provide the opportunity for public comment before a final rule is adopted.
+
+**Federal Register:** [https://www.federalregister.gov/documents/1995/08/02/95-18099/joint-agency-policy-statement-supervisory-policy-statement-concerning-a-supervisory-framework-for](https://www.federalregister.gov/documents/1995/08/02/95-18099/joint-agency-policy-statement-supervisory-policy-statement-concerning-a-supervisory-framework-for)
+**PDF:** [https://www.govinfo.gov/content/pkg/FR-1995-08-02/pdf/95-18099.pdf](https://www.govinfo.gov/content/pkg/FR-1995-08-02/pdf/95-18099.pdf)

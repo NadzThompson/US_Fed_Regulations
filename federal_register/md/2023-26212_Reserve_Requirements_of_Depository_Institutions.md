@@ -1,0 +1,18 @@
+# Reserve Requirements of Depository Institutions
+
+**Final Rule** | 88 FR 83316 | Published 2023-11-29
+**Effective:** 2023-12-29
+**Document Number:** 2023-26212
+
+---
+
+## Action
+
+Final rule.
+
+## Abstract
+
+The Board is amending Regulation D, Reserve Requirements of Depository Institutions, to reflect the annual indexing of the reserve requirement exemption amount and the low reserve tranche for 2024. The annual indexation of these amounts is required notwithstanding the Board's action in March 2020 of setting all reserve requirement ratios to zero. The reserve requirement exemption amount for 2023 will remain $36.1 million, unchanged for 2024, consistent with the Federal Reserve Act (the "Act"). The Board is amending Regulation D to set the amount of the low reserve tranche at $644.0 million (decreased from $691.7 million in 2023). The adjustment to the low reserve tranche is derived using a statutory formula specified in the Act. The annual indexation of the reserve requirement exemption amount and low reserve tranche is required by statute but will not affect depository institutions' reserve requirements, which will remain zero.
+
+**Federal Register:** [https://www.federalregister.gov/documents/2023/11/29/2023-26212/reserve-requirements-of-depository-institutions](https://www.federalregister.gov/documents/2023/11/29/2023-26212/reserve-requirements-of-depository-institutions)
+**PDF:** [https://www.govinfo.gov/content/pkg/FR-2023-11-29/pdf/2023-26212.pdf](https://www.govinfo.gov/content/pkg/FR-2023-11-29/pdf/2023-26212.pdf)

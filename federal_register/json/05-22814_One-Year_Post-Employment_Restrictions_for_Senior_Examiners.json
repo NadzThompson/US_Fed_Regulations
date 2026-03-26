@@ -1,0 +1,139 @@
+{
+  "doc_id": "usfed.fr.05-22814",
+  "title": "One-Year Post-Employment Restrictions for Senior Examiners",
+  "short_title": "05-22814",
+  "slug": "05-22814",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Final Rule",
+  "nova_tier": 3,
+  "authority_class": "primary_normative",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "05-22814",
+  "citation": "70 FR 69633",
+  "publication_date": "2005-11-17",
+  "effective_date_start": "2005-12-17",
+  "abstract": "The OCC, Board, FDIC and OTS (the Agencies) have jointly adopted final rules to implement section 6303(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Intelligence Reform Act), which imposes post-employment restrictions on senior examiners of depository institutions and depository institution holding companies. Under section 6303(b), and the Agencies' final implementing rules, a senior examiner employed by an Agency or a Federal Reserve Bank (Reserve Bank) may not knowingly a",
+  "action": "Final rule.",
+  "html_url": "https://www.federalregister.gov/documents/2005/11/17/05-22814/one-year-post-employment-restrictions-for-senior-examiners",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2005-11-17/pdf/05-22814.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 4,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 19,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 263,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 264,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 308,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 336,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 507,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 509,
+      "title": 12
+    }
+  ],
+  "docket_ids": [
+    "Docket No. 05-19",
+    "Docket No. R-1230",
+    "No. 2005-48"
+  ],
+  "regulation_id_numbers": [
+    "1550-AB99",
+    "1557-AC94",
+    "3064-AC92"
+  ],
+  "page_length": 9,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2005/11/17/05-22814/one-year-post-employment-restrictions-for-senior-examiners",
+  "canonical_url": "https://www.federalregister.gov/documents/2005/11/17/05-22814/one-year-post-employment-restrictions-for-senior-examiners",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:20Z",
+  "include_in_primary_corpus": true,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Final Rule > 05-22814",
+  "title_normalized": "One-Year Post-Employment Restrictions for Senior Examiners",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Final Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.3,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2005-11-17",
+  "document_date_raw": "2005-11-17",
+  "word_count_raw_body": 2250,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 19, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 263, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 264, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 308, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 336, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 4, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 507, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 509, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": true,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": true,
+  "normalized_text_sha256": "d89d106f141a7425e620b874c02466ddd92956b31df75bb4812e3ccff9627186",
+  "normalized_md_path": "federal_register/md/05-22814_One-Year_Post-Employment_Restrictions_for_Senior_Examiners.md",
+  "canonical_json_path": "federal_register/json/05-22814_One-Year_Post-Employment_Restrictions_for_Senior_Examiners.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "05-22814 One-Year Post-Employment Restrictions for Senior Examiners Final rule. The OCC, Board, FDIC and OTS (the Agencies) have jointly adopted final rules to implement section 6303(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Intelligence Reform Act), whi",
+  "vector_text_prefix": "Federal Reserve Final Rule 05-22814: One-Year Post-Employment Restrictions for Senior Examiners",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

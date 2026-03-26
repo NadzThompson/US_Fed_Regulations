@@ -1,0 +1,168 @@
+{
+  "doc_id": "usfed.fr.2022-04454",
+  "title": "Rules of Practice and Procedure",
+  "short_title": "2022-04454",
+  "slug": "2022-04454",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Proposed Rule",
+  "nova_tier": 3,
+  "authority_class": "guidance_interpretive",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "2022-04454",
+  "citation": "87 FR 22034",
+  "publication_date": "2022-04-13",
+  "effective_date_start": null,
+  "abstract": "The Comptroller of the Currency (OCC), Board of Governors of the Federal Reserve System (Board), Federal Deposit Insurance Corporation (FDIC), and the National Credit Union Administration (NCUA) (collectively, the Agencies) are proposing changes to the Uniform Rules of Practice and Procedure (Uniform Rules) to recognize the use of electronic communications in all aspects of administrative hearings and to otherwise increase the efficiency and fairness of administrative adjudications. The OCC, Boa",
+  "action": "Notice of proposed rulemaking.",
+  "html_url": "https://www.federalregister.gov/documents/2022/04/13/2022-04454/rules-of-practice-and-procedure",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2022-04-13/pdf/2022-04454.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 3,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 4,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 6,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 19,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 108,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 109,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 112,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 165,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 238,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 263,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 308,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 747,
+      "title": 12
+    }
+  ],
+  "docket_ids": [
+    "Docket ID OCC-2021-0007",
+    "Docket No. R-1766",
+    "NCUA 2021-0079"
+  ],
+  "regulation_id_numbers": [
+    "1557-AE33",
+    "3064-AF10",
+    "3133-AF37",
+    "7100-AG26"
+  ],
+  "page_length": 59,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2022/04/13/2022-04454/rules-of-practice-and-procedure",
+  "canonical_url": "https://www.federalregister.gov/documents/2022/04/13/2022-04454/rules-of-practice-and-procedure",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:28Z",
+  "include_in_primary_corpus": false,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2022-04454",
+  "title_normalized": "Rules of Practice and Procedure",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Proposed Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.3,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2022-04-13",
+  "document_date_raw": "2022-04-13",
+  "word_count_raw_body": 14750,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 108, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 109, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 112, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 165, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 19, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 238, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 263, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 3, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 308, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 4, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 6, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 747, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": false,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": false,
+  "normalized_text_sha256": "3c7aba8f57233d50e256d5da6357ad0a0766fc171412e64ad98410507b63c987",
+  "normalized_md_path": "federal_register/md/2022-04454_Rules_of_Practice_and_Procedure.md",
+  "canonical_json_path": "federal_register/json/2022-04454_Rules_of_Practice_and_Procedure.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "2022-04454 Rules of Practice and Procedure Notice of proposed rulemaking. The Comptroller of the Currency (OCC), Board of Governors of the Federal Reserve System (Board), Federal Deposit Insurance Corporation (FDIC), and the National Credit Union Administration (NCUA) (coll",
+  "vector_text_prefix": "Federal Reserve Proposed Rule 2022-04454: Rules of Practice and Procedure",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

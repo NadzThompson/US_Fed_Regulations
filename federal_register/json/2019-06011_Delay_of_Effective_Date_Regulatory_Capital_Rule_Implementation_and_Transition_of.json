@@ -1,0 +1,216 @@
+{
+  "doc_id": "usfed.fr.2019-06011",
+  "title": "Delay of Effective Date; Regulatory Capital Rule: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and Related Adjustments to the Regulatory Capital Rule and Conforming Amendments to Other Regulations",
+  "short_title": "2019-06011",
+  "slug": "2019-06011",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "Final Rule",
+  "nova_tier": 2,
+  "authority_class": "primary_normative",
+  "status": "active",
+  "current_version_flag": true,
+  "document_number": "2019-06011",
+  "citation": "84 FR 11879",
+  "publication_date": "2019-03-29",
+  "effective_date_start": "2019-02-14",
+  "abstract": "On February 14, 2019, the Board of Governors of the Federal Reserve System (Board), the Federal Deposit Insurance Corporation (FDIC), and the Office of the Comptroller of the Currency (OCC) (collectively, the agencies) published in the Federal Register a final rule to address changes to credit loss accounting under U.S. generally accepted accounting principles, including banking organizations' implementation of the current expected credit losses methodology (CECL) (final rule). The final rule ha",
+  "action": "Final rule, delay of effective date.",
+  "html_url": "https://www.federalregister.gov/documents/2019/03/29/2019-06011/delay-of-effective-date-regulatory-capital-rule-implementation-and-transition-of-the-current",
+  "pdf_url": "https://www.govinfo.gov/content/pkg/FR-2019-03-29/pdf/2019-06011.pdf",
+  "cfr_references": [
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 1,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 3,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 5,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 23,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 24,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 32,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 46,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 208,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 211,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 215,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 217,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 223,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 225,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 252,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 324,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 325,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 327,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 347,
+      "title": 12
+    },
+    {
+      "chapter": null,
+      "citation_url": null,
+      "part": 390,
+      "title": 12
+    }
+  ],
+  "docket_ids": [
+    "Docket ID OCC-2018-0009",
+    "Regulation Q",
+    "Docket No. R-1605"
+  ],
+  "regulation_id_numbers": [
+    "1557-AE32",
+    "3064-AE74",
+    "7100-AF04"
+  ],
+  "page_length": 1,
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "content_source": "Federal Register API",
+  "source_url": "https://www.federalregister.gov/documents/2019/03/29/2019-06011/delay-of-effective-date-regulatory-capital-rule-implementation-and-transition-of-the-current",
+  "canonical_url": "https://www.federalregister.gov/documents/2019/03/29/2019-06011/delay-of-effective-date-regulatory-capital-rule-implementation-and-transition-of-the-current",
+  "scraped_on": "2026-03-26",
+  "enriched_timestamp": "2026-03-26T01:11:26Z",
+  "include_in_primary_corpus": true,
+  "include_in_context_corpus": true,
+  "section_path": "Federal Reserve System > Federal Register > Final Rule > 2019-06011",
+  "title_normalized": "Delay of Effective Date; Regulatory Capital Rule: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and Related Adjustments to the Regulatory Capital Rule and Conforming Amendments to Other Regulations",
+  "publication_type": "Notice",
+  "publication_type_normalized": "Final Rule",
+  "authority_level": "informational",
+  "prudential_weight": 0.6,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": false,
+  "is_context_only": false,
+  "issuing_division": "Board of Governors",
+  "document_date_iso": "2019-03-29",
+  "document_date_raw": "2019-03-29",
+  "word_count_raw_body": 250,
+  "section_headings": [],
+  "toc_depth": 0,
+  "has_appendices": false,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "{'chapter': None, 'citation_url': None, 'part': 1, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 208, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 211, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 215, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 217, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 223, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 225, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 23, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 24, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 252, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 3, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 32, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 324, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 325, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 327, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 347, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 390, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 46, 'title': 12}",
+    "{'chapter': None, 'citation_url': None, 'part': 5, 'title': 12}"
+  ],
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": false,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": false,
+  "applies_to_nonbank_financial": false,
+  "applies_to_insured_depository": false,
+  "normalized_text_sha256": "c6e57bc5c992ec5068ef91e07280f098991c46927c78ec6775e750003eb7e132",
+  "normalized_md_path": "federal_register/md/2019-06011_Delay_of_Effective_Date_Regulatory_Capital_Rule_Implementation_and_Transition_of.md",
+  "canonical_json_path": "federal_register/json/2019-06011_Delay_of_Effective_Date_Regulatory_Capital_Rule_Implementation_and_Transition_of.json",
+  "parser_version": "nova-fr-api-v1",
+  "normalizer_version": "nova-fr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "bm25_text": "2019-06011 Delay of Effective Date; Regulatory Capital Rule: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and Related Adjustments to the Regulatory Capital Rule and Conforming Amendments to Other Regulations Final rule, delay of effective date. On February 14, 2019, the Board of Governors of the Federal Reserve System (Board), the Federal Deposit Insurance Corporation (FDIC), and the Office of the Comptroller of the Currency (OCC) (collectiv",
+  "vector_text_prefix": "Federal Reserve Final Rule 2019-06011: Delay of Effective Date; Regulatory Capital Rule: Implementation and Transition of the Current Expected Credit Losses Methodology for Allowances and R",
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "include_in_support_corpus": true
+}

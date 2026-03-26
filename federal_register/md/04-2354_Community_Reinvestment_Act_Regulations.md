@@ -1,0 +1,18 @@
+# Community Reinvestment Act Regulations
+
+**Proposed Rule** | 69 FR 5729 | Published 2004-02-06
+
+**Document Number:** 04-2354
+
+---
+
+## Action
+
+Joint notice of proposed rulemaking.
+
+## Abstract
+
+The OCC, Board, FDIC, and OTS (collectively, "we" or "the agencies") have conducted a joint review of the CRA regulations, fulfilling the commitment we made when we adopted the current Community Reinvestment Act (CRA or "the Act") regulations in 1995. See 60 FR 22156, 22177 (May 4, 1995). As part of our review, we published an advance notice of proposed rulemaking (ANPR) on July 19, 2001, seeking public comment on a wide range of questions. 66 FR 37602 (July 19, 2001). This proposal was developed following the agencies' review of the CRA regulations, which included an analysis of about four hundred comments received on the ANPR. The comments reflected a general consensus that fundamental elements of the regulations are sound, but indicated a profound split over the need for, and appropriate direction of, change. Community organizations advocated "updating" the regulations with expanded requirements to match developments in the industry and marketplace; financial institutions were concerned principally with reducing burden consistent with maintaining or improving the regulations' effectiveness. The agencies believe the regulations are essentially sound, but are in need of some updating to keep pace with changes in the financial services industry. Therefore, we are proposing amendments to the regulations in two areas. First, to reduce unwarranted burden consistent with the agencies' ongoing efforts to identify and reduce regulatory burden where appropriate and feasible, we are proposing to amend the definition of "small institution" to mean an institution with total assets of less than $500 million, without regard to any holding company assets. This change would take into account substantial institutional asset growth and consolidation in the banking and thrift industries since the definition was adopted. It also reflects the fact that small institutions with a sizable holding company do not appear to find addressing their CRA responsibilities any less burdensome than a similarly-sized institution without a sizable holding company. As described below, this proposal would increase the number of institutions that are eligible for evaluation under the small institution performance standards, while only slightly reducing the portion of the nation's bank and thrift assets subject to evaluation under the large retail institution performance standards. It would better align the definition of small institution with agency expectations when revising the regulations in 1995 about the scope of coverage for small institutions. Second, to better address abusive lending practices \1\ in CRA evaluations, we are proposing to amend our regulations specifically to provide that evidence that an institution, or any of an institution's affiliates, the loans of which have been considered pursuant to Sec. -- --.22(c), has engaged in specified discriminatory, illegal, or abusive credit practices in connection with certain loans adversely affects the evaluation of the institution's CRA performance. ---------------------------------------------------------------------------
+
+**Federal Register:** [https://www.federalregister.gov/documents/2004/02/06/04-2354/community-reinvestment-act-regulations](https://www.federalregister.gov/documents/2004/02/06/04-2354/community-reinvestment-act-regulations)
+**PDF:** [https://www.govinfo.gov/content/pkg/FR-2004-02-06/pdf/04-2354.pdf](https://www.govinfo.gov/content/pkg/FR-2004-02-06/pdf/04-2354.pdf)

@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.zip
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Claude artifacts
+.claude/
+
+# Scraper artifacts
+scrape_fed_regulations.py
+regulations_metadata.json
