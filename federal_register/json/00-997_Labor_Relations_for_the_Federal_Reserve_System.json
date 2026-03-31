@@ -37,7 +37,7 @@
   "source_url": "https://www.federalregister.gov/documents/2000/01/18/00-997/labor-relations-for-the-federal-reserve-system",
   "canonical_url": "https://www.federalregister.gov/documents/2000/01/18/00-997/labor-relations-for-the-federal-reserve-system",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:18Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 00-997",
@@ -80,5 +80,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 00-997: Labor Relations for the Federal Reserve System",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "00-997"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.00-997",
+  "citation_anchor": "#fr-00-997",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2000-01-18",
+  "version_label": "2000"
 }

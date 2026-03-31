@@ -31,7 +31,7 @@
   "effective_date_start": "2025-09-25",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This letter on special measures applies to all covered financial institutions supervised by the Federal Reserve, regardless of asset size.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1135,
+  "word_count_raw_body": 1197,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2503.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2503.htm",
-  "normalized_text_sha256": "94b9fade0df17446e0cc61bb8491f1d3f3cdf0c61fd23073ecd739db31c02873",
+  "normalized_text_sha256": "dd2e656801bb28af1d9f9a67f77e978846a31019e6e6a56300e8828fb343b813",
   "normalized_md_path": "SR_Letters/md/sr25-3.md",
   "canonical_json_path": "SR_Letters/json/sr25-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 25-3 Imposition of Special Measures by the U.S. Department of the Treasury's Financial Crimes Enforcement Network (\"FinCEN\") This letter on special measures applies to all covered financial institutions supervised by the Federal Reserve, regardless of asset size. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 25-3: Imposition of Special Measures by the U.S. Department of the Treasury's Financial Crimes Enforcement Network (\"FinCEN\")"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 25-3: Imposition of Special Measures by the U.S. Department of the Treasury's Financial Crimes Enforcement Network (\"FinCEN\")",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 25-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr25-3",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2025-09-25",
+  "version_label": "2025"
 }

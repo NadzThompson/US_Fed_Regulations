@@ -31,8 +31,8 @@
   "effective_date_start": "2019-11-15",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
-  "applicability_raw": "amount. The correct applicability amount is $10\u00a0billion and not $1\u00a0billion.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "amount. The correct applicability amount is $10 billion and not $1 billion.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 356,
+  "word_count_raw_body": 399,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1913.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1913.htm",
-  "normalized_text_sha256": "c4c90a0adebe02f7299493fa5720bb158123fa7041b41802e4f1933cd96d2387",
+  "normalized_text_sha256": "7689bb6f75667084299641e31d7e5b24c0e8cd9f19a4760506a8671c0b06fdf6",
   "normalized_md_path": "SR_Letters/md/sr19-13.md",
   "canonical_json_path": "SR_Letters/json/sr19-13.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 19-13 FFIEC Information Technology Examination Handbook amount. The correct applicability amount is $10\u00a0billion and not $1\u00a0billion. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-13: FFIEC Information Technology Examination Handbook"
+  "bm25_text": "SR 19-13 FFIEC Information Technology Examination Handbook amount. The correct applicability amount is $10 billion and not $1 billion. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-13: FFIEC Information Technology Examination Handbook",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-13"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-13",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2019-11-15",
+  "version_label": "2019"
 }

@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2017/06/26/2017-13106/regulation-a-extensions-of-credit-by-federal-reserve-banks",
   "canonical_url": "https://www.federalregister.gov/documents/2017/06/26/2017-13106/regulation-a-extensions-of-credit-by-federal-reserve-banks",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:25Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2017-13106",
@@ -82,5 +82,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2017-13106: Regulation A: Extensions of Credit by Federal Reserve Banks",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2017-13106"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2017-13106",
+  "citation_anchor": "#fr-2017-13106",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2017-06-26",
+  "version_label": "2017"
 }

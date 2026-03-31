@@ -31,7 +31,7 @@
   "effective_date_start": "1994-04-29",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1174,
+  "word_count_raw_body": 1215,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr9430.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr9430.htm",
-  "normalized_text_sha256": "128545ebf6cae94815d6d41a78bbcbc066eb9373359e271313ac8fa9a3e344ec",
+  "normalized_text_sha256": "b72c272e9b94176cd592da1ae54eca449b1de4cb83fc6e8cc7a59121db55f48b",
   "normalized_md_path": "SR_Letters/md/sr94-30(fis).md",
   "canonical_json_path": "SR_Letters/json/sr94-30(fis).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,5 +78,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 94-30 (FIS) SR 94-30 (FIS):Written Agreements with Holding Companies of Banks Subject to Prompt Corrective Action  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 94-30 (FIS): SR 94-30 (FIS):Written Agreements with Holding Companies of Banks Subject to Prompt Corrective Action"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 94-30 (FIS): SR 94-30 (FIS):Written Agreements with Holding Companies of Banks Subject to Prompt Corrective Action",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 94-30 (FIS)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr94-30(fis)",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "1994-04-29",
+  "version_label": "1994"
 }

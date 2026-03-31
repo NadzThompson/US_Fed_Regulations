@@ -31,8 +31,8 @@
   "effective_date_start": "2020-05-08",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
-  "applicability_raw": "This letter and the attached interagency policy statement are relevant for Federal Reserve supervised financial institutions,2 including those with less than $10\u00a0billion in total consolidated assets, that file regulatory reports prepared in accordance with GAAP.3",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This letter and the attached interagency policy statement are relevant for Federal Reserve supervised financial institutions,2 including those with less than $10 billion in total consolidated assets, that file regulatory reports prepared in accordance with GAAP.3",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 936,
+  "word_count_raw_body": 1006,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2012.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2012.htm",
-  "normalized_text_sha256": "397bd880de45f1003b3768e4c81beb9fd599a2dd09f0cbd4ea74735f6e8cda71",
+  "normalized_text_sha256": "16236d5fae99cae65dae219073befb9928560cc6edd28613e6b01e13954d02b9",
   "normalized_md_path": "SR_Letters/md/sr20-12.md",
   "canonical_json_path": "SR_Letters/json/sr20-12.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 20-12 Interagency Policy Statement on Allowances for Credit Losses This letter and the attached interagency policy statement are relevant for Federal Reserve supervised financial institutions,2 including those with less than $10\u00a0billion in total consolidated assets, that file regulatory reports prepared in accordance with GAAP.3 BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-12: Interagency Policy Statement on Allowances for Credit Losses"
+  "bm25_text": "SR 20-12 Interagency Policy Statement on Allowances for Credit Losses This letter and the attached interagency policy statement are relevant for Federal Reserve supervised financial institutions,2 including those with less than $10 billion in total consolidated assets, that file regulatory reports prepared in accordance with GAAP.3 BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-12: Interagency Policy Statement on Allowances for Credit Losses",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-12"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-12",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2020-05-08",
+  "version_label": "2020"
 }

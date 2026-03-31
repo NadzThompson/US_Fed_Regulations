@@ -29,20 +29,20 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 9,
   "appendix_count": 4,
-  "word_count_raw_body": 4788,
+  "word_count_raw_body": 15719,
   "section_headings": [
-    "\u00a7 213.1 Authority, scope, purpose, and enforcement.",
-    "\u00a7 213.2 Definitions.",
-    "\u00a7 213.3 General disclosure requirements.",
-    "\u00a7 213.4 Content of disclosures.",
-    "\u00a7 213.5 Renegotiations, extensions, and assumptions.",
-    "\u00a7 213.6 [Reserved]",
-    "\u00a7 213.7 Advertising.",
-    "\u00a7 213.8 Record retention.",
-    "\u00a7 213.9 Relation to state laws."
+    "§ 213.1 Authority, scope, purpose, and enforcement.",
+    "§ 213.2 Definitions.",
+    "§ 213.3 General disclosure requirements.",
+    "§ 213.4 Content of disclosures.",
+    "§ 213.5 Renegotiations, extensions, and assumptions.",
+    "§ 213.6 [Reserved]",
+    "§ 213.7 Advertising.",
+    "§ 213.8 Record retention.",
+    "§ 213.9 Relation to state laws."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-213",
@@ -69,7 +69,7 @@
   "inline_cross_references": [
     "Regulation M"
   ],
-  "normalized_text_sha256": "a827f01b2ff2098636ed3633be0237a8db52ce2b7684d76e98c814f9d0cd493e",
+  "normalized_text_sha256": "dba0ea6ab568e3cc774fbda8424aff5ee13b48724d73a2126d44c69afee83202",
   "normalized_md_path": "ecfr/md/Reg_M_Consumer_Leasing_12CFR213.md",
   "canonical_json_path": "ecfr/json/Reg_M_Consumer_Leasing_12CFR213.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -82,6 +82,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg M Regulation M: Consumer Leasing 12 CFR Part 213 \u00a7 213.1 Authority, scope, purpose, and enforcement. \u00a7 213.2 Definitions. \u00a7 213.3 General disclosure requirements. \u00a7 213.4 Content of disclosures. \u00a7 213.5 Renegotiations, extensions, and assumptions. \u00a7 213.6 [Reserved] \u00a7 213.7 Advertising. \u00a7 213.8 Record retention. \u00a7 213.9 Relation to state laws.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 213 Reg M: Regulation M: Consumer Leasing"
+  "bm25_text": "Reg M Regulation M: Consumer Leasing 12 CFR Part 213 § 213.1 Authority, scope, purpose, and enforcement. § 213.2 Definitions. § 213.3 General disclosure requirements. § 213.4 Content of disclosures. § 213.5 Renegotiations, extensions, and assumptions. § 213.6 [Reserved] § 213.7 Advertising. § 213.8 Record retention. § 213.9 Relation to state laws.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 213 Reg M: Regulation M: Consumer Leasing",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation M",
+    "Part 213"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regm.213",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

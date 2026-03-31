@@ -31,7 +31,7 @@
   "effective_date_start": "1999-10-29",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": true,
-  "word_count_raw_body": 1607,
+  "word_count_raw_body": 1661,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -60,7 +60,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1999/SR9929.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1999/SR9929.HTM",
-  "normalized_text_sha256": "a9304fdb2fb46af3e4b5c8add9c137c099a0d46b282235ee3a58f69f2a81831b",
+  "normalized_text_sha256": "a77077514beb023423ccb221da28325558465185f053d097ca10dd42459aac3e",
   "normalized_md_path": "SR_Letters/md/sr99-29(sup).md",
   "canonical_json_path": "SR_Letters/json/sr99-29(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 99-29 (SUP) FRB: Supervisory Letter SR 99-29 (SUP) on submission of documents to the central document and text repository in support of the Banking Organization National Desktop--October 29, 1999  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 99-29 (SUP): FRB: Supervisory Letter SR 99-29 (SUP) on submission of documents to the central document and text repository in support of the Banking Organization National Desktop--October 29, 1999"
+  "bm25_text": "SR 99-29 (SUP) FRB: Supervisory Letter SR 99-29 (SUP) on submission of documents to the central document and text repository in support of the Banking Organization National Desktop--October 29, 1999  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 99-29 (SUP): FRB: Supervisory Letter SR 99-29 (SUP) on submission of documents to the central document and text repository in support of the Banking Organization National Desktop--October 29, 1999",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 99-29 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr99-29(sup)",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "1999-10-29",
+  "version_label": "1999"
 }

@@ -31,8 +31,8 @@
   "effective_date_start": "2020-11-02",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
-  "applicability_raw": "The attached interagency guidance applies to federal savings associations, national banks, state member banks, state nonmember banks, savings associations, U.S. bank holding companies, and savings and loan holding companies that have average total consolidated assets greater than or equal to (a)\u00a0$250\u00a0billion or (b)\u00a0$100\u00a0billion and have $75\u00a0billion or more in average cross-jurisdictional activity, average weighted short-term wholesale funding, average nonbank assets, or average off-balance-sheet exposure.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "The attached interagency guidance applies to federal savings associations, national banks, state member banks, state nonmember banks, savings associations, U.S. bank holding companies, and savings and loan holding companies that have average total consolidated assets greater than or equal to (a) $250 billion or (b) $100 billion and have $75 billion or more in average cross-jurisdictional activity, average weighted short-term wholesale funding, average nonbank assets, or average off-balance-sheet exposure.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 378,
+  "word_count_raw_body": 482,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2024.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2024.htm",
-  "normalized_text_sha256": "3ddd4ddc1846c5d2d9b3fe15f8b27abe329d06cd34e9270e0a8e04a2751f1413",
+  "normalized_text_sha256": "a45ad578cbfd7e69fd4be45e418406cc1f7a593f0335e1b23e92db20c51a0fd5",
   "normalized_md_path": "SR_Letters/md/sr20-24.md",
   "canonical_json_path": "SR_Letters/json/sr20-24.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 20-24 Interagency Paper on  Sound Practices to Strengthen Operational Resilience The attached interagency guidance applies to federal savings associations, national banks, state member banks, state nonmember banks, savings associations, U.S. bank holding companies, and savings and loan holding companies that have average total consolidated assets greater than or equal to (a)\u00a0$250\u00a0billion or (b)\u00a0$100\u00a0billion and have $75\u00a0billion or more in average cross-jurisdictional activity, average weighted short-term wholesale funding, average nonbank assets, or average off-balance-sheet exposure. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-24: Interagency Paper on  Sound Practices to Strengthen Operational Resilience"
+  "bm25_text": "SR 20-24 Interagency Paper on  Sound Practices to Strengthen Operational Resilience The attached interagency guidance applies to federal savings associations, national banks, state member banks, state nonmember banks, savings associations, U.S. bank holding companies, and savings and loan holding companies that have average total consolidated assets greater than or equal to (a) $250 billion or (b) $100 billion and have $75 billion or more in average cross-jurisdictional activity, average weighted short-term wholesale funding, average nonbank assets, or average off-balance-sheet exposure. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-24: Interagency Paper on  Sound Practices to Strengthen Operational Resilience",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-24"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-24",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2020-11-02",
+  "version_label": "2020"
 }

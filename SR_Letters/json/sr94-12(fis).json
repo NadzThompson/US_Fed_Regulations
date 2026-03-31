@@ -31,7 +31,7 @@
   "effective_date_start": "1994-02-24",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,15 +40,15 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1695,
+  "word_count_raw_body": 1748,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICERS IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:",
     "FULL SCOPE DEFINITION",
-    "1.\u00a0\u00a0Financial risks may include: credit risk, concentrations, interest rate risk, trading risk, or nontraditional activities.\u00a0\u00a0Return to text"
+    "1.  Financial risks may include: credit risk, concentrations, interest rate risk, trading risk, or nontraditional activities.  Return to text"
   ],
   "toc_depth": 7,
   "has_appendices": false,
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1994/SR9412.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1994/SR9412.HTM",
-  "normalized_text_sha256": "b3142155ae3d59a223387ce58f82cabe10f26fb4fefd39c17267115568fa1f64",
+  "normalized_text_sha256": "e02df256c63ab60a01b6cb961ddb48840fdfdfc7d5fe6559b1935a19de7433d3",
   "normalized_md_path": "SR_Letters/md/sr94-12(fis).md",
   "canonical_json_path": "SR_Letters/json/sr94-12(fis).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 94-12 (FIS) FRB: Supervisory Letter SR 94-12 (FIS) on the Federal Reserve System's definition of a full scope, on-site examination for safety and soundness -- February 24, 1994  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICERS IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: FULL SCOPE DEFINITION 1.\u00a0\u00a0Financial risks may include: credit risk, concentrations, interest rate risk, trading risk, or nontraditional activities.\u00a0\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 94-12 (FIS): FRB: Supervisory Letter SR 94-12 (FIS) on the Federal Reserve System's definition of a full scope, on-site examination for safety and soundness -- February 24, 1994"
+  "bm25_text": "SR 94-12 (FIS) FRB: Supervisory Letter SR 94-12 (FIS) on the Federal Reserve System's definition of a full scope, on-site examination for safety and soundness -- February 24, 1994  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICERS IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: FULL SCOPE DEFINITION 1.  Financial risks may include: credit risk, concentrations, interest rate risk, trading risk, or nontraditional activities.  Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 94-12 (FIS): FRB: Supervisory Letter SR 94-12 (FIS) on the Federal Reserve System's definition of a full scope, on-site examination for safety and soundness -- February 24, 1994",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 94-12 (FIS)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr94-12(fis)",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "1994-02-24",
+  "version_label": "1994"
 }

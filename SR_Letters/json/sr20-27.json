@@ -31,7 +31,7 @@
   "effective_date_start": "2020-11-30",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This letter applies to all institutions supervised by the Federal Reserve.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 509,
+  "word_count_raw_body": 551,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -61,7 +61,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2027.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2027.htm",
-  "normalized_text_sha256": "666f6cb3a2ab00b6a4309a0ed4d165a01ca349f3c1ad7db82d0107778f4e6b8e",
+  "normalized_text_sha256": "7c86cc70bbf323fb37e952e29589ed7665780a05dcb653c5f6c89e309a2f181f",
   "normalized_md_path": "SR_Letters/md/sr20-27.md",
   "canonical_json_path": "SR_Letters/json/sr20-27.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,5 +74,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 20-27 Interagency Statement on LIBOR Transition This letter applies to all institutions supervised by the Federal Reserve. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-27: Interagency Statement on LIBOR Transition"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-27: Interagency Statement on LIBOR Transition",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-27"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-27",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2020-11-30",
+  "version_label": "2020"
 }

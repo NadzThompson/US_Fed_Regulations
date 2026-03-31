@@ -29,21 +29,21 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 10,
   "appendix_count": 0,
-  "word_count_raw_body": 2389,
+  "word_count_raw_body": 2489,
   "section_headings": [
-    "\u00a7 219.1 Authority, purpose and scope.",
-    "\u00a7 219.2 Definitions.",
-    "\u00a7 219.3 Cost reimbursement.",
-    "\u00a7 219.4 Exceptions.",
-    "\u00a7 219.5 Conditions for payment.",
-    "\u00a7 219.6 Payment procedures.",
-    "\u00a7 219.21 Authority, purpose and scope.",
-    "\u00a7 219.22 Definitions.",
-    "\u00a7 219.23 Recordkeeping and reporting requirements.",
-    "\u00a7 219.24 Retention period."
+    "§ 219.1 Authority, purpose and scope.",
+    "§ 219.2 Definitions.",
+    "§ 219.3 Cost reimbursement.",
+    "§ 219.4 Exceptions.",
+    "§ 219.5 Conditions for payment.",
+    "§ 219.6 Payment procedures.",
+    "§ 219.21 Authority, purpose and scope.",
+    "§ 219.22 Definitions.",
+    "§ 219.23 Recordkeeping and reporting requirements.",
+    "§ 219.24 Retention period."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-219",
@@ -70,7 +70,7 @@
   "inline_cross_references": [
     "Regulation S"
   ],
-  "normalized_text_sha256": "2efac0653f880b4560b32bfb154ef973c69503ad0dbda6c532258e764c2e9450",
+  "normalized_text_sha256": "7915e8ea8bee0604e6cd67251e8bc772cce06b0646e83b64facab92400940901",
   "normalized_md_path": "ecfr/md/Reg_S_Reimbursement_for_Providing_Financial_Records_12CFR219.md",
   "canonical_json_path": "ecfr/json/Reg_S_Reimbursement_for_Providing_Financial_Records_12CFR219.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -83,6 +83,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg S Regulation S: Reimbursement for Providing Financial Records 12 CFR Part 219 \u00a7 219.1 Authority, purpose and scope. \u00a7 219.2 Definitions. \u00a7 219.3 Cost reimbursement. \u00a7 219.4 Exceptions. \u00a7 219.5 Conditions for payment. \u00a7 219.6 Payment procedures. \u00a7 219.21 Authority, purpose and scope. \u00a7 219.22 Definitions. \u00a7 219.23 Recordkeeping and reporting requirements. \u00a7 219.24 Retention period.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 219 Reg S: Regulation S: Reimbursement for Providing Financial Records"
+  "bm25_text": "Reg S Regulation S: Reimbursement for Providing Financial Records 12 CFR Part 219 § 219.1 Authority, purpose and scope. § 219.2 Definitions. § 219.3 Cost reimbursement. § 219.4 Exceptions. § 219.5 Conditions for payment. § 219.6 Payment procedures. § 219.21 Authority, purpose and scope. § 219.22 Definitions. § 219.23 Recordkeeping and reporting requirements. § 219.24 Retention period.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 219 Reg S: Regulation S: Reimbursement for Providing Financial Records",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation S",
+    "Part 219"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regs.219",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": true,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

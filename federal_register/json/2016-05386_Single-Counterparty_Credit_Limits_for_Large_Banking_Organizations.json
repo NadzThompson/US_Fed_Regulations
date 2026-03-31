@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2016/03/16/2016-05386/single-counterparty-credit-limits-for-large-banking-organizations",
   "canonical_url": "https://www.federalregister.gov/documents/2016/03/16/2016-05386/single-counterparty-credit-limits-for-large-banking-organizations",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:24Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2016-05386",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 2016-05386: Single-Counterparty Credit Limits for Large Banking Organizations",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "2016-05386"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2016-05386",
+  "citation_anchor": "#fr-2016-05386",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2016-03-16",
+  "version_label": "2016"
 }

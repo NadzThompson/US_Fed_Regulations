@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2006/03/07/06-2124/unfair-or-deceptive-acts-or-practices",
   "canonical_url": "https://www.federalregister.gov/documents/2006/03/07/06-2124/unfair-or-deceptive-acts-or-practices",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:20Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 06-2124",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 06-2124: Unfair or Deceptive Acts or Practices",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "06-2124"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.06-2124",
+  "citation_anchor": "#fr-06-2124",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2006-03-07",
+  "version_label": "2006"
 }

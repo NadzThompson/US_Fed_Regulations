@@ -40,7 +40,7 @@
   "source_url": "https://www.federalregister.gov/documents/2022/07/28/2022-15658/regulation-implementing-the-adjustable-interest-rate-libor-act",
   "canonical_url": "https://www.federalregister.gov/documents/2022/07/28/2022-15658/regulation-implementing-the-adjustable-interest-rate-libor-act",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:28Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2022-15658",
@@ -83,5 +83,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 2022-15658: Regulation Implementing the Adjustable Interest Rate (LIBOR) Act",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "2022-15658"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2022-15658",
+  "citation_anchor": "#fr-2022-15658",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2022-07-28",
+  "version_label": "2022"
 }

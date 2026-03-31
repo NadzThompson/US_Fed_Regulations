@@ -66,7 +66,7 @@
   "source_url": "https://www.federalregister.gov/documents/2018/08/29/2018-18685/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and",
   "canonical_url": "https://www.federalregister.gov/documents/2018/08/29/2018-18685/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:26Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2018-18685",
@@ -113,5 +113,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2018-18685: Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2018-18685"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2018-18685",
+  "citation_anchor": "#fr-2018-18685",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2018-08-29",
+  "version_label": "2018"
 }

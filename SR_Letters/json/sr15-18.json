@@ -31,7 +31,7 @@
   "effective_date_start": "2015-12-18",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "modifications align with the Board's tailoring rules. See 84 Fed. Reg. 59032 (November 1, 2019) for more information.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": true,
-  "word_count_raw_body": 1113,
+  "word_count_raw_body": 1186,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -74,7 +74,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1518.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1518.htm",
-  "normalized_text_sha256": "1a059e21540450220c7bcbebec643c38eb1ec7b2eb409e806decf7bbeee62b07",
+  "normalized_text_sha256": "fb6f187fe586d07e0693bdf91fc2bb73da9b2c3fb5660cb56f36bbf53d27f3bd",
   "normalized_md_path": "SR_Letters/md/sr15-18.md",
   "canonical_json_path": "SR_Letters/json/sr15-18.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -87,5 +87,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 15-18 Supervisory Letter SR 15-18 on Federal Reserve Supervisory Assessment of Capital Planning and Positions for Firms Subject to Category I Standards -- December 18, 2015, Revised January 15, 2021 modifications align with the Board's tailoring rules. See 84 Fed. Reg. 59032 (November 1, 2019) for more information. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: 5.  Available at: http://www.federalreserve.gov/bankinforeg/bcreg20130819a1.pdf. Return to text 6.  Available at: http://www.federalreserve.gov/newsevents/press/bcreg/bcreg20141017a1.pdf. Return to text 7.  Available at: http://www.federalreserve.gov/apps/reportforms/reportdetail.aspx?sOoYJ+5BzDa2AwLR/gLe5DPhQFttuq/4. Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 15-18: Supervisory Letter SR 15-18 on Federal Reserve Supervisory Assessment of Capital Planning and Positions for Firms Subject to Category I Standards -- December 18, 2015, Revised January 15, 2021"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 15-18: Supervisory Letter SR 15-18 on Federal Reserve Supervisory Assessment of Capital Planning and Positions for Firms Subject to Category I Standards -- December 18, 2015, Revised January 15, 2021",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 15-18"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr15-18",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2015-12-18",
+  "version_label": "2015"
 }

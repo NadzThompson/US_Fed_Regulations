@@ -54,7 +54,7 @@
   "source_url": "https://www.federalregister.gov/documents/2015/07/15/2015-15748/regulatory-capital-rules-regulatory-capital-final-revisions-applicable-to-banking-organizations",
   "canonical_url": "https://www.federalregister.gov/documents/2015/07/15/2015-15748/regulatory-capital-rules-regulatory-capital-final-revisions-applicable-to-banking-organizations",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:24Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2015-15748",
@@ -99,5 +99,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2015-15748: Regulatory Capital Rules: Regulatory Capital, Final Revisions Applicable to Banking Organizations Subject to the Advanced Approaches Risk-Based Capita",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2015-15748"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2015-15748",
+  "citation_anchor": "#fr-2015-15748",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2015-07-15",
+  "version_label": "2015"
 }

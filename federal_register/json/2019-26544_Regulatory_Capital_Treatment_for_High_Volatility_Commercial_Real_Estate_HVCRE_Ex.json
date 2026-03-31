@@ -55,7 +55,7 @@
   "source_url": "https://www.federalregister.gov/documents/2019/12/13/2019-26544/regulatory-capital-treatment-for-high-volatility-commercial-real-estate-hvcre-exposures",
   "canonical_url": "https://www.federalregister.gov/documents/2019/12/13/2019-26544/regulatory-capital-treatment-for-high-volatility-commercial-real-estate-hvcre-exposures",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:27Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2019-26544",
@@ -100,5 +100,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2019-26544: Regulatory Capital Treatment for High Volatility Commercial Real Estate (HVCRE) Exposures",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2019-26544"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2019-26544",
+  "citation_anchor": "#fr-2019-26544",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2019-12-13",
+  "version_label": "2019"
 }

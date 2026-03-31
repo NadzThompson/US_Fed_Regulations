@@ -68,7 +68,7 @@
   "source_url": "https://www.federalregister.gov/documents/2002/04/09/02-8142/risk-based-capital-standards-claims-on-securities-firms",
   "canonical_url": "https://www.federalregister.gov/documents/2002/04/09/02-8142/risk-based-capital-standards-claims-on-securities-firms",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:18Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 02-8142",
@@ -115,5 +115,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 02-8142: Risk-Based Capital Standards: Claims on Securities Firms",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "02-8142"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.02-8142",
+  "citation_anchor": "#fr-02-8142",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2002-04-09",
+  "version_label": "2002"
 }

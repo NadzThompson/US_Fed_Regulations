@@ -72,7 +72,7 @@
   "source_url": "https://www.federalregister.gov/documents/2007/09/25/07-4716/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and",
   "canonical_url": "https://www.federalregister.gov/documents/2007/09/25/07-4716/expanded-examination-cycle-for-certain-small-insured-depository-institutions-and-us-branches-and",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:20Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 07-4716",
@@ -120,5 +120,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 07-4716: Expanded Examination Cycle for Certain Small Insured Depository Institutions and U.S. Branches and Agencies of Foreign Banks",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "07-4716"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.07-4716",
+  "citation_anchor": "#fr-07-4716",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2007-09-25",
+  "version_label": "2007"
 }

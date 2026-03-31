@@ -29,17 +29,17 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 6,
   "appendix_count": 0,
-  "word_count_raw_body": 3538,
+  "word_count_raw_body": 3642,
   "section_headings": [
-    "\u00a7 246.1 Authority, purpose and scope.",
-    "\u00a7 246.2 Definitions.",
-    "\u00a7 246.3 Assessed companies.",
-    "\u00a7 246.4 Assessments.",
-    "\u00a7 246.5 Notice of assessment and appeal.",
-    "\u00a7 246.6 Collection of assessments; payment of interest."
+    "§ 246.1 Authority, purpose and scope.",
+    "§ 246.2 Definitions.",
+    "§ 246.3 Assessed companies.",
+    "§ 246.4 Assessments.",
+    "§ 246.5 Notice of assessment and appeal.",
+    "§ 246.6 Collection of assessments; payment of interest."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-246",
@@ -66,7 +66,7 @@
   "inline_cross_references": [
     "Regulation TT"
   ],
-  "normalized_text_sha256": "c97a96fece44ef6d241b5d1125910ee1d6b3e4cdbabcfb1f851c1238255bc09b",
+  "normalized_text_sha256": "aeb9d7058b719bf9c85650d1aab49fc55ae2402f9358a3c47be79082dd60f985",
   "normalized_md_path": "ecfr/md/Reg_TT_Supervision_and_Regulation_Assessments_of_Fees_12CFR246.md",
   "canonical_json_path": "ecfr/json/Reg_TT_Supervision_and_Regulation_Assessments_of_Fees_12CFR246.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -79,6 +79,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg TT Regulation TT: Supervision and Regulation Assessments of Fees 12 CFR Part 246 \u00a7 246.1 Authority, purpose and scope. \u00a7 246.2 Definitions. \u00a7 246.3 Assessed companies. \u00a7 246.4 Assessments. \u00a7 246.5 Notice of assessment and appeal. \u00a7 246.6 Collection of assessments; payment of interest.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 246 Reg TT: Regulation TT: Supervision and Regulation Assessments of Fees"
+  "bm25_text": "Reg TT Regulation TT: Supervision and Regulation Assessments of Fees 12 CFR Part 246 § 246.1 Authority, purpose and scope. § 246.2 Definitions. § 246.3 Assessed companies. § 246.4 Assessments. § 246.5 Notice of assessment and appeal. § 246.6 Collection of assessments; payment of interest.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 246 Reg TT: Regulation TT: Supervision and Regulation Assessments of Fees",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation TT",
+    "Part 246"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regtt.246",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": true,
+  "contains_deadline": true,
+  "contains_parameter": true
 }

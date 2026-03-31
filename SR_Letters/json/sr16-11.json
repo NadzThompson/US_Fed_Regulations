@@ -31,8 +31,8 @@
   "effective_date_start": "2016-06-08",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
-  "applicability_raw": "modifications align with the Board\u2019s tailoring rules. See 84 Fed. Reg. 59032 (November 1, 2019) for more information.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "modifications align with the Board’s tailoring rules. See 84 Fed. Reg. 59032 (November 1, 2019) for more information.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1080,
+  "word_count_raw_body": 1156,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -59,15 +59,15 @@
   "inline_cross_references": [
     "Regulation Y",
     "Regulation YY",
-    "Regulation\u00a0YY",
+    "Regulation YY",
     "SR 16-11",
     "SR 95-51",
-    "SR\u00a095-51"
+    "SR 95-51"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1611.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1611.htm",
-  "normalized_text_sha256": "c2c090f3f876e24b47905acae14f21635510ad353238198a2ba2756d8997036f",
+  "normalized_text_sha256": "b2fc2938035022c1ee32e1937e8c9ced8404ef3b3667a64c74875028bf5208d5",
   "normalized_md_path": "SR_Letters/md/sr16-11.md",
   "canonical_json_path": "SR_Letters/json/sr16-11.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,6 +79,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 16-11 Supervisory Letter SR 16-11 on on supervisory guidance for assessing risk management at supervised institutions with total consolidated assets less than $100 billion -- June 8, 2016 -- Revised February 17, 2021 modifications align with the Board\u2019s tailoring rules. See 84 Fed. Reg. 59032 (November 1, 2019) for more information. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 16-11: Supervisory Letter SR 16-11 on on supervisory guidance for assessing risk management at supervised institutions with total consolidated assets less than $100 billion -- June 8, 2016 -- Revised February 17, 2021"
+  "bm25_text": "SR 16-11 Supervisory Letter SR 16-11 on on supervisory guidance for assessing risk management at supervised institutions with total consolidated assets less than $100 billion -- June 8, 2016 -- Revised February 17, 2021 modifications align with the Board’s tailoring rules. See 84 Fed. Reg. 59032 (November 1, 2019) for more information. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 16-11: Supervisory Letter SR 16-11 on on supervisory guidance for assessing risk management at supervised institutions with total consolidated assets less than $100 billion -- June 8, 2016 -- Revised February 17, 2021",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 16-11"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr16-11",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2016-06-08",
+  "version_label": "2016"
 }

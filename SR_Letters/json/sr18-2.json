@@ -31,7 +31,7 @@
   "effective_date_start": "2018-01-18",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all Federal Reserve supervised financial institutions, including those with $10 billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles (GAAP).",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 591,
+  "word_count_raw_body": 662,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1802.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1802.htm",
-  "normalized_text_sha256": "f5c7e892aec0347c29bb4b5bb23eeb01cb17ee75bb9faeba4008da2a2e35e0db",
+  "normalized_text_sha256": "00e2d9c198e0679eb2e16a6050c0e91068304929a26e2fb0db59e51a02b4af93",
   "normalized_md_path": "SR_Letters/md/sr18-2.md",
   "canonical_json_path": "SR_Letters/json/sr18-2.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 18-2 Interagency Statement on Accounting and Reporting Implications of the New Tax Law This guidance applies to all Federal Reserve supervised financial institutions, including those with $10 billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles (GAAP). BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 18-2: Interagency Statement on Accounting and Reporting Implications of the New Tax Law"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 18-2: Interagency Statement on Accounting and Reporting Implications of the New Tax Law",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 18-2"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr18-2",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2018-01-18",
+  "version_label": "2018"
 }

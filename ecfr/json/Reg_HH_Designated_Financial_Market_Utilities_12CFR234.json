@@ -29,17 +29,17 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 6,
   "appendix_count": 0,
-  "word_count_raw_body": 8505,
+  "word_count_raw_body": 8591,
   "section_headings": [
-    "\u00a7 234.1 Authority, purpose, and scope.",
-    "\u00a7 234.2 Definitions.",
-    "\u00a7 234.3 Standards for designated financial market utilities.",
-    "\u00a7 234.4 Changes to rules, procedures, or operations.",
-    "\u00a7 234.5 Access to Federal Reserve Bank accounts and services.",
-    "\u00a7 234.6 Interest on balances."
+    "§ 234.1 Authority, purpose, and scope.",
+    "§ 234.2 Definitions.",
+    "§ 234.3 Standards for designated financial market utilities.",
+    "§ 234.4 Changes to rules, procedures, or operations.",
+    "§ 234.5 Access to Federal Reserve Bank accounts and services.",
+    "§ 234.6 Interest on balances."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-234",
@@ -66,7 +66,7 @@
   "inline_cross_references": [
     "Regulation HH"
   ],
-  "normalized_text_sha256": "d52f91dcb9095511f15d7fdfd5fc5cfd8a611c2342b029a87fcdd7033389d23d",
+  "normalized_text_sha256": "879e8c0b09ecbb04a0b7c0064a0a047ba12f6da553ab6091cea520b42d73e275",
   "normalized_md_path": "ecfr/md/Reg_HH_Designated_Financial_Market_Utilities_12CFR234.md",
   "canonical_json_path": "ecfr/json/Reg_HH_Designated_Financial_Market_Utilities_12CFR234.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -79,6 +79,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg HH Regulation HH: Designated Financial Market Utilities 12 CFR Part 234 \u00a7 234.1 Authority, purpose, and scope. \u00a7 234.2 Definitions. \u00a7 234.3 Standards for designated financial market utilities. \u00a7 234.4 Changes to rules, procedures, or operations. \u00a7 234.5 Access to Federal Reserve Bank accounts and services. \u00a7 234.6 Interest on balances.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 234 Reg HH: Regulation HH: Designated Financial Market Utilities"
+  "bm25_text": "Reg HH Regulation HH: Designated Financial Market Utilities 12 CFR Part 234 § 234.1 Authority, purpose, and scope. § 234.2 Definitions. § 234.3 Standards for designated financial market utilities. § 234.4 Changes to rules, procedures, or operations. § 234.5 Access to Federal Reserve Bank accounts and services. § 234.6 Interest on balances.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 234 Reg HH: Regulation HH: Designated Financial Market Utilities",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation HH",
+    "Part 234"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.reghh.234",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

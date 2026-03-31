@@ -31,7 +31,7 @@
   "effective_date_start": "2018-12-03",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 412,
+  "word_count_raw_body": 470,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1810.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1810.htm",
-  "normalized_text_sha256": "fb3e1a8c3c63c2c2c35dc88825da1d814a127d9eac5a479f4ec657eb704622e2",
+  "normalized_text_sha256": "22a4c8e4f90a8e4cc00106d0e80e9ea464767a7c77399414c935874ce3c8f975",
   "normalized_md_path": "SR_Letters/md/sr18-10.md",
   "canonical_json_path": "SR_Letters/json/sr18-10.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 18-10 Joint Statement on Innovative Efforts to Combat Money Laundering and Terrorist Financing This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 18-10: Joint Statement on Innovative Efforts to Combat Money Laundering and Terrorist Financing"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 18-10: Joint Statement on Innovative Efforts to Combat Money Laundering and Terrorist Financing",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 18-10"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr18-10",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2018-12-03",
+  "version_label": "2018"
 }

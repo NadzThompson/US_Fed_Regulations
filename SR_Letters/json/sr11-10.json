@@ -31,7 +31,7 @@
   "effective_date_start": "2011-07-05",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:38Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1111,
+  "word_count_raw_body": 1152,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1110.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1110.htm",
-  "normalized_text_sha256": "5d0f5d7ac1e6eef517aeb5dea0482d75af3c71cde8b9eaa2512d0ab185028734",
+  "normalized_text_sha256": "92fc22f0bfeb3c473cfa57605388285162ba2d3ae6f0be0525617c235fa24bdd",
   "normalized_md_path": "SR_Letters/md/sr11-10.md",
   "canonical_json_path": "SR_Letters/json/sr11-10.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,5 +78,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 11-10 Supervisory Letter SR 11-10 on         Interagency Counterparty Credit Risk Management Guidance  -- July 5,  2011  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 11-10: Supervisory Letter SR 11-10 on         Interagency Counterparty Credit Risk Management Guidance  -- July 5,  2011"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 11-10: Supervisory Letter SR 11-10 on         Interagency Counterparty Credit Risk Management Guidance  -- July 5,  2011",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 11-10"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr11-10",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2011-07-05",
+  "version_label": "2011"
 }

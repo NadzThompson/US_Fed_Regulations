@@ -31,7 +31,7 @@
   "effective_date_start": "1992-07-24",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 707,
+  "word_count_raw_body": 755,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -61,7 +61,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1992/SR9228.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1992/SR9228.HTM",
-  "normalized_text_sha256": "b7d5698a17922fbd48566a463acd41d49c9ea8370e7a3680247d21aaba36ab32",
+  "normalized_text_sha256": "e3a7c20f774858cb26a5b8c49cff96bb59b59f36f5bf3aecfd161da95affd970",
   "normalized_md_path": "SR_Letters/md/sr92-28.md",
   "canonical_json_path": "SR_Letters/json/sr92-28.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 92-28 FRB: Supervisory Letter SR 92-28 (FIS) on interagency guidance on coordination and communication between external auditors and examiners -- July 24, 1992  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ONE ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 92-28: FRB: Supervisory Letter SR 92-28 (FIS) on interagency guidance on coordination and communication between external auditors and examiners -- July 24, 1992"
+  "bm25_text": "SR 92-28 FRB: Supervisory Letter SR 92-28 (FIS) on interagency guidance on coordination and communication between external auditors and examiners -- July 24, 1992  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ONE ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 92-28: FRB: Supervisory Letter SR 92-28 (FIS) on interagency guidance on coordination and communication between external auditors and examiners -- July 24, 1992",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 92-28"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr92-28",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1992-07-24",
+  "version_label": "1992"
 }

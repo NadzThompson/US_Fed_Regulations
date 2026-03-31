@@ -31,8 +31,8 @@
   "effective_date_start": "2015-02-24",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance applies to insured depository institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance applies to insured depository institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 477,
+  "word_count_raw_body": 559,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1505.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1505.htm",
-  "normalized_text_sha256": "8a85274acf2ebb49fca4f838d5007ed6cefed6d4d95259fdfa7cc4c81e93dab7",
+  "normalized_text_sha256": "9afefff7083f845d3a803f58a551a942ce52c57a34525d7a63ba686ecc532064",
   "normalized_md_path": "SR_Letters/md/sr15-5-ca15-2.md",
   "canonical_json_path": "SR_Letters/json/sr15-5-ca15-2.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 15-5 / CA 15-2 Supervisory Letter SR 15-5 / CA 15-2 on Guidance to Encourage Financial Institutions' Youth Savings Programs and Address Related Frequently Asked Questions -- February 24, 2015 to Community Banking Organizations:\u00a0 This guidance applies to insured depository institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 15-5 / CA 15-2: Supervisory Letter SR 15-5 / CA 15-2 on Guidance to Encourage Financial Institutions' Youth Savings Programs and Address Related Frequently Asked Questions -- February 24, 2015"
+  "bm25_text": "SR 15-5 / CA 15-2 Supervisory Letter SR 15-5 / CA 15-2 on Guidance to Encourage Financial Institutions' Youth Savings Programs and Address Related Frequently Asked Questions -- February 24, 2015 to Community Banking Organizations:  This guidance applies to insured depository institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 15-5 / CA 15-2: Supervisory Letter SR 15-5 / CA 15-2 on Guidance to Encourage Financial Institutions' Youth Savings Programs and Address Related Frequently Asked Questions -- February 24, 2015",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 15-5 / CA 15-2"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr15-5-ca15-2",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2015-02-24",
+  "version_label": "2015"
 }

@@ -83,7 +83,7 @@
   "source_url": "https://www.federalregister.gov/documents/2013/10/11/2013-21653/regulatory-capital-rules-regulatory-capital-implementation-of-basel-iii-capital-adequacy-transition",
   "canonical_url": "https://www.federalregister.gov/documents/2013/10/11/2013-21653/regulatory-capital-rules-regulatory-capital-implementation-of-basel-iii-capital-adequacy-transition",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:23Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2013-21653",
@@ -133,5 +133,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2013-21653: Regulatory Capital Rules: Regulatory Capital, Implementation of Basel III, Capital Adequacy, Transition Provisions, Prompt Corrective Action, Standard",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2013-21653"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2013-21653",
+  "citation_anchor": "#fr-2013-21653",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2013-10-11",
+  "version_label": "2013"
 }

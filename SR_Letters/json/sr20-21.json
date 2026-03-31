@@ -31,7 +31,7 @@
   "effective_date_start": "2020-08-21",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 461,
+  "word_count_raw_body": 525,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2021.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2021.htm",
-  "normalized_text_sha256": "d92b4892abecec0848679fc138d537a5071da0afed25d9fed69a79cd9de7def2",
+  "normalized_text_sha256": "74ad306de872536fb839a0ae8e8dc64034c5db136f737dd08980b17333b7cab7",
   "normalized_md_path": "SR_Letters/md/sr20-21.md",
   "canonical_json_path": "SR_Letters/json/sr20-21.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,5 +76,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 20-21 Joint Statement on Bank Secrecy Act Due Diligence Requirements for Customers Who May Be Considered Politically Exposed Persons This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-21: Joint Statement on Bank Secrecy Act Due Diligence Requirements for Customers Who May Be Considered Politically Exposed Persons"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-21: Joint Statement on Bank Secrecy Act Due Diligence Requirements for Customers Who May Be Considered Politically Exposed Persons",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-21"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-21",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2020-08-21",
+  "version_label": "2020"
 }

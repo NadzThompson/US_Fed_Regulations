@@ -54,7 +54,7 @@
   "source_url": "https://www.federalregister.gov/documents/2002/06/06/02-14130/prohibition-against-use-of-interstate-branches-primarily-for-deposit-production",
   "canonical_url": "https://www.federalregister.gov/documents/2002/06/06/02-14130/prohibition-against-use-of-interstate-branches-primarily-for-deposit-production",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:18Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 02-14130",
@@ -99,5 +99,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 02-14130: Prohibition Against Use of Interstate Branches Primarily for Deposit Production",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "02-14130"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.02-14130",
+  "citation_anchor": "#fr-02-14130",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2002-06-06",
+  "version_label": "2002"
 }

@@ -31,7 +31,7 @@
   "effective_date_start": "1990-11-29",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:42Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1300,
+  "word_count_raw_body": 1335,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr9036.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr9036.htm",
-  "normalized_text_sha256": "c8d4f7dfd70b906ca28348b7bd90a47bcc1a0d451dfa354067e68927b7cca3e6",
+  "normalized_text_sha256": "29f4884e771b8cc3be06bba0c72116cad8f0633ab8971bcccfe7eb8a597e130b",
   "normalized_md_path": "SR_Letters/md/sr90-36(fis).md",
   "canonical_json_path": "SR_Letters/json/sr90-36(fis).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,5 +78,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 90-36 (FIS) Formal Enforcement Action Statement of Purpose and Guidelines  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 90-36 (FIS): Formal Enforcement Action Statement of Purpose and Guidelines"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 90-36 (FIS): Formal Enforcement Action Statement of Purpose and Guidelines",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 90-36 (FIS)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr90-36(fis)",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1990-11-29",
+  "version_label": "1990"
 }

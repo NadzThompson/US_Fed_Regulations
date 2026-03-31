@@ -31,7 +31,7 @@
   "effective_date_start": "2019-12-12",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to U.S. representative offices of foreign banks supervised by the Federal Reserve.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1094,
+  "word_count_raw_body": 1144,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1915.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1915.htm",
-  "normalized_text_sha256": "f8307279a94531280b2474dbf7311e7dd485e9a3e687238e7e8ee0b83a0bb299",
+  "normalized_text_sha256": "27e6423ec592b2bf4904c62d87335800fcad0be76a157343675fec15caf7712d",
   "normalized_md_path": "SR_Letters/md/sr19-15.md",
   "canonical_json_path": "SR_Letters/json/sr19-15.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 19-15 Revised Examination Guidelines for Representative Offices of Foreign Banks This guidance applies to U.S. representative offices of foreign banks supervised by the Federal Reserve. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-15: Revised Examination Guidelines for Representative Offices of Foreign Banks"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-15: Revised Examination Guidelines for Representative Offices of Foreign Banks",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-15"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-15",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2019-12-12",
+  "version_label": "2019"
 }

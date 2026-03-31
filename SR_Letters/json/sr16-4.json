@@ -31,7 +31,7 @@
   "effective_date_start": "2016-03-03",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This letter applies to the supervision of all domestic bank holding companies and savings and loan holding companies with total consolidated assets of less than $100 billion, and bank holding companies with total consolidated assets of less than $50 billion that are owned or controlled by a foreign banking organization.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2348,
+  "word_count_raw_body": 2456,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1604.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1604.htm",
-  "normalized_text_sha256": "caf0a2c660e0e43a84980265d603b92d07379999c7aeb0218446da55a5336783",
+  "normalized_text_sha256": "66f75012c89f70c4e6b6030eff6bc1198a16f440826bc46a82389e6ccd7b16d4",
   "normalized_md_path": "SR_Letters/md/sr16-4.md",
   "canonical_json_path": "SR_Letters/json/sr16-4.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 16-4 Relying on the Work of the Regulators of the Subsidiary Insured Depository Institution(s) of Bank Holding Companies and Savings and Loan Holding Companies with Total Consolidated Assets of Less than $100 Billion This letter applies to the supervision of all domestic bank holding companies and savings and loan holding companies with total consolidated assets of less than $100 billion, and bank holding companies with total consolidated assets of less than $50 billion that are owned or controlled by a foreign banking organization. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 16-4: Relying on the Work of the Regulators of the Subsidiary Insured Depository Institution(s) of Bank Holding Companies and Savings and Loan Holding Companies with Total Consolidated Assets of Less than $100 Billion"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 16-4: Relying on the Work of the Regulators of the Subsidiary Insured Depository Institution(s) of Bank Holding Companies and Savings and Loan Holding Companies with Total Consolidated Assets of Less than $100 Billion",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 16-4"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr16-4",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2016-03-03",
+  "version_label": "2016"
 }

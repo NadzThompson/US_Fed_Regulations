@@ -29,17 +29,17 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 6,
   "appendix_count": 0,
-  "word_count_raw_body": 2633,
+  "word_count_raw_body": 2705,
   "section_headings": [
-    "\u00a7 206.1 Authority, purpose, and scope.",
-    "\u00a7 206.2 Definitions.",
-    "\u00a7 206.3 Prudential standards.",
-    "\u00a7 206.4 Credit exposure.",
-    "\u00a7 206.5 Capital levels of correspondents.",
-    "\u00a7 206.6 Waiver."
+    "§ 206.1 Authority, purpose, and scope.",
+    "§ 206.2 Definitions.",
+    "§ 206.3 Prudential standards.",
+    "§ 206.4 Credit exposure.",
+    "§ 206.5 Capital levels of correspondents.",
+    "§ 206.6 Waiver."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-206",
@@ -66,7 +66,7 @@
   "inline_cross_references": [
     "Regulation F"
   ],
-  "normalized_text_sha256": "10c15ffbbb1bf75e12501a7a97587da5a81253cd02620fad2a83eca221ba6e65",
+  "normalized_text_sha256": "b0a17119c310a1862ec03d10327a2899966d3c91a5a6f7ed088e6de5a704c99a",
   "normalized_md_path": "ecfr/md/Reg_F_Limitations_on_Interbank_Liabilities_12CFR206.md",
   "canonical_json_path": "ecfr/json/Reg_F_Limitations_on_Interbank_Liabilities_12CFR206.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -79,6 +79,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg F Regulation F: Limitations on Interbank Liabilities 12 CFR Part 206 \u00a7 206.1 Authority, purpose, and scope. \u00a7 206.2 Definitions. \u00a7 206.3 Prudential standards. \u00a7 206.4 Credit exposure. \u00a7 206.5 Capital levels of correspondents. \u00a7 206.6 Waiver.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 206 Reg F: Regulation F: Limitations on Interbank Liabilities"
+  "bm25_text": "Reg F Regulation F: Limitations on Interbank Liabilities 12 CFR Part 206 § 206.1 Authority, purpose, and scope. § 206.2 Definitions. § 206.3 Prudential standards. § 206.4 Credit exposure. § 206.5 Capital levels of correspondents. § 206.6 Waiver.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 206 Reg F: Regulation F: Limitations on Interbank Liabilities",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation F",
+    "Part 206"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regf.206",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": true,
+  "contains_parameter": true
 }

@@ -31,7 +31,7 @@
   "effective_date_start": "2019-04-03",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all Federal Reserve supervised financial institutions,1 including those with $10 billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles (GAAP).2",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 788,
+  "word_count_raw_body": 858,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -50,7 +50,7 @@
     "TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:",
     "3.  See https://www.federalreserve.gov/bankinforeg/topics/accounting.htm Return to text",
-    "5.  See SR letter 16-12, \"Interagency Guidance on the New Accounting Standard on Financial Instruments \u2013 Credit Losses.\" Return to text",
+    "5.  See SR letter 16-12, \"Interagency Guidance on the New Accounting Standard on Financial Instruments – Credit Losses.\" Return to text",
     "7.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text"
   ],
   "toc_depth": 10,
@@ -65,7 +65,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1908.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1908.htm",
-  "normalized_text_sha256": "81728ab9cf7ba715484fa923d697f779097d73bd05de9f5d146180769407258c",
+  "normalized_text_sha256": "93365710630758e11a17c6420be9419499cb7a1365d24b959523902882fc743c",
   "normalized_md_path": "SR_Letters/md/sr19-8.md",
   "canonical_json_path": "SR_Letters/json/sr19-8.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 19-8 SR 19-8 Questions on the Current Expected Credit Losses Methodology (CECL) This guidance applies to all Federal Reserve supervised financial institutions,1 including those with $10 billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles (GAAP).2 BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: 3.  See https://www.federalreserve.gov/bankinforeg/topics/accounting.htm Return to text 5.  See SR letter 16-12, \"Interagency Guidance on the New Accounting Standard on Financial Instruments \u2013 Credit Losses.\" Return to text 7.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-8: SR 19-8 Questions on the Current Expected Credit Losses Methodology (CECL)"
+  "bm25_text": "SR 19-8 SR 19-8 Questions on the Current Expected Credit Losses Methodology (CECL) This guidance applies to all Federal Reserve supervised financial institutions,1 including those with $10 billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles (GAAP).2 BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: 3.  See https://www.federalreserve.gov/bankinforeg/topics/accounting.htm Return to text 5.  See SR letter 16-12, \"Interagency Guidance on the New Accounting Standard on Financial Instruments – Credit Losses.\" Return to text 7.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-8: SR 19-8 Questions on the Current Expected Credit Losses Methodology (CECL)",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-8"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-8",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2019-04-03",
+  "version_label": "2019"
 }

@@ -31,7 +31,7 @@
   "effective_date_start": "1995-08-02",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1185,
+  "word_count_raw_body": 1238,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9542.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9542.htm",
-  "normalized_text_sha256": "5f0c846ddd57c860bf9e62270c866e1057ff17adfff71e0b9b57b677e9eff7a2",
+  "normalized_text_sha256": "90700d37a7d68fa9b74a5d13ac96862ef6c6a0d47e6a5e77dc2f1a11675cdd6a",
   "normalized_md_path": "SR_Letters/md/sr95-42(sup.ib).md",
   "canonical_json_path": "SR_Letters/json/sr95-42(sup.ib).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 95-42 (SUP.IB) FRB: Supervisory Letter SR 95-42 (SUP.IB) on allowance for loan and lease losses for U.S. branches and agencies of foreign banking organizations -- August 2, 1995  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 95-42 (SUP.IB): FRB: Supervisory Letter SR 95-42 (SUP.IB) on allowance for loan and lease losses for U.S. branches and agencies of foreign banking organizations -- August 2, 1995"
+  "bm25_text": "SR 95-42 (SUP.IB) FRB: Supervisory Letter SR 95-42 (SUP.IB) on allowance for loan and lease losses for U.S. branches and agencies of foreign banking organizations -- August 2, 1995  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 95-42 (SUP.IB): FRB: Supervisory Letter SR 95-42 (SUP.IB) on allowance for loan and lease losses for U.S. branches and agencies of foreign banking organizations -- August 2, 1995",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 95-42 (SUP.IB)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr95-42(sup.ib)",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "1995-08-02",
+  "version_label": "1995"
 }

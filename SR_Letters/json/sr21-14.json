@@ -1,7 +1,7 @@
 {
   "doc_id": "usfed.sr21-14.20210811.letter",
-  "title": "SR 21-14: FRB: Supervisory Letter SR 21-14 on \u200bauthentication and access to financial institution services and systems",
-  "title_normalized": "FRB: Supervisory Letter SR 21-14 on \u200bauthentication and access to financial institution services and systems",
+  "title": "SR 21-14: FRB: Supervisory Letter SR 21-14 on ​authentication and access to financial institution services and systems",
+  "title_normalized": "FRB: Supervisory Letter SR 21-14 on ​authentication and access to financial institution services and systems",
   "short_title": "SR 21-14",
   "slug": "sr-letter-sr21-14",
   "regulator": "Federal Reserve System",
@@ -31,7 +31,7 @@
   "effective_date_start": "2021-08-11",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to financial institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 549,
+  "word_count_raw_body": 612,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -64,7 +64,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr2114.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr2114.htm",
-  "normalized_text_sha256": "30a2b4379833631758a33fee600426bb00b0769ca2c8a4a772cc7bd8ff5c184a",
+  "normalized_text_sha256": "47557c2b310968fb45ce794f0d15a2323b3da025388a47f6ebfad15c07aa3981",
   "normalized_md_path": "SR_Letters/md/sr21-14.md",
   "canonical_json_path": "SR_Letters/json/sr21-14.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 21-14 FRB: Supervisory Letter SR 21-14 on \u200bauthentication and access to financial institution services and systems This guidance applies to financial institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 21-14: FRB: Supervisory Letter SR 21-14 on \u200bauthentication and access to financial institution services and systems"
+  "bm25_text": "SR 21-14 FRB: Supervisory Letter SR 21-14 on ​authentication and access to financial institution services and systems This guidance applies to financial institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 21-14: FRB: Supervisory Letter SR 21-14 on ​authentication and access to financial institution services and systems",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 21-14"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr21-14",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2021-08-11",
+  "version_label": "2021"
 }

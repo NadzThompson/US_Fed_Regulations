@@ -31,7 +31,7 @@
   "effective_date_start": "2020-05-08",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance is relevant for state member banks, bank holding companies, savings and loan holding companies, and other institutions for which the Federal Reserve is the primary regulator.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 486,
+  "word_count_raw_body": 547,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2013.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2013.htm",
-  "normalized_text_sha256": "a63f9cad7430f8fac76c164b0be627570ccf3e96268a578c8549c83a45a433c9",
+  "normalized_text_sha256": "3ecdd142fa32dcdd68e2fbb5a50a470abab92dbf204236e605624f37ee630256",
   "normalized_md_path": "SR_Letters/md/sr20-13.md",
   "canonical_json_path": "SR_Letters/json/sr20-13.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,5 +76,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 20-13 Interagency Guidance on Credit Risk Review Systems This guidance is relevant for state member banks, bank holding companies, savings and loan holding companies, and other institutions for which the Federal Reserve is the primary regulator. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-13: Interagency Guidance on Credit Risk Review Systems"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-13: Interagency Guidance on Credit Risk Review Systems",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-13"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-13",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2020-05-08",
+  "version_label": "2020"
 }

@@ -31,8 +31,8 @@
   "effective_date_start": "2013-07-08",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance applies to institutions supervised by the Federal Reserve with less than $10 billion in total consolidated assets, with the exception of holding companies with less than $3 billion in total consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance applies to institutions supervised by the Federal Reserve with less than $10 billion in total consolidated assets, with the exception of holding companies with less than $3 billion in total consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": true,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1020,
+  "word_count_raw_body": 1099,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -64,7 +64,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1314.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1314.htm",
-  "normalized_text_sha256": "cf9f42183a563662b384c13db8caa5dc08fa5d65aa8119034294d5a67e037173",
+  "normalized_text_sha256": "02beda791d66fe955c84fba51b4b7be396fbb862d55dece7b026fb60aeb3521b",
   "normalized_md_path": "SR_Letters/md/sr13-14.md",
   "canonical_json_path": "SR_Letters/json/sr13-14.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 13-14 Timing Standards for the Completion of Safety-and-Soundness Examination and Inspection Reports for Community Banking Organizations to Community Banking Organizations:\u00a0 This guidance applies to institutions supervised by the Federal Reserve with less than $10 billion in total consolidated assets, with the exception of holding companies with less than $3 billion in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 13-14: Timing Standards for the Completion of Safety-and-Soundness Examination and Inspection Reports for Community Banking Organizations"
+  "bm25_text": "SR 13-14 Timing Standards for the Completion of Safety-and-Soundness Examination and Inspection Reports for Community Banking Organizations to Community Banking Organizations:  This guidance applies to institutions supervised by the Federal Reserve with less than $10 billion in total consolidated assets, with the exception of holding companies with less than $3 billion in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 13-14: Timing Standards for the Completion of Safety-and-Soundness Examination and Inspection Reports for Community Banking Organizations",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 13-14"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr13-14",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2013-07-08",
+  "version_label": "2013"
 }

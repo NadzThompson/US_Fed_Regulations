@@ -31,7 +31,7 @@
   "effective_date_start": "2020-11-19",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 536,
+  "word_count_raw_body": 597,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2026.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2026.htm",
-  "normalized_text_sha256": "79cfaf2631a50957b34ef61d8a157af2c92af7a7f265e3ecb2530311a1da64d8",
+  "normalized_text_sha256": "2c5dff099606617c65c8f5db0e80d3373eed97fc286dadc11d2ca6936edd4f35",
   "normalized_md_path": "SR_Letters/md/sr20-26.md",
   "canonical_json_path": "SR_Letters/json/sr20-26.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 20-26 Joint Fact Sheet on Bank Secrecy Act Due Diligence Requirements for Charities and Non-profit Organizations This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-26: Joint Fact Sheet on Bank Secrecy Act Due Diligence Requirements for Charities and Non-profit Organizations"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-26: Joint Fact Sheet on Bank Secrecy Act Due Diligence Requirements for Charities and Non-profit Organizations",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-26"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-26",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2020-11-19",
+  "version_label": "2020"
 }

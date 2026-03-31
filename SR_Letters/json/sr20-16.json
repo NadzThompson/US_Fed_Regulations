@@ -31,8 +31,8 @@
   "effective_date_start": "2020-06-24",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
-  "applicability_raw": "This guidance applies to all current or potential de novo state member banks and insured depository institutions that are or plan to become member banks of the Federal Reserve System, including those with $10\u00a0billion or less in total consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance applies to all current or potential de novo state member banks and insured depository institutions that are or plan to become member banks of the Federal Reserve System, including those with $10 billion or less in total consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1789,
+  "word_count_raw_body": 1863,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -60,13 +60,13 @@
     "12 CFR 208",
     "12 CFR 217",
     "12 CFR 363",
-    "Regulation\u00a0H",
+    "Regulation H",
     "SR 20-16"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2016.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2016.htm",
-  "normalized_text_sha256": "57ecb09d5e1aee380d697848169c9b77d67a2b6e86d5be2dbb50d9505e508294",
+  "normalized_text_sha256": "47a10bfcf249cc3f9e2806181193e309d6740a8aae9111f532e57b63da9d8363",
   "normalized_md_path": "SR_Letters/md/sr20-16.md",
   "canonical_json_path": "SR_Letters/json/sr20-16.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,6 +78,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 20-16 Supervision of De Novo State Member Banks This guidance applies to all current or potential de novo state member banks and insured depository institutions that are or plan to become member banks of the Federal Reserve System, including those with $10\u00a0billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-16: Supervision of De Novo State Member Banks"
+  "bm25_text": "SR 20-16 Supervision of De Novo State Member Banks This guidance applies to all current or potential de novo state member banks and insured depository institutions that are or plan to become member banks of the Federal Reserve System, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-16: Supervision of De Novo State Member Banks",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-16"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-16",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2020-06-24",
+  "version_label": "2020"
 }

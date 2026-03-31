@@ -37,7 +37,7 @@
   "source_url": "https://www.federalregister.gov/documents/1995/08/24/95-20844/amendment-to-the-bank-secrecy-act-regulations-relating-to-orders-for-transmittals-of-funds-by",
   "canonical_url": "https://www.federalregister.gov/documents/1995/08/24/95-20844/amendment-to-the-bank-secrecy-act-regulations-relating-to-orders-for-transmittals-of-funds-by",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:44Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 95-20844",
@@ -80,5 +80,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 95-20844: Amendment to the Bank Secrecy Act Regulations Relating to Orders for Transmittals of Funds by Financial Institutions",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "95-20844"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.95-20844",
+  "citation_anchor": "#fr-95-20844",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1995-08-24",
+  "version_label": "1995"
 }

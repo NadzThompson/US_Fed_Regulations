@@ -31,7 +31,7 @@
   "effective_date_start": "2001-07-06",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:39Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,13 +40,13 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 695,
+  "word_count_raw_body": 752,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
-    "TO\u00a0THE",
+    "TO THE",
     "SUBJECT:",
-    "1.\u00a0\u00a0The FFIEC published the policy statement in the Federal Register on July\u00a06,\u00a02001.  See Vol.\u00a066, No.\u00a0130, pages 35629 to 35639.\u00a0Return to text"
+    "1.  The FFIEC published the policy statement in the Federal Register on July 6, 2001.  See Vol. 66, No. 130, pages 35629 to 35639. Return to text"
   ],
   "toc_depth": 5,
   "has_appendices": true,
@@ -60,7 +60,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2001/sr0117.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2001/sr0117.htm",
-  "normalized_text_sha256": "6feeb4404a939a2bc084a942d693adf4d97fd7ebf6d31b29cd9d57f88cb38756",
+  "normalized_text_sha256": "63fa70dce139cd969dbdfaa0493cdf6899d3adc41ccd76554950a75c73c83a3e",
   "normalized_md_path": "SR_Letters/md/sr01-17(sup).md",
   "canonical_json_path": "SR_Letters/json/sr01-17(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 01-17 (SUP) FRB: Supervisory Letter SR 01-17 (SUP) on final Interagency Policy Statement on Allowance for Loan and Lease Losses (ALLL) Methodologies and Documentation for Banks and Savings Institutions-- July 6, 2001  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO\u00a0THE SUBJECT: 1.\u00a0\u00a0The FFIEC published the policy statement in the Federal Register on July\u00a06,\u00a02001.  See Vol.\u00a066, No.\u00a0130, pages 35629 to 35639.\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 01-17 (SUP): FRB: Supervisory Letter SR 01-17 (SUP) on final Interagency Policy Statement on Allowance for Loan and Lease Losses (ALLL) Methodologies and Documentation for Banks and Savings Institutions-- July 6, 2001"
+  "bm25_text": "SR 01-17 (SUP) FRB: Supervisory Letter SR 01-17 (SUP) on final Interagency Policy Statement on Allowance for Loan and Lease Losses (ALLL) Methodologies and Documentation for Banks and Savings Institutions-- July 6, 2001  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE SUBJECT: 1.  The FFIEC published the policy statement in the Federal Register on July 6, 2001.  See Vol. 66, No. 130, pages 35629 to 35639. Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 01-17 (SUP): FRB: Supervisory Letter SR 01-17 (SUP) on final Interagency Policy Statement on Allowance for Loan and Lease Losses (ALLL) Methodologies and Documentation for Banks and Savings Institutions-- July 6, 2001",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 01-17 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr01-17(sup)",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2001-07-06",
+  "version_label": "2001"
 }

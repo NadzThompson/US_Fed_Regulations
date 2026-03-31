@@ -1,7 +1,7 @@
 {
   "doc_id": "usfed.sr24-5.20240725.letter",
-  "title": "SR 24-5: Joint Statement on Banks\u2019 Arrangements with Third Parties to Deliver Bank Deposit Products and Services",
-  "title_normalized": "Joint Statement on Banks\u2019 Arrangements with Third Parties to Deliver Bank Deposit Products and Services",
+  "title": "SR 24-5: Joint Statement on Banks’ Arrangements with Third Parties to Deliver Bank Deposit Products and Services",
+  "title_normalized": "Joint Statement on Banks’ Arrangements with Third Parties to Deliver Bank Deposit Products and Services",
   "short_title": "SR 24-5",
   "slug": "sr-letter-sr24-5",
   "regulator": "Federal Reserve System",
@@ -31,8 +31,8 @@
   "effective_date_start": "2024-07-25",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
-  "applicability_raw": "This letter is relevant to state member banks, including those with $10\u00a0billion or less in consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This letter is relevant to state member banks, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 494,
+  "word_count_raw_body": 553,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -57,7 +57,7 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "Regulation\u00a0E",
+    "Regulation E",
     "SR 05-8",
     "SR 10-1",
     "SR 10-6",
@@ -77,7 +77,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2405.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2405.htm",
-  "normalized_text_sha256": "e290338870c30e28bbfb778e593d6d6e72273f90d8b356fab292f74e72b7f741",
+  "normalized_text_sha256": "ff283a434637ae73289b1457f7dea62baf70bb5c1a123b56d147c7cb71e05ea8",
   "normalized_md_path": "SR_Letters/md/sr24-5.md",
   "canonical_json_path": "SR_Letters/json/sr24-5.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -89,6 +89,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 24-5 Joint Statement on Banks\u2019 Arrangements with Third Parties to Deliver Bank Deposit Products and Services This letter is relevant to state member banks, including those with $10\u00a0billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 24-5: Joint Statement on Banks\u2019 Arrangements with Third Parties to Deliver Bank Deposit Products and Services"
+  "bm25_text": "SR 24-5 Joint Statement on Banks’ Arrangements with Third Parties to Deliver Bank Deposit Products and Services This letter is relevant to state member banks, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 24-5: Joint Statement on Banks’ Arrangements with Third Parties to Deliver Bank Deposit Products and Services",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 24-5"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr24-5",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2024-07-25",
+  "version_label": "2024"
 }

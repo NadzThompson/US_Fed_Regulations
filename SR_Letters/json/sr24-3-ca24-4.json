@@ -31,8 +31,8 @@
   "effective_date_start": "2024-07-18",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
-  "applicability_raw": "This guidance is relevant for all financial institutions supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance is relevant for all financial institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 411,
+  "word_count_raw_body": 476,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2403.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2403.htm",
-  "normalized_text_sha256": "931821174d262e0b0d920880ff2045a2893d3cf15be953b94c50de26f1b45292",
+  "normalized_text_sha256": "b472821edb63169197f7c406ee0800bd1d1fc0f34e5590da65bdbe6d23c67340",
   "normalized_md_path": "SR_Letters/md/sr24-3-ca24-4.md",
   "canonical_json_path": "SR_Letters/json/sr24-3-ca24-4.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 24-3 / CA 24-4 CA 24-4:  Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations This guidance is relevant for all financial institutions supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 24-3 / CA 24-4: CA 24-4:  Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations"
+  "bm25_text": "SR 24-3 / CA 24-4 CA 24-4:  Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations This guidance is relevant for all financial institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 24-3 / CA 24-4: CA 24-4:  Interagency Guidance on Reconsiderations of Value of Residential Real Estate Valuations",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 24-3 / CA 24-4"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr24-3-ca24-4",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2024-07-18",
+  "version_label": "2024"
 }

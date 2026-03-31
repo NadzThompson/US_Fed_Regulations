@@ -1,7 +1,7 @@
 {
   "doc_id": "usfed.sr02-9.20020320.letter",
-  "title": "SR 02-9: FRB: Supervisory Letter SR 02-9 on guidance regarding significant changes in the general character of a state member bank\ufffds business and compliance with Regulation H -- March 20, 2002",
-  "title_normalized": "FRB: Supervisory Letter SR 02-9 on guidance regarding significant changes in the general character of a state member bank\ufffds business and compliance with Regulation H -- March 20, 2002",
+  "title": "SR 02-9: FRB: Supervisory Letter SR 02-9 on guidance regarding significant changes in the general character of a state member bank�s business and compliance with Regulation H -- March 20, 2002",
+  "title_normalized": "FRB: Supervisory Letter SR 02-9 on guidance regarding significant changes in the general character of a state member bank�s business and compliance with Regulation H -- March 20, 2002",
   "short_title": "SR 02-9",
   "slug": "sr-letter-sr02-9",
   "regulator": "Federal Reserve System",
@@ -31,7 +31,7 @@
   "effective_date_start": "2002-03-20",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:39Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,11 +40,11 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 612,
+  "word_count_raw_body": 667,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
-    "TO\u00a0THE",
+    "TO THE",
     "OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO EACH STATE MEMBER BANK",
     "SUBJECT:"
   ],
@@ -55,15 +55,15 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "12\u00a0CFR\u00a0208",
+    "12 CFR 208",
     "Regulation H",
-    "Regulation\u00a0H",
+    "Regulation H",
     "SR 02-9"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2002/sr0209.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2002/sr0209.htm",
-  "normalized_text_sha256": "2e3540e995d1da02bd97f5145c50110c46b1580577bbfc1d9e6157cb0aebb6f4",
+  "normalized_text_sha256": "5dbc363fd955329b827d2cdc131bf51659314d202164478859108d5e745420d1",
   "normalized_md_path": "SR_Letters/md/sr02-9.md",
   "canonical_json_path": "SR_Letters/json/sr02-9.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 02-9 FRB: Supervisory Letter SR 02-9 on guidance regarding significant changes in the general character of a state member bank\ufffds business and compliance with Regulation H -- March 20, 2002  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO\u00a0THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO EACH STATE MEMBER BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 02-9: FRB: Supervisory Letter SR 02-9 on guidance regarding significant changes in the general character of a state member bank\ufffds business and compliance with Regulation H -- March 20, 2002"
+  "bm25_text": "SR 02-9 FRB: Supervisory Letter SR 02-9 on guidance regarding significant changes in the general character of a state member bank�s business and compliance with Regulation H -- March 20, 2002  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO EACH STATE MEMBER BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 02-9: FRB: Supervisory Letter SR 02-9 on guidance regarding significant changes in the general character of a state member bank�s business and compliance with Regulation H -- March 20, 2002",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 02-9"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr02-9",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2002-03-20",
+  "version_label": "2002"
 }

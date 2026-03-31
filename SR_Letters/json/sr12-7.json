@@ -31,8 +31,8 @@
   "effective_date_start": "2012-05-14",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:38Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance does not apply to community banking organizations, defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance does not apply to community banking organizations, defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 944,
+  "word_count_raw_body": 1003,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -48,7 +48,7 @@
     "DIVISION OF BANKING",
     "SUPERVISION AND REGULATION",
     "SUBJECT:",
-    "2.\u00a0\u00a0 See http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text"
+    "2.   See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text"
   ],
   "toc_depth": 7,
   "has_appendices": true,
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1207.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1207.htm",
-  "normalized_text_sha256": "eb29bfc3de1fd07fd01a8763cc7b1735ef1b75bc467de22b7c733cb6949d79ac",
+  "normalized_text_sha256": "0b155f20d9bf472124491999c1f8ba3a7695d49747b3f1fe5d534174b2857dee",
   "normalized_md_path": "SR_Letters/md/sr12-7.md",
   "canonical_json_path": "SR_Letters/json/sr12-7.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 12-7 The Fed - to Community Banking Organizations:\u00a0 This guidance does not apply to community banking organizations, defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION SUBJECT: 2.\u00a0\u00a0 See http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 12-7: The Fed -"
+  "bm25_text": "SR 12-7 The Fed - to Community Banking Organizations:  This guidance does not apply to community banking organizations, defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION SUBJECT: 2.   See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 12-7: The Fed -",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 12-7"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr12-7",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2012-05-14",
+  "version_label": "2012"
 }

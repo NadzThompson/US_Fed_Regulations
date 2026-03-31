@@ -29,16 +29,16 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 5,
   "appendix_count": 0,
-  "word_count_raw_body": 3575,
+  "word_count_raw_body": 3684,
   "section_headings": [
-    "\u00a7 209.1 Authority, purpose, scope, and definitions.",
-    "\u00a7 209.2 Banks desiring to become member banks.",
-    "\u00a7 209.3 Cancellation of Reserve Bank stock; mergers involving member banks.",
-    "\u00a7 209.4 Amounts and payments for subscriptions and cancellations; timing and rate of dividends.",
-    "\u00a7 209.5 The share register."
+    "§ 209.1 Authority, purpose, scope, and definitions.",
+    "§ 209.2 Banks desiring to become member banks.",
+    "§ 209.3 Cancellation of Reserve Bank stock; mergers involving member banks.",
+    "§ 209.4 Amounts and payments for subscriptions and cancellations; timing and rate of dividends.",
+    "§ 209.5 The share register."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-209",
@@ -65,7 +65,7 @@
   "inline_cross_references": [
     "Regulation I"
   ],
-  "normalized_text_sha256": "d026a096ecec79ddab0224ec6fae3dd03657d8a64e1a9deafbf4e1431a77cd62",
+  "normalized_text_sha256": "2e7bf0ece4476a21e3714601b2335637f45ae611f4ef6001793ce588719ee240",
   "normalized_md_path": "ecfr/md/Reg_I_Federal_Reserve_Bank_Capital_Stock_12CFR209.md",
   "canonical_json_path": "ecfr/json/Reg_I_Federal_Reserve_Bank_Capital_Stock_12CFR209.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -78,6 +78,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg I Regulation I: Federal Reserve Bank Capital Stock 12 CFR Part 209 \u00a7 209.1 Authority, purpose, scope, and definitions. \u00a7 209.2 Banks desiring to become member banks. \u00a7 209.3 Cancellation of Reserve Bank stock; mergers involving member banks. \u00a7 209.4 Amounts and payments for subscriptions and cancellations; timing and rate of dividends. \u00a7 209.5 The share register.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 209 Reg I: Regulation I: Federal Reserve Bank Capital Stock"
+  "bm25_text": "Reg I Regulation I: Federal Reserve Bank Capital Stock 12 CFR Part 209 § 209.1 Authority, purpose, scope, and definitions. § 209.2 Banks desiring to become member banks. § 209.3 Cancellation of Reserve Bank stock; mergers involving member banks. § 209.4 Amounts and payments for subscriptions and cancellations; timing and rate of dividends. § 209.5 The share register.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 209 Reg I: Regulation I: Federal Reserve Bank Capital Stock",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation I",
+    "Part 209"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regi.209",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

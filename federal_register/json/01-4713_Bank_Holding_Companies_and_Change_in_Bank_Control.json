@@ -40,7 +40,7 @@
   "source_url": "https://www.federalregister.gov/documents/2001/02/27/01-4713/bank-holding-companies-and-change-in-bank-control",
   "canonical_url": "https://www.federalregister.gov/documents/2001/02/27/01-4713/bank-holding-companies-and-change-in-bank-control",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:18Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 01-4713",
@@ -83,5 +83,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 01-4713: Bank Holding Companies and Change in Bank Control",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "01-4713"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.01-4713",
+  "citation_anchor": "#fr-01-4713",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2001-02-27",
+  "version_label": "2001"
 }

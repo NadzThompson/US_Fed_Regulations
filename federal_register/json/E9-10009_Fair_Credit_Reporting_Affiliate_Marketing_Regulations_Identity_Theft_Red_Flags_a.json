@@ -90,7 +90,7 @@
   "source_url": "https://www.federalregister.gov/documents/2009/05/14/E9-10009/fair-credit-reporting-affiliate-marketing-regulations-identity-theft-red-flags-and-address",
   "canonical_url": "https://www.federalregister.gov/documents/2009/05/14/E9-10009/fair-credit-reporting-affiliate-marketing-regulations-identity-theft-red-flags-and-address",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:48Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > E9-10009",
@@ -140,5 +140,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule E9-10009: Fair Credit Reporting Affiliate Marketing Regulations; Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transacti",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "E9-10009"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.E9-10009",
+  "citation_anchor": "#fr-E9-10009",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2009-05-14",
+  "version_label": "2009"
 }

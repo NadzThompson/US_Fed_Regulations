@@ -31,7 +31,7 @@
   "effective_date_start": "1998-12-23",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 404,
+  "word_count_raw_body": 447,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -60,7 +60,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1998/SR9837.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1998/SR9837.HTM",
-  "normalized_text_sha256": "e53193f31561bee8d2b4f18abb015f49d00c5a15f51d276658cbec66736514b3",
+  "normalized_text_sha256": "a0a0c5bb8c3413daac0178bad029d42358b2933d9a418a969aa49dbc2e19c86b",
   "normalized_md_path": "SR_Letters/md/sr98-37(spe).md",
   "canonical_json_path": "SR_Letters/json/sr98-37(spe).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 98-37 (SPE) FRB: Supervisory Letter SR 98-37 (SPE) on uniform interagency trust rating system -- December 23, 1998  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 98-37 (SPE): FRB: Supervisory Letter SR 98-37 (SPE) on uniform interagency trust rating system -- December 23, 1998"
+  "bm25_text": "SR 98-37 (SPE) FRB: Supervisory Letter SR 98-37 (SPE) on uniform interagency trust rating system -- December 23, 1998  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 98-37 (SPE): FRB: Supervisory Letter SR 98-37 (SPE) on uniform interagency trust rating system -- December 23, 1998",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 98-37 (SPE)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr98-37(spe)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1998-12-23",
+  "version_label": "1998"
 }

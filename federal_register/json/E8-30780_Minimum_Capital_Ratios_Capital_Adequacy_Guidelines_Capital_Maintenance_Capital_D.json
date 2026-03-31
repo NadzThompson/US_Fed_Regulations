@@ -56,7 +56,7 @@
   "source_url": "https://www.federalregister.gov/documents/2008/12/30/E8-30780/minimum-capital-ratios-capital-adequacy-guidelines-capital-maintenance-capital-deduction-of-goodwill",
   "canonical_url": "https://www.federalregister.gov/documents/2008/12/30/E8-30780/minimum-capital-ratios-capital-adequacy-guidelines-capital-maintenance-capital-deduction-of-goodwill",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:48Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > E8-30780",
@@ -101,5 +101,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule E8-30780: Minimum Capital Ratios; Capital Adequacy Guidelines; Capital Maintenance; Capital: Deduction of Goodwill Net of Associated Deferred Tax Liability",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "E8-30780"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.E8-30780",
+  "citation_anchor": "#fr-E8-30780",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2008-12-30",
+  "version_label": "2008"
 }

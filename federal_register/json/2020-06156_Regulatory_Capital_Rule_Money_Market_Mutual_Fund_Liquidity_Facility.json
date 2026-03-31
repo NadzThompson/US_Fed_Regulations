@@ -55,7 +55,7 @@
   "source_url": "https://www.federalregister.gov/documents/2020/03/23/2020-06156/regulatory-capital-rule-money-market-mutual-fund-liquidity-facility",
   "canonical_url": "https://www.federalregister.gov/documents/2020/03/23/2020-06156/regulatory-capital-rule-money-market-mutual-fund-liquidity-facility",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:27Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2020-06156",
@@ -100,5 +100,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2020-06156: Regulatory Capital Rule: Money Market Mutual Fund Liquidity Facility",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2020-06156"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2020-06156",
+  "citation_anchor": "#fr-2020-06156",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2020-03-23",
+  "version_label": "2020"
 }

@@ -44,7 +44,7 @@
   "source_url": "https://www.federalregister.gov/documents/2001/11/23/01-29177/international-banking-operations-rules-regarding-delegation-of-authority",
   "canonical_url": "https://www.federalregister.gov/documents/2001/11/23/01-29177/international-banking-operations-rules-regarding-delegation-of-authority",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:18Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 01-29177",
@@ -88,5 +88,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 01-29177: International Banking Operations; Rules Regarding Delegation of Authority",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "01-29177"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.01-29177",
+  "citation_anchor": "#fr-01-29177",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2001-11-23",
+  "version_label": "2001"
 }

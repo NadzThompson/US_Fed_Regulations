@@ -86,7 +86,7 @@
   "source_url": "https://www.federalregister.gov/documents/2007/12/07/07-5729/risk-based-capital-standards-advanced-capital-adequacy-framework---basel-ii",
   "canonical_url": "https://www.federalregister.gov/documents/2007/12/07/07-5729/risk-based-capital-standards-advanced-capital-adequacy-framework---basel-ii",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:21Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 07-5729",
@@ -136,5 +136,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 07-5729: Risk-Based Capital Standards: Advanced Capital Adequacy Framework - Basel II",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "07-5729"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.07-5729",
+  "citation_anchor": "#fr-07-5729",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2007-12-07",
+  "version_label": "2007"
 }

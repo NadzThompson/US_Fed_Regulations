@@ -28,7 +28,7 @@
   "source_url": "https://www.federalregister.gov/documents/2024/04/26/2024-09018/agency-information-collection-activities-announcement-of-board-approval-under-delegated-authority",
   "canonical_url": "https://www.federalregister.gov/documents/2024/04/26/2024-09018/agency-information-collection-activities-announcement-of-board-approval-under-delegated-authority",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:44Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Notice > 2024-09018",
@@ -69,5 +69,20 @@
   "vector_text_prefix": "Federal Reserve Notice 2024-09018: Agency Information Collection Activities: Announcement of Board Approval Under Delegated Authority and Submission to OMB",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Notice",
+    "2024-09018"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2024-09018",
+  "citation_anchor": "#fr-2024-09018",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2024-04-26",
+  "version_label": "2024"
 }

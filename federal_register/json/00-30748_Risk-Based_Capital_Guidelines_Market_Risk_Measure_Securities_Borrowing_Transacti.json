@@ -60,7 +60,7 @@
   "source_url": "https://www.federalregister.gov/documents/2000/12/05/00-30748/risk-based-capital-guidelines-market-risk-measure-securities-borrowing-transactions",
   "canonical_url": "https://www.federalregister.gov/documents/2000/12/05/00-30748/risk-based-capital-guidelines-market-risk-measure-securities-borrowing-transactions",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:17Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 00-30748",
@@ -106,5 +106,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 00-30748: Risk-Based Capital Guidelines; Market Risk Measure; Securities Borrowing Transactions",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "00-30748"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.00-30748",
+  "citation_anchor": "#fr-00-30748",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2000-12-05",
+  "version_label": "2000"
 }

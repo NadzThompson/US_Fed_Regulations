@@ -31,8 +31,8 @@
   "effective_date_start": "2021-07-29",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
-  "applicability_raw": "This letter applies to:\u00a0 (1)\u00a0examiners who have served as a safety and soundness or consumer affairs senior examiner (as defined in this letter) for a depository institution or depository institution holding company for two or more months during the examiner\u2019s final twelve months of employment with a Reserve Bank, and (2)\u00a0any examiner or Reserve Bank supervision staff who accepts employment with a depository institution or depository institution holding company that they examined in the twelve months prior to their departure from the Reserve Bank.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This letter applies to:  (1) examiners who have served as a safety and soundness or consumer affairs senior examiner (as defined in this letter) for a depository institution or depository institution holding company for two or more months during the examiner’s final twelve months of employment with a Reserve Bank, and (2) any examiner or Reserve Bank supervision staff who accepts employment with a depository institution or depository institution holding company that they examined in the twelve months prior to their departure from the Reserve Bank.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2757,
+  "word_count_raw_body": 2888,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -64,7 +64,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2113.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2113.htm",
-  "normalized_text_sha256": "4ff0db0ecef73fda76ecc6a52536a957cf48b7f7f00de04e09d43589e6d5eec3",
+  "normalized_text_sha256": "9f0a1b9e631f028d37efaf6b8ae34a31d4e40f6078f4942ae980bf5a3c6dc871",
   "normalized_md_path": "SR_Letters/md/sr21-13-ca21-10.md",
   "canonical_json_path": "SR_Letters/json/sr21-13-ca21-10.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 21-13 / CA 21-10 CA 21-10:  Revised Special Post-Employment Restriction for Senior Examiners and Work Paper Reviews for Departing Examiners This letter applies to:\u00a0 (1)\u00a0examiners who have served as a safety and soundness or consumer affairs senior examiner (as defined in this letter) for a depository institution or depository institution holding company for two or more months during the examiner\u2019s final twelve months of employment with a Reserve Bank, and (2)\u00a0any examiner or Reserve Bank supervision staff who accepts employment with a depository institution or depository institution holding company that they examined in the twelve months prior to their departure from the Reserve Bank. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 21-13 / CA 21-10: CA 21-10:  Revised Special Post-Employment Restriction for Senior Examiners and Work Paper Reviews for Departing Examiners"
+  "bm25_text": "SR 21-13 / CA 21-10 CA 21-10:  Revised Special Post-Employment Restriction for Senior Examiners and Work Paper Reviews for Departing Examiners This letter applies to:  (1) examiners who have served as a safety and soundness or consumer affairs senior examiner (as defined in this letter) for a depository institution or depository institution holding company for two or more months during the examiner’s final twelve months of employment with a Reserve Bank, and (2) any examiner or Reserve Bank supervision staff who accepts employment with a depository institution or depository institution holding company that they examined in the twelve months prior to their departure from the Reserve Bank. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 21-13 / CA 21-10: CA 21-10:  Revised Special Post-Employment Restriction for Senior Examiners and Work Paper Reviews for Departing Examiners",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 21-13 / CA 21-10"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr21-13-ca21-10",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2021-07-29",
+  "version_label": "2021"
 }

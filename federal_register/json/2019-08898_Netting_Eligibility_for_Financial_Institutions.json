@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2019/05/02/2019-08898/netting-eligibility-for-financial-institutions",
   "canonical_url": "https://www.federalregister.gov/documents/2019/05/02/2019-08898/netting-eligibility-for-financial-institutions",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:26Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2019-08898",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 2019-08898: Netting Eligibility for Financial Institutions",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "2019-08898"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2019-08898",
+  "citation_anchor": "#fr-2019-08898",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2019-05-02",
+  "version_label": "2019"
 }

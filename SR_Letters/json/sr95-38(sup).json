@@ -31,7 +31,7 @@
   "effective_date_start": "1995-06-26",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2175,
+  "word_count_raw_body": 2221,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9538.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9538.htm",
-  "normalized_text_sha256": "87c3b9b797360cf37a0cbd70d549629f403c73ab870e7588fe511e89ad984760",
+  "normalized_text_sha256": "83d16fd2dbef6a3b1f3dbcae49bae56c502a9337d2801fe29aadf5084eba2504",
   "normalized_md_path": "SR_Letters/md/sr95-38(sup).md",
   "canonical_json_path": "SR_Letters/json/sr95-38(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 95-38 (SUP) FRB: Supervisory Letter SR 95-38 (SUP) on supervisory guidance related to FASB statement No. 114 -- June 26, 1995  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 95-38 (SUP): FRB: Supervisory Letter SR 95-38 (SUP) on supervisory guidance related to FASB statement No. 114 -- June 26, 1995"
+  "bm25_text": "SR 95-38 (SUP) FRB: Supervisory Letter SR 95-38 (SUP) on supervisory guidance related to FASB statement No. 114 -- June 26, 1995  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 95-38 (SUP): FRB: Supervisory Letter SR 95-38 (SUP) on supervisory guidance related to FASB statement No. 114 -- June 26, 1995",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 95-38 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr95-38(sup)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1995-06-26",
+  "version_label": "1995"
 }

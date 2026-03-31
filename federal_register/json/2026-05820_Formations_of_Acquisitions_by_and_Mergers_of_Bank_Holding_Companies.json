@@ -28,7 +28,7 @@
   "source_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05820/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies",
   "canonical_url": "https://www.federalregister.gov/documents/2026/03/25/2026-05820/formations-of-acquisitions-by-and-mergers-of-bank-holding-companies",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:43Z",
+  "enriched_timestamp": "2026-03-31T14:37:44Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Notice > 2026-05820",
@@ -71,5 +71,20 @@
   "vector_text_prefix": "Federal Reserve Notice 2026-05820: Formations of, Acquisitions by, and Mergers of Bank Holding Companies",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Notice",
+    "2026-05820"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2026-05820",
+  "citation_anchor": "#fr-2026-05820",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2026-03-25",
+  "version_label": "2026"
 }

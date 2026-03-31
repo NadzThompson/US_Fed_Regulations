@@ -31,7 +31,7 @@
   "effective_date_start": "2008-10-16",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:38Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 4233,
+  "word_count_raw_body": 4278,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -49,11 +49,11 @@
     "SUPERVISION AND REGULATION",
     "DIVISION OF CONSUMERAND COMMUNITY AFFAIRS",
     "SUBJECT:",
-    "I.\u00a0\u00a0 Firmwide Compliance Risk Management and Oversight",
-    "II.\u00a0 Independence of Compliance Staff",
-    "III.\u00a0 Compliance Monitoring and Testing",
-    "IV.\u00a0 Responsibilities of the Board of Directors and Senior Management",
-    "V.\u00a0 Conclusion"
+    "I.   Firmwide Compliance Risk Management and Oversight",
+    "II.  Independence of Compliance Staff",
+    "III.  Compliance Monitoring and Testing",
+    "IV.  Responsibilities of the Board of Directors and Senior Management",
+    "V.  Conclusion"
   ],
   "toc_depth": 12,
   "has_appendices": true,
@@ -69,7 +69,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0808.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0808.htm",
-  "normalized_text_sha256": "e12153df127f2807201ab1ad8ce52468aa6fb57e31705b7aac1c26ca6c402eb9",
+  "normalized_text_sha256": "3d6c69e06ab7d92dc9f4cf721e4a51787aa3b4eba34278f4b1f19289f259a7ff",
   "normalized_md_path": "SR_Letters/md/sr08-8-ca08-11.md",
   "canonical_json_path": "SR_Letters/json/sr08-8-ca08-11.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -83,6 +83,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 08-8 / CA 08-11 CA 08-11:  Compliance Risk Management Programs and Oversight at Large Banking Organizations with Complex Compliance Profiles  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT: I.\u00a0\u00a0 Firmwide Compliance Risk Management and Oversight II.\u00a0 Independence of Compliance Staff III.\u00a0 Compliance Monitoring and Testing",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 08-8 / CA 08-11: CA 08-11:  Compliance Risk Management Programs and Oversight at Large Banking Organizations with Complex Compliance Profiles"
+  "bm25_text": "SR 08-8 / CA 08-11 CA 08-11:  Compliance Risk Management Programs and Oversight at Large Banking Organizations with Complex Compliance Profiles  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT: I.   Firmwide Compliance Risk Management and Oversight II.  Independence of Compliance Staff III.  Compliance Monitoring and Testing",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 08-8 / CA 08-11: CA 08-11:  Compliance Risk Management Programs and Oversight at Large Banking Organizations with Complex Compliance Profiles",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 08-8 / CA 08-11"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr08-8-ca08-11",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2008-10-16",
+  "version_label": "2008"
 }

@@ -31,7 +31,7 @@
   "effective_date_start": "2020-08-13",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 702,
+  "word_count_raw_body": 758,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2019.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2019.htm",
-  "normalized_text_sha256": "b5cfb11d4124a99bb367ad3d197bbb480f39ef3eb2b12dab273c71ac93e066e4",
+  "normalized_text_sha256": "16e38768420e601b5f9daabb722ed538721d1a12375f9233a4773f5f73d1393f",
   "normalized_md_path": "SR_Letters/md/sr20-19.md",
   "canonical_json_path": "SR_Letters/json/sr20-19.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,5 +76,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 20-19 Joint Statement on Enforcement of Bank Secrecy Act/Anti-Money Laundering Requirements This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-19: Joint Statement on Enforcement of Bank Secrecy Act/Anti-Money Laundering Requirements"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-19: Joint Statement on Enforcement of Bank Secrecy Act/Anti-Money Laundering Requirements",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-19"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-19",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2020-08-13",
+  "version_label": "2020"
 }

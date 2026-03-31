@@ -31,8 +31,8 @@
   "effective_date_start": "2015-11-06",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "The guidance in this letter and attachment applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve and subject to section\u00a013 of the Bank Holding Company Act.\u00a0See footnotes\u00a02 and\u00a03 for further detail on applicability.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "The guidance in this letter and attachment applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve and subject to section 13 of the Bank Holding Company Act. See footnotes 2 and 3 for further detail on applicability.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 832,
+  "word_count_raw_body": 935,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -65,7 +65,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1513.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1513.htm",
-  "normalized_text_sha256": "844cf08ba0d1103bf4b81663ec0d4b104eb7fb79ca86b2949145569182f7391e",
+  "normalized_text_sha256": "15c2b6199d3ae3a597445487b1f69deb10626edd539ebc836ecdcbbff03f1b72",
   "normalized_md_path": "SR_Letters/md/sr15-13.md",
   "canonical_json_path": "SR_Letters/json/sr15-13.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 15-13 Supervisory Guidance on the Capital Treatment of Certain Investments in Covered Funds under the Regulatory Capital Rule and the Volcker Rule The guidance in this letter and attachment applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve and subject to section\u00a013 of the Bank Holding Company Act.\u00a0See footnotes\u00a02 and\u00a03 for further detail on applicability. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 15-13: Supervisory Guidance on the Capital Treatment of Certain Investments in Covered Funds under the Regulatory Capital Rule and the Volcker Rule"
+  "bm25_text": "SR 15-13 Supervisory Guidance on the Capital Treatment of Certain Investments in Covered Funds under the Regulatory Capital Rule and the Volcker Rule The guidance in this letter and attachment applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve and subject to section 13 of the Bank Holding Company Act. See footnotes 2 and 3 for further detail on applicability. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 15-13: Supervisory Guidance on the Capital Treatment of Certain Investments in Covered Funds under the Regulatory Capital Rule and the Volcker Rule",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 15-13"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr15-13",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2015-11-06",
+  "version_label": "2015"
 }

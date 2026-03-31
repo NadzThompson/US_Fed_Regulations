@@ -31,7 +31,7 @@
   "effective_date_start": "2005-04-28",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:39Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "of the customer",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,12 +40,12 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 393,
+  "word_count_raw_body": 441,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE",
     "FEDERAL RESERVE SYSTEM",
-    "WASHINGTON, D.\u00a0C.\u00a0\u00a020551",
+    "WASHINGTON, D. C.  20551",
     "DIVISION OF BANKING",
     "SUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF",
@@ -53,7 +53,7 @@
     "STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC",
     "AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE",
     "FEDERAL RESERVE",
-    "(933\u00a0KB\u00a0PDF)"
+    "(933 KB PDF)"
   ],
   "toc_depth": 12,
   "has_appendices": true,
@@ -67,7 +67,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2005/SR0509.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2005/SR0509.htm",
-  "normalized_text_sha256": "9a6c6c66a2ffe939a65ef9f3e5240a7df4456f859474995aa75092c75a82848c",
+  "normalized_text_sha256": "e8d851ce8cd5708a6575033298e8ce6b9bc9a6f1587d461e61035d322113ecf6",
   "normalized_md_path": "SR_Letters/md/sr05-9.md",
   "canonical_json_path": "SR_Letters/json/sr05-9.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,6 +79,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 05-9 FRB: Supervisory Letter SR 05-9 on frequently asked questions relating to customer identification program rules -- April 28, 2005 of the customer BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.\u00a0C.\u00a0\u00a020551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 05-9: FRB: Supervisory Letter SR 05-9 on frequently asked questions relating to customer identification program rules -- April 28, 2005"
+  "bm25_text": "SR 05-9 FRB: Supervisory Letter SR 05-9 on frequently asked questions relating to customer identification program rules -- April 28, 2005 of the customer BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D. C.  20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 05-9: FRB: Supervisory Letter SR 05-9 on frequently asked questions relating to customer identification program rules -- April 28, 2005",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 05-9"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr05-9",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2005-04-28",
+  "version_label": "2005"
 }

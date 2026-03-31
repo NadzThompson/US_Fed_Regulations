@@ -54,7 +54,7 @@
   "source_url": "https://www.federalregister.gov/documents/2008/05/19/E8-10247/unfair-or-deceptive-acts-or-practices",
   "canonical_url": "https://www.federalregister.gov/documents/2008/05/19/E8-10247/unfair-or-deceptive-acts-or-practices",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:48Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > E8-10247",
@@ -99,5 +99,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule E8-10247: Unfair or Deceptive Acts or Practices",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "E8-10247"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.E8-10247",
+  "citation_anchor": "#fr-E8-10247",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2008-05-19",
+  "version_label": "2008"
 }

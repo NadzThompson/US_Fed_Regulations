@@ -31,7 +31,7 @@
   "effective_date_start": "2020-12-18",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance is relevant for bank holding companies, savings and loan holding companies, nonbank financial companies, and foreign banking organizations subject to the Large Institution Supervision Coordinating Committee (LISCC) supervisory program.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,14 +40,14 @@
   "applies_to_nonbank_financial": true,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": true,
-  "word_count_raw_body": 626,
+  "word_count_raw_body": 691,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
     "WASHINGTON, D.C. 20551",
     "DIVISION OF",
     "SUPERVISION AND REGULATION",
-    "TO THE OFFICER IN CHARGE OF SUPERVISION\u00a0AT EACH FEDERAL RESERVE BANK",
+    "TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:"
   ],
   "toc_depth": 7,
@@ -64,7 +64,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr2030.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr2030.htm",
-  "normalized_text_sha256": "05954a792fc0ac371ac937b280214a569af4f6ba478eece7f94ea74b559cc154",
+  "normalized_text_sha256": "d10de105c72ea36c9a50fbe75876d990c48cba219154f2152f5e759a403edc72",
   "normalized_md_path": "SR_Letters/md/sr20-30.md",
   "canonical_json_path": "SR_Letters/json/sr20-30.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 20-30 Financial Institutions Subject to the LISCC Supervisory Program This guidance is relevant for bank holding companies, savings and loan holding companies, nonbank financial companies, and foreign banking organizations subject to the Large Institution Supervision Coordinating Committee (LISCC) supervisory program. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION\u00a0AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-30: Financial Institutions Subject to the LISCC Supervisory Program"
+  "bm25_text": "SR 20-30 Financial Institutions Subject to the LISCC Supervisory Program This guidance is relevant for bank holding companies, savings and loan holding companies, nonbank financial companies, and foreign banking organizations subject to the Large Institution Supervision Coordinating Committee (LISCC) supervisory program. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-30: Financial Institutions Subject to the LISCC Supervisory Program",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-30"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-30",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2020-12-18",
+  "version_label": "2020"
 }

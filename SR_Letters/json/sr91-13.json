@@ -31,7 +31,7 @@
   "effective_date_start": "1991-06-03",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:42Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2083,
+  "word_count_raw_body": 2133,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -50,7 +50,7 @@
     "ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW",
     "CMP MATRIX",
     "SUGGESTED CIVIL MONEY PENALTY ASSESSMENTS",
-    "3.\u00a0\u00a0For example, only the Federal Reserve can assess fines against bank holding companies and their institution-affiliated parties.\u00a0\u00a0Return to text"
+    "3.  For example, only the Federal Reserve can assess fines against bank holding companies and their institution-affiliated parties.  Return to text"
   ],
   "toc_depth": 9,
   "has_appendices": true,
@@ -64,7 +64,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1991/SR9113.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1991/SR9113.HTM",
-  "normalized_text_sha256": "9441e83522e1e0691a7b464e78742d69e1e3cdc93514cb0b0d4ec8061fd8ec33",
+  "normalized_text_sha256": "14c1afe0b7cad29a48d500e9509b7a8ffa70e4daf654fc52374a2379a4ef415a",
   "normalized_md_path": "SR_Letters/md/sr91-13.md",
   "canonical_json_path": "SR_Letters/json/sr91-13.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,6 +78,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 91-13 FRB: Supervisory Letter SR 91-13 (FIS) on civil money penalties and the use of the civil money penalty assessment matrix -- June 3, 1991  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW CMP MATRIX SUGGESTED CIVIL MONEY PENALTY ASSESSMENTS 3.\u00a0\u00a0For example, only the Federal Reserve can assess fines against bank holding companies and their institution-affiliated parties.\u00a0\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 91-13: FRB: Supervisory Letter SR 91-13 (FIS) on civil money penalties and the use of the civil money penalty assessment matrix -- June 3, 1991"
+  "bm25_text": "SR 91-13 FRB: Supervisory Letter SR 91-13 (FIS) on civil money penalties and the use of the civil money penalty assessment matrix -- June 3, 1991  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW CMP MATRIX SUGGESTED CIVIL MONEY PENALTY ASSESSMENTS 3.  For example, only the Federal Reserve can assess fines against bank holding companies and their institution-affiliated parties.  Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 91-13: FRB: Supervisory Letter SR 91-13 (FIS) on civil money penalties and the use of the civil money penalty assessment matrix -- June 3, 1991",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 91-13"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr91-13",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "1991-06-03",
+  "version_label": "1991"
 }

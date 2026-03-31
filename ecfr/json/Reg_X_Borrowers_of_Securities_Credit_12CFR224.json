@@ -29,14 +29,14 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 3,
   "appendix_count": 0,
-  "word_count_raw_body": 688,
+  "word_count_raw_body": 751,
   "section_headings": [
-    "\u00a7 224.1 Authority, purpose, and scope.",
-    "\u00a7 224.2 Definitions.",
-    "\u00a7 224.3 Margin regulations to be applied by nonexempted borrowers."
+    "§ 224.1 Authority, purpose, and scope.",
+    "§ 224.2 Definitions.",
+    "§ 224.3 Margin regulations to be applied by nonexempted borrowers."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-224",
@@ -63,7 +63,7 @@
   "inline_cross_references": [
     "Regulation X"
   ],
-  "normalized_text_sha256": "99486fd6bb6fa617ff8cecd507533c3f24b44d89da34dd4c1b9855852f317f2c",
+  "normalized_text_sha256": "e26db41fad4cc2fe9c0117d5050aa713dbb15113d7c59da0028a9b0820c51e4b",
   "normalized_md_path": "ecfr/md/Reg_X_Borrowers_of_Securities_Credit_12CFR224.md",
   "canonical_json_path": "ecfr/json/Reg_X_Borrowers_of_Securities_Credit_12CFR224.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -76,6 +76,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg X Regulation X: Borrowers of Securities Credit 12 CFR Part 224 \u00a7 224.1 Authority, purpose, and scope. \u00a7 224.2 Definitions. \u00a7 224.3 Margin regulations to be applied by nonexempted borrowers.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 224 Reg X: Regulation X: Borrowers of Securities Credit"
+  "bm25_text": "Reg X Regulation X: Borrowers of Securities Credit 12 CFR Part 224 § 224.1 Authority, purpose, and scope. § 224.2 Definitions. § 224.3 Margin regulations to be applied by nonexempted borrowers.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 224 Reg X: Regulation X: Borrowers of Securities Credit",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation X",
+    "Part 224"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regx.224",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": false
 }

@@ -29,17 +29,17 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 6,
   "appendix_count": 0,
-  "word_count_raw_body": 3257,
+  "word_count_raw_body": 3337,
   "section_headings": [
-    "\u00a7 251.1 Authority, purpose, and other authorities.",
-    "\u00a7 251.2 Definitions.",
-    "\u00a7 251.3 Concentration limit.",
-    "\u00a7 251.4 Exceptions to the concentration limit.",
-    "\u00a7 251.5 No evasion.",
-    "\u00a7 251.6 Reporting requirements."
+    "§ 251.1 Authority, purpose, and other authorities.",
+    "§ 251.2 Definitions.",
+    "§ 251.3 Concentration limit.",
+    "§ 251.4 Exceptions to the concentration limit.",
+    "§ 251.5 No evasion.",
+    "§ 251.6 Reporting requirements."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-251",
@@ -66,7 +66,7 @@
   "inline_cross_references": [
     "Regulation XX"
   ],
-  "normalized_text_sha256": "828bbf19ad6b06164d0f5a192c59bce46f166200fa7186cf424973932ded946c",
+  "normalized_text_sha256": "1012e00ad85079396ec1bce1d30d5847587b5cfd3bedae01d0c6023cf5409087",
   "normalized_md_path": "ecfr/md/Reg_XX_Concentration_Limit_12CFR251.md",
   "canonical_json_path": "ecfr/json/Reg_XX_Concentration_Limit_12CFR251.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -79,6 +79,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg XX Regulation XX: Concentration Limit 12 CFR Part 251 \u00a7 251.1 Authority, purpose, and other authorities. \u00a7 251.2 Definitions. \u00a7 251.3 Concentration limit. \u00a7 251.4 Exceptions to the concentration limit. \u00a7 251.5 No evasion. \u00a7 251.6 Reporting requirements.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 251 Reg XX: Regulation XX: Concentration Limit"
+  "bm25_text": "Reg XX Regulation XX: Concentration Limit 12 CFR Part 251 § 251.1 Authority, purpose, and other authorities. § 251.2 Definitions. § 251.3 Concentration limit. § 251.4 Exceptions to the concentration limit. § 251.5 No evasion. § 251.6 Reporting requirements.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 251 Reg XX: Regulation XX: Concentration Limit",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation XX",
+    "Part 251"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regxx.251",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": true,
+  "contains_deadline": true,
+  "contains_parameter": true
 }

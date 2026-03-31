@@ -29,21 +29,21 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 10,
   "appendix_count": 1,
-  "word_count_raw_body": 4120,
+  "word_count_raw_body": 15347,
   "section_headings": [
-    "\u00a7 235.1 Authority and purpose.",
-    "\u00a7 235.2 Definitions.",
-    "\u00a7 235.3 Reasonable and proportional interchange transaction fees.",
-    "\u00a7 235.4 Fraud-prevention adjustment.",
-    "\u00a7 235.5 Exemptions.",
-    "\u00a7 235.6 Prohibition on circumvention, evasion, and net compensation.",
-    "\u00a7 235.7 Limitations on payment card restrictions.",
-    "\u00a7 235.8 Reporting requirements and record retention.",
-    "\u00a7 235.9 Administrative enforcement.",
-    "\u00a7 235.10 Effective and compliance dates."
+    "§ 235.1 Authority and purpose.",
+    "§ 235.2 Definitions.",
+    "§ 235.3 Reasonable and proportional interchange transaction fees.",
+    "§ 235.4 Fraud-prevention adjustment.",
+    "§ 235.5 Exemptions.",
+    "§ 235.6 Prohibition on circumvention, evasion, and net compensation.",
+    "§ 235.7 Limitations on payment card restrictions.",
+    "§ 235.8 Reporting requirements and record retention.",
+    "§ 235.9 Administrative enforcement.",
+    "§ 235.10 Effective and compliance dates."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-235",
@@ -70,7 +70,7 @@
   "inline_cross_references": [
     "Regulation II"
   ],
-  "normalized_text_sha256": "200c03ae803102523cdb55cdb8d0adc3c2cb56630a3c0cab7e30a69c87dc93d9",
+  "normalized_text_sha256": "5c1e8cccf5bce114529a4909e88cfbfc8a1123559f16dfb0059984e75653ac21",
   "normalized_md_path": "ecfr/md/Reg_II_Debit_Card_Interchange_Fees_and_Routing_12CFR235.md",
   "canonical_json_path": "ecfr/json/Reg_II_Debit_Card_Interchange_Fees_and_Routing_12CFR235.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -83,6 +83,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg II Regulation II: Debit Card Interchange Fees and Routing 12 CFR Part 235 \u00a7 235.1 Authority and purpose. \u00a7 235.2 Definitions. \u00a7 235.3 Reasonable and proportional interchange transaction fees. \u00a7 235.4 Fraud-prevention adjustment. \u00a7 235.5 Exemptions. \u00a7 235.6 Prohibition on circumvention, evasion, and net compensation. \u00a7 235.7 Limitations on payment card restrictions. \u00a7 235.8 Reporting requirements and record retention. \u00a7 235.9 Administrative enforcement. \u00a7 235.10 Effective and compliance dates.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 235 Reg II: Regulation II: Debit Card Interchange Fees and Routing"
+  "bm25_text": "Reg II Regulation II: Debit Card Interchange Fees and Routing 12 CFR Part 235 § 235.1 Authority and purpose. § 235.2 Definitions. § 235.3 Reasonable and proportional interchange transaction fees. § 235.4 Fraud-prevention adjustment. § 235.5 Exemptions. § 235.6 Prohibition on circumvention, evasion, and net compensation. § 235.7 Limitations on payment card restrictions. § 235.8 Reporting requirements and record retention. § 235.9 Administrative enforcement. § 235.10 Effective and compliance dates",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 235 Reg II: Regulation II: Debit Card Interchange Fees and Routing",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation II",
+    "Part 235"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regii.235",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": true,
+  "contains_deadline": true,
+  "contains_parameter": true
 }

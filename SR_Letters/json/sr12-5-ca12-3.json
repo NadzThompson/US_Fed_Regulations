@@ -31,8 +31,8 @@
   "effective_date_start": "2012-04-05",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:38Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 While this guidance applies to all institutions supervised by the Federal Reserve, the statement is particularly relevant to large banking organizations with significant portfolios of residential OREO properties.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  While this guidance applies to all institutions supervised by the Federal Reserve, the statement is particularly relevant to large banking organizations with significant portfolios of residential OREO properties.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 653,
+  "word_count_raw_body": 744,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -58,13 +58,13 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "12\u00a0CFR\u00a0225",
+    "12 CFR 225",
     "SR 12-5"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1205.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1205.htm",
-  "normalized_text_sha256": "8d34d4a39225535f298805b8eadc1aa5dbb986861a6a58ed39dc942d495d303e",
+  "normalized_text_sha256": "01f9394c5b883193d0dc0376a7aa9766102dbb3ce5f81fba613801337c33a0c3",
   "normalized_md_path": "SR_Letters/md/sr12-5-ca12-3.md",
   "canonical_json_path": "SR_Letters/json/sr12-5-ca12-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 12-5 / CA 12-3 FRB: Supervisory Letter SR 12-5 / CA 12-3 on Policy Statement on Rental of Residential Other Real Estate Owned (OREO) Properties -- April 5, 2012 -- Revised June 25, 2018 to Community Banking Organizations:\u00a0 While this guidance applies to all institutions supervised by the Federal Reserve, the statement is particularly relevant to large banking organizations with significant portfolios of residential OREO properties. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO EACH BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 12-5 / CA 12-3: FRB: Supervisory Letter SR 12-5 / CA 12-3 on Policy Statement on Rental of Residential Other Real Estate Owned (OREO) Properties -- April 5, 2012 -- Revised June 25, 2018"
+  "bm25_text": "SR 12-5 / CA 12-3 FRB: Supervisory Letter SR 12-5 / CA 12-3 on Policy Statement on Rental of Residential Other Real Estate Owned (OREO) Properties -- April 5, 2012 -- Revised June 25, 2018 to Community Banking Organizations:  While this guidance applies to all institutions supervised by the Federal Reserve, the statement is particularly relevant to large banking organizations with significant portfolios of residential OREO properties. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO EACH BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 12-5 / CA 12-3: FRB: Supervisory Letter SR 12-5 / CA 12-3 on Policy Statement on Rental of Residential Other Real Estate Owned (OREO) Properties -- April 5, 2012 -- Revised June 25, 2018",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 12-5 / CA 12-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr12-5-ca12-3",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2012-04-05",
+  "version_label": "2012"
 }

@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2006/02/28/06-1837/capital-adequacy-guidelines-for-bank-holding-companies-small-bank-holding-company-policy-statement",
   "canonical_url": "https://www.federalregister.gov/documents/2006/02/28/06-1837/capital-adequacy-guidelines-for-bank-holding-companies-small-bank-holding-company-policy-statement",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:20Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 06-1837",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 06-1837: Capital Adequacy Guidelines for Bank Holding Companies; Small Bank Holding Company Policy Statement; Definition of a Qualifying Small Bank Holding Com",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "06-1837"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.06-1837",
+  "citation_anchor": "#fr-06-1837",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2006-02-28",
+  "version_label": "2006"
 }

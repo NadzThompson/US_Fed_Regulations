@@ -46,7 +46,7 @@
   "source_url": "https://www.federalregister.gov/documents/2023/12/20/2023-27934/community-reinvestment-act-regulations-asset-size-thresholds",
   "canonical_url": "https://www.federalregister.gov/documents/2023/12/20/2023-27934/community-reinvestment-act-regulations-asset-size-thresholds",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:33Z",
+  "enriched_timestamp": "2026-03-31T14:37:44Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2023-27934",
@@ -90,5 +90,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2023-27934: Community Reinvestment Act Regulations Asset-Size Thresholds",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2023-27934"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2023-27934",
+  "citation_anchor": "#fr-2023-27934",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2023-12-20",
+  "version_label": "2023"
 }

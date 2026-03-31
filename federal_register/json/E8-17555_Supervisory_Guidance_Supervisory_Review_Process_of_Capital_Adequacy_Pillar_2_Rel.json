@@ -63,7 +63,7 @@
   "source_url": "https://www.federalregister.gov/documents/2008/07/31/E8-17555/supervisory-guidance-supervisory-review-process-of-capital-adequacy-pillar-2-related-to-the",
   "canonical_url": "https://www.federalregister.gov/documents/2008/07/31/E8-17555/supervisory-guidance-supervisory-review-process-of-capital-adequacy-pillar-2-related-to-the",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:48Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > E8-17555",
@@ -110,5 +110,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule E8-17555: Supervisory Guidance: Supervisory Review Process of Capital Adequacy (Pillar 2) Related to the Implementation of the Basel II Advanced Capital Framewo",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "E8-17555"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.E8-17555",
+  "citation_anchor": "#fr-E8-17555",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2008-07-31",
+  "version_label": "2008"
 }

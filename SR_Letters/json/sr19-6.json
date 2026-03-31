@@ -31,7 +31,7 @@
   "effective_date_start": "2019-03-11",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to the completion of reports of examination for state member banks.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 423,
+  "word_count_raw_body": 479,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1906.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1906.htm",
-  "normalized_text_sha256": "227013ca858712ee0d417514553b4ac4c3b21b669976fa378422f386fac5634f",
+  "normalized_text_sha256": "17499fa5ad3c1ad6a75edffbd006dace214769a5d5974301c8d0730d1ab71aae",
   "normalized_md_path": "SR_Letters/md/sr19-6.md",
   "canonical_json_path": "SR_Letters/json/sr19-6.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 19-6 Federal Financial Institutions Examination Council Policy Statement on the Principles for Completing the Report of Examination This guidance applies to the completion of reports of examination for state member banks. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-6: Federal Financial Institutions Examination Council Policy Statement on the Principles for Completing the Report of Examination"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-6: Federal Financial Institutions Examination Council Policy Statement on the Principles for Completing the Report of Examination",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-6"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-6",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2019-03-11",
+  "version_label": "2019"
 }

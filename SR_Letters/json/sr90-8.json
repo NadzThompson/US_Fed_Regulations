@@ -31,7 +31,7 @@
   "effective_date_start": "1990-02-22",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:42Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 383,
+  "word_count_raw_body": 426,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -60,7 +60,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1990/SR9008.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1990/SR9008.HTM",
-  "normalized_text_sha256": "2f0079051d0c0d6de5fc7061b2eec298f290632f43264fd767add254f7ff2a52",
+  "normalized_text_sha256": "d4ebc2df7971883c79f0995b9b83f01a056b1bfbd17b230748d63b17b1e752ab",
   "normalized_md_path": "SR_Letters/md/sr90-8.md",
   "canonical_json_path": "SR_Letters/json/sr90-8.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 90-8 FRB: Supervisory Letter SR 90-8 (SA) on inspection procedures for \"Section 20 Subsidiaries\" -- February 22, 1990  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 90-8: FRB: Supervisory Letter SR 90-8 (SA) on inspection procedures for \"Section 20 Subsidiaries\" -- February 22, 1990"
+  "bm25_text": "SR 90-8 FRB: Supervisory Letter SR 90-8 (SA) on inspection procedures for \"Section 20 Subsidiaries\" -- February 22, 1990  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 90-8: FRB: Supervisory Letter SR 90-8 (SA) on inspection procedures for \"Section 20 Subsidiaries\" -- February 22, 1990",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 90-8"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr90-8",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1990-02-22",
+  "version_label": "1990"
 }

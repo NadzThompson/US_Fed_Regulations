@@ -31,8 +31,8 @@
   "effective_date_start": "2022-03-29",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
-  "applicability_raw": "This letter applies to all banking organizations supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets. This letter also applies to bank service providers of banking organizations supervised by the Federal Reserve. However, this letter does not apply to designated financial market utilities as defined at 12 U.S.C. \u00a7 5462(4).",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This letter applies to all banking organizations supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. This letter also applies to bank service providers of banking organizations supervised by the Federal Reserve. However, this letter does not apply to designated financial market utilities as defined at 12 U.S.C. § 5462(4).",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 834,
+  "word_count_raw_body": 930,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2204.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2204.htm",
-  "normalized_text_sha256": "aa7742c490db673c87d16fec10d68dad367787bd3632c7856117b7b3e1b3ec83",
+  "normalized_text_sha256": "eb820205d45c48844d97cbba13cccf99e0e89da9ebf21c854b3bbd476f7314a1",
   "normalized_md_path": "SR_Letters/md/sr22-4-ca22-3.md",
   "canonical_json_path": "SR_Letters/json/sr22-4-ca22-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 22-4 / CA 22-3 CA 22-3:  Contact Information in Relation to Computer-Security Incident Notification Requirements This letter applies to all banking organizations supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets. This letter also applies to bank service providers of banking organizations supervised by the Federal Reserve. However, this letter does not apply to designated financial market utilities as defined at 12 U.S.C. \u00a7 5462(4). BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 22-4 / CA 22-3: CA 22-3:  Contact Information in Relation to Computer-Security Incident Notification Requirements"
+  "bm25_text": "SR 22-4 / CA 22-3 CA 22-3:  Contact Information in Relation to Computer-Security Incident Notification Requirements This letter applies to all banking organizations supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. This letter also applies to bank service providers of banking organizations supervised by the Federal Reserve. However, this letter does not apply to designated financial market utilities as defined at 12 U.S.C. § 5462(4). BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 22-4 / CA 22-3: CA 22-3:  Contact Information in Relation to Computer-Security Incident Notification Requirements",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 22-4 / CA 22-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr22-4-ca22-3",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2022-03-29",
+  "version_label": "2022"
 }

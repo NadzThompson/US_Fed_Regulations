@@ -31,7 +31,7 @@
   "effective_date_start": "2016-12-01",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to state member banks, U.S. branches and agencies of foreign banking organizations, and depository institution holding companies and nonbank subsidiaries of such holding companies involved in energy lending, regardless of the asset size of the supervised institution.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2702,
+  "word_count_raw_body": 2787,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1617.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1617.htm",
-  "normalized_text_sha256": "d664ccaac5e476d5993e470651457b808217e30ad557084b79777b11a1c25f64",
+  "normalized_text_sha256": "6db748a043e8c3c9c5a18530813409db8f09113999b861222574ae07a2e44890",
   "normalized_md_path": "SR_Letters/md/sr16-17.md",
   "canonical_json_path": "SR_Letters/json/sr16-17.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 16-17 Supervisory Letter SR 16-17 on Supervisory Expectations for Risk Management of Reserve-Based Energy Lending Risk -- December 1, 2016 This guidance applies to state member banks, U.S. branches and agencies of foreign banking organizations, and depository institution holding companies and nonbank subsidiaries of such holding companies involved in energy lending, regardless of the asset size of the supervised institution. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 16-17: Supervisory Letter SR 16-17 on Supervisory Expectations for Risk Management of Reserve-Based Energy Lending Risk -- December 1, 2016"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 16-17: Supervisory Letter SR 16-17 on Supervisory Expectations for Risk Management of Reserve-Based Energy Lending Risk -- December 1, 2016",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 16-17"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr16-17",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2016-12-01",
+  "version_label": "2016"
 }

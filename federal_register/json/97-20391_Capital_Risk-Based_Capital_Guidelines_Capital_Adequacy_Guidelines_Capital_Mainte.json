@@ -80,7 +80,7 @@
   "source_url": "https://www.federalregister.gov/documents/1997/08/04/97-20391/capital-risk-based-capital-guidelines-capital-adequacy-guidelines-capital-maintenance-servicing",
   "canonical_url": "https://www.federalregister.gov/documents/1997/08/04/97-20391/capital-risk-based-capital-guidelines-capital-adequacy-guidelines-capital-maintenance-servicing",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:46Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 97-20391",
@@ -129,5 +129,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 97-20391: Capital; Risk-Based Capital Guidelines; Capital Adequacy Guidelines; Capital Maintenance: Servicing Assets",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "97-20391"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.97-20391",
+  "citation_anchor": "#fr-97-20391",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1997-08-04",
+  "version_label": "1997"
 }

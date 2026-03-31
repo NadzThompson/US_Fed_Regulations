@@ -61,7 +61,7 @@
   "source_url": "https://www.federalregister.gov/documents/2001/03/19/01-6638/consumer-protections-for-depository-institution-sales-of-insurance-change-in-effective-date",
   "canonical_url": "https://www.federalregister.gov/documents/2001/03/19/01-6638/consumer-protections-for-depository-institution-sales-of-insurance-change-in-effective-date",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:18Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 01-6638",
@@ -107,5 +107,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 01-6638: Consumer Protections for Depository Institution Sales of Insurance; Change in Effective Date",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "01-6638"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.01-6638",
+  "citation_anchor": "#fr-01-6638",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2001-03-19",
+  "version_label": "2001"
 }

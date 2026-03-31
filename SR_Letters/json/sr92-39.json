@@ -31,7 +31,7 @@
   "effective_date_start": "1992-10-30",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1896,
+  "word_count_raw_body": 1948,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -67,7 +67,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1992/SR9239.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1992/SR9239.HTM",
-  "normalized_text_sha256": "026ce095e0b7a9f4067b90cb144cccf47d8036afbdc18d3bb32bc01a334dd00a",
+  "normalized_text_sha256": "086a41afd53aef8b00ebd71f95f4fac9d013918088f5d0b958fee886626aad14",
   "normalized_md_path": "SR_Letters/md/sr92-39.md",
   "canonical_json_path": "SR_Letters/json/sr92-39.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -81,6 +81,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 92-39 FRB: Supervisory Letter SR 92-39 (FIS) on notification to state member banks on Federal Reserve confirmations of charge-offs declared for tax purposes -- October 30, 1992  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANMITTED ELECTRONICALLY BELOW EXAMINER GUIDANCE ON REVIEWING LOAN LOSSES FOR TAX PURPOSES TO WHOM IT MAY CONCERN: TO WHOM IT MAY CONCERN:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 92-39: FRB: Supervisory Letter SR 92-39 (FIS) on notification to state member banks on Federal Reserve confirmations of charge-offs declared for tax purposes -- October 30, 1992"
+  "bm25_text": "SR 92-39 FRB: Supervisory Letter SR 92-39 (FIS) on notification to state member banks on Federal Reserve confirmations of charge-offs declared for tax purposes -- October 30, 1992  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANMITTED ELECTRONICALLY BELOW EXAMINER GUIDANCE ON REVIEWING LOAN LOSSES FOR TAX PURPOSES TO WHOM IT MAY CONCERN: TO WHOM IT MAY CONCERN:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 92-39: FRB: Supervisory Letter SR 92-39 (FIS) on notification to state member banks on Federal Reserve confirmations of charge-offs declared for tax purposes -- October 30, 1992",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 92-39"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr92-39",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1992-10-30",
+  "version_label": "1992"
 }

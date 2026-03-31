@@ -50,7 +50,7 @@
   "source_url": "https://www.federalregister.gov/documents/1998/07/13/98-18274/membership-of-state-banking-institutions-in-the-federal-reserve-system-miscellaneous-interpretations",
   "canonical_url": "https://www.federalregister.gov/documents/1998/07/13/98-18274/membership-of-state-banking-institutions-in-the-federal-reserve-system-miscellaneous-interpretations",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:46Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 98-18274",
@@ -95,5 +95,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 98-18274: Membership of State Banking Institutions in the Federal Reserve System; Miscellaneous Interpretations",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "98-18274"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.98-18274",
+  "citation_anchor": "#fr-98-18274",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1998-07-13",
+  "version_label": "1998"
 }

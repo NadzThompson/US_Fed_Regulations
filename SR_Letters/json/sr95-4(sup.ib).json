@@ -31,7 +31,7 @@
   "effective_date_start": "1995-01-17",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,17 +40,17 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2278,
+  "word_count_raw_body": 2331,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:",
     "ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW",
-    "1.\u00a0\u00a0Collectively referred to as \"branches\".\u00a0\u00a0Return to text",
-    "2.\u00a0\u00a0See SR 91-18, Classification Guidelines For An Asset When A Substantial Portion Has Been Charged Off.\u00a0\u00a0Return to text",
-    "3.\u00a0\u00a0Collectively referred to as \"branches\".\u00a0\u00a0Return to text"
+    "1.  Collectively referred to as \"branches\".  Return to text",
+    "2.  See SR 91-18, Classification Guidelines For An Asset When A Substantial Portion Has Been Charged Off.  Return to text",
+    "3.  Collectively referred to as \"branches\".  Return to text"
   ],
   "toc_depth": 9,
   "has_appendices": true,
@@ -65,7 +65,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9504.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9504.htm",
-  "normalized_text_sha256": "9c559fd210cc06ce33d745546d2eb6801f622bfaaf1806f672d4341bba08b8e4",
+  "normalized_text_sha256": "cd1fb976b66bf5ccd45b5fa1e279e33515b934130e4ffdb5dabbd45325c05403",
   "normalized_md_path": "SR_Letters/md/sr95-4(sup.ib).md",
   "canonical_json_path": "SR_Letters/json/sr95-4(sup.ib).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,6 +79,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 95-4 (SUP.IB) FRB: Supervisory Letter SR 95-4 (SUP.IB) on allowance for loan and lease losses for U.S. branches and agencies of foreign banking organizations -- January 17, 1995  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW 1.\u00a0\u00a0Collectively referred to as \"branches\".\u00a0\u00a0Return to text 2.\u00a0\u00a0See SR 91-18, Classification Guidelines For An Asset When A Substantial Portion Has Been Charged Off.\u00a0\u00a0Return to text 3.\u00a0\u00a0Collectively referred to as \"branches\".\u00a0\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 95-4 (SUP.IB): FRB: Supervisory Letter SR 95-4 (SUP.IB) on allowance for loan and lease losses for U.S. branches and agencies of foreign banking organizations -- January 17, 1995"
+  "bm25_text": "SR 95-4 (SUP.IB) FRB: Supervisory Letter SR 95-4 (SUP.IB) on allowance for loan and lease losses for U.S. branches and agencies of foreign banking organizations -- January 17, 1995  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW 1.  Collectively referred to as \"branches\".  Return to text 2.  See SR 91-18, Classification Guidelines For An Asset When A Substantial Portion Has Been Charged Off.  Return to text 3.  Collectively referred to as \"branches\".  Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 95-4 (SUP.IB): FRB: Supervisory Letter SR 95-4 (SUP.IB) on allowance for loan and lease losses for U.S. branches and agencies of foreign banking organizations -- January 17, 1995",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 95-4 (SUP.IB)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr95-4(sup.ib)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1995-01-17",
+  "version_label": "1995"
 }

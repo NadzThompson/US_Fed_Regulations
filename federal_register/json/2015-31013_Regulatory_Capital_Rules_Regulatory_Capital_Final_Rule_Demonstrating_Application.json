@@ -37,7 +37,7 @@
   "source_url": "https://www.federalregister.gov/documents/2015/12/09/2015-31013/regulatory-capital-rules-regulatory-capital-final-rule-demonstrating-application-of-common-equity",
   "canonical_url": "https://www.federalregister.gov/documents/2015/12/09/2015-31013/regulatory-capital-rules-regulatory-capital-final-rule-demonstrating-application-of-common-equity",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:24Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2015-31013",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2015-31013: Regulatory Capital Rules: Regulatory Capital, Final Rule Demonstrating Application of Common Equity Tier 1 Capital Eligibility Criteria and Excluding ",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2015-31013"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2015-31013",
+  "citation_anchor": "#fr-2015-31013",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2015-12-09",
+  "version_label": "2015"
 }

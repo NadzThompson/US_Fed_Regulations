@@ -37,7 +37,7 @@
   "source_url": "https://www.federalregister.gov/documents/1996/03/27/96-7424/rules-regarding-delegation-of-authority",
   "canonical_url": "https://www.federalregister.gov/documents/1996/03/27/96-7424/rules-regarding-delegation-of-authority",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:45Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 96-7424",
@@ -80,5 +80,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 96-7424: Rules Regarding Delegation of Authority",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "96-7424"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.96-7424",
+  "citation_anchor": "#fr-96-7424",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1996-03-27",
+  "version_label": "1996"
 }

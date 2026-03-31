@@ -31,8 +31,8 @@
   "effective_date_start": "2013-03-21",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance generally does not apply to community banking organizations, defined as institutions with total consolidated assets of $10\u00a0billion or less.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance generally does not apply to community banking organizations, defined as institutions with total consolidated assets of $10 billion or less.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 354,
+  "word_count_raw_body": 427,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -49,9 +49,9 @@
     "SUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:",
-    "1.\u00a0 See 12 CFR 208, appendix F (state member banks) and 12 CFR 225, appendix G (bank holding companies).\u00a0Return to text",
-    "3.\u00a0 See http://www.federalreserve.gov/bankinforeg/basel/basel-coordination-committee-bulletins.htm.\u00a0Return to text",
-    "4.\u00a0 See http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text"
+    "1.  See 12 CFR 208, appendix F (state member banks) and 12 CFR 225, appendix G (bank holding companies). Return to text",
+    "3.  See http://www.federalreserve.gov/bankinforeg/basel/basel-coordination-committee-bulletins.htm. Return to text",
+    "4.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text"
   ],
   "toc_depth": 10,
   "has_appendices": true,
@@ -67,7 +67,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1304.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1304.htm",
-  "normalized_text_sha256": "200704267d2f0fa59f418672841b47b53b97415b974653a9db5b196f0ded20ca",
+  "normalized_text_sha256": "6b564b1420c51be617c8b63c7336f6613c016049eacd43cd446810e1fcc0437b",
   "normalized_md_path": "SR_Letters/md/sr13-4.md",
   "canonical_json_path": "SR_Letters/json/sr13-4.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,6 +79,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 13-4 Supervisory Letter SR 13-4 on         Advanced Approaches Risk-Based Capital Rule Examination Guidance on the Board's Public Website  -- March 21, 2013 to Community Banking Organizations:\u00a0 This guidance generally does not apply to community banking organizations, defined as institutions with total consolidated assets of $10\u00a0billion or less. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK SUBJECT: 1.\u00a0 See 12 CFR 208, appendix F (state member banks) and 12 CFR 225, appendix G (bank holding companies).\u00a0Return to text 3.\u00a0 See http://www.federalreserve.gov/bankinforeg/basel/basel-coordination-committee-bulletins.htm.\u00a0Return to text 4.\u00a0 See http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 13-4: Supervisory Letter SR 13-4 on         Advanced Approaches Risk-Based Capital Rule Examination Guidance on the Board's Public Website  -- March 21, 2013"
+  "bm25_text": "SR 13-4 Supervisory Letter SR 13-4 on         Advanced Approaches Risk-Based Capital Rule Examination Guidance on the Board's Public Website  -- March 21, 2013 to Community Banking Organizations:  This guidance generally does not apply to community banking organizations, defined as institutions with total consolidated assets of $10 billion or less. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK SUBJECT: 1.  See 12 CFR 208, appendix F (state member banks) and 12 CFR 225, appendix G (bank holding companies). Return to text 3.  See http://www.federalreserve.gov/bankinforeg/basel/basel-coordination-committee-bulletins.htm. Return to text 4.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 13-4: Supervisory Letter SR 13-4 on         Advanced Approaches Risk-Based Capital Rule Examination Guidance on the Board's Public Website  -- March 21, 2013",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 13-4"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr13-4",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2013-03-21",
+  "version_label": "2013"
 }

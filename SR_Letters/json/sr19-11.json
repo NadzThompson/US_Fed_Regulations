@@ -1,7 +1,7 @@
 {
   "doc_id": "usfed.sr19-11.20190722.letter",
-  "title": "SR 19-11: FRB: Supervisory Letter SR 19-11on \u200bjoint statement on risk-focused Bank Secrecy Act/anti-money laundering supervision -- July 24, 2019 (Revised July 24, 2019)",
-  "title_normalized": "FRB: Supervisory Letter SR 19-11on \u200bjoint statement on risk-focused Bank Secrecy Act/anti-money laundering supervision -- July 24, 2019 (Revised July 24, 2019)",
+  "title": "SR 19-11: FRB: Supervisory Letter SR 19-11on ​joint statement on risk-focused Bank Secrecy Act/anti-money laundering supervision -- July 24, 2019 (Revised July 24, 2019)",
+  "title_normalized": "FRB: Supervisory Letter SR 19-11on ​joint statement on risk-focused Bank Secrecy Act/anti-money laundering supervision -- July 24, 2019 (Revised July 24, 2019)",
   "short_title": "SR 19-11",
   "slug": "sr-letter-sr19-11",
   "regulator": "Federal Reserve System",
@@ -31,7 +31,7 @@
   "effective_date_start": "2019-07-22",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 458,
+  "word_count_raw_body": 526,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1911.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1911.htm",
-  "normalized_text_sha256": "fb37e75478e1fc5d9ca967b1e8d9c4ea9393d360f8d62f421dfed23a9f09f13b",
+  "normalized_text_sha256": "0d5c80cd09fe32b09974137dfb965b5410061f393590194f32f78223f305add9",
   "normalized_md_path": "SR_Letters/md/sr19-11.md",
   "canonical_json_path": "SR_Letters/json/sr19-11.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 19-11 FRB: Supervisory Letter SR 19-11on \u200bjoint statement on risk-focused Bank Secrecy Act/anti-money laundering supervision -- July 24, 2019 (Revised July 24, 2019) This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-11: FRB: Supervisory Letter SR 19-11on \u200bjoint statement on risk-focused Bank Secrecy Act/anti-money laundering supervision -- July 24, 2019 (Revised July 24, 2019)"
+  "bm25_text": "SR 19-11 FRB: Supervisory Letter SR 19-11on ​joint statement on risk-focused Bank Secrecy Act/anti-money laundering supervision -- July 24, 2019 (Revised July 24, 2019) This guidance applies to all financial institutions supervised by the Federal Reserve that are subject to the Bank Secrecy Act. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-11: FRB: Supervisory Letter SR 19-11on ​joint statement on risk-focused Bank Secrecy Act/anti-money laundering supervision -- July 24, 2019 (Revised July 24, 2019)",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-11"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-11",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2019-07-22",
+  "version_label": "2019"
 }

@@ -66,7 +66,7 @@
   "source_url": "https://www.federalregister.gov/documents/2022/06/16/C1-2022-10414/loans-in-areas-having-special-flood-hazards-interagency-questions-and-answers-regarding-flood",
   "canonical_url": "https://www.federalregister.gov/documents/2022/06/16/C1-2022-10414/loans-in-areas-having-special-flood-hazards-interagency-questions-and-answers-regarding-flood",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:47Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > C1-2022-10414",
@@ -115,5 +115,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule C1-2022-10414: Loans in Areas Having Special Flood Hazards; Interagency Questions and Answers Regarding Flood Insurance",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "C1-2022-10414"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.C1-2022-10414",
+  "citation_anchor": "#fr-C1-2022-10414",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2022-06-16",
+  "version_label": "2022"
 }

@@ -31,8 +31,8 @@
   "effective_date_start": "2012-07-11",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance applies to all institutions supervised by the Federal Reserve, including community banking organizations, defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance applies to all institutions supervised by the Federal Reserve, including community banking organizations, defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1238,
+  "word_count_raw_body": 1335,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -50,8 +50,8 @@
     "DIVISION OF CONSUMERAND COMMUNITY AFFAIRS",
     "TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:",
-    "1.\u00a0 This process applies to all types of proposals requiring submission of an application or notice.\u00a0Return to text",
-    "5.\u00a0 See http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text"
+    "1.  This process applies to all types of proposals requiring submission of an application or notice. Return to text",
+    "5.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text"
   ],
   "toc_depth": 10,
   "has_appendices": false,
@@ -60,13 +60,13 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "12\u00a0CFR 261",
+    "12 CFR 261",
     "SR 12-12"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1212.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1212.htm",
-  "normalized_text_sha256": "2cf92003e90ebaa177a89a4cbbc73719924e2c7cac7670accbfeb735f088657f",
+  "normalized_text_sha256": "03193e33a0d7120bbc315d8682e65026013e37acdf3133b11e9afd6fd6ca9eb7",
   "normalized_md_path": "SR_Letters/md/sr12-12-ca12-11.md",
   "canonical_json_path": "SR_Letters/json/sr12-12-ca12-11.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,6 +78,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 12-12 / CA 12-11 Supervisory Letter SR 12-12 / CA 12-11 on         Implementation of a New Process for Requesting Guidance from the Federal Reserve Regarding Bank and Nonbank Acquisitions and Other Proposals  -- July 11, 2012 to Community Banking Organizations:\u00a0 This guidance applies to all institutions supervised by the Federal Reserve, including community banking organizations, defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: 1.\u00a0 This process applies to all types of proposals requiring submission of an application or notice.\u00a0Return to text 5.\u00a0 See http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 12-12 / CA 12-11: Supervisory Letter SR 12-12 / CA 12-11 on         Implementation of a New Process for Requesting Guidance from the Federal Reserve Regarding Bank and Nonbank Acquisitions and Other Proposals  -- July 11, 2012"
+  "bm25_text": "SR 12-12 / CA 12-11 Supervisory Letter SR 12-12 / CA 12-11 on         Implementation of a New Process for Requesting Guidance from the Federal Reserve Regarding Bank and Nonbank Acquisitions and Other Proposals  -- July 11, 2012 to Community Banking Organizations:  This guidance applies to all institutions supervised by the Federal Reserve, including community banking organizations, defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: 1.  This process applies to all types of proposals requiring submission of an application or notice. Return to text 5.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 12-12 / CA 12-11: Supervisory Letter SR 12-12 / CA 12-11 on         Implementation of a New Process for Requesting Guidance from the Federal Reserve Regarding Bank and Nonbank Acquisitions and Other Proposals  -- July 11, 2012",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 12-12 / CA 12-11"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr12-12-ca12-11",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2012-07-11",
+  "version_label": "2012"
 }

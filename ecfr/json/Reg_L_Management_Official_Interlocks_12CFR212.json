@@ -29,20 +29,20 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 9,
   "appendix_count": 0,
-  "word_count_raw_body": 2805,
+  "word_count_raw_body": 2900,
   "section_headings": [
-    "\u00a7 212.1 Authority, purpose, and scope.",
-    "\u00a7 212.2 Definitions.",
-    "\u00a7 212.3 Prohibitions.",
-    "\u00a7 212.4 Interlocking relationships permitted by statute.",
-    "\u00a7 212.5 Small market share exemption.",
-    "\u00a7 212.6 General exemption.",
-    "\u00a7 212.7 Change in circumstances.",
-    "\u00a7 212.8 Enforcement.",
-    "\u00a7 212.9 Effect of Interlocks Act on Clayton Act."
+    "§ 212.1 Authority, purpose, and scope.",
+    "§ 212.2 Definitions.",
+    "§ 212.3 Prohibitions.",
+    "§ 212.4 Interlocking relationships permitted by statute.",
+    "§ 212.5 Small market share exemption.",
+    "§ 212.6 General exemption.",
+    "§ 212.7 Change in circumstances.",
+    "§ 212.8 Enforcement.",
+    "§ 212.9 Effect of Interlocks Act on Clayton Act."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-212",
@@ -69,7 +69,7 @@
   "inline_cross_references": [
     "Regulation L"
   ],
-  "normalized_text_sha256": "2ad8d03b82222e4605e71d7d5ef5ada0fe27e3d763f205b5ee19147a05388bd7",
+  "normalized_text_sha256": "c06898c45bab1afa265d3087f0f2c2a22922a4767230e28ef184878b9ae392f0",
   "normalized_md_path": "ecfr/md/Reg_L_Management_Official_Interlocks_12CFR212.md",
   "canonical_json_path": "ecfr/json/Reg_L_Management_Official_Interlocks_12CFR212.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -82,6 +82,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg L Regulation L: Management Official Interlocks 12 CFR Part 212 \u00a7 212.1 Authority, purpose, and scope. \u00a7 212.2 Definitions. \u00a7 212.3 Prohibitions. \u00a7 212.4 Interlocking relationships permitted by statute. \u00a7 212.5 Small market share exemption. \u00a7 212.6 General exemption. \u00a7 212.7 Change in circumstances. \u00a7 212.8 Enforcement. \u00a7 212.9 Effect of Interlocks Act on Clayton Act.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 212 Reg L: Regulation L: Management Official Interlocks"
+  "bm25_text": "Reg L Regulation L: Management Official Interlocks 12 CFR Part 212 § 212.1 Authority, purpose, and scope. § 212.2 Definitions. § 212.3 Prohibitions. § 212.4 Interlocking relationships permitted by statute. § 212.5 Small market share exemption. § 212.6 General exemption. § 212.7 Change in circumstances. § 212.8 Enforcement. § 212.9 Effect of Interlocks Act on Clayton Act.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 212 Reg L: Regulation L: Management Official Interlocks",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation L",
+    "Part 212"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regl.212",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": true,
+  "contains_parameter": true
 }

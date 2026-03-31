@@ -31,7 +31,7 @@
   "effective_date_start": "1993-07-13",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 352,
+  "word_count_raw_body": 406,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -61,7 +61,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1993/SR9340.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1993/SR9340.HTM",
-  "normalized_text_sha256": "fb60f86cf0a0176ec8e990db4d946c151d193654b113f367042b88363f5518fa",
+  "normalized_text_sha256": "8ed85ee7f24aebc1c9e60f26800d359e12eba8ac4aff24c9b57b47512fae4639",
   "normalized_md_path": "SR_Letters/md/sr93-40(fis).md",
   "canonical_json_path": "SR_Letters/json/sr93-40(fis).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 93-40 (FIS) FRB: Supervisory Letter SR 93-40 (FIS) on Department of the Treasury interpretation regarding allocation of securities to customer accounts in hold-in-custody repurchase transactions -- July 13, 1993  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: OTHER ATTACHMENT MAY BE OBTAINED FROM FEDERAL RESERVE BANK",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 93-40 (FIS): FRB: Supervisory Letter SR 93-40 (FIS) on Department of the Treasury interpretation regarding allocation of securities to customer accounts in hold-in-custody repurchase transactions -- July 13, 1993"
+  "bm25_text": "SR 93-40 (FIS) FRB: Supervisory Letter SR 93-40 (FIS) on Department of the Treasury interpretation regarding allocation of securities to customer accounts in hold-in-custody repurchase transactions -- July 13, 1993  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: OTHER ATTACHMENT MAY BE OBTAINED FROM FEDERAL RESERVE BANK",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 93-40 (FIS): FRB: Supervisory Letter SR 93-40 (FIS) on Department of the Treasury interpretation regarding allocation of securities to customer accounts in hold-in-custody repurchase transactions -- July 13, 1993",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 93-40 (FIS)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr93-40(fis)",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1993-07-13",
+  "version_label": "1993"
 }

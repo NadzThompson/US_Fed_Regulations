@@ -17,7 +17,7 @@
   "chapter": "II",
   "chapter_name": "Federal Reserve System",
   "part_number": 272,
-  "part_name": "PART 272\u2014RULES OF PROCEDURE",
+  "part_name": "PART 272—RULES OF PROCEDURE",
   "regulation_letter": null,
   "regulation_name": "Rules of Procedure",
   "section_path": "Federal Reserve System > 12 CFR Chapter II > Part 272",
@@ -29,16 +29,16 @@
   "ecfr_current_as_of": "2026-03-24",
   "effective_date_start": "2026-03-24",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 5,
   "appendix_count": 0,
-  "word_count_raw_body": 1209,
+  "word_count_raw_body": 1269,
   "section_headings": [
-    "\u00a7 272.1 Authority.",
-    "\u00a7 272.2 Functions of the Committee.",
-    "\u00a7 272.3 Meetings.",
-    "\u00a7 272.4 Committee actions.",
-    "\u00a7 272.5 Notice and public procedure."
+    "§ 272.1 Authority.",
+    "§ 272.2 Functions of the Committee.",
+    "§ 272.3 Meetings.",
+    "§ 272.4 Committee actions.",
+    "§ 272.5 Notice and public procedure."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-272",
@@ -76,6 +76,22 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Part 272 Rules of Procedure 12 CFR Part 272 \u00a7 272.1 Authority. \u00a7 272.2 Functions of the Committee. \u00a7 272.3 Meetings. \u00a7 272.4 Committee actions. \u00a7 272.5 Notice and public procedure.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 272 Part 272: Rules of Procedure"
+  "bm25_text": "Part 272 Rules of Procedure 12 CFR Part 272 § 272.1 Authority. § 272.2 Functions of the Committee. § 272.3 Meetings. § 272.4 Committee actions. § 272.5 Notice and public procedure.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 272 Part 272: Rules of Procedure",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Part 272"
+  ],
+  "structural_level": "part",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.part272.272",
+  "version_id": "2026-03-24",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

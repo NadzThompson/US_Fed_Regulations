@@ -28,7 +28,7 @@
   "source_url": "https://www.federalregister.gov/documents/2024/12/06/2024-28522/proposed-agency-information-collection-activities-comment-request",
   "canonical_url": "https://www.federalregister.gov/documents/2024/12/06/2024-28522/proposed-agency-information-collection-activities-comment-request",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:38Z",
+  "enriched_timestamp": "2026-03-31T14:37:44Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Notice > 2024-28522",
@@ -69,5 +69,20 @@
   "vector_text_prefix": "Federal Reserve Notice 2024-28522: Proposed Agency Information Collection Activities; Comment Request",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Notice",
+    "2024-28522"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2024-28522",
+  "citation_anchor": "#fr-2024-28522",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2024-12-06",
+  "version_label": "2024"
 }

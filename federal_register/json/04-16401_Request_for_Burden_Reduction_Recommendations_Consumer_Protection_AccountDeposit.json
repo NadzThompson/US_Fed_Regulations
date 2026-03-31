@@ -32,7 +32,7 @@
   "source_url": "https://www.federalregister.gov/documents/2004/07/20/04-16401/request-for-burden-reduction-recommendations-consumer-protection-accountdeposit-relationships-and",
   "canonical_url": "https://www.federalregister.gov/documents/2004/07/20/04-16401/request-for-burden-reduction-recommendations-consumer-protection-accountdeposit-relationships-and",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:19Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 04-16401",
@@ -73,5 +73,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 04-16401: Request for Burden Reduction Recommendations; Consumer Protection: Account/Deposit Relationships and Miscellaneous Consumer Rules; Economic Growth and",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "04-16401"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.04-16401",
+  "citation_anchor": "#fr-04-16401",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2004-07-20",
+  "version_label": "2004"
 }

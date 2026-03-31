@@ -31,7 +31,7 @@
   "effective_date_start": "2000-06-22",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,11 +40,11 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1387,
+  "word_count_raw_body": 1428,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
-    "TO\u00a0THE",
+    "TO THE",
     "SUBJECT:"
   ],
   "toc_depth": 4,
@@ -59,7 +59,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2000/SR0009.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2000/SR0009.HTM",
-  "normalized_text_sha256": "57f1cb7ba6b4d87271b16ceed7916ebb5ce1c6a169317d12c1a39ce6e64ca819",
+  "normalized_text_sha256": "a41b090d65b4f2465b63fb690726ac7ba2d911866ece29a95966b0d8d5e58480",
   "normalized_md_path": "SR_Letters/md/sr00-9(spe).md",
   "canonical_json_path": "SR_Letters/json/sr00-9(spe).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -73,6 +73,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 00-9 (SPE) FRB: Supervisory Letter 00-9 (SPE) on equity investment and merchant banking activities--June 22, 2000  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO\u00a0THE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 00-9 (SPE): FRB: Supervisory Letter 00-9 (SPE) on equity investment and merchant banking activities--June 22, 2000"
+  "bm25_text": "SR 00-9 (SPE) FRB: Supervisory Letter 00-9 (SPE) on equity investment and merchant banking activities--June 22, 2000  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 00-9 (SPE): FRB: Supervisory Letter 00-9 (SPE) on equity investment and merchant banking activities--June 22, 2000",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 00-9 (SPE)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr00-9(spe)",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2000-06-22",
+  "version_label": "2000"
 }

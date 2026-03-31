@@ -31,8 +31,8 @@
   "effective_date_start": "2021-02-26",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
-  "applicability_raw": "This guidance applies to all domestic bank holding companies and savings and loan holding companies with total consolidated assets of $100 billion or more (excluding U.S. intermediate holding companies of foreign banking organizations established pursuant to the Federal Reserve's Regulation\u00a0YY), and systemically important nonbank financial companies designated by the Financial Stability Oversight Council for supervision by the Federal Reserve.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance applies to all domestic bank holding companies and savings and loan holding companies with total consolidated assets of $100 billion or more (excluding U.S. intermediate holding companies of foreign banking organizations established pursuant to the Federal Reserve's Regulation YY), and systemically important nonbank financial companies designated by the Financial Stability Oversight Council for supervision by the Federal Reserve.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": true,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": true,
-  "word_count_raw_body": 749,
+  "word_count_raw_body": 848,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -59,13 +59,13 @@
   "footnote_count": 0,
   "inline_cross_references": [
     "Regulation YY",
-    "Regulation\u00a0YY",
+    "Regulation YY",
     "SR 21-3"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2103.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2103.htm",
-  "normalized_text_sha256": "024aea8b0c27f20cf419de491a4eedc862087f37a3d8e42f1862c3c88857177d",
+  "normalized_text_sha256": "3afd137b1622e3b794afe6ec5f071cc2c2fee18a02cbe85803bf05edbc647717",
   "normalized_md_path": "SR_Letters/md/sr21-3-ca21-1.md",
   "canonical_json_path": "SR_Letters/json/sr21-3-ca21-1.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 21-3 / CA 21-1 CA 21-1 :  Supervisory Guidance on Board of Directors' Effectiveness This guidance applies to all domestic bank holding companies and savings and loan holding companies with total consolidated assets of $100 billion or more (excluding U.S. intermediate holding companies of foreign banking organizations established pursuant to the Federal Reserve's Regulation\u00a0YY), and systemically important nonbank financial companies designated by the Financial Stability Oversight Council for supervision by the Federal Reserve. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO LARGE FINANCIAL INSTITUTIONS SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 21-3 / CA 21-1: CA 21-1 :  Supervisory Guidance on Board of Directors' Effectiveness"
+  "bm25_text": "SR 21-3 / CA 21-1 CA 21-1 :  Supervisory Guidance on Board of Directors' Effectiveness This guidance applies to all domestic bank holding companies and savings and loan holding companies with total consolidated assets of $100 billion or more (excluding U.S. intermediate holding companies of foreign banking organizations established pursuant to the Federal Reserve's Regulation YY), and systemically important nonbank financial companies designated by the Financial Stability Oversight Council for supervision by the Federal Reserve. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO LARGE FINANCIAL INSTITUTIONS SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 21-3 / CA 21-1: CA 21-1 :  Supervisory Guidance on Board of Directors' Effectiveness",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 21-3 / CA 21-1"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr21-3-ca21-1",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2021-02-26",
+  "version_label": "2021"
 }

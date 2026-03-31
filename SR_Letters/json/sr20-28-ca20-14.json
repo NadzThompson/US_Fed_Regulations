@@ -31,8 +31,8 @@
   "effective_date_start": "2020-12-04",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
-  "applicability_raw": "This guidance applies to institutions, including those with $10\u00a0billion or less in total consolidated assets, that receive a material supervisory determination by the Federal Reserve.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance applies to institutions, including those with $10 billion or less in total consolidated assets, that receive a material supervisory determination by the Federal Reserve.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 644,
+  "word_count_raw_body": 719,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2028.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2028.htm",
-  "normalized_text_sha256": "2ce508c9d1a1f606f837690029d7189fe8aa935a9be7c50bc757b895f688445c",
+  "normalized_text_sha256": "29757a57b301b0315a478d243846d5304e04c984e1528af12d6a6ba23d7ae48a",
   "normalized_md_path": "SR_Letters/md/sr20-28-ca20-14.md",
   "canonical_json_path": "SR_Letters/json/sr20-28-ca20-14.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 20-28 / CA 20-14 CA 20-14:  Internal Appeals Process for Material Supervisory Determinations and Policy Statement Regarding the Ombudsman for the Federal Reserve System This guidance applies to institutions, including those with $10\u00a0billion or less in total consolidated assets, that receive a material supervisory determination by the Federal Reserve. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-28 / CA 20-14: CA 20-14:  Internal Appeals Process for Material Supervisory Determinations and Policy Statement Regarding the Ombudsman for the Federal Reserve System"
+  "bm25_text": "SR 20-28 / CA 20-14 CA 20-14:  Internal Appeals Process for Material Supervisory Determinations and Policy Statement Regarding the Ombudsman for the Federal Reserve System This guidance applies to institutions, including those with $10 billion or less in total consolidated assets, that receive a material supervisory determination by the Federal Reserve. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-28 / CA 20-14: CA 20-14:  Internal Appeals Process for Material Supervisory Determinations and Policy Statement Regarding the Ombudsman for the Federal Reserve System",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-28 / CA 20-14"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-28-ca20-14",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2020-12-04",
+  "version_label": "2020"
 }

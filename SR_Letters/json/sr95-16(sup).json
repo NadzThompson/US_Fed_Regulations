@@ -31,7 +31,7 @@
   "effective_date_start": "1995-03-28",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,14 +40,14 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 759,
+  "word_count_raw_body": 807,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:",
-    "1.\u00a0\u00a0These amendments were issued on June 7, 1994, in the Federal Register (59 FR 29482).\u00a0\u00a0Return to text"
+    "1.  These amendments were issued on June 7, 1994, in the Federal Register (59 FR 29482).  Return to text"
   ],
   "toc_depth": 6,
   "has_appendices": false,
@@ -61,7 +61,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9516.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9516.htm",
-  "normalized_text_sha256": "0849641ba409f36f15b015c910e04bc53aa7f5d2ee0ef1b623013fe869a63876",
+  "normalized_text_sha256": "8dd6475a02cf749a47fa9cebf87e743085adf788c8cfff99cc1050bc6e001ffa",
   "normalized_md_path": "SR_Letters/md/sr95-16(sup).md",
   "canonical_json_path": "SR_Letters/json/sr95-16(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 95-16 (SUP) FRB: Supervisory Letter SR 95-16 (SUP) on real estate appraisal requirements for other real estate owned (OREO) -- March 28, 1995  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: 1.\u00a0\u00a0These amendments were issued on June 7, 1994, in the Federal Register (59 FR 29482).\u00a0\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 95-16 (SUP): FRB: Supervisory Letter SR 95-16 (SUP) on real estate appraisal requirements for other real estate owned (OREO) -- March 28, 1995"
+  "bm25_text": "SR 95-16 (SUP) FRB: Supervisory Letter SR 95-16 (SUP) on real estate appraisal requirements for other real estate owned (OREO) -- March 28, 1995  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: 1.  These amendments were issued on June 7, 1994, in the Federal Register (59 FR 29482).  Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 95-16 (SUP): FRB: Supervisory Letter SR 95-16 (SUP) on real estate appraisal requirements for other real estate owned (OREO) -- March 28, 1995",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 95-16 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr95-16(sup)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1995-03-28",
+  "version_label": "1995"
 }

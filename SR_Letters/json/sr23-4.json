@@ -31,7 +31,7 @@
   "effective_date_start": "2023-06-07",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This letter applies to all banking organizations supervised by the Federal Reserve.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 474,
+  "word_count_raw_body": 519,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2304.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2304.htm",
-  "normalized_text_sha256": "d1c9df8ed6ed92141a4a3452dbfff6f037db7c967355da279cd2b41baa7df440",
+  "normalized_text_sha256": "e19979ad38a563053afe92ff3d8826cf6c7468c2a89c3afe712fa7e2223a7fab",
   "normalized_md_path": "SR_Letters/md/sr23-4.md",
   "canonical_json_path": "SR_Letters/json/sr23-4.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 23-4 Interagency Guidance on Third-Party Relationships: Risk Management This letter applies to all banking organizations supervised by the Federal Reserve. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 23-4: Interagency Guidance on Third-Party Relationships: Risk Management"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 23-4: Interagency Guidance on Third-Party Relationships: Risk Management",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 23-4"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr23-4",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2023-06-07",
+  "version_label": "2023"
 }

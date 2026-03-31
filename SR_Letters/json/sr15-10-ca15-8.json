@@ -1,7 +1,7 @@
 {
   "doc_id": "usfed.sr15-10-ca15-8.20151013.letter",
-  "title": "SR 15-10 / CA 15-8: Supervisory Letter SR 15-10 / CA 15-8 on Expansion of the Federal Reserve\u2019s Emergency Communications System -- October 13, 2015",
-  "title_normalized": "Supervisory Letter SR 15-10 / CA 15-8 on Expansion of the Federal Reserve\u2019s Emergency Communications System -- October 13, 2015",
+  "title": "SR 15-10 / CA 15-8: Supervisory Letter SR 15-10 / CA 15-8 on Expansion of the Federal Reserve’s Emergency Communications System -- October 13, 2015",
+  "title_normalized": "Supervisory Letter SR 15-10 / CA 15-8 on Expansion of the Federal Reserve’s Emergency Communications System -- October 13, 2015",
   "short_title": "SR 15-10 / CA 15-8",
   "slug": "sr-letter-sr15-10-ca15-8",
   "regulator": "Federal Reserve System",
@@ -31,7 +31,7 @@
   "effective_date_start": "2015-10-13",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This letter applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 745,
+  "word_count_raw_body": 815,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -50,7 +50,7 @@
     "DIVISION OF CONSUMERAND COMMUNITY AFFAIRS",
     "TO OFFICERS IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE",
     "SUBJECT:",
-    "3.\u00a0 See: http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text"
+    "3.  See: http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text"
   ],
   "toc_depth": 9,
   "has_appendices": false,
@@ -64,7 +64,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1510.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1510.htm",
-  "normalized_text_sha256": "3da0517d71de08c0b85ac90011c40303f3683452a0907402e7f639d034363fe0",
+  "normalized_text_sha256": "956d6705fed2ddde184a8c7fddeacdee90445ed469f0f36335c7e6f04e724335",
   "normalized_md_path": "SR_Letters/md/sr15-10-ca15-8.md",
   "canonical_json_path": "SR_Letters/json/sr15-10-ca15-8.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 15-10 / CA 15-8 Supervisory Letter SR 15-10 / CA 15-8 on Expansion of the Federal Reserve\u2019s Emergency Communications System -- October 13, 2015 This letter applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO OFFICERS IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT: 3.\u00a0 See: http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 15-10 / CA 15-8: Supervisory Letter SR 15-10 / CA 15-8 on Expansion of the Federal Reserve\u2019s Emergency Communications System -- October 13, 2015"
+  "bm25_text": "SR 15-10 / CA 15-8 Supervisory Letter SR 15-10 / CA 15-8 on Expansion of the Federal Reserve’s Emergency Communications System -- October 13, 2015 This letter applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO OFFICERS IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT: 3.  See: http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 15-10 / CA 15-8: Supervisory Letter SR 15-10 / CA 15-8 on Expansion of the Federal Reserve’s Emergency Communications System -- October 13, 2015",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 15-10 / CA 15-8"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr15-10-ca15-8",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2015-10-13",
+  "version_label": "2015"
 }

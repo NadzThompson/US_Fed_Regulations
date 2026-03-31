@@ -17,7 +17,7 @@
   "chapter": "II",
   "chapter_name": "Federal Reserve System",
   "part_number": 270,
-  "part_name": "PART 270\u2014OPEN MARKET OPERATIONS OF FEDERAL RESERVE BANKS",
+  "part_name": "PART 270—OPEN MARKET OPERATIONS OF FEDERAL RESERVE BANKS",
   "regulation_letter": null,
   "regulation_name": "Open Market Operations of Federal Reserve Banks",
   "section_path": "Federal Reserve System > 12 CFR Chapter II > Part 270",
@@ -29,15 +29,15 @@
   "ecfr_current_as_of": "2026-03-24",
   "effective_date_start": "2026-03-24",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 4,
   "appendix_count": 0,
-  "word_count_raw_body": 537,
+  "word_count_raw_body": 604,
   "section_headings": [
-    "\u00a7 270.1 Authority.",
-    "\u00a7 270.2 Definitions.",
-    "\u00a7 270.3 Governing principles.",
-    "\u00a7 270.4 Transactions in obligations."
+    "§ 270.1 Authority.",
+    "§ 270.2 Definitions.",
+    "§ 270.3 Governing principles.",
+    "§ 270.4 Transactions in obligations."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-270",
@@ -75,6 +75,22 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Part 270 Open Market Operations of Federal Reserve Banks 12 CFR Part 270 \u00a7 270.1 Authority. \u00a7 270.2 Definitions. \u00a7 270.3 Governing principles. \u00a7 270.4 Transactions in obligations.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 270 Part 270: Open Market Operations of Federal Reserve Banks"
+  "bm25_text": "Part 270 Open Market Operations of Federal Reserve Banks 12 CFR Part 270 § 270.1 Authority. § 270.2 Definitions. § 270.3 Governing principles. § 270.4 Transactions in obligations.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 270 Part 270: Open Market Operations of Federal Reserve Banks",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Part 270"
+  ],
+  "structural_level": "part",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.part270.270",
+  "version_id": "2026-03-24",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": true,
+  "contains_parameter": false
 }

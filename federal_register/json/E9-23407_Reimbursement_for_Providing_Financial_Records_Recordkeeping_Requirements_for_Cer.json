@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2009/09/30/E9-23407/reimbursement-for-providing-financial-records-recordkeeping-requirements-for-certain-financial",
   "canonical_url": "https://www.federalregister.gov/documents/2009/09/30/E9-23407/reimbursement-for-providing-financial-records-recordkeeping-requirements-for-certain-financial",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:49Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > E9-23407",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule E9-23407: Reimbursement for Providing Financial Records; Recordkeeping Requirements for Certain Financial Records",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "E9-23407"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.E9-23407",
+  "citation_anchor": "#fr-E9-23407",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2009-09-30",
+  "version_label": "2009"
 }

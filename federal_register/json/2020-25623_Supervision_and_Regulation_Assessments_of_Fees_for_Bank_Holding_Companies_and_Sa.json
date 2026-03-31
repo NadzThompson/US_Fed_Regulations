@@ -40,7 +40,7 @@
   "source_url": "https://www.federalregister.gov/documents/2020/12/08/2020-25623/supervision-and-regulation-assessments-of-fees-for-bank-holding-companies-and-savings-and-loan",
   "canonical_url": "https://www.federalregister.gov/documents/2020/12/08/2020-25623/supervision-and-regulation-assessments-of-fees-for-bank-holding-companies-and-savings-and-loan",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:28Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2020-25623",
@@ -83,5 +83,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2020-25623: Supervision and Regulation Assessments of Fees for Bank Holding Companies and Savings and Loan Holding Companies With Total Consolidated Assets of $10",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2020-25623"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2020-25623",
+  "citation_anchor": "#fr-2020-25623",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2020-12-08",
+  "version_label": "2020"
 }

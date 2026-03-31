@@ -31,7 +31,7 @@
   "effective_date_start": "2004-06-30",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:39Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,18 +40,18 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 353,
+  "word_count_raw_body": 393,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE",
     "FEDERAL RESERVE SYSTEM",
-    "WASHINGTON, D.\u00a0C.\u00a0\u00a020551",
+    "WASHINGTON, D. C.  20551",
     "DIVISION OF BANKING",
     "SUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF",
     "SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION",
     "STAFF AT EACH FEDERAL RESERVE BANK",
-    "(382\u00a0KB\u00a0PDF)"
+    "(382 KB PDF)"
   ],
   "toc_depth": 10,
   "has_appendices": true,
@@ -65,7 +65,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2004/sr0412.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2004/sr0412.htm",
-  "normalized_text_sha256": "c1c7b2bfdad2f327b519a096c0bc9d5128f9b5d3458a99bac9d9f4cc8814ef8e",
+  "normalized_text_sha256": "4f56650886f56bd9844674b38020671efe3a0700ee0e8596435c236e3a8e3fc2",
   "normalized_md_path": "SR_Letters/md/sr04-12.md",
   "canonical_json_path": "SR_Letters/json/sr04-12.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,6 +79,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 04-12 FRB: Supervisory Letter SR 04-12 on supervision of state-chartered banks -- June 30, 2004  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.\u00a0C.\u00a0\u00a020551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK (382\u00a0KB\u00a0PDF)",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 04-12: FRB: Supervisory Letter SR 04-12 on supervision of state-chartered banks -- June 30, 2004"
+  "bm25_text": "SR 04-12 FRB: Supervisory Letter SR 04-12 on supervision of state-chartered banks -- June 30, 2004  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D. C.  20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK (382 KB PDF)",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 04-12: FRB: Supervisory Letter SR 04-12 on supervision of state-chartered banks -- June 30, 2004",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 04-12"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr04-12",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2004-06-30",
+  "version_label": "2004"
 }

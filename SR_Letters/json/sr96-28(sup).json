@@ -31,7 +31,7 @@
   "effective_date_start": "1996-11-07",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1109,
+  "word_count_raw_body": 1154,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -65,7 +65,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1996/sr9628.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1996/sr9628.htm",
-  "normalized_text_sha256": "33135ea79e08126044da6fa92fa22cc053eb39275ba19f75d499ebe3d76c8ab0",
+  "normalized_text_sha256": "223fd4c19116170234ba36babcce4db859c8ba3693351b6e709b5bb2b4ec7f14",
   "normalized_md_path": "SR_Letters/md/sr96-28(sup).md",
   "canonical_json_path": "SR_Letters/json/sr96-28(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,6 +79,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 96-28 (SUP) FRB: Supervisory Letter SR 96-28 (SUP) on subchapter S election for federal income taxes -- November 7, 1996  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW FIL-91-96 INCOME TAXES CHIEF EXECUTIVE OFFICER SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 96-28 (SUP): FRB: Supervisory Letter SR 96-28 (SUP) on subchapter S election for federal income taxes -- November 7, 1996"
+  "bm25_text": "SR 96-28 (SUP) FRB: Supervisory Letter SR 96-28 (SUP) on subchapter S election for federal income taxes -- November 7, 1996  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW FIL-91-96 INCOME TAXES CHIEF EXECUTIVE OFFICER SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 96-28 (SUP): FRB: Supervisory Letter SR 96-28 (SUP) on subchapter S election for federal income taxes -- November 7, 1996",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 96-28 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr96-28(sup)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1996-11-07",
+  "version_label": "1996"
 }

@@ -75,7 +75,7 @@
   "source_url": "https://www.federalregister.gov/documents/2009/07/01/E9-15323/procedures-to-enhance-the-accuracy-and-integrity-of-information-furnished-to-consumer-reporting",
   "canonical_url": "https://www.federalregister.gov/documents/2009/07/01/E9-15323/procedures-to-enhance-the-accuracy-and-integrity-of-information-furnished-to-consumer-reporting",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:49Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > E9-15323",
@@ -123,5 +123,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule E9-15323: Procedures To Enhance the Accuracy and Integrity of Information Furnished to Consumer Reporting Agencies Under Section 312 of the Fair and Accurate Cr",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "E9-15323"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.E9-15323",
+  "citation_anchor": "#fr-E9-15323",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2009-07-01",
+  "version_label": "2009"
 }

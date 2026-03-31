@@ -31,7 +31,7 @@
   "effective_date_start": "1996-12-26",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,16 +40,16 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1247,
+  "word_count_raw_body": 1299,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:",
     "ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW",
     "JOINT VENTURE COMMITMENTS6",
-    "4.\u00a0\u00a0See e.g., Marine Midland Banks, Inc., 74 Federal Reserve Bulletin 137 (1987).\u00a0\u00a0Return to text"
+    "4.  See e.g., Marine Midland Banks, Inc., 74 Federal Reserve Bulletin 137 (1987).  Return to text"
   ],
   "toc_depth": 8,
   "has_appendices": true,
@@ -64,7 +64,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1996/sr9639.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1996/sr9639.htm",
-  "normalized_text_sha256": "41edb8e6bab3c4fb5e2ed8bc9c2d177b67aa809aa92951f18e65e2f8c561eaae",
+  "normalized_text_sha256": "907d6f5b0f4a4a0d41f914b4402b9b5243ff766966accec36780fae6b4e7a130",
   "normalized_md_path": "SR_Letters/md/sr96-39(app).md",
   "canonical_json_path": "SR_Letters/json/sr96-39(app).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,6 +78,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 96-39 (APP) FRB: Supervisory Letter SR 96-39 (APP) on joint venture proposals pursuant to regulation Y: guidance regarding issues, and criteria for delegation -- December 26, 1996  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW JOINT VENTURE COMMITMENTS6 4.\u00a0\u00a0See e.g., Marine Midland Banks, Inc., 74 Federal Reserve Bulletin 137 (1987).\u00a0\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 96-39 (APP): FRB: Supervisory Letter SR 96-39 (APP) on joint venture proposals pursuant to regulation Y: guidance regarding issues, and criteria for delegation -- December 26, 1996"
+  "bm25_text": "SR 96-39 (APP) FRB: Supervisory Letter SR 96-39 (APP) on joint venture proposals pursuant to regulation Y: guidance regarding issues, and criteria for delegation -- December 26, 1996  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW JOINT VENTURE COMMITMENTS6 4.  See e.g., Marine Midland Banks, Inc., 74 Federal Reserve Bulletin 137 (1987).  Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 96-39 (APP): FRB: Supervisory Letter SR 96-39 (APP) on joint venture proposals pursuant to regulation Y: guidance regarding issues, and criteria for delegation -- December 26, 1996",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 96-39 (APP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr96-39(app)",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "1996-12-26",
+  "version_label": "1996"
 }

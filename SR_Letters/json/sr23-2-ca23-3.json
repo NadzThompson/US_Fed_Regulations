@@ -31,8 +31,8 @@
   "effective_date_start": "2023-04-26",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
-  "applicability_raw": "This letter applies to all institutions supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This letter applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 276,
+  "word_count_raw_body": 335,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2302.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2302.htm",
-  "normalized_text_sha256": "fcdbd263d0001166f5a5e8e2345adcada75c4e906b1e66696a644abac22b6042",
+  "normalized_text_sha256": "cffb214404583ae1cc920add5fd013acfc3374a2121e5e2c6208d2e3feea5d8f",
   "normalized_md_path": "SR_Letters/md/sr23-2-ca23-3.md",
   "canonical_json_path": "SR_Letters/json/sr23-2-ca23-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 23-2 / CA 23-3 CA 23-3:  Joint Statement on Completing the LIBOR Transition This letter applies to all institutions supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 23-2 / CA 23-3: CA 23-3:  Joint Statement on Completing the LIBOR Transition"
+  "bm25_text": "SR 23-2 / CA 23-3 CA 23-3:  Joint Statement on Completing the LIBOR Transition This letter applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 23-2 / CA 23-3: CA 23-3:  Joint Statement on Completing the LIBOR Transition",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 23-2 / CA 23-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr23-2-ca23-3",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2023-04-26",
+  "version_label": "2023"
 }

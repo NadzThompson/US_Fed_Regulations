@@ -31,7 +31,7 @@
   "effective_date_start": "2025-10-22",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This letter applies to all mutual banking organizations regulated by the Federal Reserve, regardless of asset size.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 319,
+  "word_count_raw_body": 370,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -57,14 +57,14 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "Regulation\u00a0MM",
-    "Regulation\u00a0Q",
+    "Regulation MM",
+    "Regulation Q",
     "SR 25-5"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2505.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2505.htm",
-  "normalized_text_sha256": "060016fdb5fd76fc33688c9a5ed1c3aeabd9b182951eafb54ed9ca5080f41d2c",
+  "normalized_text_sha256": "6f78a92baad8d45aaf065487b41def963ecde7ca57e4e61a02969c521241b8eb",
   "normalized_md_path": "SR_Letters/md/sr25-5.md",
   "canonical_json_path": "SR_Letters/json/sr25-5.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,5 +77,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 25-5 Regulatory Capital Instrument Issuance by Mutual Banking Organizations This letter applies to all mutual banking organizations regulated by the Federal Reserve, regardless of asset size. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 25-5: Regulatory Capital Instrument Issuance by Mutual Banking Organizations"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 25-5: Regulatory Capital Instrument Issuance by Mutual Banking Organizations",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 25-5"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr25-5",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2025-10-22",
+  "version_label": "2025"
 }

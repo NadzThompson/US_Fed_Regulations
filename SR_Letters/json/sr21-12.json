@@ -31,7 +31,7 @@
   "effective_date_start": "2021-07-29",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all financial institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 321,
+  "word_count_raw_body": 384,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -61,7 +61,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr2112.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr2112.htm",
-  "normalized_text_sha256": "b7eee6a710c1e2808754b67775884453ba79c8d6b1f0b8c390560637dd203064",
+  "normalized_text_sha256": "ad4a123f865ab390add999f1fe767ef7df3018ca4458a9f24c7c07d23503287f",
   "normalized_md_path": "SR_Letters/md/sr21-12.md",
   "canonical_json_path": "SR_Letters/json/sr21-12.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,5 +74,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 21-12 Answers to Frequently Asked Questions on the Transition Away from London Interbank Offered Rate (LIBOR) This guidance applies to all financial institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 21-12: Answers to Frequently Asked Questions on the Transition Away from London Interbank Offered Rate (LIBOR)"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 21-12: Answers to Frequently Asked Questions on the Transition Away from London Interbank Offered Rate (LIBOR)",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 21-12"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr21-12",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2021-07-29",
+  "version_label": "2021"
 }

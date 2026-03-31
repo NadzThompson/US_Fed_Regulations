@@ -31,7 +31,7 @@
   "effective_date_start": "1990-01-19",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:42Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 825,
+  "word_count_raw_body": 872,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1990/SR9003.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1990/SR9003.HTM",
-  "normalized_text_sha256": "e9af1a27a0024c52900098fd9b8a9fdf272a280d4ef689005d52f22f768ba7cc",
+  "normalized_text_sha256": "18e795617d4e67ced259e4ef969f99a4d4213afad86d3b4d9ab2ac422cb4eae6",
   "normalized_md_path": "SR_Letters/md/sr90-3.md",
   "canonical_json_path": "SR_Letters/json/sr90-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 90-3 FRB: Supervisory Letter SR 90-3 (IB) on foreign (non-US) currency denominated deposits offered at domestic depository institutions -- January 19, 1990  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 90-3: FRB: Supervisory Letter SR 90-3 (IB) on foreign (non-US) currency denominated deposits offered at domestic depository institutions -- January 19, 1990"
+  "bm25_text": "SR 90-3 FRB: Supervisory Letter SR 90-3 (IB) on foreign (non-US) currency denominated deposits offered at domestic depository institutions -- January 19, 1990  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 90-3: FRB: Supervisory Letter SR 90-3 (IB) on foreign (non-US) currency denominated deposits offered at domestic depository institutions -- January 19, 1990",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 90-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr90-3",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1990-01-19",
+  "version_label": "1990"
 }

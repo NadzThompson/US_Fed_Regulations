@@ -31,7 +31,7 @@
   "effective_date_start": "2025-10-10",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 358,
+  "word_count_raw_body": 392,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -68,7 +68,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2504.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2504.htm",
-  "normalized_text_sha256": "6a468a894d5720ea32fd5ae1d0459468015129e78b226457cf0e9ed1d98261ca",
+  "normalized_text_sha256": "ede7b5158ec9c7733057e5096e78cf401af46c8ed8920087fd5774c54e52f976",
   "normalized_md_path": "SR_Letters/md/sr25-4.md",
   "canonical_json_path": "SR_Letters/json/sr25-4.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -83,5 +83,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 25-4 Frequently Asked Questions Regarding Suspicious Activity Reporting Requirements  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 25-4: Frequently Asked Questions Regarding Suspicious Activity Reporting Requirements"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 25-4: Frequently Asked Questions Regarding Suspicious Activity Reporting Requirements",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 25-4"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr25-4",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2025-10-10",
+  "version_label": "2025"
 }

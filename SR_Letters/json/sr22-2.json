@@ -31,8 +31,8 @@
   "effective_date_start": "2022-01-13",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
-  "applicability_raw": "This letter applies to federal savings associations that have elected to operate as a covered savings association under section 5A of the Home Owners\u2019 Loan Act and to companies that control such federal savings associations.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This letter applies to federal savings associations that have elected to operate as a covered savings association under section 5A of the Home Owners’ Loan Act and to companies that control such federal savings associations.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 362,
+  "word_count_raw_body": 444,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -61,7 +61,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2202.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2202.htm",
-  "normalized_text_sha256": "bce6fcac0dcb116f37fedf8746ac4def7509fafb5f0db060c7054415e8d0e27b",
+  "normalized_text_sha256": "206009b2f10ab38d6b192f6b3c7fb39a382dfa049c190f2b10989d1662cdcb83",
   "normalized_md_path": "SR_Letters/md/sr22-2.md",
   "canonical_json_path": "SR_Letters/json/sr22-2.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -73,6 +73,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 22-2 Status of Covered Savings Associations and Holding Companies of Covered  Savings Associations Under Statutes and Regulations Administered by the Federal Reserve This letter applies to federal savings associations that have elected to operate as a covered savings association under section 5A of the Home Owners\u2019 Loan Act and to companies that control such federal savings associations. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 22-2: Status of Covered Savings Associations and Holding Companies of Covered  Savings Associations Under Statutes and Regulations Administered by the Federal Reserve"
+  "bm25_text": "SR 22-2 Status of Covered Savings Associations and Holding Companies of Covered  Savings Associations Under Statutes and Regulations Administered by the Federal Reserve This letter applies to federal savings associations that have elected to operate as a covered savings association under section 5A of the Home Owners’ Loan Act and to companies that control such federal savings associations. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 22-2: Status of Covered Savings Associations and Holding Companies of Covered  Savings Associations Under Statutes and Regulations Administered by the Federal Reserve",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 22-2"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr22-2",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2022-01-13",
+  "version_label": "2022"
 }

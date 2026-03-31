@@ -31,7 +31,7 @@
   "effective_date_start": "2015-10-13",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to insured depository institutions that are seeking to become state chartered member banks of the Federal Reserve System (state member banks) as well as insured depository institutions merging with another institution where a state member bank would be the surviving entity, including those with $10 billion or less in total consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2270,
+  "word_count_raw_body": 2381,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -50,7 +50,7 @@
     "DIVISION OF CONSUMERAND COMMUNITY AFFAIRS",
     "TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND OFFICERS AND MANAGERS IN CHARGE OF CONSUMER AFFAIRS SECTIONS",
     "SUBJECT:",
-    "10.\u00a0 See http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text"
+    "10.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text"
   ],
   "toc_depth": 9,
   "has_appendices": false,
@@ -59,14 +59,14 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "12\u00a0CFR\u00a0208",
+    "12 CFR 208",
     "Regulation H",
     "SR 15-11"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1511.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1511.htm",
-  "normalized_text_sha256": "f51f38855f55b4d9408792333471eda7d50d89488aac93a51d56bc67e3734e6f",
+  "normalized_text_sha256": "980955206bd680a79639e2450fe536e49a4c0f7ad26f9763235c1c34037d79a0",
   "normalized_md_path": "SR_Letters/md/sr15-11-ca15-9.md",
   "canonical_json_path": "SR_Letters/json/sr15-11-ca15-9.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,6 +78,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 15-11 / CA 15-9 Supervisory Letter SR 15-11 / CA 15-9 on Examinations of Insured Depository Institutions Prior to Membership or Merger into a State Member Bank -- October 13, 2015 This guidance applies to insured depository institutions that are seeking to become state chartered member banks of the Federal Reserve System (state member banks) as well as insured depository institutions merging with another institution where a state member bank would be the surviving entity, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND OFFICERS AND MANAGERS IN CHARGE OF CONSUMER AFFAIRS SECTIONS SUBJECT: 10.\u00a0 See http://www.federalreserve.gov/apps/contactus/feedback.aspx.\u00a0Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 15-11 / CA 15-9: Supervisory Letter SR 15-11 / CA 15-9 on Examinations of Insured Depository Institutions Prior to Membership or Merger into a State Member Bank -- October 13, 2015"
+  "bm25_text": "SR 15-11 / CA 15-9 Supervisory Letter SR 15-11 / CA 15-9 on Examinations of Insured Depository Institutions Prior to Membership or Merger into a State Member Bank -- October 13, 2015 This guidance applies to insured depository institutions that are seeking to become state chartered member banks of the Federal Reserve System (state member banks) as well as insured depository institutions merging with another institution where a state member bank would be the surviving entity, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND OFFICERS AND MANAGERS IN CHARGE OF CONSUMER AFFAIRS SECTIONS SUBJECT: 10.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx. Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 15-11 / CA 15-9: Supervisory Letter SR 15-11 / CA 15-9 on Examinations of Insured Depository Institutions Prior to Membership or Merger into a State Member Bank -- October 13, 2015",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 15-11 / CA 15-9"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr15-11-ca15-9",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2015-10-13",
+  "version_label": "2015"
 }

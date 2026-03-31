@@ -31,7 +31,7 @@
   "effective_date_start": "1996-04-24",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 3108,
+  "word_count_raw_body": 3154,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -69,7 +69,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR9610.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR9610.htm",
-  "normalized_text_sha256": "dc3c01b04e266d06f387dcd8f8690b7ad1f2fb8ecb17f733f9666160793cf672",
+  "normalized_text_sha256": "15fb5e4d1d0e409e1404ea7668eed0cc86f590dac7c823499d950e87a80fd951",
   "normalized_md_path": "SR_Letters/md/sr96-10(spe).md",
   "canonical_json_path": "SR_Letters/json/sr96-10(spe).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -84,5 +84,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 96-10 (SPE) FRB: Supervisory Letter SR 96-10 (SPE) on risk-focused fiduciary examinations -- April 24, 1996 -- Revised January 9, 2026  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 96-10 (SPE): FRB: Supervisory Letter SR 96-10 (SPE) on risk-focused fiduciary examinations -- April 24, 1996 -- Revised January 9, 2026"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 96-10 (SPE): FRB: Supervisory Letter SR 96-10 (SPE) on risk-focused fiduciary examinations -- April 24, 1996 -- Revised January 9, 2026",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 96-10 (SPE)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr96-10(spe)",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1996-04-24",
+  "version_label": "1996"
 }

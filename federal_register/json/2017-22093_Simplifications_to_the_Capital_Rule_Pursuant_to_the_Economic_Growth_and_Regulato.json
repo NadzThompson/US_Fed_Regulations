@@ -55,7 +55,7 @@
   "source_url": "https://www.federalregister.gov/documents/2017/10/27/2017-22093/simplifications-to-the-capital-rule-pursuant-to-the-economic-growth-and-regulatory-paperwork",
   "canonical_url": "https://www.federalregister.gov/documents/2017/10/27/2017-22093/simplifications-to-the-capital-rule-pursuant-to-the-economic-growth-and-regulatory-paperwork",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:25Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2017-22093",
@@ -100,5 +100,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 2017-22093: Simplifications to the Capital Rule Pursuant to the Economic Growth and Regulatory Paperwork Reduction Act of 1996",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "2017-22093"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2017-22093",
+  "citation_anchor": "#fr-2017-22093",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2017-10-27",
+  "version_label": "2017"
 }

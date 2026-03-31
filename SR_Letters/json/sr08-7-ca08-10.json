@@ -31,7 +31,7 @@
   "effective_date_start": "2008-10-10",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:38Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,16 +40,16 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 920,
+  "word_count_raw_body": 979,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE",
     "FEDERAL RESERVE SYSTEM",
-    "WASHINGTON, D.\u00a0C.\u00a0\u00a020551",
+    "WASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "DIVISION OF CONSUMERAND COMMUNITY AFFAIRS",
     "SUBJECT:",
-    "(271\u00a0KB\u00a0PDF)"
+    "(271 KB PDF)"
   ],
   "toc_depth": 8,
   "has_appendices": true,
@@ -59,13 +59,13 @@
   "footnote_count": 0,
   "inline_cross_references": [
     "12 CFR 222",
-    "Regulation\u00a0V",
+    "Regulation V",
     "SR 08-7"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2008/SR0807.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2008/SR0807.htm",
-  "normalized_text_sha256": "5032ffdc3930e8805427bc9d9dc2676aa490b3f730cd7901aaa95a20071848fb",
+  "normalized_text_sha256": "cef9c8484915aa8bc7b0984a23b88c52b71b55f6247611eae29786915037493c",
   "normalized_md_path": "SR_Letters/md/sr08-7-ca08-10.md",
   "canonical_json_path": "SR_Letters/json/sr08-7-ca08-10.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,6 +79,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 08-7 / CA 08-10 FRB: Supervisory Letter SR 08-7 / CA 08-10 on Interagency Examination Procedures for the Identity Theft Red Flags and Other Regulations under the Fair Credit Reporting Act -- October 10  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.\u00a0C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT: (271\u00a0KB\u00a0PDF)",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 08-7 / CA 08-10: FRB: Supervisory Letter SR 08-7 / CA 08-10 on Interagency Examination Procedures for the Identity Theft Red Flags and Other Regulations under the Fair Credit Reporting Act -- October 10"
+  "bm25_text": "SR 08-7 / CA 08-10 FRB: Supervisory Letter SR 08-7 / CA 08-10 on Interagency Examination Procedures for the Identity Theft Red Flags and Other Regulations under the Fair Credit Reporting Act -- October 10  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT: (271 KB PDF)",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 08-7 / CA 08-10: FRB: Supervisory Letter SR 08-7 / CA 08-10 on Interagency Examination Procedures for the Identity Theft Red Flags and Other Regulations under the Fair Credit Reporting Act -- October 10",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 08-7 / CA 08-10"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr08-7-ca08-10",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2008-10-10",
+  "version_label": "2008"
 }

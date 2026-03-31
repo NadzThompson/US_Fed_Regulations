@@ -29,18 +29,18 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 7,
   "appendix_count": 1,
-  "word_count_raw_body": 4034,
+  "word_count_raw_body": 32813,
   "section_headings": [
-    "\u00a7 253.1 Authority, purpose, and scope.",
-    "\u00a7 253.2 Definitions.",
-    "\u00a7 253.3 Applicability.",
-    "\u00a7 253.4 Board-selected benchmark replacements.",
-    "\u00a7 253.5 Benchmark replacement conforming changes.",
-    "\u00a7 253.6 Preemption.",
-    "\u00a7 253.7 Continuity of contract and safe harbor."
+    "§ 253.1 Authority, purpose, and scope.",
+    "§ 253.2 Definitions.",
+    "§ 253.3 Applicability.",
+    "§ 253.4 Board-selected benchmark replacements.",
+    "§ 253.5 Benchmark replacement conforming changes.",
+    "§ 253.6 Preemption.",
+    "§ 253.7 Continuity of contract and safe harbor."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-253",
@@ -67,7 +67,7 @@
   "inline_cross_references": [
     "Regulation ZZ"
   ],
-  "normalized_text_sha256": "c1d05a627eb15a72572ff38bc91a8aee24b6d7be23648e62797560415da88c6e",
+  "normalized_text_sha256": "59ca14f312577221c8303d7f69b113e3b9c2243209fdd19ceee4de9c28d1be7f",
   "normalized_md_path": "ecfr/md/Reg_ZZ_LIBOR_Act_Implementation_12CFR253.md",
   "canonical_json_path": "ecfr/json/Reg_ZZ_LIBOR_Act_Implementation_12CFR253.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -80,6 +80,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg ZZ Regulation ZZ: LIBOR Act Implementation 12 CFR Part 253 \u00a7 253.1 Authority, purpose, and scope. \u00a7 253.2 Definitions. \u00a7 253.3 Applicability. \u00a7 253.4 Board-selected benchmark replacements. \u00a7 253.5 Benchmark replacement conforming changes. \u00a7 253.6 Preemption. \u00a7 253.7 Continuity of contract and safe harbor.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 253 Reg ZZ: Regulation ZZ: LIBOR Act Implementation"
+  "bm25_text": "Reg ZZ Regulation ZZ: LIBOR Act Implementation 12 CFR Part 253 § 253.1 Authority, purpose, and scope. § 253.2 Definitions. § 253.3 Applicability. § 253.4 Board-selected benchmark replacements. § 253.5 Benchmark replacement conforming changes. § 253.6 Preemption. § 253.7 Continuity of contract and safe harbor.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 253 Reg ZZ: Regulation ZZ: LIBOR Act Implementation",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation ZZ",
+    "Part 253"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regzz.253",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

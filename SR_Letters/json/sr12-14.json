@@ -31,8 +31,8 @@
   "effective_date_start": "2012-10-31",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance is primarily applicable to field examiners and supervisory staff with responsibility for the review of technology service providers.\u00a0 Nevertheless, banking organizations with $10 billion or less in consolidated assets that have relationships with technology service providers may find the guidance useful.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance is primarily applicable to field examiners and supervisory staff with responsibility for the review of technology service providers.  Nevertheless, banking organizations with $10 billion or less in consolidated assets that have relationships with technology service providers may find the guidance useful.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 558,
+  "word_count_raw_body": 648,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -61,7 +61,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1214.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1214.htm",
-  "normalized_text_sha256": "b18cc682039fefa7096c1cbe93573dc4d2b2881f672ebb293cd9f40dcc522f0f",
+  "normalized_text_sha256": "7bf8838659ca0938c0d6f0f69f257afcf0a3b33ae9874bd764a4aeb9693ce300",
   "normalized_md_path": "SR_Letters/md/sr12-14.md",
   "canonical_json_path": "SR_Letters/json/sr12-14.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -73,6 +73,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 12-14 Supervisory Letter SR 12-14 on         Revised Guidance on Supervision of Technology Service Providers  -- October 31, 2012 to Community Banking Organizations:\u00a0 This guidance is primarily applicable to field examiners and supervisory staff with responsibility for the review of technology service providers.\u00a0 Nevertheless, banking organizations with $10 billion or less in consolidated assets that have relationships with technology service providers may find the guidance useful. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 12-14: Supervisory Letter SR 12-14 on         Revised Guidance on Supervision of Technology Service Providers  -- October 31, 2012"
+  "bm25_text": "SR 12-14 Supervisory Letter SR 12-14 on         Revised Guidance on Supervision of Technology Service Providers  -- October 31, 2012 to Community Banking Organizations:  This guidance is primarily applicable to field examiners and supervisory staff with responsibility for the review of technology service providers.  Nevertheless, banking organizations with $10 billion or less in consolidated assets that have relationships with technology service providers may find the guidance useful. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 12-14: Supervisory Letter SR 12-14 on         Revised Guidance on Supervision of Technology Service Providers  -- October 31, 2012",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 12-14"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr12-14",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2012-10-31",
+  "version_label": "2012"
 }

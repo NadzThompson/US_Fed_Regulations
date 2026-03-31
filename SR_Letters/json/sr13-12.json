@@ -31,8 +31,8 @@
   "effective_date_start": "2013-06-07",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance applies to all institutions supervised by the Federal Reserve that participate in interest rate and credit default swaps, including institutions with total consolidated assets of $10 billion or less.\u00a0 Banks with total consolidated assets of $10 billion or less may be eligible for a clearing exception in the CFTC\u2019s rules.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance applies to all institutions supervised by the Federal Reserve that participate in interest rate and credit default swaps, including institutions with total consolidated assets of $10 billion or less.  Banks with total consolidated assets of $10 billion or less may be eligible for a clearing exception in the CFTC’s rules.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 864,
+  "word_count_raw_body": 963,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1312.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1312.htm",
-  "normalized_text_sha256": "a46d1991a0d326e779b57ed041c62f6b3fe18cf1a84f0422cd88ff42119e0eab",
+  "normalized_text_sha256": "c0c68b222f7395eb5b54d81b786069b4140a01a887308fdb4b0987e296fa2658",
   "normalized_md_path": "SR_Letters/md/sr13-12.md",
   "canonical_json_path": "SR_Letters/json/sr13-12.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 13-12 Supervisory Letter SR 13-12 on         Commodity Futures Trading Commission (CFTC) Swap Clearing Rules  -- June 7, 2013 to Community Banking Organizations:\u00a0 This guidance applies to all institutions supervised by the Federal Reserve that participate in interest rate and credit default swaps, including institutions with total consolidated assets of $10 billion or less.\u00a0 Banks with total consolidated assets of $10 billion or less may be eligible for a clearing exception in the CFTC\u2019s rules. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 13-12: Supervisory Letter SR 13-12 on         Commodity Futures Trading Commission (CFTC) Swap Clearing Rules  -- June 7, 2013"
+  "bm25_text": "SR 13-12 Supervisory Letter SR 13-12 on         Commodity Futures Trading Commission (CFTC) Swap Clearing Rules  -- June 7, 2013 to Community Banking Organizations:  This guidance applies to all institutions supervised by the Federal Reserve that participate in interest rate and credit default swaps, including institutions with total consolidated assets of $10 billion or less.  Banks with total consolidated assets of $10 billion or less may be eligible for a clearing exception in the CFTC’s rules. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 13-12: Supervisory Letter SR 13-12 on         Commodity Futures Trading Commission (CFTC) Swap Clearing Rules  -- June 7, 2013",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 13-12"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr13-12",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2013-06-07",
+  "version_label": "2013"
 }

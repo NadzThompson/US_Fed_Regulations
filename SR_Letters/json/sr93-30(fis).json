@@ -31,7 +31,7 @@
   "effective_date_start": "1993-06-10",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 335,
+  "word_count_raw_body": 381,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -61,7 +61,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1993/SR9330.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1993/SR9330.HTM",
-  "normalized_text_sha256": "061309c589c1af2648d43a31656229a0010465f5414276d2916ecbc9a3a90990",
+  "normalized_text_sha256": "266bb94d8297c2e297d77078398f0c76980ba6f45dddd70d4151027488eabc67",
   "normalized_md_path": "SR_Letters/md/sr93-30(fis).md",
   "canonical_json_path": "SR_Letters/json/sr93-30(fis).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 93-30 (FIS) FRB: Supervisory Letter SR 93-30 (FIS) on interagency policy statements on supervisory initiatives released today -- June 10, 1993  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS MAY BE OBTAINED FROM FEDERAL RESERVE BANK",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 93-30 (FIS): FRB: Supervisory Letter SR 93-30 (FIS) on interagency policy statements on supervisory initiatives released today -- June 10, 1993"
+  "bm25_text": "SR 93-30 (FIS) FRB: Supervisory Letter SR 93-30 (FIS) on interagency policy statements on supervisory initiatives released today -- June 10, 1993  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS MAY BE OBTAINED FROM FEDERAL RESERVE BANK",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 93-30 (FIS): FRB: Supervisory Letter SR 93-30 (FIS) on interagency policy statements on supervisory initiatives released today -- June 10, 1993",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 93-30 (FIS)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr93-30(fis)",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "1993-06-10",
+  "version_label": "1993"
 }

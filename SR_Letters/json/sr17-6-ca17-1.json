@@ -31,7 +31,7 @@
   "effective_date_start": "2017-08-02",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This letter applies to examiners and supervisory staff at all twelve Federal Reserve Banks, regardless of the supervision program.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": true,
-  "word_count_raw_body": 865,
+  "word_count_raw_body": 923,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -65,7 +65,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1706.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1706.htm",
-  "normalized_text_sha256": "0dde39bf1bf3364dcce9ae5430aca303c444f2efc8c6e3c08ffc62e722a27495",
+  "normalized_text_sha256": "a9d60217f300ad613473ce6d4b4924d533aee7b77e779215009e54c3254e31da",
   "normalized_md_path": "SR_Letters/md/sr17-6-ca17-1.md",
   "canonical_json_path": "SR_Letters/json/sr17-6-ca17-1.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,5 +78,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 17-6 / CA 17-1 CA 17-1: Overview of the Federal Reserve's Supervisory Education Programs This letter applies to examiners and supervisory staff at all twelve Federal Reserve Banks, regardless of the supervision program. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 17-6 / CA 17-1: CA 17-1: Overview of the Federal Reserve's Supervisory Education Programs"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 17-6 / CA 17-1: CA 17-1: Overview of the Federal Reserve's Supervisory Education Programs",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 17-6 / CA 17-1"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr17-6-ca17-1",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2017-08-02",
+  "version_label": "2017"
 }

@@ -31,8 +31,8 @@
   "effective_date_start": "2019-03-21",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
-  "applicability_raw": "This guidance applies to state member banks, including those with $10\u00a0billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles\u00a0(GAAP).",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance applies to state member banks, including those with $10 billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles (GAAP).",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 879,
+  "word_count_raw_body": 948,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -57,15 +57,15 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "12 CFR\u00a0208",
+    "12 CFR 208",
     "Regulation H",
-    "Regulation\u00a0H",
+    "Regulation H",
     "SR 19-7"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1907.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1907.htm",
-  "normalized_text_sha256": "3e654327ab0b35c21ae0fce97acf845e5cec08bfe57952b0491cd13cfe7caccb",
+  "normalized_text_sha256": "cc576b17da9d211678a78f5036deed49566df9276b0f72d170745b0221aa1cb5",
   "normalized_md_path": "SR_Letters/md/sr19-7.md",
   "canonical_json_path": "SR_Letters/json/sr19-7.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 19-7 Statement on the Implications of the New Lease Accounting Standard on Regulation H This guidance applies to state member banks, including those with $10\u00a0billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles\u00a0(GAAP). BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-7: Statement on the Implications of the New Lease Accounting Standard on Regulation H"
+  "bm25_text": "SR 19-7 Statement on the Implications of the New Lease Accounting Standard on Regulation H This guidance applies to state member banks, including those with $10 billion or less in consolidated assets, that file regulatory reports prepared in accordance with generally accepted accounting principles (GAAP). BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-7: Statement on the Implications of the New Lease Accounting Standard on Regulation H",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-7"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-7",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2019-03-21",
+  "version_label": "2019"
 }

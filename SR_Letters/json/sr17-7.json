@@ -1,7 +1,7 @@
 {
   "doc_id": "usfed.sr17-7.20170814.letter",
-  "title": "SR 17-7: Regulatory Capital Treatment of Certain Centrally-cleared Derivative Contracts under the Board\u2019s Capital Rule",
-  "title_normalized": "Regulatory Capital Treatment of Certain Centrally-cleared Derivative Contracts under the Board\u2019s Capital Rule",
+  "title": "SR 17-7: Regulatory Capital Treatment of Certain Centrally-cleared Derivative Contracts under the Board’s Capital Rule",
+  "title_normalized": "Regulatory Capital Treatment of Certain Centrally-cleared Derivative Contracts under the Board’s Capital Rule",
   "short_title": "SR 17-7",
   "slug": "sr-letter-sr17-7",
   "regulator": "Federal Reserve System",
@@ -31,7 +31,7 @@
   "effective_date_start": "2017-08-14",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 368,
+  "word_count_raw_body": 447,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1707.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1707.htm",
-  "normalized_text_sha256": "0526536be91d45a7f211308ada773c35d92eaa6079283f34b84f433f12babce3",
+  "normalized_text_sha256": "6df709e50fff223c35f5a7ca5667b20afc074b96fe78a71f318bd63284711123",
   "normalized_md_path": "SR_Letters/md/sr17-7.md",
   "canonical_json_path": "SR_Letters/json/sr17-7.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 17-7 Regulatory Capital Treatment of Certain Centrally-cleared Derivative Contracts under the Board\u2019s Capital Rule This guidance applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 17-7: Regulatory Capital Treatment of Certain Centrally-cleared Derivative Contracts under the Board\u2019s Capital Rule"
+  "bm25_text": "SR 17-7 Regulatory Capital Treatment of Certain Centrally-cleared Derivative Contracts under the Board’s Capital Rule This guidance applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 17-7: Regulatory Capital Treatment of Certain Centrally-cleared Derivative Contracts under the Board’s Capital Rule",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 17-7"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr17-7",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2017-08-14",
+  "version_label": "2017"
 }

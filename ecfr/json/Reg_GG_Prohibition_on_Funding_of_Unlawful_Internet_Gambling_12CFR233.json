@@ -29,18 +29,18 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 7,
   "appendix_count": 1,
-  "word_count_raw_body": 6411,
+  "word_count_raw_body": 6721,
   "section_headings": [
-    "\u00a7 233.1 Authority, purpose, collection of information, and incorporation by reference.",
-    "\u00a7 233.2 Definitions.",
-    "\u00a7 233.3 Designated payment systems.",
-    "\u00a7 233.4 Exemptions.",
-    "\u00a7 233.5 Policies and procedures required.",
-    "\u00a7 233.6 Non-exclusive examples of policies and procedures.",
-    "\u00a7 233.7 Regulatory enforcement."
+    "§ 233.1 Authority, purpose, collection of information, and incorporation by reference.",
+    "§ 233.2 Definitions.",
+    "§ 233.3 Designated payment systems.",
+    "§ 233.4 Exemptions.",
+    "§ 233.5 Policies and procedures required.",
+    "§ 233.6 Non-exclusive examples of policies and procedures.",
+    "§ 233.7 Regulatory enforcement."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-233",
@@ -67,7 +67,7 @@
   "inline_cross_references": [
     "Regulation GG"
   ],
-  "normalized_text_sha256": "8cf3a6ffa978385b88c7aea2c60235f415cad89b7b191abf04988594b2ee5685",
+  "normalized_text_sha256": "c77138c97e7b790420d906e821281c8a97ed2a8ceea02f7b28545824e88c54bf",
   "normalized_md_path": "ecfr/md/Reg_GG_Prohibition_on_Funding_of_Unlawful_Internet_Gambling_12CFR233.md",
   "canonical_json_path": "ecfr/json/Reg_GG_Prohibition_on_Funding_of_Unlawful_Internet_Gambling_12CFR233.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -80,6 +80,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg GG Regulation GG: Prohibition on Funding of Unlawful Internet Gambling 12 CFR Part 233 \u00a7 233.1 Authority, purpose, collection of information, and incorporation by reference. \u00a7 233.2 Definitions. \u00a7 233.3 Designated payment systems. \u00a7 233.4 Exemptions. \u00a7 233.5 Policies and procedures required. \u00a7 233.6 Non-exclusive examples of policies and procedures. \u00a7 233.7 Regulatory enforcement.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 233 Reg GG: Regulation GG: Prohibition on Funding of Unlawful Internet Gambling"
+  "bm25_text": "Reg GG Regulation GG: Prohibition on Funding of Unlawful Internet Gambling 12 CFR Part 233 § 233.1 Authority, purpose, collection of information, and incorporation by reference. § 233.2 Definitions. § 233.3 Designated payment systems. § 233.4 Exemptions. § 233.5 Policies and procedures required. § 233.6 Non-exclusive examples of policies and procedures. § 233.7 Regulatory enforcement.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 233 Reg GG: Regulation GG: Prohibition on Funding of Unlawful Internet Gambling",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation GG",
+    "Part 233"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.reggg.233",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": true,
+  "contains_parameter": true
 }

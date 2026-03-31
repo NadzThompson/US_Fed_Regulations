@@ -31,7 +31,7 @@
   "effective_date_start": "2018-10-16",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all state member banks, bank holding companies, and nonbank subsidiaries of bank holding companies.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,14 +40,14 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 497,
+  "word_count_raw_body": 555,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
     "WASHINGTON, D.C. 20551",
     "DIVISION OF",
     "SUPERVISION AND REGULATION",
-    "TO THE OFFICER IN CHARGE OF SUPERVISION\u00a0AT EACH FEDERAL RESERVE BANK",
+    "TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK",
     "SUBJECT:",
     "2.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx Return to text"
   ],
@@ -65,7 +65,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1809.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1809.htm",
-  "normalized_text_sha256": "c0374e0c37747f357fb57d8cc61dfac2b7acc0ba26fe151f73f8060a884113b8",
+  "normalized_text_sha256": "f32f99d9b7bc7e08c5bad2218974cccfdb8117fabe7c8790167d4ccd267f9509",
   "normalized_md_path": "SR_Letters/md/sr18-9.md",
   "canonical_json_path": "SR_Letters/json/sr18-9.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 18-9 Frequently Asked Questions on the Appraisal Regulations and the Interagency Appraisal and Evaluation Guidelines This guidance applies to all state member banks, bank holding companies, and nonbank subsidiaries of bank holding companies. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION\u00a0AT EACH FEDERAL RESERVE BANK SUBJECT: 2.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx Return to text",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 18-9: Frequently Asked Questions on the Appraisal Regulations and the Interagency Appraisal and Evaluation Guidelines"
+  "bm25_text": "SR 18-9 Frequently Asked Questions on the Appraisal Regulations and the Interagency Appraisal and Evaluation Guidelines This guidance applies to all state member banks, bank holding companies, and nonbank subsidiaries of bank holding companies. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: 2.  See http://www.federalreserve.gov/apps/contactus/feedback.aspx Return to text",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 18-9: Frequently Asked Questions on the Appraisal Regulations and the Interagency Appraisal and Evaluation Guidelines",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 18-9"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr18-9",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2018-10-16",
+  "version_label": "2018"
 }

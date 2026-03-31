@@ -31,8 +31,8 @@
   "effective_date_start": "2013-12-23",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "This guidance applies to large financial institutions supervised by the Federal Reserve, as defined in SR letter 12-17 / CA letter 12-14, \"Consolidated Supervision Framework for Large Financial Institutions.\" This guidance does not apply to community and regional banking organizations, defined as those with less than $50\u00a0billion in total consolidated assets, unless the banking organization engages in significant foreign exchange activities.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance applies to large financial institutions supervised by the Federal Reserve, as defined in SR letter 12-17 / CA letter 12-14, \"Consolidated Supervision Framework for Large Financial Institutions.\" This guidance does not apply to community and regional banking organizations, defined as those with less than $50 billion in total consolidated assets, unless the banking organization engages in significant foreign exchange activities.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": true,
-  "word_count_raw_body": 1169,
+  "word_count_raw_body": 1281,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1324.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1324.htm",
-  "normalized_text_sha256": "40055cb3c2d21aff0c7bc27a0dc8418f2cb07d87498a33663045ffc4e424b076",
+  "normalized_text_sha256": "1a2b465aa75b0e5c749a153f6cb4030e6eb8b2abe87f0cd59265e29b9d7119f0",
   "normalized_md_path": "SR_Letters/md/sr13-24.md",
   "canonical_json_path": "SR_Letters/json/sr13-24.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 13-24 FRB: Supervisory Letter SR 13-24 on managing foreign exchange settlement risks for physically settled transactions -- December 23, 2013 -- Revised January 9, 2026 This guidance applies to large financial institutions supervised by the Federal Reserve, as defined in SR letter 12-17 / CA letter 12-14, \"Consolidated Supervision Framework for Large Financial Institutions.\" This guidance does not apply to community and regional banking organizations, defined as those with less than $50\u00a0billion in total consolidated assets, unless the banking organization engages in significant foreign exchange activities. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 13-24: FRB: Supervisory Letter SR 13-24 on managing foreign exchange settlement risks for physically settled transactions -- December 23, 2013 -- Revised January 9, 2026"
+  "bm25_text": "SR 13-24 FRB: Supervisory Letter SR 13-24 on managing foreign exchange settlement risks for physically settled transactions -- December 23, 2013 -- Revised January 9, 2026 This guidance applies to large financial institutions supervised by the Federal Reserve, as defined in SR letter 12-17 / CA letter 12-14, \"Consolidated Supervision Framework for Large Financial Institutions.\" This guidance does not apply to community and regional banking organizations, defined as those with less than $50 billion in total consolidated assets, unless the banking organization engages in significant foreign exchange activities. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 13-24: FRB: Supervisory Letter SR 13-24 on managing foreign exchange settlement risks for physically settled transactions -- December 23, 2013 -- Revised January 9, 2026",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 13-24"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr13-24",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2013-12-23",
+  "version_label": "2013"
 }

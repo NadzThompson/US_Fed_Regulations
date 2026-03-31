@@ -31,7 +31,7 @@
   "effective_date_start": "2022-07-06",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:34Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to banks supervised by the Federal Reserve that are subject to the Bank Secrecy Act.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 468,
+  "word_count_raw_body": 527,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2205.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2205.htm",
-  "normalized_text_sha256": "2b2719889aac6e90936f2e5dd7d6f96d15b38084835d539eace582bd5be7a01e",
+  "normalized_text_sha256": "4bbf419ad16653a7203984ff3e5a92c5166bd16a2b4b75536026b9b6a5e31c43",
   "normalized_md_path": "SR_Letters/md/sr22-5.md",
   "canonical_json_path": "SR_Letters/json/sr22-5.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 22-5 Joint Statement on the Risk-Based Approach to Assessing Customer Relationships and Conducting Customer Due Diligence This guidance applies to banks supervised by the Federal Reserve that are subject to the Bank Secrecy Act. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 22-5: Joint Statement on the Risk-Based Approach to Assessing Customer Relationships and Conducting Customer Due Diligence"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 22-5: Joint Statement on the Risk-Based Approach to Assessing Customer Relationships and Conducting Customer Due Diligence",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 22-5"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr22-5",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2022-07-06",
+  "version_label": "2022"
 }

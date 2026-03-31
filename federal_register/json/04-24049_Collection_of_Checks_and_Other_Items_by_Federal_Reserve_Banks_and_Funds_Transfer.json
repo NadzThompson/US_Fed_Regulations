@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2004/10/27/04-24049/collection-of-checks-and-other-items-by-federal-reserve-banks-and-funds-transfers-through-fedwire",
   "canonical_url": "https://www.federalregister.gov/documents/2004/10/27/04-24049/collection-of-checks-and-other-items-by-federal-reserve-banks-and-funds-transfers-through-fedwire",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:19Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 04-24049",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 04-24049: Collection of Checks and Other Items by Federal Reserve Banks and Funds Transfers Through Fedwire",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "04-24049"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.04-24049",
+  "citation_anchor": "#fr-04-24049",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2004-10-27",
+  "version_label": "2004"
 }

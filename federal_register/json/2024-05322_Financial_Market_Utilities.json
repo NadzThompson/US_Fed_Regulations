@@ -40,7 +40,7 @@
   "source_url": "https://www.federalregister.gov/documents/2024/03/15/2024-05322/financial-market-utilities",
   "canonical_url": "https://www.federalregister.gov/documents/2024/03/15/2024-05322/financial-market-utilities",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:34Z",
+  "enriched_timestamp": "2026-03-31T14:37:44Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2024-05322",
@@ -83,5 +83,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2024-05322: Financial Market Utilities",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2024-05322"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2024-05322",
+  "citation_anchor": "#fr-2024-05322",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2024-03-15",
+  "version_label": "2024"
 }

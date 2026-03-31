@@ -50,7 +50,7 @@
   "source_url": "https://www.federalregister.gov/documents/2013/08/05/2013-18716/proposed-supervisory-guidance-on-implementing-dodd-frank-act-company-run-stress-tests-for-banking",
   "canonical_url": "https://www.federalregister.gov/documents/2013/08/05/2013-18716/proposed-supervisory-guidance-on-implementing-dodd-frank-act-company-run-stress-tests-for-banking",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:23Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2013-18716",
@@ -95,5 +95,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 2013-18716: Proposed Supervisory Guidance on Implementing Dodd-Frank Act Company-Run Stress Tests for Banking Organizations With Total Consolidated Assets of More",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "2013-18716"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2013-18716",
+  "citation_anchor": "#fr-2013-18716",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2013-08-05",
+  "version_label": "2013"
 }

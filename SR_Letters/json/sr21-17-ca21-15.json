@@ -31,8 +31,8 @@
   "effective_date_start": "2021-10-20",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:35Z",
-  "applicability_raw": "This letter applies to all institutions supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This letter applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 311,
+  "word_count_raw_body": 370,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr2117.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr2117.htm",
-  "normalized_text_sha256": "7bd79e3833349ce8666840e79b900aca8bb29d6ffa8a7fa8534228935a897158",
+  "normalized_text_sha256": "edb2bbdcbeb8a393f64b77e7fb1233840c8861c88477fe81c6497256f60bcc3a",
   "normalized_md_path": "SR_Letters/md/sr21-17-ca21-15.md",
   "canonical_json_path": "SR_Letters/json/sr21-17-ca21-15.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 21-17 / CA 21-15 CA 21-15:  Interagency Statement on Managing the LIBOR Transition This letter applies to all institutions supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 21-17 / CA 21-15: CA 21-15:  Interagency Statement on Managing the LIBOR Transition"
+  "bm25_text": "SR 21-17 / CA 21-15 CA 21-15:  Interagency Statement on Managing the LIBOR Transition This letter applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 21-17 / CA 21-15: CA 21-15:  Interagency Statement on Managing the LIBOR Transition",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 21-17 / CA 21-15"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr21-17-ca21-15",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2021-10-20",
+  "version_label": "2021"
 }

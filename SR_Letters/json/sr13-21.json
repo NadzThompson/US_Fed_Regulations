@@ -31,8 +31,8 @@
   "effective_date_start": "2013-12-17",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to holding companies supervised by the Federal Reserve with less than $10\u00a0billion in total consolidated assets. Previously, this letter applied to the supervision of holding companies with $10\u00a0billion or less in total consolidated assets. This modification was made to better align with the supervisory portfolio definitions described on the Board\u2019s public website.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to holding companies supervised by the Federal Reserve with less than $10 billion in total consolidated assets. Previously, this letter applied to the supervision of holding companies with $10 billion or less in total consolidated assets. This modification was made to better align with the supervisory portfolio definitions described on the Board’s public website.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,14 +40,14 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 3401,
+  "word_count_raw_body": 3506,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
     "WASHINGTON, D.C. 20551",
     "DIVISION OF BANKING",
     "SUPERVISION AND REGULATION",
-    "TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO HOLDING COMPANIES WITH LESS THAN $10\u00a0BILLION IN TOTAL CONSOLIDATED ASSETS",
+    "TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO HOLDING COMPANIES WITH LESS THAN $10 BILLION IN TOTAL CONSOLIDATED ASSETS",
     "SUBJECT:"
   ],
   "toc_depth": 7,
@@ -58,13 +58,13 @@
   "footnote_count": 0,
   "inline_cross_references": [
     "12 CFR 208",
-    "Regulation\u00a0W",
+    "Regulation W",
     "SR 13-21"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1321.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1321.htm",
-  "normalized_text_sha256": "cc56e0e6c44b35a593d4e39706ddc321baf9cdfe9e25de36594ebd87284c9706",
+  "normalized_text_sha256": "764d99eac304091fb16318e9460162e27dc95c5bd44e2480af8cb2901527f0d6",
   "normalized_md_path": "SR_Letters/md/sr13-21.md",
   "canonical_json_path": "SR_Letters/json/sr13-21.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 13-21 Inspection Frequency and Scope Expectations for Bank Holding Companies and Savings and Loan Holding Companies that are Community Banking Organizations -- Revised December 16, 2022 to holding companies supervised by the Federal Reserve with less than $10\u00a0billion in total consolidated assets. Previously, this letter applied to the supervision of holding companies with $10\u00a0billion or less in total consolidated assets. This modification was made to better align with the supervisory portfolio definitions described on the Board\u2019s public website. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO HOLDING COMPANIES WITH LESS THAN $10\u00a0BILLION IN TOTAL CONSOLIDATED ASSETS SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 13-21: Inspection Frequency and Scope Expectations for Bank Holding Companies and Savings and Loan Holding Companies that are Community Banking Organizations -- Revised December 16, 2022"
+  "bm25_text": "SR 13-21 Inspection Frequency and Scope Expectations for Bank Holding Companies and Savings and Loan Holding Companies that are Community Banking Organizations -- Revised December 16, 2022 to holding companies supervised by the Federal Reserve with less than $10 billion in total consolidated assets. Previously, this letter applied to the supervision of holding companies with $10 billion or less in total consolidated assets. This modification was made to better align with the supervisory portfolio definitions described on the Board’s public website. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO HOLDING COMPANIES WITH LESS THAN $10 BILLION IN TOTAL CONSOLIDATED ASSETS SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 13-21: Inspection Frequency and Scope Expectations for Bank Holding Companies and Savings and Loan Holding Companies that are Community Banking Organizations -- Revised December 16, 2022",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 13-21"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr13-21",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2013-12-17",
+  "version_label": "2013"
 }

@@ -31,8 +31,8 @@
   "effective_date_start": "2015-06-25",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "This guidance applies to all financial institutions supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance applies to all financial institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1153,
+  "word_count_raw_body": 1218,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -66,7 +66,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1508.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1508.htm",
-  "normalized_text_sha256": "79a4539e74a0d31f0b3aa153192f1c57dc091000288775ba5239a48c352c3200",
+  "normalized_text_sha256": "700879abdf56342096a9f69f00211c42adfff65a4e8a7ef3afe45ad2da087b62",
   "normalized_md_path": "SR_Letters/md/sr15-8.md",
   "canonical_json_path": "SR_Letters/json/sr15-8.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,6 +78,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 15-8 Supervisory Letter SR 15-8 on Name Check Process for Domestic and International Applications -- June 25, 2015 This guidance applies to all financial institutions supervised by the Federal Reserve, including those with $10\u00a0billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 15-8: Supervisory Letter SR 15-8 on Name Check Process for Domestic and International Applications -- June 25, 2015"
+  "bm25_text": "SR 15-8 Supervisory Letter SR 15-8 on Name Check Process for Domestic and International Applications -- June 25, 2015 This guidance applies to all financial institutions supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 15-8: Supervisory Letter SR 15-8 on Name Check Process for Domestic and International Applications -- June 25, 2015",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 15-8"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr15-8",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2015-06-25",
+  "version_label": "2015"
 }

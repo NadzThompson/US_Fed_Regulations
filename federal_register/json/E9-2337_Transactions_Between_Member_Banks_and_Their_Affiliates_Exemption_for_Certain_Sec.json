@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2009/02/06/E9-2337/transactions-between-member-banks-and-their-affiliates-exemption-for-certain-securities-financing",
   "canonical_url": "https://www.federalregister.gov/documents/2009/02/06/E9-2337/transactions-between-member-banks-and-their-affiliates-exemption-for-certain-securities-financing",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:49Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > E9-2337",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule E9-2337: Transactions Between Member Banks and Their Affiliates: Exemption for Certain Securities Financing Transactions Between a Member Bank and an Affiliate",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "E9-2337"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.E9-2337",
+  "citation_anchor": "#fr-E9-2337",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2009-02-06",
+  "version_label": "2009"
 }

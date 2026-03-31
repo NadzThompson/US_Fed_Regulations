@@ -31,7 +31,7 @@
   "effective_date_start": "1999-02-01",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1709,
+  "word_count_raw_body": 1759,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR9903.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR9903.htm",
-  "normalized_text_sha256": "c7d1f856da64cd5a0b6d15528dccefd7743191d20e66db6c3c144fd843a11850",
+  "normalized_text_sha256": "5247aeb6476a22e386399417fe5388a6d72aee1472261cb4b87642c7ff6a6581",
   "normalized_md_path": "SR_Letters/md/sr99-3(sup).md",
   "canonical_json_path": "SR_Letters/json/sr99-3(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,5 +77,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 99-3 (SUP) FRB: Supervisory Letter SR 99-3 (SUP) on supervisory guidance regarding counterparty credit risk management -- February 1, 1999 -- Revised January 9, 2026  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 99-3 (SUP): FRB: Supervisory Letter SR 99-3 (SUP) on supervisory guidance regarding counterparty credit risk management -- February 1, 1999 -- Revised January 9, 2026"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 99-3 (SUP): FRB: Supervisory Letter SR 99-3 (SUP) on supervisory guidance regarding counterparty credit risk management -- February 1, 1999 -- Revised January 9, 2026",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 99-3 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr99-3(sup)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1999-02-01",
+  "version_label": "1999"
 }

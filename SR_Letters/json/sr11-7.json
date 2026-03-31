@@ -31,7 +31,7 @@
   "effective_date_start": "2011-04-04",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:38Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2075,
+  "word_count_raw_body": 2115,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -66,7 +66,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm",
-  "normalized_text_sha256": "bb760e9fb1e4c6b1e54317202f3b108f2fa6307c9dafc3334f1c2aefc716c219",
+  "normalized_text_sha256": "288b466dff81428235a12a90e1f715409a0514881202efbd87b66ea905191187",
   "normalized_md_path": "SR_Letters/md/sr11-7.md",
   "canonical_json_path": "SR_Letters/json/sr11-7.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -81,5 +81,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 11-7 Supervisory Letter SR 11-7 on guidance on Model Risk Management -- April 4, 2011  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 11-7: Supervisory Letter SR 11-7 on guidance on Model Risk Management -- April 4, 2011"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 11-7: Supervisory Letter SR 11-7 on guidance on Model Risk Management -- April 4, 2011",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 11-7"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr11-7",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2011-04-04",
+  "version_label": "2011"
 }

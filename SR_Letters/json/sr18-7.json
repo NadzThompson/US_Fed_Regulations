@@ -31,8 +31,8 @@
   "effective_date_start": "2018-10-01",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance applies to certain state member banks and U.S. branches and agencies of foreign banks with less than $3 billion in total assets meeting the criteria described in the letter.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance applies to certain state member banks and U.S. branches and agencies of foreign banks with less than $3 billion in total assets meeting the criteria described in the letter.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1378,
+  "word_count_raw_body": 1459,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -66,7 +66,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1807.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1807.htm",
-  "normalized_text_sha256": "5fec36fb9f0a54b4d0ec71f37bbcfdaece68ab28e6dcf2abd812f9857fb8ab88",
+  "normalized_text_sha256": "8323be49022a101686893b5c1f78739de1b6bc30c9f2a7bdbfabc2ad622f5588",
   "normalized_md_path": "SR_Letters/md/sr18-7.md",
   "canonical_json_path": "SR_Letters/json/sr18-7.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -78,6 +78,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 18-7 Updates to the Expanded Examination Cycle for Certain State Member Banks and U.S. Branches and Agencies of Foreign Banking Organizations to Community Banking Organizations:\u00a0 This guidance applies to certain state member banks and U.S. branches and agencies of foreign banks with less than $3 billion in total assets meeting the criteria described in the letter. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 18-7: Updates to the Expanded Examination Cycle for Certain State Member Banks and U.S. Branches and Agencies of Foreign Banking Organizations"
+  "bm25_text": "SR 18-7 Updates to the Expanded Examination Cycle for Certain State Member Banks and U.S. Branches and Agencies of Foreign Banking Organizations to Community Banking Organizations:  This guidance applies to certain state member banks and U.S. branches and agencies of foreign banks with less than $3 billion in total assets meeting the criteria described in the letter. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 18-7: Updates to the Expanded Examination Cycle for Certain State Member Banks and U.S. Branches and Agencies of Foreign Banking Organizations",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 18-7"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr18-7",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2018-10-01",
+  "version_label": "2018"
 }

@@ -12,7 +12,7 @@
   "status": "active",
   "current_version_flag": true,
   "document_number": "94-27058",
-  "citation": null,
+  "citation": "FR 1994-11-02",
   "publication_date": "1994-11-02",
   "effective_date_start": "1994-11-02",
   "abstract": "These rules implement the streamlined notice procedure recently enacted in Section 319 of the Riegle Community Development and Regulatory Improvement Act of 1994 (``Riegle Act'') for the formation of a new bank holding company that results from a corporate reorganization of a bank by the current shareholders of the bank. These rules also implement section 321 of the Riegle Act, which amends the Bank Holding Company Act and the Bank Merger Act to authorize the Board to shorten the post-approval w",
@@ -45,7 +45,7 @@
   "source_url": "https://www.federalregister.gov/documents/1994/11/02/94-27058/applications-under-regulation-y",
   "canonical_url": "https://www.federalregister.gov/documents/1994/11/02/94-27058/applications-under-regulation-y",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:43Z",
+  "enriched_timestamp": "2026-03-31T14:37:44Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 94-27058",
@@ -90,5 +90,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 94-27058: Applications Under Regulation Y",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "94-27058"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.94-27058",
+  "citation_anchor": "#fr-94-27058",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1994-11-02",
+  "version_label": "1994"
 }

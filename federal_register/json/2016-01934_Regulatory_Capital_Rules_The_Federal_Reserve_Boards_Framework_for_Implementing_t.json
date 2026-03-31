@@ -39,7 +39,7 @@
   "source_url": "https://www.federalregister.gov/documents/2016/02/03/2016-01934/regulatory-capital-rules-the-federal-reserve-boards-framework-for-implementing-the-us-basel-iii",
   "canonical_url": "https://www.federalregister.gov/documents/2016/02/03/2016-01934/regulatory-capital-rules-the-federal-reserve-boards-framework-for-implementing-the-us-basel-iii",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:24Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2016-01934",
@@ -82,5 +82,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 2016-01934: Regulatory Capital Rules: The Federal Reserve Board's Framework for Implementing the U.S. Basel III Countercyclical Capital Buffer",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "2016-01934"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2016-01934",
+  "citation_anchor": "#fr-2016-01934",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2016-02-03",
+  "version_label": "2016"
 }

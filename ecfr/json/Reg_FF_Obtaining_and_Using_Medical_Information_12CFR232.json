@@ -29,15 +29,15 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 4,
   "appendix_count": 0,
-  "word_count_raw_body": 3358,
+  "word_count_raw_body": 3446,
   "section_headings": [
-    "\u00a7 232.1 Scope, general prohibition and definitions.",
-    "\u00a7 232.2 Rule of construction for obtaining and using unsolicited medical information.",
-    "\u00a7 232.3 Financial information exception for obtaining and using medical information.",
-    "\u00a7 232.4 Specific exceptions for obtaining and using medical information."
+    "§ 232.1 Scope, general prohibition and definitions.",
+    "§ 232.2 Rule of construction for obtaining and using unsolicited medical information.",
+    "§ 232.3 Financial information exception for obtaining and using medical information.",
+    "§ 232.4 Specific exceptions for obtaining and using medical information."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-232",
@@ -64,7 +64,7 @@
   "inline_cross_references": [
     "Regulation FF"
   ],
-  "normalized_text_sha256": "397c3f76afc63540eee5c68d1b19398db3eb8b4ebb155a8447df9444bf2a82d4",
+  "normalized_text_sha256": "b5a2918d8a80d3337ade1312b5aca344660c36cbffc1e7bae70a87a9875d182f",
   "normalized_md_path": "ecfr/md/Reg_FF_Obtaining_and_Using_Medical_Information_12CFR232.md",
   "canonical_json_path": "ecfr/json/Reg_FF_Obtaining_and_Using_Medical_Information_12CFR232.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -77,6 +77,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg FF Regulation FF: Obtaining and Using Medical Information 12 CFR Part 232 \u00a7 232.1 Scope, general prohibition and definitions. \u00a7 232.2 Rule of construction for obtaining and using unsolicited medical information. \u00a7 232.3 Financial information exception for obtaining and using medical information. \u00a7 232.4 Specific exceptions for obtaining and using medical information.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 232 Reg FF: Regulation FF: Obtaining and Using Medical Information"
+  "bm25_text": "Reg FF Regulation FF: Obtaining and Using Medical Information 12 CFR Part 232 § 232.1 Scope, general prohibition and definitions. § 232.2 Rule of construction for obtaining and using unsolicited medical information. § 232.3 Financial information exception for obtaining and using medical information. § 232.4 Specific exceptions for obtaining and using medical information.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 232 Reg FF: Regulation FF: Obtaining and Using Medical Information",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation FF",
+    "Part 232"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regff.232",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

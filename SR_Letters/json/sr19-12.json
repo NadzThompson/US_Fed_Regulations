@@ -31,7 +31,7 @@
   "effective_date_start": "2019-07-23",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This letter applies to state member banks, bank holding companies, and savings and loan holding companies, regardless of asset size.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 712,
+  "word_count_raw_body": 766,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1912.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR1912.htm",
-  "normalized_text_sha256": "c262704e7ff848b673079b7aafb3c2445260f5e195f7c6278766c89ae9ca4b32",
+  "normalized_text_sha256": "0635d77e08fe90d478e69bf9ba5dfd76be66d54f5576406a1e05a256a6987f3c",
   "normalized_md_path": "SR_Letters/md/sr19-12.md",
   "canonical_json_path": "SR_Letters/json/sr19-12.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,5 +76,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 19-12 Statement Regarding Insurance Policies for Directors and Officers This letter applies to state member banks, bank holding companies, and savings and loan holding companies, regardless of asset size. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-12: Statement Regarding Insurance Policies for Directors and Officers"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-12: Statement Regarding Insurance Policies for Directors and Officers",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-12"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-12",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2019-07-23",
+  "version_label": "2019"
 }

@@ -80,7 +80,7 @@
   "source_url": "https://www.federalregister.gov/documents/2006/07/18/06-6187/identity-theft-red-flags-and-address-discrepancies-under-the-fair-and-accurate-credit-transactions",
   "canonical_url": "https://www.federalregister.gov/documents/2006/07/18/06-6187/identity-theft-red-flags-and-address-discrepancies-under-the-fair-and-accurate-credit-transactions",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:20Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 06-6187",
@@ -129,5 +129,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 06-6187: Identity Theft Red Flags and Address Discrepancies Under the Fair and Accurate Credit Transactions Act of 2003",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "06-6187"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.06-6187",
+  "citation_anchor": "#fr-06-6187",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2006-07-18",
+  "version_label": "2006"
 }

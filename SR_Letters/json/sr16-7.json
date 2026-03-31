@@ -31,7 +31,7 @@
   "effective_date_start": "2016-03-21",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all state member banks and U.S. branches of foreign banks that authorize the use of prepaid cards. This includes state member banks and U.S. branches of foreign banks with less than $10 billion in total assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 519,
+  "word_count_raw_body": 611,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1607.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1607.htm",
-  "normalized_text_sha256": "f34034e6a0b89cd451a0210b5d53475c5a265fb26cc46a3d8ad7cac53082fe60",
+  "normalized_text_sha256": "5192c65db649abb073bd9130220a4d19f42991c4b9a4f188546c2a681bc25229",
   "normalized_md_path": "SR_Letters/md/sr16-7.md",
   "canonical_json_path": "SR_Letters/json/sr16-7.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,5 +76,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 16-7 Supervisory Letter SR 16-7 on Interagency Guidance to Issuing Banks on Applying Customer Identification Program Requirements to Holders of Prepaid Access Cards -- March 21, 2016 This guidance applies to all state member banks and U.S. branches of foreign banks that authorize the use of prepaid cards. This includes state member banks and U.S. branches of foreign banks with less than $10 billion in total assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 16-7: Supervisory Letter SR 16-7 on Interagency Guidance to Issuing Banks on Applying Customer Identification Program Requirements to Holders of Prepaid Access Cards -- March 21, 2016"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 16-7: Supervisory Letter SR 16-7 on Interagency Guidance to Issuing Banks on Applying Customer Identification Program Requirements to Holders of Prepaid Access Cards -- March 21, 2016",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 16-7"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr16-7",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2016-03-21",
+  "version_label": "2016"
 }

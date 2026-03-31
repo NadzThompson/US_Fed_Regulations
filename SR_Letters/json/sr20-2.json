@@ -31,8 +31,8 @@
   "effective_date_start": "2020-01-13",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
-  "applicability_raw": "This guidance applies to bank holding companies, savings and loan holding companies, and U.S. intermediate holding companies with $100\u00a0billion or more in total consolidated assets as well as to certain depository institutions. For other banking organizations affected by the tailoring rules, this guidance may address their questions on applicability.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance applies to bank holding companies, savings and loan holding companies, and U.S. intermediate holding companies with $100 billion or more in total consolidated assets as well as to certain depository institutions. For other banking organizations affected by the tailoring rules, this guidance may address their questions on applicability.",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 401,
+  "word_count_raw_body": 484,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2002.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR2002.htm",
-  "normalized_text_sha256": "2e789e7ce16fdff603cc1dc236c13843a99e159ccc58154d692072df1c7d15a1",
+  "normalized_text_sha256": "1a69ace0b198073bc2555dde81d4c7ffe0226c59b6f1dec687357225176dac21",
   "normalized_md_path": "SR_Letters/md/sr20-2.md",
   "canonical_json_path": "SR_Letters/json/sr20-2.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 20-2 Frequently Asked Questions on the Tailoring Rules This guidance applies to bank holding companies, savings and loan holding companies, and U.S. intermediate holding companies with $100\u00a0billion or more in total consolidated assets as well as to certain depository institutions. For other banking organizations affected by the tailoring rules, this guidance may address their questions on applicability. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 20-2: Frequently Asked Questions on the Tailoring Rules"
+  "bm25_text": "SR 20-2 Frequently Asked Questions on the Tailoring Rules This guidance applies to bank holding companies, savings and loan holding companies, and U.S. intermediate holding companies with $100 billion or more in total consolidated assets as well as to certain depository institutions. For other banking organizations affected by the tailoring rules, this guidance may address their questions on applicability. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 20-2: Frequently Asked Questions on the Tailoring Rules",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 20-2"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr20-2",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2020-01-13",
+  "version_label": "2020"
 }

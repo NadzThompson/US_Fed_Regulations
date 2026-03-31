@@ -85,7 +85,7 @@
   "source_url": "https://www.federalregister.gov/documents/2005/11/17/05-22814/one-year-post-employment-restrictions-for-senior-examiners",
   "canonical_url": "https://www.federalregister.gov/documents/2005/11/17/05-22814/one-year-post-employment-restrictions-for-senior-examiners",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:20Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 05-22814",
@@ -135,5 +135,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 05-22814: One-Year Post-Employment Restrictions for Senior Examiners",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "05-22814"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.05-22814",
+  "citation_anchor": "#fr-05-22814",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2005-11-17",
+  "version_label": "2005"
 }

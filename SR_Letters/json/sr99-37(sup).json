@@ -31,7 +31,7 @@
   "effective_date_start": "2025-06-23",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,16 +40,16 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 769,
+  "word_count_raw_body": 816,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE",
     "SUPERVISORY AND EXAMINATION STAFF AT EACH",
     "FEDERAL RESERVE BANK AND TO CERTAIN BANKING",
     "ORGANIZATIONS SUPERVISED BY THE FEDERAL RESERVE",
     "SUBJECT:",
-    "3.\u00a0\u00a0 See SR\u00a0letters 97-21,"
+    "3.   See SR letters 97-21,"
   ],
   "toc_depth": 8,
   "has_appendices": true,
@@ -63,7 +63,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1999/SR9937.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1999/SR9937.HTM",
-  "normalized_text_sha256": "b42286ce72cd2c9b92f0f200155a546e628dcb15f8638e3399f96b684a980772",
+  "normalized_text_sha256": "726cdff15d7320d610ce1e9c4c91aa00d5550ab6b1bfdd8fceac639da60e066f",
   "normalized_md_path": "SR_Letters/md/sr99-37(sup).md",
   "canonical_json_path": "SR_Letters/json/sr99-37(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 99-37 (SUP) FRB: Supervisory Letter SR 99-37 (SUP) on risk management and valuation of retained interests arising from securitization activities--December 13, 1999  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK AND TO CERTAIN BANKING ORGANIZATIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT: 3.\u00a0\u00a0 See SR\u00a0letters 97-21,",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 99-37 (SUP): FRB: Supervisory Letter SR 99-37 (SUP) on risk management and valuation of retained interests arising from securitization activities--December 13, 1999"
+  "bm25_text": "SR 99-37 (SUP) FRB: Supervisory Letter SR 99-37 (SUP) on risk management and valuation of retained interests arising from securitization activities--December 13, 1999  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK AND TO CERTAIN BANKING ORGANIZATIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT: 3.   See SR letters 97-21,",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 99-37 (SUP): FRB: Supervisory Letter SR 99-37 (SUP) on risk management and valuation of retained interests arising from securitization activities--December 13, 1999",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 99-37 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr99-37(sup)",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2025-06-23",
+  "version_label": "1999"
 }

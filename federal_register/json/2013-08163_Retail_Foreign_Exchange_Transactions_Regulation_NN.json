@@ -37,7 +37,7 @@
   "source_url": "https://www.federalregister.gov/documents/2013/04/09/2013-08163/retail-foreign-exchange-transactions-regulation-nn",
   "canonical_url": "https://www.federalregister.gov/documents/2013/04/09/2013-08163/retail-foreign-exchange-transactions-regulation-nn",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:22Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2013-08163",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2013-08163: Retail Foreign Exchange Transactions (Regulation NN)",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2013-08163"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2013-08163",
+  "citation_anchor": "#fr-2013-08163",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2013-04-09",
+  "version_label": "2013"
 }

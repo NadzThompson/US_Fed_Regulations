@@ -31,8 +31,8 @@
   "effective_date_start": "1995-11-14",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
-  "applicability_raw": "modifications align with the Board\u2019s tailoring rules. See 84\u00a0Fed. Reg.\u00a059032 (November\u00a01,\u00a02019) for more information.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "modifications align with the Board’s tailoring rules. See 84 Fed. Reg. 59032 (November 1, 2019) for more information.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1428,
+  "word_count_raw_body": 1494,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -65,7 +65,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR9551.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR9551.htm",
-  "normalized_text_sha256": "d68276156cde25d2895c8af3b528450e0d6aa0055907617cc1b0579177157ccd",
+  "normalized_text_sha256": "2203d265830749cc31cb82c6a8276c9c11558dee84a2860b4751107e43a2e36d",
   "normalized_md_path": "SR_Letters/md/sr95-51(sup).md",
   "canonical_json_path": "SR_Letters/json/sr95-51(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,6 +77,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 95-51 (SUP) SR 95-51 (SUP):  Rating the Adequacy of Risk Management Processes and Internal Controls at State Member Banks and Bank Holding Companies modifications align with the Board\u2019s tailoring rules. See 84\u00a0Fed. Reg.\u00a059032 (November\u00a01,\u00a02019) for more information. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 95-51 (SUP): SR 95-51 (SUP):  Rating the Adequacy of Risk Management Processes and Internal Controls at State Member Banks and Bank Holding Companies"
+  "bm25_text": "SR 95-51 (SUP) SR 95-51 (SUP):  Rating the Adequacy of Risk Management Processes and Internal Controls at State Member Banks and Bank Holding Companies modifications align with the Board’s tailoring rules. See 84 Fed. Reg. 59032 (November 1, 2019) for more information. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 95-51 (SUP): SR 95-51 (SUP):  Rating the Adequacy of Risk Management Processes and Internal Controls at State Member Banks and Bank Holding Companies",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 95-51 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr95-51(sup)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1995-11-14",
+  "version_label": "1995"
 }

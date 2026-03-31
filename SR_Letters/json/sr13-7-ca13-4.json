@@ -31,7 +31,7 @@
   "effective_date_start": "2013-04-05",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "to Community Banking Organizations: This guidance applies to all state member banks and their parent bank holding companies, including community banking organizations, which are defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1853,
+  "word_count_raw_body": 1940,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -66,7 +66,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1307.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1307.htm",
-  "normalized_text_sha256": "d219807cf69434004b360cb4dbec236bd3b1a9057f2df422281f50ac8bedb7d4",
+  "normalized_text_sha256": "058fe91918e16c8ae0f49b01b8c44ed27f225cd5aa144c02510b039642369d57",
   "normalized_md_path": "SR_Letters/md/sr13-7-ca13-4.md",
   "canonical_json_path": "SR_Letters/json/sr13-7-ca13-4.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,5 +79,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 13-7 / CA 13-4 Supervisory Letter SR 13-7 / CA 13-4 on         State Member Bank Branching Considerations  -- April 5, 2013 to Community Banking Organizations: This guidance applies to all state member banks and their parent bank holding companies, including community banking organizations, which are defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO STATE MEMBER BANKS AND BANK HOLDING COMPANIES SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 13-7 / CA 13-4: Supervisory Letter SR 13-7 / CA 13-4 on         State Member Bank Branching Considerations  -- April 5, 2013"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 13-7 / CA 13-4: Supervisory Letter SR 13-7 / CA 13-4 on         State Member Bank Branching Considerations  -- April 5, 2013",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 13-7 / CA 13-4"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr13-7-ca13-4",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2013-04-05",
+  "version_label": "2013"
 }

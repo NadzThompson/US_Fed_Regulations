@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/1999/12/20/99-32827/home-mortgage-disclosure",
   "canonical_url": "https://www.federalregister.gov/documents/1999/12/20/99-32827/home-mortgage-disclosure",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:47Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 99-32827",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 99-32827: Home Mortgage Disclosure",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "99-32827"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.99-32827",
+  "citation_anchor": "#fr-99-32827",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1999-12-20",
+  "version_label": "1999"
 }

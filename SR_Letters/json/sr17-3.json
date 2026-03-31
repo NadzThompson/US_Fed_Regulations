@@ -31,7 +31,7 @@
   "effective_date_start": "2017-02-22",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance does not apply to community banks with $10 billion or less in total consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1117,
+  "word_count_raw_body": 1182,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1703.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1703.htm",
-  "normalized_text_sha256": "20ac90a28c23f6cf2c735dfa731180c14317b0689e8464485eb45ceadd6fbec0",
+  "normalized_text_sha256": "82c9c31f7c410c010da7bca03525c13979522e508a68fa9f580839518a8d5019",
   "normalized_md_path": "SR_Letters/md/sr17-3.md",
   "canonical_json_path": "SR_Letters/json/sr17-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,5 +75,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 17-3 Supervisory Letter SR 17-3 on Initial Examinations for Compliance with Minimum Variation Margin Requirements for Non-Cleared Swaps and Non-Cleared Security Based Swaps This guidance does not apply to community banks with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 17-3: Supervisory Letter SR 17-3 on Initial Examinations for Compliance with Minimum Variation Margin Requirements for Non-Cleared Swaps and Non-Cleared Security Based Swaps"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 17-3: Supervisory Letter SR 17-3 on Initial Examinations for Compliance with Minimum Variation Margin Requirements for Non-Cleared Swaps and Non-Cleared Security Based Swaps",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 17-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr17-3",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2017-02-22",
+  "version_label": "2017"
 }

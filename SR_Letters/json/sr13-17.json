@@ -31,8 +31,8 @@
   "effective_date_start": "2013-10-24",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance applies to all financial institutions, including those with $10 billion or less in consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance applies to all financial institutions, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 497,
+  "word_count_raw_body": 564,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1317.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1317.htm",
-  "normalized_text_sha256": "777c13d4dc8196df092eb860877828fb331d03ce0ecd463b9faca6e9f879851e",
+  "normalized_text_sha256": "e67b192fc49aa914725d37af8b93928d2dcf7de907b2ec8fac0e638eb94c2815",
   "normalized_md_path": "SR_Letters/md/sr13-17.md",
   "canonical_json_path": "SR_Letters/json/sr13-17.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 13-17 Supervisory Letter SR 13-17 on         Interagency Supervisory Guidance Addressing Certain Issues Related to Troubled Debt Restructurings  -- October 24, 2013 to Community Banking Organizations:\u00a0 This guidance applies to all financial institutions, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC FINANCIAL INSTITUTION SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 13-17: Supervisory Letter SR 13-17 on         Interagency Supervisory Guidance Addressing Certain Issues Related to Troubled Debt Restructurings  -- October 24, 2013"
+  "bm25_text": "SR 13-17 Supervisory Letter SR 13-17 on         Interagency Supervisory Guidance Addressing Certain Issues Related to Troubled Debt Restructurings  -- October 24, 2013 to Community Banking Organizations:  This guidance applies to all financial institutions, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC FINANCIAL INSTITUTION SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 13-17: Supervisory Letter SR 13-17 on         Interagency Supervisory Guidance Addressing Certain Issues Related to Troubled Debt Restructurings  -- October 24, 2013",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 13-17"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr13-17",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2013-10-24",
+  "version_label": "2013"
 }

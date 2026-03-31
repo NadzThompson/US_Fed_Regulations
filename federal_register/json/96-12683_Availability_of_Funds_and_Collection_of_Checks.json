@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/1996/05/21/96-12683/availability-of-funds-and-collection-of-checks",
   "canonical_url": "https://www.federalregister.gov/documents/1996/05/21/96-12683/availability-of-funds-and-collection-of-checks",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:45Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 96-12683",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 96-12683: Availability of Funds and Collection of Checks",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "96-12683"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.96-12683",
+  "citation_anchor": "#fr-96-12683",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1996-05-21",
+  "version_label": "1996"
 }

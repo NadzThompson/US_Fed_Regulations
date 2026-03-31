@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2006/01/10/E5-8317/electronic-fund-transfers",
   "canonical_url": "https://www.federalregister.gov/documents/2006/01/10/E5-8317/electronic-fund-transfers",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:47Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > E5-8317",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule E5-8317: Electronic Fund Transfers",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "E5-8317"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.E5-8317",
+  "citation_anchor": "#fr-E5-8317",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2006-01-10",
+  "version_label": "2006"
 }

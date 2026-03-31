@@ -31,7 +31,7 @@
   "effective_date_start": "1997-03-05",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": false,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2147,
+  "word_count_raw_body": 2199,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -70,7 +70,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1997/SR9704.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1997/SR9704.HTM",
-  "normalized_text_sha256": "a8af28aa33f02c53bfb94371e3d165d605640716000037b3a4319e6408ad7d18",
+  "normalized_text_sha256": "1528eabf6e5005dffa81bdbba72b9f1c3ef336b0b496e68ac323f7c601ba18ee",
   "normalized_md_path": "SR_Letters/md/sr97-4(sup).md",
   "canonical_json_path": "SR_Letters/json/sr97-4(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -84,6 +84,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 97-4 (SUP) FRB: Supervisory Letter SR 97-4 (SUP) on interagency guidance on common questions about the application of the revised CAMELS rating system -- March 5, 1997  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW OFFICE OF THE COMPTROLLER OF THE CURRENCY OFFICE OF THRIFT SUPERVISION BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FEDERAL DEPOSIT INSURANCE CORPORATION",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 97-4 (SUP): FRB: Supervisory Letter SR 97-4 (SUP) on interagency guidance on common questions about the application of the revised CAMELS rating system -- March 5, 1997"
+  "bm25_text": "SR 97-4 (SUP) FRB: Supervisory Letter SR 97-4 (SUP) on interagency guidance on common questions about the application of the revised CAMELS rating system -- March 5, 1997  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW OFFICE OF THE COMPTROLLER OF THE CURRENCY OFFICE OF THRIFT SUPERVISION BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FEDERAL DEPOSIT INSURANCE CORPORATION",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 97-4 (SUP): FRB: Supervisory Letter SR 97-4 (SUP) on interagency guidance on common questions about the application of the revised CAMELS rating system -- March 5, 1997",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 97-4 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr97-4(sup)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1997-03-05",
+  "version_label": "1997"
 }

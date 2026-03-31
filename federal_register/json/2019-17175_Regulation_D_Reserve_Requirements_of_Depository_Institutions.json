@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/2019/08/12/2019-17175/regulation-d-reserve-requirements-of-depository-institutions",
   "canonical_url": "https://www.federalregister.gov/documents/2019/08/12/2019-17175/regulation-d-reserve-requirements-of-depository-institutions",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:27Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2019-17175",
@@ -82,5 +82,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2019-17175: Regulation D: Reserve Requirements of Depository Institutions",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2019-17175"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2019-17175",
+  "citation_anchor": "#fr-2019-17175",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2019-08-12",
+  "version_label": "2019"
 }

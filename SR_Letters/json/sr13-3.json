@@ -31,8 +31,8 @@
   "effective_date_start": "2013-03-21",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance applies to all institutions that originate or participate in leveraged lending activities, including community banking organizations supervised by the Federal Reserve with total consolidated assets of $10 billion or less.1",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance applies to all institutions that originate or participate in leveraged lending activities, including community banking organizations supervised by the Federal Reserve with total consolidated assets of $10 billion or less.1",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 985,
+  "word_count_raw_body": 1065,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1303.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1303.htm",
-  "normalized_text_sha256": "51a8487ddfc8c63ac4397ed93eab89e47cd50170d029a028e65e175379961424",
+  "normalized_text_sha256": "006c53accc4bbbac1e2cb389d2ef0b42a63a75a54f09cd4a2bf7d4d7781fe284",
   "normalized_md_path": "SR_Letters/md/sr13-3.md",
   "canonical_json_path": "SR_Letters/json/sr13-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 13-3 Supervisory Letter SR 13-3 on         Interagency Guidance on Leveraged Lending  -- March 21, 2013, revised November 13, 2014 to Community Banking Organizations:\u00a0 This guidance applies to all institutions that originate or participate in leveraged lending activities, including community banking organizations supervised by the Federal Reserve with total consolidated assets of $10 billion or less.1 BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 13-3: Supervisory Letter SR 13-3 on         Interagency Guidance on Leveraged Lending  -- March 21, 2013, revised November 13, 2014"
+  "bm25_text": "SR 13-3 Supervisory Letter SR 13-3 on         Interagency Guidance on Leveraged Lending  -- March 21, 2013, revised November 13, 2014 to Community Banking Organizations:  This guidance applies to all institutions that originate or participate in leveraged lending activities, including community banking organizations supervised by the Federal Reserve with total consolidated assets of $10 billion or less.1 BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL INSTITUTIONS SUPERVISED BY THE FEDERAL RESERVE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 13-3: Supervisory Letter SR 13-3 on         Interagency Guidance on Leveraged Lending  -- March 21, 2013, revised November 13, 2014",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 13-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr13-3",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2013-03-21",
+  "version_label": "2013"
 }

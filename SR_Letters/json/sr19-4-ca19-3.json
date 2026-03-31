@@ -31,7 +31,7 @@
   "effective_date_start": "2019-02-26",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to bank holding companies (BHCs) and savings and loan holding companies (SLHCs).",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": true,
-  "word_count_raw_body": 2396,
+  "word_count_raw_body": 2456,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -59,14 +59,14 @@
   "inline_cross_references": [
     "12 CFR 252",
     "Regulation YY",
-    "Regulation\u00a0Q",
-    "Regulation\u00a0YY",
+    "Regulation Q",
+    "Regulation YY",
     "SR 19-4"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1904.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1904.htm",
-  "normalized_text_sha256": "2807da884db1719affdae9fdc1173a0ffe90cf4c155df8dafb6d95c3583a0939",
+  "normalized_text_sha256": "794151ffbe335178a483255e530170870c5feaa1c750f5c3d047f9c672367560",
   "normalized_md_path": "SR_Letters/md/sr19-4-ca19-3.md",
   "canonical_json_path": "SR_Letters/json/sr19-4-ca19-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -79,5 +79,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 19-4 / CA 19-3 CA 19-3: Supervisory Rating System for Holding Companies with Total Consolidated Assets Less Than $100 billion This guidance applies to bank holding companies (BHCs) and savings and loan holding companies (SLHCs). BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-4 / CA 19-3: CA 19-3: Supervisory Rating System for Holding Companies with Total Consolidated Assets Less Than $100 billion"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-4 / CA 19-3: CA 19-3: Supervisory Rating System for Holding Companies with Total Consolidated Assets Less Than $100 billion",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-4 / CA 19-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-4-ca19-3",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2019-02-26",
+  "version_label": "2019"
 }

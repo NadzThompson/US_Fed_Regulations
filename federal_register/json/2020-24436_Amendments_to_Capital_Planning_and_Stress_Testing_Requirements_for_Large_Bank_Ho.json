@@ -52,7 +52,7 @@
   "source_url": "https://www.federalregister.gov/documents/2020/11/10/2020-24436/amendments-to-capital-planning-and-stress-testing-requirements-for-large-bank-holding-companies",
   "canonical_url": "https://www.federalregister.gov/documents/2020/11/10/2020-24436/amendments-to-capital-planning-and-stress-testing-requirements-for-large-bank-holding-companies",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:28Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2020-24436",
@@ -97,5 +97,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 2020-24436: Amendments to Capital Planning and Stress Testing Requirements for Large Bank Holding Companies, Intermediate Holding Companies and Savings and Loan H",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "2020-24436"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2020-24436",
+  "citation_anchor": "#fr-2020-24436",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2020-11-10",
+  "version_label": "2020"
 }

@@ -31,7 +31,7 @@
   "effective_date_start": "2002-07-08",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:39Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,11 +40,11 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1110,
+  "word_count_raw_body": 1152,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
-    "TO\u00a0THE",
+    "TO THE",
     "SUBJECT:"
   ],
   "toc_depth": 4,
@@ -54,14 +54,14 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "12\u00a0CFR Part\u00a0359",
-    "Regulation\u00a0S",
+    "12 CFR Part 359",
+    "Regulation S",
     "SR 02-17"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2002/sr0217.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2002/sr0217.htm",
-  "normalized_text_sha256": "954fe0208916399b78ff5b79994ae4e9a3ba66734d9a4ecccc64e7c381a6044b",
+  "normalized_text_sha256": "28eec14503d3ec0a6319913a0d8d4d9f6d3a285dd04aa171818df60d8114657c",
   "normalized_md_path": "SR_Letters/md/sr02-17.md",
   "canonical_json_path": "SR_Letters/json/sr02-17.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -75,6 +75,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 02-17 FRB: Supervisory Letter SR 02-17 on guidance regarding indemnification agreements and payments -- July 8, 2002  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO\u00a0THE SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 02-17: FRB: Supervisory Letter SR 02-17 on guidance regarding indemnification agreements and payments -- July 8, 2002"
+  "bm25_text": "SR 02-17 FRB: Supervisory Letter SR 02-17 on guidance regarding indemnification agreements and payments -- July 8, 2002  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 02-17: FRB: Supervisory Letter SR 02-17 on guidance regarding indemnification agreements and payments -- July 8, 2002",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 02-17"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr02-17",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "2002-07-08",
+  "version_label": "2002"
 }

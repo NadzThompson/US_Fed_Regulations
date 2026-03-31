@@ -31,7 +31,7 @@
   "effective_date_start": "2005-02-23",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:39Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,17 +40,17 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 403,
+  "word_count_raw_body": 452,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE",
     "FEDERAL RESERVE SYSTEM",
-    "WASHINGTON, D.\u00a0C.\u00a0\u00a020551",
+    "WASHINGTON, D. C.  20551",
     "DIVISION OF BANKING",
     "SUPERVISION AND REGULATION",
     "DIVISION OF CONSUMER",
     "AND COMMUNITY AFFAIRS",
-    "SR\u00a005-3 / CA\u00a005-2",
+    "SR 05-3 / CA 05-2",
     "TO THE OFFICER IN CHARGE OF",
     "SUPERVISION AT EACH FEDERAL RESERVE BANK AND EACH",
     "DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED",
@@ -63,12 +63,12 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "SR\u00a005-3"
+    "SR 05-3"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2005/SR0503.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2005/SR0503.htm",
-  "normalized_text_sha256": "0d2c9084301f613639d1e53d8b836c450b7e3cd06169d0402c2d633dc61e0c13",
+  "normalized_text_sha256": "bebdd819bb47c9e810fed71eda0e0d4197e30e9344a2730d2497a735363789ff",
   "normalized_md_path": "SR_Letters/md/sr05-3.md",
   "canonical_json_path": "SR_Letters/json/sr05-3.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -82,6 +82,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 05-3 FRB: Supervisory Letter SR 05 - 3 / CA 05 - 2 on interagency guidance on overdraft protection programs -- February 23, 2005  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.\u00a0C.\u00a0\u00a020551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMER AND COMMUNITY AFFAIRS SR\u00a005-3 / CA\u00a005-2 TO THE OFFICER IN CHARGE OF",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 05-3: FRB: Supervisory Letter SR 05 - 3 / CA 05 - 2 on interagency guidance on overdraft protection programs -- February 23, 2005"
+  "bm25_text": "SR 05-3 FRB: Supervisory Letter SR 05 - 3 / CA 05 - 2 on interagency guidance on overdraft protection programs -- February 23, 2005  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D. C.  20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMER AND COMMUNITY AFFAIRS SR 05-3 / CA 05-2 TO THE OFFICER IN CHARGE OF",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 05-3: FRB: Supervisory Letter SR 05 - 3 / CA 05 - 2 on interagency guidance on overdraft protection programs -- February 23, 2005",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 05-3"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr05-3",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2005-02-23",
+  "version_label": "2005"
 }

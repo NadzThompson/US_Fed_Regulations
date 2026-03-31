@@ -31,8 +31,8 @@
   "effective_date_start": "2014-07-01",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "to Community Banking Organizations:\u00a0 This guidance applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "to Community Banking Organizations:  This guidance applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 528,
+  "word_count_raw_body": 607,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1405.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1405.htm",
-  "normalized_text_sha256": "09163e09b3fbf419a28ee17ecfcead34d0ed6750f951af858d221375b6540c1a",
+  "normalized_text_sha256": "fb3cb30fb86cc774556fa0b90514ab4e9bfdf54dc397384956a4ee9bdb5f7faf",
   "normalized_md_path": "SR_Letters/md/sr14-5-ca14-4.md",
   "canonical_json_path": "SR_Letters/json/sr14-5-ca14-4.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 14-5 / CA 14-4 Supervisory Letter SR 14-5 / CA 14-4 on         Interagency Guidance on Home Equity Lines of Credit Nearing Their End-of-Draw Periods  -- July 1, 2014 to Community Banking Organizations:\u00a0 This guidance applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 14-5 / CA 14-4: Supervisory Letter SR 14-5 / CA 14-4 on         Interagency Guidance on Home Equity Lines of Credit Nearing Their End-of-Draw Periods  -- July 1, 2014"
+  "bm25_text": "SR 14-5 / CA 14-4 Supervisory Letter SR 14-5 / CA 14-4 on         Interagency Guidance on Home Equity Lines of Credit Nearing Their End-of-Draw Periods  -- July 1, 2014 to Community Banking Organizations:  This guidance applies to all institutions supervised by the Federal Reserve, including those with $10 billion or less in total consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 14-5 / CA 14-4: Supervisory Letter SR 14-5 / CA 14-4 on         Interagency Guidance on Home Equity Lines of Credit Nearing Their End-of-Draw Periods  -- July 1, 2014",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 14-5 / CA 14-4"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr14-5-ca14-4",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2014-07-01",
+  "version_label": "2014"
 }

@@ -62,7 +62,7 @@
   "source_url": "https://www.federalregister.gov/documents/2000/10/20/00-26601/fair-credit-reporting-regulations",
   "canonical_url": "https://www.federalregister.gov/documents/2000/10/20/00-26601/fair-credit-reporting-regulations",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:17Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 00-26601",
@@ -108,5 +108,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 00-26601: Fair Credit Reporting Regulations",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "00-26601"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.00-26601",
+  "citation_anchor": "#fr-00-26601",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2000-10-20",
+  "version_label": "2000"
 }

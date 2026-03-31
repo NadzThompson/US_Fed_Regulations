@@ -31,7 +31,7 @@
   "effective_date_start": "1997-03-24",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1014,
+  "word_count_raw_body": 1057,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -57,12 +57,12 @@
   "inline_cross_references": [
     "SR 91-13",
     "SR 97-6",
-    "SR\u00a091-13"
+    "SR 91-13"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1997/SR9706.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1997/SR9706.HTM",
-  "normalized_text_sha256": "b9e9c58382cf31d88999d9d041585f07b0136fb154d8066de8052a51e13bd2e1",
+  "normalized_text_sha256": "83917a1ad6917fc936ef2aabf9654a5d98bf03d37405df2deaee2d54dc5c0493",
   "normalized_md_path": "SR_Letters/md/sr97-6(enf).md",
   "canonical_json_path": "SR_Letters/json/sr97-6(enf).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 97-6 (ENF) FRB: Supervisory Letter SR 97-6 (ENF) on civil money penalty assessment procedures -- March 24, 1997  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 97-6 (ENF): FRB: Supervisory Letter SR 97-6 (ENF) on civil money penalty assessment procedures -- March 24, 1997"
+  "bm25_text": "SR 97-6 (ENF) FRB: Supervisory Letter SR 97-6 (ENF) on civil money penalty assessment procedures -- March 24, 1997  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 97-6 (ENF): FRB: Supervisory Letter SR 97-6 (ENF) on civil money penalty assessment procedures -- March 24, 1997",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 97-6 (ENF)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr97-6(enf)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1997-03-24",
+  "version_label": "1997"
 }

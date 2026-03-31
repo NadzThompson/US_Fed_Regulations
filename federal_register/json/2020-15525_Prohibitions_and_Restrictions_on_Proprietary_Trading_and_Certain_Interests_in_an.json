@@ -70,7 +70,7 @@
   "source_url": "https://www.federalregister.gov/documents/2020/07/31/2020-15525/prohibitions-and-restrictions-on-proprietary-trading-and-certain-interests-in-and-relationships-with",
   "canonical_url": "https://www.federalregister.gov/documents/2020/07/31/2020-15525/prohibitions-and-restrictions-on-proprietary-trading-and-certain-interests-in-and-relationships-with",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:28Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2020-15525",
@@ -117,5 +117,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2020-15525: Prohibitions and Restrictions on Proprietary Trading and Certain Interests in, and Relationships With, Hedge Funds and Private Equity Funds",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2020-15525"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2020-15525",
+  "citation_anchor": "#fr-2020-15525",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2020-07-31",
+  "version_label": "2020"
 }

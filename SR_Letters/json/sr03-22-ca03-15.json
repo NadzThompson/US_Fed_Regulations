@@ -31,7 +31,7 @@
   "effective_date_start": "2003-12-23",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:39Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 518,
+  "word_count_raw_body": 559,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -66,7 +66,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0322.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0322.htm",
-  "normalized_text_sha256": "a0b21b4f376f594b3950477c43b7273f07a19f98d9aa6f928df5d6937111f70d",
+  "normalized_text_sha256": "7c3e62fe71dd7ccf858cf7aa03fc6e89bff4bdd528f707c1ab0f0878d796b215",
   "normalized_md_path": "SR_Letters/md/sr03-22-ca03-15.md",
   "canonical_json_path": "SR_Letters/json/sr03-22-ca03-15.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -81,5 +81,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 03-22 / CA 03-15 CA 03-15:  Framework for Assessing Consumer Compliance Risk at Bank Holding Companies  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION DIVISION OF CONSUMERAND COMMUNITY AFFAIRS TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 03-22 / CA 03-15: CA 03-15:  Framework for Assessing Consumer Compliance Risk at Bank Holding Companies"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 03-22 / CA 03-15: CA 03-15:  Framework for Assessing Consumer Compliance Risk at Bank Holding Companies",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 03-22 / CA 03-15"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr03-22-ca03-15",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2003-12-23",
+  "version_label": "2003"
 }

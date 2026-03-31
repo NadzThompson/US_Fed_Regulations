@@ -31,7 +31,7 @@
   "effective_date_start": "1996-12-20",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 361,
+  "word_count_raw_body": 399,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR9637.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR9637.htm",
-  "normalized_text_sha256": "3ea775048de62cd9285692d201696a85e6cc40c82d2c0755cb330bff1bac805f",
+  "normalized_text_sha256": "ac9d9730078f0cc4830a3860d3bce99cc7243986d05386b6507db9f5427b7af9",
   "normalized_md_path": "SR_Letters/md/sr96-37(sup).md",
   "canonical_json_path": "SR_Letters/json/sr96-37(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,5 +77,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 96-37 (SUP) SR 96-37 (SUP):  Supervisory Guidance on Required Absences from Sensitive Positions  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 96-37 (SUP): SR 96-37 (SUP):  Supervisory Guidance on Required Absences from Sensitive Positions"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 96-37 (SUP): SR 96-37 (SUP):  Supervisory Guidance on Required Absences from Sensitive Positions",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 96-37 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr96-37(sup)",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1996-12-20",
+  "version_label": "1996"
 }

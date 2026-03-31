@@ -29,17 +29,17 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 6,
   "appendix_count": 0,
-  "word_count_raw_body": 1106,
+  "word_count_raw_body": 1209,
   "section_headings": [
-    "\u00a7 214.1 Scope of part.",
-    "\u00a7 214.2 Information to be furnished to the Board.",
-    "\u00a7 214.3 Conferences and negotiations with foreign banks, bankers, or States.",
-    "\u00a7 214.4 Agreements with foreign banks, bankers, or States, and participation in foreign accounts.",
-    "\u00a7 214.5 Accounts with foreign banks.",
-    "\u00a7 214.6 Amendments."
+    "§ 214.1 Scope of part.",
+    "§ 214.2 Information to be furnished to the Board.",
+    "§ 214.3 Conferences and negotiations with foreign banks, bankers, or States.",
+    "§ 214.4 Agreements with foreign banks, bankers, or States, and participation in foreign accounts.",
+    "§ 214.5 Accounts with foreign banks.",
+    "§ 214.6 Amendments."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-214",
@@ -66,7 +66,7 @@
   "inline_cross_references": [
     "Regulation N"
   ],
-  "normalized_text_sha256": "a758f743096d1122e19d03e20dd0efda04d167c8b60532afe3aa7f2745066202",
+  "normalized_text_sha256": "65fe90839385a6f62e150fd56531cf6f024aa9ffd875b2f9104f60f92d06e0b1",
   "normalized_md_path": "ecfr/md/Reg_N_Relations_with_Foreign_Banks_and_Bankers_12CFR214.md",
   "canonical_json_path": "ecfr/json/Reg_N_Relations_with_Foreign_Banks_and_Bankers_12CFR214.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -79,6 +79,23 @@
   "applies_to_foreign_banking_orgs": true,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg N Regulation N: Relations with Foreign Banks and Bankers 12 CFR Part 214 \u00a7 214.1 Scope of part. \u00a7 214.2 Information to be furnished to the Board. \u00a7 214.3 Conferences and negotiations with foreign banks, bankers, or States. \u00a7 214.4 Agreements with foreign banks, bankers, or States, and participation in foreign accounts. \u00a7 214.5 Accounts with foreign banks. \u00a7 214.6 Amendments.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 214 Reg N: Regulation N: Relations with Foreign Banks and Bankers"
+  "bm25_text": "Reg N Regulation N: Relations with Foreign Banks and Bankers 12 CFR Part 214 § 214.1 Scope of part. § 214.2 Information to be furnished to the Board. § 214.3 Conferences and negotiations with foreign banks, bankers, or States. § 214.4 Agreements with foreign banks, bankers, or States, and participation in foreign accounts. § 214.5 Accounts with foreign banks. § 214.6 Amendments.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 214 Reg N: Regulation N: Relations with Foreign Banks and Bankers",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation N",
+    "Part 214"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regn.214",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": true,
+  "contains_parameter": true
 }

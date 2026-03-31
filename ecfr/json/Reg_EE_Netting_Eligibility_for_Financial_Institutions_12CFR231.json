@@ -29,14 +29,14 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 3,
   "appendix_count": 0,
-  "word_count_raw_body": 1031,
+  "word_count_raw_body": 1094,
   "section_headings": [
-    "\u00a7 231.1 Authority, purpose, and scope.",
-    "\u00a7 231.2 Definitions.",
-    "\u00a7 231.3 Qualification as a financial institution."
+    "§ 231.1 Authority, purpose, and scope.",
+    "§ 231.2 Definitions.",
+    "§ 231.3 Qualification as a financial institution."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-231",
@@ -63,7 +63,7 @@
   "inline_cross_references": [
     "Regulation EE"
   ],
-  "normalized_text_sha256": "1dd4410e7272092cb9999b7de63e82fbad9bff2341cf35b89a0c6c7f384fb010",
+  "normalized_text_sha256": "60feb3d97c5b393baca342b7834ac7dfc5c8210ebb01a4444358cd28bb0c9cfe",
   "normalized_md_path": "ecfr/md/Reg_EE_Netting_Eligibility_for_Financial_Institutions_12CFR231.md",
   "canonical_json_path": "ecfr/json/Reg_EE_Netting_Eligibility_for_Financial_Institutions_12CFR231.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -76,6 +76,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg EE Regulation EE: Netting Eligibility for Financial Institutions 12 CFR Part 231 \u00a7 231.1 Authority, purpose, and scope. \u00a7 231.2 Definitions. \u00a7 231.3 Qualification as a financial institution.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 231 Reg EE: Regulation EE: Netting Eligibility for Financial Institutions"
+  "bm25_text": "Reg EE Regulation EE: Netting Eligibility for Financial Institutions 12 CFR Part 231 § 231.1 Authority, purpose, and scope. § 231.2 Definitions. § 231.3 Qualification as a financial institution.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 231 Reg EE: Regulation EE: Netting Eligibility for Financial Institutions",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation EE",
+    "Part 231"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regee.231",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

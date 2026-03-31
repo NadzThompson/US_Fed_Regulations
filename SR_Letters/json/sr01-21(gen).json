@@ -31,7 +31,7 @@
   "effective_date_start": "2001-09-06",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:39Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": false,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2208,
+  "word_count_raw_body": 2245,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr0121.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr0121.htm",
-  "normalized_text_sha256": "eab799f404c666da4af3d2261fa2a69039f0813520261da5eae0785f4ad282a0",
+  "normalized_text_sha256": "1938bc142c7c58ef0dcf347bb95c9591af29e886ee0ae38dcfb2b7607277a33d",
   "normalized_md_path": "SR_Letters/md/sr01-21(gen).md",
   "canonical_json_path": "SR_Letters/json/sr01-21(gen).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,5 +77,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 01-21 (GEN) SR 01-21 (GEN):Communications with Foreign Bank Regulatory and Supervisory Authorities  BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 01-21 (GEN): SR 01-21 (GEN):Communications with Foreign Bank Regulatory and Supervisory Authorities"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 01-21 (GEN): SR 01-21 (GEN):Communications with Foreign Bank Regulatory and Supervisory Authorities",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 01-21 (GEN)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr01-21(gen)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2001-09-06",
+  "version_label": "2001"
 }

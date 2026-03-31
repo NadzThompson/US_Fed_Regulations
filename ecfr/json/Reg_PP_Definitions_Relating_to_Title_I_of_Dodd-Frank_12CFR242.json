@@ -29,15 +29,15 @@
   "ecfr_current_as_of": "2026-03-09",
   "effective_date_start": "2026-03-09",
   "scraped_on": "2026-03-11",
-  "enriched_timestamp": "2026-03-26T01:10:29Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 4,
   "appendix_count": 1,
-  "word_count_raw_body": 1997,
+  "word_count_raw_body": 6525,
   "section_headings": [
-    "\u00a7 242.1 Authority and purpose.",
-    "\u00a7 242.2 Definitions.",
-    "\u00a7 242.3 Nonbank companies \u201cpredominantly engaged\u201d in financial activities.",
-    "\u00a7 242.4 Significant nonbank financial companies and significant bank holding companies."
+    "§ 242.1 Authority and purpose.",
+    "§ 242.2 Definitions.",
+    "§ 242.3 Nonbank companies “predominantly engaged” in financial activities.",
+    "§ 242.4 Significant nonbank financial companies and significant bank holding companies."
   ],
   "content_source": "eCFR API",
   "source_url": "https://www.ecfr.gov/current/title-12/chapter-II/part-242",
@@ -64,7 +64,7 @@
   "inline_cross_references": [
     "Regulation PP"
   ],
-  "normalized_text_sha256": "4eb16c62aca2f784ba41fd57647894d82030b45a45291d99d194abf452414e32",
+  "normalized_text_sha256": "22968c30155fbe36d1d63f358e90ceee1aad92bc7d5236fe9e5a9071285e66e6",
   "normalized_md_path": "ecfr/md/Reg_PP_Definitions_Relating_to_Title_I_of_Dodd-Frank_12CFR242.md",
   "canonical_json_path": "ecfr/json/Reg_PP_Definitions_Relating_to_Title_I_of_Dodd-Frank_12CFR242.json",
   "parser_version": "nova-ecfr-scraper-v1",
@@ -77,6 +77,23 @@
   "applies_to_foreign_banking_orgs": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_nonbank_financial": false,
-  "bm25_text": "Reg PP Regulation PP: Definitions Relating to Title I of Dodd-Frank 12 CFR Part 242 \u00a7 242.1 Authority and purpose. \u00a7 242.2 Definitions. \u00a7 242.3 Nonbank companies \u201cpredominantly engaged\u201d in financial activities. \u00a7 242.4 Significant nonbank financial companies and significant bank holding companies.",
-  "vector_text_prefix": "US Federal Reserve 12 CFR Part 242 Reg PP: Regulation PP: Definitions Relating to Title I of Dodd-Frank"
+  "bm25_text": "Reg PP Regulation PP: Definitions Relating to Title I of Dodd-Frank 12 CFR Part 242 § 242.1 Authority and purpose. § 242.2 Definitions. § 242.3 Nonbank companies “predominantly engaged” in financial activities. § 242.4 Significant nonbank financial companies and significant bank holding companies.",
+  "vector_text_prefix": "US Federal Reserve 12 CFR Part 242 Reg PP: Regulation PP: Definitions Relating to Title I of Dodd-Frank",
+  "heading_path": [
+    "Federal Reserve System",
+    "12 CFR Chapter II",
+    "Regulation PP",
+    "Part 242"
+  ],
+  "structural_level": "part",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.regpp.242",
+  "version_id": "2026-03-09",
+  "version_label": "2026",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "contains_formula": false,
+  "contains_deadline": false,
+  "contains_parameter": true
 }

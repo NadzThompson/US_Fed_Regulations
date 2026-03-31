@@ -40,7 +40,7 @@
   "source_url": "https://www.federalregister.gov/documents/2013/02/27/2013-04497/enhanced-prudential-standards-and-early-remediation-requirements-for-foreign-banking-organizations",
   "canonical_url": "https://www.federalregister.gov/documents/2013/02/27/2013-04497/enhanced-prudential-standards-and-early-remediation-requirements-for-foreign-banking-organizations",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:22Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 2013-04497",
@@ -83,5 +83,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 2013-04497: Enhanced Prudential Standards and Early Remediation Requirements for Foreign Banking Organizations and Foreign Nonbank Financial Companies",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "2013-04497"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.2013-04497",
+  "citation_anchor": "#fr-2013-04497",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "2013-02-27",
+  "version_label": "2013"
 }

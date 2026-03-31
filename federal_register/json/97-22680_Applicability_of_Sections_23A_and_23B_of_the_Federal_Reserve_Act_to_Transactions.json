@@ -38,7 +38,7 @@
   "source_url": "https://www.federalregister.gov/documents/1997/08/26/97-22680/applicability-of-sections-23a-and-23b-of-the-federal-reserve-act-to-transactions-between-a-member",
   "canonical_url": "https://www.federalregister.gov/documents/1997/08/26/97-22680/applicability-of-sections-23a-and-23b-of-the-federal-reserve-act-to-transactions-between-a-member",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:46Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 97-22680",
@@ -81,5 +81,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 97-22680: Applicability of Sections 23A and 23B of the Federal Reserve Act to Transactions Between a Member Bank and its Subsidiaries",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "97-22680"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.97-22680",
+  "citation_anchor": "#fr-97-22680",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1997-08-26",
+  "version_label": "1997"
 }

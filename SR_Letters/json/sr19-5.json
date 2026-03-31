@@ -31,8 +31,8 @@
   "effective_date_start": "2019-03-07",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
-  "applicability_raw": "This guidance applies to the supervision of state member banks, bank holding companies and savings and loan holding companies with less than $10\u00a0billion in total consolidated assets, including those that are part of a foreign banking organization's U.S. operations.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "This guidance applies to the supervision of state member banks, bank holding companies and savings and loan holding companies with less than $10 billion in total consolidated assets, including those that are part of a foreign banking organization's U.S. operations.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2251,
+  "word_count_raw_body": 2325,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -62,7 +62,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1905.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1905.htm",
-  "normalized_text_sha256": "14e59a9728a6d04cdb7d61f34011059193aa2b14f387179739374b4e1051b9ce",
+  "normalized_text_sha256": "2fc5c1b0fe337128142ea1459793607317586c998c097aee58a0a0dfd9843f23",
   "normalized_md_path": "SR_Letters/md/sr19-5.md",
   "canonical_json_path": "SR_Letters/json/sr19-5.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 19-5 Communication Expectations for Community Bank Examinations and Inspections This guidance applies to the supervision of state member banks, bank holding companies and savings and loan holding companies with less than $10\u00a0billion in total consolidated assets, including those that are part of a foreign banking organization's U.S. operations. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 19-5: Communication Expectations for Community Bank Examinations and Inspections"
+  "bm25_text": "SR 19-5 Communication Expectations for Community Bank Examinations and Inspections This guidance applies to the supervision of state member banks, bank holding companies and savings and loan holding companies with less than $10 billion in total consolidated assets, including those that are part of a foreign banking organization's U.S. operations. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 19-5: Communication Expectations for Community Bank Examinations and Inspections",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 19-5"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr19-5",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2019-03-07",
+  "version_label": "2019"
 }

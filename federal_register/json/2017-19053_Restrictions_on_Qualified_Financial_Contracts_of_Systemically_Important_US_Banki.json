@@ -52,7 +52,7 @@
   "source_url": "https://www.federalregister.gov/documents/2017/09/12/2017-19053/restrictions-on-qualified-financial-contracts-of-systemically-important-us-banking-organizations-and",
   "canonical_url": "https://www.federalregister.gov/documents/2017/09/12/2017-19053/restrictions-on-qualified-financial-contracts-of-systemically-important-us-banking-organizations-and",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:25Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2017-19053",
@@ -97,5 +97,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2017-19053: Restrictions on Qualified Financial Contracts of Systemically Important U.S. Banking Organizations and the U.S. Operations of Systemically Important F",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2017-19053"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2017-19053",
+  "citation_anchor": "#fr-2017-19053",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2017-09-12",
+  "version_label": "2017"
 }

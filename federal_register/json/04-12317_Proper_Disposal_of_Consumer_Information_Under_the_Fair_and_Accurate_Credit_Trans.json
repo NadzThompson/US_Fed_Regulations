@@ -103,7 +103,7 @@
   "source_url": "https://www.federalregister.gov/documents/2004/06/08/04-12317/proper-disposal-of-consumer-information-under-the-fair-and-accurate-credit-transactions-act-of-2003",
   "canonical_url": "https://www.federalregister.gov/documents/2004/06/08/04-12317/proper-disposal-of-consumer-information-under-the-fair-and-accurate-credit-transactions-act-of-2003",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:19Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 04-12317",
@@ -156,5 +156,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 04-12317: Proper Disposal of Consumer Information Under the Fair and Accurate Credit Transactions Act of 2003",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "04-12317"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.04-12317",
+  "citation_anchor": "#fr-04-12317",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2004-06-08",
+  "version_label": "2004"
 }

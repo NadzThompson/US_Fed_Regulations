@@ -62,7 +62,7 @@
   "source_url": "https://www.federalregister.gov/documents/1997/10/27/97-28270/risk-based-capital-standards-construction-loans-on-presold-residential-properties-junior-liens-on-1-",
   "canonical_url": "https://www.federalregister.gov/documents/1997/10/27/97-28270/risk-based-capital-standards-construction-loans-on-presold-residential-properties-junior-liens-on-1-",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:46Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": false,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Proposed Rule > 97-28270",
@@ -108,5 +108,20 @@
   "vector_text_prefix": "Federal Reserve Proposed Rule 97-28270: Risk-Based Capital Standards: Construction Loans on Presold Residential Properties; Junior Liens on 1- to 4-Family Residential Properties; and Mutual ",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Proposed Rule",
+    "97-28270"
+  ],
+  "structural_level": "document",
+  "normative_weight": "informational",
+  "paragraph_role": "rationale",
+  "doc_family_id": "usfed.fr.97-28270",
+  "citation_anchor": "#fr-97-28270",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1997-10-27",
+  "version_label": "1997"
 }

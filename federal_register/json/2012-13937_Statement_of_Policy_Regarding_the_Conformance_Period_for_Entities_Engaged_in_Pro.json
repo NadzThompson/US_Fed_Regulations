@@ -37,7 +37,7 @@
   "source_url": "https://www.federalregister.gov/documents/2012/06/08/2012-13937/statement-of-policy-regarding-the-conformance-period-for-entities-engaged-in-prohibited-proprietary",
   "canonical_url": "https://www.federalregister.gov/documents/2012/06/08/2012-13937/statement-of-policy-regarding-the-conformance-period-for-entities-engaged-in-prohibited-proprietary",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:22Z",
+  "enriched_timestamp": "2026-03-31T14:37:43Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > 2012-13937",
@@ -80,5 +80,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule 2012-13937: Statement of Policy Regarding the Conformance Period for Entities Engaged in Prohibited Proprietary Trading or Private Equity Fund or Hedge Fund Activ",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "2012-13937"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.2012-13937",
+  "citation_anchor": "#fr-2012-13937",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2012-06-08",
+  "version_label": "2012"
 }

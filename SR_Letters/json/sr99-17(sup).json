@@ -31,7 +31,7 @@
   "effective_date_start": "1999-06-24",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": true,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1818,
+  "word_count_raw_body": 1877,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -60,7 +60,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1999/SR9917.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1999/SR9917.HTM",
-  "normalized_text_sha256": "7ce534fb6203892c171ca89b13ab0690103bf5e35b4fec6a7520b0b241a8daa8",
+  "normalized_text_sha256": "04c953176f57a9b3545a17812ab057628d115305352316af526639340431c491",
   "normalized_md_path": "SR_Letters/md/sr99-17(sup).md",
   "canonical_json_path": "SR_Letters/json/sr99-17(sup).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -74,6 +74,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 99-17 (SUP) FRB: Supervisory Letter SR 99-17 (SUP) on supervisory ratings for state member banks, bank holding companies and foreign banking organizations, and related requirements for the National Examination Data System --June 24, 1999  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 99-17 (SUP): FRB: Supervisory Letter SR 99-17 (SUP) on supervisory ratings for state member banks, bank holding companies and foreign banking organizations, and related requirements for the National Examination Data System --June 24, 1999"
+  "bm25_text": "SR 99-17 (SUP) FRB: Supervisory Letter SR 99-17 (SUP) on supervisory ratings for state member banks, bank holding companies and foreign banking organizations, and related requirements for the National Examination Data System --June 24, 1999  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 99-17 (SUP): FRB: Supervisory Letter SR 99-17 (SUP) on supervisory ratings for state member banks, bank holding companies and foreign banking organizations, and related requirements for the National Examination Data System --June 24, 1999",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 99-17 (SUP)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr99-17(sup)",
+  "contains_definition": true,
+  "contains_requirement": true,
+  "version_id": "1999-06-24",
+  "version_label": "1999"
 }

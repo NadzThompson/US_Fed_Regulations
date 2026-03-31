@@ -31,7 +31,7 @@
   "effective_date_start": "1995-09-14",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:41Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "of the February 1994 Interagency",
   "applies_to_state_member_banks": false,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 2231,
+  "word_count_raw_body": 2285,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION",
     "AT EACH FEDERAL RESERVE BANK",
@@ -77,7 +77,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9546.htm",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1995/sr9546.htm",
-  "normalized_text_sha256": "f9baec1f8a3f4da88083442a2e22d856af6e4d10c678982f90e98f54f19ef690",
+  "normalized_text_sha256": "cdef36111b2266cf50e837d90f20411ffaa84c3d2b3186821683dd7813db9ce4",
   "normalized_md_path": "SR_Letters/md/sr95-46(spe).md",
   "canonical_json_path": "SR_Letters/json/sr95-46(spe).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -89,6 +89,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 95-46 (SPE) FRB: Supervisory Letter SR 95-46 (SPE) on interpretation of interagency statement on retail sales of nondeposit investment products -- September 14, 1995 of the February 1994 Interagency BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FEDERAL DEPOSIT INSURANCE CORPORATION OFFICE OF THE COMPTROLLER OF THE CURRENCY OFFICE OF THRIFT SUPERVISION",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 95-46 (SPE): FRB: Supervisory Letter SR 95-46 (SPE) on interpretation of interagency statement on retail sales of nondeposit investment products -- September 14, 1995"
+  "bm25_text": "SR 95-46 (SPE) FRB: Supervisory Letter SR 95-46 (SPE) on interpretation of interagency statement on retail sales of nondeposit investment products -- September 14, 1995 of the February 1994 Interagency BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT: ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM FEDERAL DEPOSIT INSURANCE CORPORATION OFFICE OF THE COMPTROLLER OF THE CURRENCY OFFICE OF THRIFT SUPERVISION",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 95-46 (SPE): FRB: Supervisory Letter SR 95-46 (SPE) on interpretation of interagency statement on retail sales of nondeposit investment products -- September 14, 1995",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 95-46 (SPE)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr95-46(spe)",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "1995-09-14",
+  "version_label": "1995"
 }

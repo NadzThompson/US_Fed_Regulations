@@ -31,7 +31,7 @@
   "effective_date_start": "1999-03-26",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:40Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,9 +40,9 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 1696,
+  "word_count_raw_body": 1748,
   "section_headings": [
-    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551",
+    "BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551",
     "DIVISION OF BANKINGSUPERVISION AND REGULATION",
     "TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE",
     "SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL",
@@ -68,7 +68,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/boarddocs/srletters/1999/SR9907.HTM",
   "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/1999/SR9907.HTM",
-  "normalized_text_sha256": "34f0c5638bac4385ed0597a69b678274fb208700f5b3b3bd94db737be38ac279",
+  "normalized_text_sha256": "5280b7f0915c5ee25071466c1e30b2b0355195ca10e409ddfeaa0318d045f388",
   "normalized_md_path": "SR_Letters/md/sr99-7(spe).md",
   "canonical_json_path": "SR_Letters/json/sr99-7(spe).json",
   "parser_version": "nova-sr-scraper-v1",
@@ -82,6 +82,20 @@
   ],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 99-7 (SPE) FRB: Supervisory Letter SR 99-7 (SPE) on supervisory guidance regarding the investment of fiduciary assets in mutual funds and potential conflicts of interest--March 26, 1999  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.\u00a0\u00a020551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE SUBJECT: TO THE CHIEF EXECUTIVE OFFICER AT DOMESTIC AND FOREIGN BANKING ORGANIZATIONS SUPERVISED BY THE",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 99-7 (SPE): FRB: Supervisory Letter SR 99-7 (SPE) on supervisory guidance regarding the investment of fiduciary assets in mutual funds and potential conflicts of interest--March 26, 1999"
+  "bm25_text": "SR 99-7 (SPE) FRB: Supervisory Letter SR 99-7 (SPE) on supervisory guidance regarding the investment of fiduciary assets in mutual funds and potential conflicts of interest--March 26, 1999  BOARD OF GOVERNORSOF THEFEDERAL RESERVE SYSTEMWASHINGTON, D. C.  20551 DIVISION OF BANKINGSUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE SUBJECT: TO THE CHIEF EXECUTIVE OFFICER AT DOMESTIC AND FOREIGN BANKING ORGANIZATIONS SUPERVISED BY THE",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 99-7 (SPE): FRB: Supervisory Letter SR 99-7 (SPE) on supervisory guidance regarding the investment of fiduciary assets in mutual funds and potential conflicts of interest--March 26, 1999",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 99-7 (SPE)"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr99-7(spe)",
+  "contains_definition": false,
+  "contains_requirement": true,
+  "version_id": "1999-03-26",
+  "version_label": "1999"
 }

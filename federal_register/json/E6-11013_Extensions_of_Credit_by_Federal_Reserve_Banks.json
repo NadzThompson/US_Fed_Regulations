@@ -37,7 +37,7 @@
   "source_url": "https://www.federalregister.gov/documents/2006/07/13/E6-11013/extensions-of-credit-by-federal-reserve-banks",
   "canonical_url": "https://www.federalregister.gov/documents/2006/07/13/E6-11013/extensions-of-credit-by-federal-reserve-banks",
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T01:11:47Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "include_in_primary_corpus": true,
   "include_in_context_corpus": true,
   "section_path": "Federal Reserve System > Federal Register > Final Rule > E6-11013",
@@ -80,5 +80,20 @@
   "vector_text_prefix": "Federal Reserve Final Rule E6-11013: Extensions of Credit by Federal Reserve Banks",
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "include_in_support_corpus": true
+  "include_in_support_corpus": true,
+  "heading_path": [
+    "Federal Reserve System",
+    "Federal Register",
+    "Final Rule",
+    "E6-11013"
+  ],
+  "structural_level": "document",
+  "normative_weight": "mandatory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.fr.E6-11013",
+  "citation_anchor": "#fr-E6-11013",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2006-07-13",
+  "version_label": "2006"
 }

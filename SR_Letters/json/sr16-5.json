@@ -31,7 +31,7 @@
   "effective_date_start": "2016-03-04",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:36Z",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
   "applicability_raw": "This guidance applies to all state member banks, bank holding companies, and nonbank subsidiaries of bank holding companies, regardless of the asset size of the supervised institution.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 487,
+  "word_count_raw_body": 561,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -64,7 +64,7 @@
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1605.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1605.htm",
-  "normalized_text_sha256": "af4ac83e249337027dfe2c01f7cffa32fc5a5038aea9043d0ca227bb0686dde1",
+  "normalized_text_sha256": "e72713387da9327a0bd9bc388240d1e1ff7d9148a85c77f89ffe77926e493d36",
   "normalized_md_path": "SR_Letters/md/sr16-5.md",
   "canonical_json_path": "SR_Letters/json/sr16-5.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -77,5 +77,19 @@
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
   "bm25_text": "SR 16-5 Supervisory Letter SR 16-5 on Interagency Advisory on the Use of Evaluations in Real Estate-Related Financial Transactions -- March 4, 2016 This guidance applies to all state member banks, bank holding companies, and nonbank subsidiaries of bank holding companies, regardless of the asset size of the supervised institution. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 16-5: Supervisory Letter SR 16-5 on Interagency Advisory on the Use of Evaluations in Real Estate-Related Financial Transactions -- March 4, 2016"
+  "vector_text_prefix": "Federal Reserve SR Letter SR 16-5: Supervisory Letter SR 16-5 on Interagency Advisory on the Use of Evaluations in Real Estate-Related Financial Transactions -- March 4, 2016",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 16-5"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr16-5",
+  "contains_definition": false,
+  "contains_requirement": false,
+  "version_id": "2016-03-04",
+  "version_label": "2016"
 }

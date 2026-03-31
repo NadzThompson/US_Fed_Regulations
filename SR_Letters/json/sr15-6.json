@@ -31,8 +31,8 @@
   "effective_date_start": "2015-04-06",
   "effective_date_end": null,
   "scraped_on": "2026-03-26",
-  "enriched_timestamp": "2026-03-26T00:59:37Z",
-  "applicability_raw": "Applicability: \u00a0This guidance applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets.",
+  "enriched_timestamp": "2026-03-31T14:37:45Z",
+  "applicability_raw": "Applicability:  This guidance applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets.",
   "applies_to_state_member_banks": true,
   "applies_to_bank_holding_companies": true,
   "applies_to_savings_loan_holding": true,
@@ -40,7 +40,7 @@
   "applies_to_nonbank_financial": false,
   "applies_to_edge_agreement_corps": false,
   "applies_to_large_institutions": false,
-  "word_count_raw_body": 517,
+  "word_count_raw_body": 603,
   "section_headings": [
     "BOARD OF GOVERNORS",
     "OF THE FEDERAL RESERVE SYSTEM",
@@ -57,14 +57,14 @@
   "has_footnotes": false,
   "footnote_count": 0,
   "inline_cross_references": [
-    "12\u00a0CFR\u00a0217",
+    "12 CFR 217",
     "Regulation Q",
     "SR 15-6"
   ],
   "content_source": "Federal Reserve Website",
   "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1506.htm",
   "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/sr1506.htm",
-  "normalized_text_sha256": "b984f08b23203c44c6fcacdea617c72873f6b3d1bf9a96f09dee7eafbdf5014d",
+  "normalized_text_sha256": "c1ef6f19618209a519648a39c93f367c093fe5bb47c113d1264a27e2b2d2c830",
   "normalized_md_path": "SR_Letters/md/sr15-6.md",
   "canonical_json_path": "SR_Letters/json/sr15-6.json",
   "parser_version": "nova-sr-scraper-v1",
@@ -76,6 +76,20 @@
   "quality_flags": [],
   "superseded_by_doc_id": null,
   "supersedes_doc_id": null,
-  "bm25_text": "SR 15-6 Supervisory Letter SR 15-6 on Interagency Frequently Asked Questions (FAQs) on the Regulatory Capital Rule -- April 6, 2015 Applicability: \u00a0This guidance applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
-  "vector_text_prefix": "Federal Reserve SR Letter SR 15-6: Supervisory Letter SR 15-6 on Interagency Frequently Asked Questions (FAQs) on the Regulatory Capital Rule -- April 6, 2015"
+  "bm25_text": "SR 15-6 Supervisory Letter SR 15-6 on Interagency Frequently Asked Questions (FAQs) on the Regulatory Capital Rule -- April 6, 2015 Applicability:  This guidance applies to state member banks, bank holding companies, and savings and loan holding companies (not substantially engaged in insurance underwriting or commercial activities) supervised by the Federal Reserve, including those with $10 billion or less in consolidated assets. BOARD OF GOVERNORS OF THE FEDERAL RESERVE SYSTEM WASHINGTON, D.C. 20551 DIVISION OF BANKING SUPERVISION AND REGULATION TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK SUBJECT:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 15-6: Supervisory Letter SR 15-6 on Interagency Frequently Asked Questions (FAQs) on the Regulatory Capital Rule -- April 6, 2015",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 15-6"
+  ],
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "paragraph_role": "scope_statement",
+  "doc_family_id": "usfed.sr15-6",
+  "contains_definition": true,
+  "contains_requirement": false,
+  "version_id": "2015-04-06",
+  "version_label": "2015"
 }
