@@ -27,7 +27,7 @@
   "source": "38 FR 6807, Mar. 13, 1973, unless otherwise noted.",
   "issuing_agency": "Board of Governors of the Federal Reserve System",
   "ecfr_current_as_of": "2026-03-24",
-  "effective_date_start": "2026-03-24",
+  "effective_date_start": "2026-03-20",
   "scraped_on": "2026-03-26",
   "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 9,
@@ -91,11 +91,12 @@
   "normative_weight": "advisory",
   "paragraph_role": "scope_statement",
   "doc_family_id": "usfed.part262.262",
-  "version_id": "2026-03-24",
+  "version_id": "2026-03-20",
   "version_label": "2026",
   "contains_definition": true,
   "contains_requirement": true,
   "contains_formula": false,
   "contains_deadline": true,
-  "contains_parameter": true
+  "contains_parameter": true,
+  "original_effective_date": "2016-12-27"
 }

@@ -27,7 +27,7 @@
   "source": "Reg. O, 59 FR 8837 , Feb. 24, 1994, unless otherwise noted.",
   "issuing_agency": "Board of Governors of the Federal Reserve System",
   "ecfr_current_as_of": "2026-03-09",
-  "effective_date_start": "2026-03-09",
+  "effective_date_start": "2021-05-21",
   "scraped_on": "2026-03-11",
   "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 12,
@@ -97,11 +97,12 @@
   "normative_weight": "mandatory",
   "paragraph_role": "scope_statement",
   "doc_family_id": "usfed.rego.215",
-  "version_id": "2026-03-09",
-  "version_label": "2026",
+  "version_id": "2021-05-21",
+  "version_label": "2021",
   "contains_definition": true,
   "contains_requirement": true,
   "contains_formula": false,
   "contains_deadline": true,
-  "contains_parameter": true
+  "contains_parameter": true,
+  "original_effective_date": "2017-01-01"
 }

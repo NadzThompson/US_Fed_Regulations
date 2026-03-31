@@ -27,7 +27,7 @@
   "source": "Reg. II, 76 FR 43466 , July 20, 2011, unless otherwise noted.",
   "issuing_agency": "Board of Governors of the Federal Reserve System",
   "ecfr_current_as_of": "2026-03-09",
-  "effective_date_start": "2026-03-09",
+  "effective_date_start": "2023-07-01",
   "scraped_on": "2026-03-11",
   "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 10,
@@ -95,11 +95,12 @@
   "normative_weight": "mandatory",
   "paragraph_role": "scope_statement",
   "doc_family_id": "usfed.regii.235",
-  "version_id": "2026-03-09",
-  "version_label": "2026",
+  "version_id": "2023-07-01",
+  "version_label": "2023",
   "contains_definition": true,
   "contains_requirement": true,
   "contains_formula": true,
   "contains_deadline": true,
-  "contains_parameter": true
+  "contains_parameter": true,
+  "original_effective_date": "2016-12-27"
 }

@@ -27,7 +27,7 @@
   "source": "Reg. MM, 76 FR 56357 , Sept. 13, 2011, unless otherwise noted.",
   "issuing_agency": "Board of Governors of the Federal Reserve System",
   "ecfr_current_as_of": "2026-03-09",
-  "effective_date_start": "2026-03-09",
+  "effective_date_start": "2020-03-02",
   "scraped_on": "2026-03-11",
   "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 47,
@@ -132,11 +132,12 @@
   "normative_weight": "mandatory",
   "paragraph_role": "scope_statement",
   "doc_family_id": "usfed.regmm.239",
-  "version_id": "2026-03-09",
-  "version_label": "2026",
+  "version_id": "2020-03-02",
+  "version_label": "2020",
   "contains_definition": true,
   "contains_requirement": true,
   "contains_formula": false,
   "contains_deadline": false,
-  "contains_parameter": true
+  "contains_parameter": true,
+  "original_effective_date": "2016-12-27"
 }

@@ -27,7 +27,7 @@
   "source": "",
   "issuing_agency": "Board of Governors of the Federal Reserve System",
   "ecfr_current_as_of": "2026-03-24",
-  "effective_date_start": "2026-03-24",
+  "effective_date_start": "2016-12-27",
   "scraped_on": "2026-03-26",
   "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 1,
@@ -83,11 +83,12 @@
   "normative_weight": "advisory",
   "paragraph_role": "scope_statement",
   "doc_family_id": "usfed.part264.264",
-  "version_id": "2026-03-24",
-  "version_label": "2026",
+  "version_id": "2016-12-27",
+  "version_label": "2016",
   "contains_definition": false,
   "contains_requirement": false,
   "contains_formula": false,
   "contains_deadline": false,
-  "contains_parameter": false
+  "contains_parameter": false,
+  "original_effective_date": "2016-12-27"
 }

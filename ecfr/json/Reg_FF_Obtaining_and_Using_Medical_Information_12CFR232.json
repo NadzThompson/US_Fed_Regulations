@@ -27,7 +27,7 @@
   "source": "70 FR 70682 , Nov. 22, 2005, unless otherwise noted.",
   "issuing_agency": "Board of Governors of the Federal Reserve System",
   "ecfr_current_as_of": "2026-03-09",
-  "effective_date_start": "2026-03-09",
+  "effective_date_start": "2017-01-24",
   "scraped_on": "2026-03-11",
   "enriched_timestamp": "2026-03-31T14:37:42Z",
   "section_count": 4,
@@ -89,11 +89,12 @@
   "normative_weight": "mandatory",
   "paragraph_role": "scope_statement",
   "doc_family_id": "usfed.regff.232",
-  "version_id": "2026-03-09",
-  "version_label": "2026",
+  "version_id": "2017-01-24",
+  "version_label": "2017",
   "contains_definition": true,
   "contains_requirement": true,
   "contains_formula": false,
   "contains_deadline": false,
-  "contains_parameter": true
+  "contains_parameter": true,
+  "original_effective_date": "2016-12-27"
 }

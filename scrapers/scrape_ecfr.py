@@ -504,9 +504,14 @@ def build_metadata(
         "issuing_division": "Board of Governors",
 
         # ── Temporal ──────────────────────────────────────────────────────
+        # ecfr_current_as_of = the eCFR snapshot date used for scraping
+        # effective_date_start = latest amendment date (from versions API)
+        # These are different: as_of is when we scraped, effective is when
+        # the current version of the regulation came into force
         "ecfr_current_as_of": as_of_date,
-        "effective_date_start": as_of_date,
+        "effective_date_start": None,  # Populated by enrich_metadata from versions API
         "effective_date_end": None,
+        "original_effective_date": None,  # Populated by enrich_metadata
         "scraped_on": SCRAPE_DATE,
         "enriched_timestamp": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
 

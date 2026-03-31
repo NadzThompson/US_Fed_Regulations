@@ -20,8 +20,11 @@ import hashlib
 import json
 import logging
 import re
+import time
 from datetime import datetime
 from pathlib import Path
+
+import requests
 
 from scrapers.config import (
     ECFR_DIR,
@@ -100,6 +103,34 @@ SR_REQUIRED = COMMON_REQUIRED + [
 ]
 
 
+# ─── eCFR effective date cache ────────────────────────────────────────────────
+_ecfr_effective_dates: dict[int, tuple[str, str]] = {}  # part -> (earliest, latest)
+
+def _fetch_ecfr_effective_dates(part_number: int) -> tuple[str | None, str | None]:
+    """Fetch true effective dates from the eCFR versions API.
+    Returns (original_effective_date, latest_amendment_date)."""
+    if part_number in _ecfr_effective_dates:
+        return _ecfr_effective_dates[part_number]
+    try:
+        resp = requests.get(
+            "https://www.ecfr.gov/api/versioner/v1/versions/title-12",
+            params={"part": part_number},
+            timeout=30,
+            headers={"User-Agent": "NOVA-eCFR-Enricher/1.0"},
+        )
+        resp.raise_for_status()
+        versions = resp.json().get("content_versions", [])
+        dates = sorted(set(v["date"] for v in versions if v.get("date")))
+        result = (dates[0] if dates else None, dates[-1] if dates else None)
+        _ecfr_effective_dates[part_number] = result
+        time.sleep(0.5)
+        return result
+    except Exception as e:
+        log.warning("Could not fetch versions for Part %d: %s", part_number, e)
+        _ecfr_effective_dates[part_number] = (None, None)
+        return (None, None)
+
+
 # ─── Enrichment functions ────────────────────────────────────────────────────
 
 def enrich_ecfr_metadata(json_path: Path, validate_only: bool = False) -> list[str]:
@@ -139,9 +170,22 @@ def enrich_ecfr_metadata(json_path: Path, validate_only: bool = False) -> list[s
             reg_slug = f"reg{reg_letter.lower()}" if reg_letter else f"part{part_num}"
             meta["doc_family_id"] = f"usfed.{reg_slug}.{part_num}"
 
+        # ── Fix effective_date_start: must be true effective date, not scrape date ──
+        # ecfr_current_as_of = snapshot date (when we scraped)
+        # effective_date_start = latest amendment date (when regulation took effect)
+        ecfr_as_of = meta.get("ecfr_current_as_of", "")
+        current_eff = meta.get("effective_date_start", "")
+        if part_num and (not current_eff or current_eff == ecfr_as_of):
+            original, latest = _fetch_ecfr_effective_dates(part_num)
+            if latest:
+                meta["effective_date_start"] = latest
+                meta["original_effective_date"] = original
+                meta["version_id"] = latest
+                meta["version_label"] = latest[:4]
+
         # Layer 3: Prompt injection
         if "version_id" not in meta:
-            meta["version_id"] = meta.get("ecfr_current_as_of", meta.get("effective_date_start", ""))
+            meta["version_id"] = meta.get("effective_date_start", meta.get("ecfr_current_as_of", ""))
         if "version_label" not in meta:
             vid = meta.get("version_id", "")
             meta["version_label"] = vid[:4] if vid else ""

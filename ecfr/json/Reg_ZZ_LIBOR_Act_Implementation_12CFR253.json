@@ -27,7 +27,7 @@
   "source": "88 FR 5220 , Jan. 26, 2023, unless otherwise noted.",
   "issuing_agency": "Board of Governors of the Federal Reserve System",
   "ecfr_current_as_of": "2026-03-09",
-  "effective_date_start": "2026-03-09",
+  "effective_date_start": "2024-01-01",
   "scraped_on": "2026-03-11",
   "enriched_timestamp": "2026-03-31T14:37:43Z",
   "section_count": 7,
@@ -92,11 +92,12 @@
   "normative_weight": "mandatory",
   "paragraph_role": "scope_statement",
   "doc_family_id": "usfed.regzz.253",
-  "version_id": "2026-03-09",
-  "version_label": "2026",
+  "version_id": "2024-01-01",
+  "version_label": "2024",
   "contains_definition": true,
   "contains_requirement": true,
   "contains_formula": false,
   "contains_deadline": false,
-  "contains_parameter": true
+  "contains_parameter": true,
+  "original_effective_date": "2023-02-27"
 }
