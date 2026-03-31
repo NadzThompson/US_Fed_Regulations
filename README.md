@@ -84,55 +84,86 @@ SR Letters:          SR_Letters/html/SR_25-6_Status...html +  SR_Letters/json/SR
 
 ### Which raw format to use
 
-| Source | Primary Raw Format | Use This | Why |
-|--------|-------------------|----------|-----|
-| **eCFR** | **HTML** | `ecfr/html/*.html` | Contains full regulation text with structural markup (`<div class="section">`, `<h3>`, indentation classes). The parser uses this structure to build `heading_path`, `section_path`, and detect `structural_level`. This is the original format returned by the eCFR renderer API. |
-| **Federal Register** | **HTML** | `federal_register/html/*.html` | Contains the document summary, abstract, action type, and links to the full FR and GovInfo PDF. For full-text ingestion, follow the `html_url` and `pdf_url` fields in the JSON metadata. |
-| **SR Letters** | **HTML** | `SR_Letters/html/*.html` | Contains the full letter text as scraped from federalreserve.gov, including header block, applicability statement, body content, and attachments. |
+Every document has **two raw content formats** (HTML and PDF) plus a derived text format (MD). Choose based on your parser:
 
-### Supporting formats (not primary RAG input)
+| Source | HTML (`html/`) | PDF (`pdf/`) | MD (`md/`) |
+|--------|---------------|-------------|-----------|
+| **eCFR** | Full regulation text with structural markup (`<div class="section">`, `<h3>`, indentation classes). Original format from the eCFR renderer API. **Best for structure-aware parsers.** | Rendered PDF of the regulation (180 pages for Reg Q). **Best for Azure Document Intelligence or other PDF parsers.** | Plain text with markdown headings. Derived from HTML. **Best for direct chunking/embedding.** |
+| **Federal Register** | Document summary with abstract, action type, and links. | Original government PDF from GovInfo (`govinfo.gov`). Contains the full published Federal Register page layout. **This is the authoritative original document.** | Markdown summary with abstract. |
+| **SR Letters** | Full letter text scraped from federalreserve.gov, including header, applicability, body, and attachments. | Rendered PDF of the letter content. | Plain text with markdown formatting. |
 
-| Format | Role | When to Use |
-|--------|------|-------------|
-| **MD** (Markdown) | Authoritative plain text derived from HTML | For chunking, embedding (`embed_texts()`), and BM25 indexing. This is the text that gets the Layer 1 semantic header prepended before embedding. Use this if your parser expects plain text rather than HTML. |
-| **PDF** | Rendered/archived content | Alternative input for parsers that prefer PDF (e.g., Azure Document Intelligence). Also serves as the human-readable archival format. |
-| **JSON** | Enriched NOVA metadata | **Always required alongside the raw content.** Drives all three NOVA metadata layers: `semantic_header()` (Layer 1), index filters (Layer 2), and `render_hit_for_prompt()` (Layer 3). |
+**Pick your primary raw format based on your parser:**
+
+| Parser Type | Use This | Pair With |
+|-------------|----------|-----------|
+| Structure-aware HTML parser | `html/*.html` | `json/*.json` |
+| PDF parser (Azure DI, pymupdf, etc.) | `pdf/*.pdf` | `json/*.json` |
+| Text-based chunker/embedder | `md/*.md` | `json/*.json` |
+
+**The JSON metadata file is always required** alongside whichever raw format you choose. It drives all three NOVA metadata layers: `semantic_header()` (Layer 1), index filters (Layer 2), and `render_hit_for_prompt()` (Layer 3).
+
+### Raw content provenance
+
+| Source | HTML Origin | PDF Origin |
+|--------|------------|------------|
+| **eCFR** | eCFR renderer API: `ecfr.gov/api/renderer/v1/content/enhanced/{date}/title-12?part={N}` | Rendered locally from the HTML content |
+| **Federal Register** | Constructed from FR API JSON response (`abstract`, `action`, links) | **Original government PDF** from GovInfo: `govinfo.gov/content/pkg/FR-{date}/pdf/{doc_number}.pdf` |
+| **SR Letters** | Scraped from `federalreserve.gov/supervisionreg/srletters/SR{YYNN}.htm` | Rendered locally from the HTML content |
+
+### What to ingest from each folder
+
+```
+ecfr/                           59 documents — eCFR Regulations (12 CFR Chapter II)
+  ├── html/*.html               ← Raw content: full regulation text with HTML structure
+  ├── pdf/*.pdf                 ← Raw content: rendered PDF of regulations
+  ├── md/*.md                   ← Derived text: markdown for direct chunking/embedding
+  └── json/*.json               ← ENRICHED METADATA (always required alongside raw content)
+
+federal_register/               2,431 documents — Federal Register Rules/Notices
+  ├── html/*.html               ← Raw content: document summary with abstract
+  ├── pdf/*.pdf                 ← Raw content: ORIGINAL government PDF from GovInfo
+  ├── md/*.md                   ← Derived text: markdown summary with abstract
+  └── json/*.json               ← ENRICHED METADATA (always required alongside raw content)
+
+SR_Letters/                     338 documents — Supervision & Regulation Letters
+  ├── html/*.html               ← Raw content: full letter text from federalreserve.gov
+  ├── pdf/*.pdf                 ← Raw content: rendered PDF of letter
+  ├── md/*.md                   ← Derived text: markdown for direct chunking/embedding
+  └── json/*.json               ← ENRICHED METADATA (always required alongside raw content)
+```
+
+**To ingest into the RAG model, pick ONE raw format per source + its paired JSON:**
+
+| Folder | Ingest These Two | Documents |
+|--------|-----------------|-----------|
+| `ecfr/` | `html/*.html` + `json/*.json` (or `pdf/` + `json/`, or `md/` + `json/`) | 59 |
+| `federal_register/` | `pdf/*.pdf` + `json/*.json` (original GovInfo PDFs) or `html/` + `json/` | 2,431 |
+| `SR_Letters/` | `html/*.html` + `json/*.json` (or `pdf/` + `json/`, or `md/` + `json/`) | 338 |
+| **Total** | | **2,828** |
 
 ### How it flows through the pipeline
 
 ```
-  ┌─────────────────────────────────────────────────────────────────────────┐
-  │  BRONZE LAYER (raw ingestion)                                          │
-  │                                                                        │
-  │  ecfr/html/Reg_Q_...html  ───► Parser reads HTML structure             │
-  │  ecfr/json/Reg_Q_...json  ───► Enriched metadata loaded alongside      │
-  │                                                                        │
-  ├─────────────────────────────────────────────────────────────────────────┤
-  │  SILVER LAYER (canonicalization)                                        │
-  │                                                                        │
-  │  Parser produces CanonicalDocument + CanonicalUnits                     │
-  │  Metadata from JSON populates: doc_id, heading_path, normative_weight, │
-  │    structural_level, authority_class, nova_tier, effective_date_start   │
-  │                                                                        │
-  │  OR: ecfr/md/Reg_Q_...md  ───► Use MD directly if parser expects text  │
-  │                                                                        │
-  ├─────────────────────────────────────────────────────────────────────────┤
-  │  GOLD LAYER (chunking + embedding)                                     │
-  │                                                                        │
-  │  Layer 1: semantic_header() prepends metadata to chunk text             │
-  │  Layer 2: index fields stored in ES + PGVector                         │
-  │  Layer 3: prompt fields assembled for LLM context                      │
-  │  Layer 4: operational fields stored for audit                           │
-  └─────────────────────────────────────────────────────────────────────────┘
+  BRONZE (raw ingestion)
+  ───────────────────────────────────────────────────────────────────────────
+  ecfr/html/Reg_Q_...html  ─────────────► Parser reads HTML structure
+  ecfr/json/Reg_Q_...json  ─────────────► Enriched metadata loaded alongside
+  federal_register/pdf/00-1646_...pdf ──► PDF parser (Azure DI / pymupdf)
+  federal_register/json/00-1646_...json ► Enriched metadata loaded alongside
+
+  SILVER (canonicalization)
+  ───────────────────────────────────────────────────────────────────────────
+  Parser produces CanonicalDocument + CanonicalUnits
+  JSON metadata populates: doc_id, heading_path, normative_weight,
+    structural_level, authority_class, nova_tier, effective_date_start
+
+  GOLD (chunking + embedding)
+  ───────────────────────────────────────────────────────────────────────────
+  Layer 1: semantic_header() prepends metadata to chunk text
+  Layer 2: index fields stored in ES + PGVector for filtering
+  Layer 3: prompt fields assembled for LLM context at answer time
+  Layer 4: operational fields stored for audit trail
 ```
-
-### Raw content origin by source
-
-| Source | Original Raw Format | API/URL Used to Scrape | What the HTML Contains |
-|--------|-------------------|------------------------|------------------------|
-| **eCFR** | HTML | `ecfr.gov/api/renderer/v1/content/enhanced/{date}/title-12?part={N}` | Full regulation text with section structure, indentation, authority citations, appendices, tables |
-| **Federal Register** | HTML | Constructed from `federalregister.gov/api/v1/documents.json` response | Document summary with abstract, action, FR/PDF links. Full text available via `html_url` and `pdf_url` in the JSON |
-| **SR Letters** | HTML | Scraped from `federalreserve.gov/supervisionreg/srletters/SR{YYNN}.htm` | Full letter text with header block, applicability statement, body, attachments |
 
 ## Enriched Metadata (JSON) - NOVA 3-Layer Architecture
 
