@@ -26,6 +26,7 @@ from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
+from xhtml2pdf import pisa
 
 from scrapers.config import (
     CFR_TITLE,
@@ -309,6 +310,20 @@ def generate_html(part_number: int, parsed: dict, as_of_date: str) -> str:
     return head + "\n" + "\n".join(body_lines)
 
 
+def generate_pdf(html_content: str, pdf_path: Path) -> bool:
+    """Generate a PDF from HTML content using xhtml2pdf."""
+    try:
+        with open(pdf_path, "wb") as f:
+            status = pisa.CreatePDF(html_content, dest=f)
+        if status.err:
+            log.error("PDF generation errors for %s: %d", pdf_path.name, status.err)
+            return False
+        return True
+    except Exception as e:
+        log.error("Failed to generate PDF %s: %s", pdf_path.name, e)
+        return False
+
+
 def build_metadata(
     part_number: int,
     parsed: dict,
@@ -393,20 +408,20 @@ def build_metadata(
 
     # contains_* content flags (scan the MD content)
     contains_definition = bool(re.search(
-        r"(?:means|defined as|definition of|the term)", md_content[:10000], re.IGNORECASE
+        r"(?:means|defined as|definition of|the term)", md_content, re.IGNORECASE
     ))
     contains_formula = bool(re.search(
         r"(?:formula|=\s*\(|calculated as|ratio\s*=)", md_content, re.IGNORECASE
     ))
     contains_requirement = bool(re.search(
-        r"\b(?:shall|must|required to|is required)\b", md_content[:10000], re.IGNORECASE
+        r"\b(?:shall|must|required to|is required)\b", md_content, re.IGNORECASE
     ))
     contains_deadline = bool(re.search(
         r"\b(?:within \d+ days|no later than|by \w+ \d{1,2},? \d{4})\b", md_content, re.IGNORECASE
     ))
     contains_parameter = bool(re.search(
         r"\b(?:threshold|minimum|maximum|at least|not exceed|percent|basis points)\b",
-        md_content[:10000], re.IGNORECASE
+        md_content, re.IGNORECASE
     ))
 
     # Cross-references (Layer 2: indexed for graph navigation)
@@ -548,7 +563,19 @@ def build_metadata(
         # ── Source ────────────────────────────────────────────────────────
         "content_source": "eCFR API",
         "source_url": f"https://www.ecfr.gov/current/title-{CFR_TITLE}/chapter-II/part-{part_number}",
+        "source_api_url": f"https://www.ecfr.gov/api/renderer/v1/content/enhanced/{as_of_date}/title-{CFR_TITLE}?part={part_number}",
         "canonical_url": f"https://www.ecfr.gov/current/title-{CFR_TITLE}/chapter-II/part-{part_number}",
+
+        # ── Connected files ──────────────────────────────────────────────
+        "connected_files": {
+            "source_url": f"https://www.ecfr.gov/current/title-{CFR_TITLE}/chapter-II/part-{part_number}",
+            "source_api_url": f"https://www.ecfr.gov/api/renderer/v1/content/enhanced/{as_of_date}/title-{CFR_TITLE}?part={part_number}",
+            "raw_html_local": f"ecfr/raw_html/{filename_stem}.html",
+            "styled_html_local": f"ecfr/html/{filename_stem}.html",
+            "metadata_json": f"ecfr/json/{filename_stem}.json",
+            "markdown": f"ecfr/md/{filename_stem}.md",
+            "pdf_local": f"ecfr/pdf/{filename_stem}.pdf",
+        },
 
         # ── Layer 2: Search fields ────────────────────────────────────────
         "bm25_text": bm25[:500],
@@ -556,6 +583,7 @@ def build_metadata(
 
         # ── Layer 4: Operational / audit trail ────────────────────────────
         "normalized_text_sha256": text_hash,
+        "raw_html_path": f"ecfr/raw_html/{filename_stem}.html",
         "normalized_md_path": f"ecfr/md/{filename_stem}.md",
         "canonical_json_path": f"ecfr/json/{filename_stem}.json",
         "parser_version": PARSER_VERSIONS["ecfr"],
@@ -571,13 +599,13 @@ def _extract_ecfr_cross_references(text: str) -> list[str]:
     """Extract regulatory cross-references from regulation text."""
     refs = set()
     # CFR references: "12 CFR 204", "12 CFR Part 217"
-    for m in re.finditer(r"\d+\s*CFR\s*(?:Part\s*)?\d+", text[:20000]):
+    for m in re.finditer(r"\d+\s*CFR\s*(?:Part\s*)?\d+", text):
         refs.add(m.group(0).strip())
     # Section cross-refs: "§ 204.2"
-    for m in re.finditer(r"§\s*\d+\.\d+", text[:20000]):
+    for m in re.finditer(r"§\s*\d+\.\d+", text):
         refs.add(m.group(0).strip())
     # Regulation letter references: "Regulation D", "Regulation YY"
-    for m in re.finditer(r"Regulation\s+[A-Z]{1,2}\b", text[:20000]):
+    for m in re.finditer(r"Regulation\s+[A-Z]{1,2}\b", text):
         refs.add(m.group(0).strip())
     return sorted(refs)
 
@@ -621,6 +649,28 @@ def _detect_indent_level(text: str) -> int:
 
 # ─── Main pipeline ────────────────────────────────────────────────────────────
 
+def enrich_effective_dates(metadata: dict, part_number: int) -> None:
+    """Enrich metadata with effective dates from the eCFR versions API."""
+    try:
+        versions = fetch_part_versions(part_number)
+        if versions:
+            # Get all amendment dates across all sections
+            amendment_dates = sorted(set(
+                v["amendment_date"] for v in versions
+                if v.get("amendment_date") and not v.get("removed")
+            ))
+            if amendment_dates:
+                metadata["effective_date_start"] = amendment_dates[-1]  # Most recent amendment
+                metadata["original_effective_date"] = amendment_dates[0]  # Earliest amendment
+                metadata["version_id"] = amendment_dates[-1]
+                metadata["amendment_count"] = len(amendment_dates)
+                metadata["amendment_dates"] = amendment_dates[-5:]  # Last 5 amendments
+                log.info("  Effective dates: %s (original) → %s (latest), %d amendments",
+                         amendment_dates[0], amendment_dates[-1], len(amendment_dates))
+    except Exception as e:
+        log.warning("  Could not fetch versions for Part %d: %s", part_number, e)
+
+
 def scrape_part(part_number: int, as_of_date: str) -> dict:
     """Scrape a single eCFR part: fetch HTML, parse, generate all output formats."""
     raw_html = fetch_part_html(as_of_date, part_number)
@@ -631,20 +681,44 @@ def scrape_part(part_number: int, as_of_date: str) -> dict:
     html_content = generate_html(part_number, parsed, as_of_date)
     metadata = build_metadata(part_number, parsed, as_of_date, filename_stem, md_content)
 
+    # Enrich with effective dates from the eCFR versions API
+    enrich_effective_dates(metadata, part_number)
+
     # Write outputs
     json_dir = ECFR_DIR / "json"
     md_dir = ECFR_DIR / "md"
     html_dir = ECFR_DIR / "html"
-    for d in [json_dir, md_dir, html_dir]:
+    raw_html_dir = ECFR_DIR / "raw_html"
+    pdf_dir = ECFR_DIR / "pdf"
+    for d in [json_dir, md_dir, html_dir, raw_html_dir, pdf_dir]:
         d.mkdir(parents=True, exist_ok=True)
 
     json_path = json_dir / f"{filename_stem}.json"
     md_path = md_dir / f"{filename_stem}.md"
     html_path = html_dir / f"{filename_stem}.html"
+    raw_html_path = raw_html_dir / f"{filename_stem}.html"
 
     json_path.write_text(json.dumps(metadata, indent=2, ensure_ascii=False), encoding="utf-8")
     md_path.write_text(md_content, encoding="utf-8")
     html_path.write_text(html_content, encoding="utf-8")
+
+    # Save the original raw HTML from the eCFR API (preserves all structure,
+    # hyperlinks, hierarchy metadata, and semantic markup)
+    raw_html_path.write_text(raw_html, encoding="utf-8")
+
+    # Generate PDF from the raw eCFR HTML (not the regenerated version)
+    # Wrap raw HTML in a minimal document shell for PDF rendering
+    pdf_html = f"""<!DOCTYPE html>
+<html><head><meta charset="UTF-8">
+<style>
+body {{ font-family: "Times New Roman", serif; max-width: 900px; margin: 1em auto; line-height: 1.5; font-size: 10pt; }}
+h1 {{ font-size: 14pt; }} h4 {{ font-size: 11pt; }}
+.indent-1 {{ margin-left: 2em; }} .indent-2 {{ margin-left: 4em; }}
+.indent-3 {{ margin-left: 6em; }} .indent-4 {{ margin-left: 8em; }}
+table {{ border-collapse: collapse; width: 100%; }} td, th {{ border: 1px solid #ccc; padding: 4px; }}
+</style></head><body>{raw_html}</body></html>"""
+    pdf_path = pdf_dir / f"{filename_stem}.pdf"
+    generate_pdf(pdf_html, pdf_path)
 
     log.info(
         "Part %d (%s): %d sections, %d words → %s",
@@ -671,23 +745,29 @@ def main():
     log.info("eCFR scrape starting: %d parts as of %s", len(parts_to_scrape), as_of_date)
 
     results = []
+    failures = []
     for part_num in parts_to_scrape:
         try:
             meta = scrape_part(part_num, as_of_date)
             results.append(meta)
         except requests.HTTPError as e:
             log.error("HTTP error scraping Part %d: %s", part_num, e)
+            failures.append({"part": part_num, "error": str(e)})
         except Exception as e:
             log.error("Error scraping Part %d: %s", part_num, e, exc_info=True)
+            failures.append({"part": part_num, "error": str(e)})
         time.sleep(ECFR_DELAY_SECONDS)
 
     log.info(
-        "eCFR scrape complete: %d/%d parts scraped, %d total sections, %d total words",
+        "eCFR scrape complete: %d/%d parts scraped, %d failures, %d total sections, %d total words",
         len(results),
         len(parts_to_scrape),
+        len(failures),
         sum(r["section_count"] for r in results),
         sum(r["word_count_raw_body"] for r in results),
     )
+    if failures:
+        log.warning("Failed parts: %s", [f["part"] for f in failures])
 
 
 if __name__ == "__main__":

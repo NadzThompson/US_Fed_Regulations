@@ -26,6 +26,7 @@ from html import escape as html_escape
 from pathlib import Path
 
 import requests
+from bs4 import BeautifulSoup
 
 from scrapers.config import (
     FR_API_BASE,
@@ -46,6 +47,36 @@ SESSION.headers.update({
     "Accept": "application/json",
 })
 
+
+def download_pdf(pdf_url: str, pdf_path: Path) -> bool:
+    """Download a PDF from the Federal Register."""
+    if not pdf_url:
+        return False
+    try:
+        resp = SESSION.get(pdf_url, timeout=120, stream=True)
+        resp.raise_for_status()
+        with open(pdf_path, "wb") as f:
+            for chunk in resp.iter_content(chunk_size=8192):
+                f.write(chunk)
+        return True
+    except Exception as e:
+        log.error("Failed to download PDF %s: %s", pdf_url, e)
+        return False
+
+
+def fetch_body_html(body_html_url: str) -> str:
+    """Fetch the full document body HTML from the Federal Register API."""
+    if not body_html_url:
+        return ""
+    try:
+        resp = SESSION.get(body_html_url, timeout=120)
+        resp.raise_for_status()
+        return resp.text
+    except Exception as e:
+        log.error("Failed to fetch body HTML from %s: %s", body_html_url, e)
+        return ""
+
+
 # Fields to request from the FR API
 FR_FIELDS = [
     "abstract",
@@ -54,14 +85,18 @@ FR_FIELDS = [
     "body_html_url",
     "cfr_references",
     "citation",
+    "correction_of",
+    "corrections",
     "document_number",
     "docket_ids",
     "effective_on",
+    "end_page",
     "html_url",
     "page_length",
     "pdf_url",
     "publication_date",
     "regulation_id_numbers",
+    "start_page",
     "title",
     "type",
 ]
@@ -69,14 +104,19 @@ FR_FIELDS = [
 
 # ─── API fetching ─────────────────────────────────────────────────────────────
 
-def fetch_documents(doc_type: str, after_date: str | None = None) -> list[dict]:
+def fetch_documents(doc_type: str, after_date: str | None = None,
+                     before_date: str | None = None) -> list[dict]:
     """
     Paginate through all Federal Register documents matching the given type
     for the Federal Reserve System agency.
 
+    The FR API caps results at 10,000 per query. For large result sets,
+    use date windowing via after_date/before_date.
+
     Args:
         doc_type: One of 'final_rules', 'proposed_rules', 'notices'
-        after_date: Optional ISO date string; only return docs published after this date
+        after_date: Optional ISO date string; only return docs published on/after this date
+        before_date: Optional ISO date string; only return docs published on/before this date
 
     Returns:
         List of document dicts from the FR API
@@ -89,12 +129,14 @@ def fetch_documents(doc_type: str, after_date: str | None = None) -> list[dict]:
         params = {
             "per_page": 1000,
             "page": page,
-            "order": "oldest",
+            "order": "newest",
             "fields[]": FR_FIELDS,
-            **{f"conditions[{k}]": v for k, v in condition.items()},
+            **{f"conditions[{k}][]": v for k, v in condition.items()},
         }
         if after_date:
             params["conditions[publication_date][gte]"] = after_date
+        if before_date:
+            params["conditions[publication_date][lte]"] = before_date
 
         log.info("Fetching FR %s page %d ...", doc_type, page)
         resp = SESSION.get(f"{FR_API_BASE}/documents.json", params=params, timeout=60)
@@ -106,9 +148,9 @@ def fetch_documents(doc_type: str, after_date: str | None = None) -> list[dict]:
             break
 
         all_docs.extend(results)
-        log.info("  → got %d docs (total so far: %d)", len(results), len(all_docs))
+        log.info("  → got %d docs (total so far: %d, API count: %s)",
+                 len(results), len(all_docs), data.get("count", "?"))
 
-        # Check for next page
         next_url = data.get("next_page_url")
         if not next_url:
             break
@@ -126,21 +168,32 @@ def process_document(doc: dict) -> dict:
     Returns the metadata dict.
     """
     doc_num = doc["document_number"]
-    title = doc.get("title", "Untitled")
-    doc_type = doc.get("type", "Notice")
-    pub_date = doc.get("publication_date", "")
-    citation = doc.get("citation", "")
-    abstract = doc.get("abstract", "") or ""
-    action = doc.get("action", "") or ""
-    html_url = doc.get("html_url", "")
-    pdf_url = doc.get("pdf_url", "")
-    effective_on = doc.get("effective_on")
-    page_length = doc.get("page_length", 0)
-    cfr_refs = doc.get("cfr_references", []) or []
-    docket_ids = doc.get("docket_ids", []) or []
-    reg_id_nums = doc.get("regulation_id_numbers", []) or []
+    title = doc.get("title") or "Untitled"
+    doc_type = doc.get("type") or "Notice"
+    pub_date = doc.get("publication_date") or ""
+    citation = doc.get("citation") or ""
+    abstract = doc.get("abstract") or ""
+    action = doc.get("action") or ""
+    html_url = doc.get("html_url") or ""
+    pdf_url = doc.get("pdf_url") or ""
+    effective_on = doc.get("effective_on") or ""
+    page_length = doc.get("page_length") or 0
+    start_page = doc.get("start_page") or 0
+    end_page = doc.get("end_page") or 0
+    cfr_refs = doc.get("cfr_references") or []
+    docket_ids = doc.get("docket_ids") or []
+    reg_id_nums = doc.get("regulation_id_numbers") or []
+
+    # Versioning / correction chain
+    correction_of = doc.get("correction_of")  # doc number this corrects
+    corrections = doc.get("corrections") or []  # docs that correct this one
+
+    body_html_url = doc.get("body_html_url", "")
 
     filename_stem = build_filename(doc_num, title)
+
+    # Fetch the full document body HTML from the FR API
+    body_html = fetch_body_html(body_html_url)
 
     # Determine NOVA type mapping
     type_map = {
@@ -164,15 +217,20 @@ def process_document(doc: dict) -> dict:
         authority_class = "guidance_interpretive"
         authority_level = "informational"
 
-    # Generate MD content
+    # Extract plain text from body HTML for word count and content flags
+    body_text = ""
+    if body_html:
+        body_text = BeautifulSoup(body_html, "lxml").get_text("\n", strip=True)
+
+    # Generate MD content (now includes full body text)
     md_content = generate_markdown(doc_num, title, doc_type, citation, pub_date,
-                                   action, abstract, html_url, pdf_url)
+                                   action, abstract, html_url, pdf_url, body_text)
     word_count = len(md_content.split())
     text_hash = hashlib.sha256(md_content.encode("utf-8")).hexdigest()
 
-    # Generate HTML
+    # Generate summary HTML (metadata header + body)
     html_content = generate_html(doc_num, title, doc_type, citation, pub_date,
-                                  action, abstract, html_url, pdf_url)
+                                  action, abstract, html_url, pdf_url, body_html)
 
     # Cross-references from CFR refs
     cross_refs = []
@@ -196,7 +254,7 @@ def process_document(doc: dict) -> dict:
     paragraph_role = "scope_statement" if doc_type == "Rule" else "rationale"
 
     # ── NOVA Layer 2: Content flags ───────────────────────────────────────
-    scan_text = (abstract or "") + " " + (action or "")
+    scan_text = (abstract or "") + " " + (action or "") + " " + body_text[:20000]
     contains_definition = bool(re.search(r"(?:defines|definition of|means)", scan_text, re.IGNORECASE))
     contains_requirement = bool(re.search(r"\b(?:shall|must|required)\b", scan_text, re.IGNORECASE))
     contains_deadline = bool(re.search(r"\b(?:effective|within \d+ days|by \w+ \d{1,2})", scan_text, re.IGNORECASE))
@@ -220,7 +278,7 @@ def process_document(doc: dict) -> dict:
         "regulator_acronym": "FRS",
         "jurisdiction": "United States",
         "document_class": pub_type_normalized,
-        "publication_type": "Notice",
+        "publication_type": pub_type_normalized,
         "publication_type_normalized": pub_type_normalized,
         "authority_class": authority_class,
         "authority_level": authority_level,
@@ -258,11 +316,12 @@ def process_document(doc: dict) -> dict:
         "document_number": doc_num,
         "citation": citation,
         "publication_date": pub_date,
-        "effective_date_start": effective_on,
+        "effective_date_start": effective_on or pub_date,  # Fall back to publication date for proposed rules/notices
         "effective_date_end": None,
-        "abstract": abstract[:500] if abstract else None,
+        "abstract": abstract or None,
         "action": action,
         "html_url": html_url,
+        "body_html_url": body_html_url,
         "pdf_url": pdf_url,
         "cfr_references": cfr_refs,
         "docket_ids": docket_ids,
@@ -297,16 +356,36 @@ def process_document(doc: dict) -> dict:
         "applies_to_nonbank_financial": False,
         "applies_to_insured_depository": applies_insured_depository,
 
-        # ── Versioning ────────────────────────────────────────────────────
+        # ── Versioning & correction chain ────────────────────────────────
         "superseded_by_doc_id": None,
         "supersedes_doc_id": None,
+        "correction_of": correction_of,
+        "corrections": corrections,
+        "is_correction": bool(correction_of),
+        "has_corrections": len(corrections) > 0,
+        "start_page": start_page,
+        "end_page": end_page,
 
         # ── Source ────────────────────────────────────────────────────────
         "content_source": "Federal Register API",
         "source_url": html_url,
+        "source_html_url": html_url,
+        "body_html_url": body_html_url,
         "canonical_url": html_url,
         "scraped_on": SCRAPE_DATE,
         "enriched_timestamp": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+
+        # ── Connected files ──────────────────────────────────────────────
+        "connected_files": {
+            "source_html_url": html_url,
+            "body_html_url": body_html_url,
+            "pdf_source_url": pdf_url,
+            "raw_html_local": f"federal_register/raw_html/{filename_stem}.html",
+            "styled_html_local": f"federal_register/html/{filename_stem}.html",
+            "metadata_json": f"federal_register/json/{filename_stem}.json",
+            "markdown": f"federal_register/md/{filename_stem}.md",
+            "pdf_local": f"federal_register/pdf/{filename_stem}.pdf",
+        },
 
         # ── Layer 2: Search fields ────────────────────────────────────────
         "bm25_text": bm25[:500],
@@ -314,6 +393,7 @@ def process_document(doc: dict) -> dict:
 
         # ── Layer 4: Operational / audit trail ────────────────────────────
         "normalized_text_sha256": text_hash,
+        "raw_html_path": f"federal_register/raw_html/{filename_stem}.html",
         "normalized_md_path": f"federal_register/md/{filename_stem}.md",
         "canonical_json_path": f"federal_register/json/{filename_stem}.json",
         "parser_version": PARSER_VERSIONS["fr"],
@@ -326,7 +406,9 @@ def process_document(doc: dict) -> dict:
     json_dir = FR_DIR / "json"
     md_dir = FR_DIR / "md"
     html_dir = FR_DIR / "html"
-    for d in [json_dir, md_dir, html_dir]:
+    raw_html_dir = FR_DIR / "raw_html"
+    pdf_dir = FR_DIR / "pdf"
+    for d in [json_dir, md_dir, html_dir, raw_html_dir, pdf_dir]:
         d.mkdir(parents=True, exist_ok=True)
 
     (json_dir / f"{filename_stem}.json").write_text(
@@ -334,6 +416,13 @@ def process_document(doc: dict) -> dict:
     )
     (md_dir / f"{filename_stem}.md").write_text(md_content, encoding="utf-8")
     (html_dir / f"{filename_stem}.html").write_text(html_content, encoding="utf-8")
+
+    # Save the raw body HTML from the Federal Register API
+    if body_html:
+        (raw_html_dir / f"{filename_stem}.html").write_text(body_html, encoding="utf-8")
+
+    pdf_path = pdf_dir / f"{filename_stem}.pdf"
+    download_pdf(pdf_url, pdf_path)
 
     return metadata
 
@@ -351,7 +440,7 @@ def build_filename(doc_num: str, title: str) -> str:
 
 
 def generate_markdown(doc_num, title, doc_type, citation, pub_date,
-                      action, abstract, html_url, pdf_url) -> str:
+                      action, abstract, html_url, pdf_url, body_text="") -> str:
     """Generate the markdown content file for a Federal Register document."""
     lines = [
         f"# {title}",
@@ -360,6 +449,9 @@ def generate_markdown(doc_num, title, doc_type, citation, pub_date,
         "",
         f"**Document Number:** {doc_num}",
         "",
+        f"**Federal Register:** [{html_url}]({html_url})",
+        f"**PDF:** [{pdf_url}]({pdf_url})",
+        "",
         "---",
         "",
     ]
@@ -367,16 +459,25 @@ def generate_markdown(doc_num, title, doc_type, citation, pub_date,
         lines += [f"## Action", "", action, ""]
     if abstract:
         lines += [f"## Abstract", "", abstract, ""]
-    lines += [
-        f"**Federal Register:** [{html_url}]({html_url})",
-        f"**PDF:** [{pdf_url}]({pdf_url})",
-    ]
+    if body_text:
+        lines += ["## Full Text", "", body_text, ""]
     return "\n".join(lines) + "\n"
 
 
 def generate_html(doc_num, title, doc_type, citation, pub_date,
-                   action, abstract, html_url, pdf_url) -> str:
-    """Generate styled HTML for a Federal Register document."""
+                   action, abstract, html_url, pdf_url, body_html="") -> str:
+    """Generate HTML with metadata header and full document body."""
+    body_section = ""
+    if body_html:
+        body_section = f'<div class="document-body">{body_html}</div>'
+    else:
+        parts = []
+        if action:
+            parts.append(f"<h2>Action</h2><p>{html_escape(action)}</p>")
+        if abstract:
+            parts.append(f'<div class="abstract"><h2>Abstract</h2><p>{html_escape(abstract)}</p></div>')
+        body_section = "\n".join(parts)
+
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -390,6 +491,7 @@ def generate_html(doc_num, title, doc_type, citation, pub_date,
     h1 {{ font-size: 1.3em; border-bottom: 2px solid #333; }}
     .meta {{ color: #666; font-size: 0.9em; }}
     .abstract {{ margin: 1em 0; padding: 1em; background: #f9f9f9; border-left: 3px solid #666; }}
+    .document-body {{ margin-top: 2em; }}
   </style>
 </head>
 <body>
@@ -399,8 +501,7 @@ def generate_html(doc_num, title, doc_type, citation, pub_date,
   <p><strong>Published:</strong> {html_escape(pub_date)}</p>
   <p><strong>Document Number:</strong> {html_escape(doc_num)}</p>
 </div>
-{"<h2>Action</h2><p>" + html_escape(action) + "</p>" if action else ""}
-{"<div class='abstract'><h2>Abstract</h2><p>" + html_escape(abstract) + "</p></div>" if abstract else ""}
+{body_section}
 <p><a href="{html_escape(html_url)}">View on Federal Register</a></p>
 <p><a href="{html_escape(pdf_url)}">Download PDF</a></p>
 </body>
@@ -416,31 +517,60 @@ def main():
                         default=["final_rules", "proposed_rules", "notices"],
                         help="Document types to scrape")
     parser.add_argument("--after", type=str, default=None,
-                        help="Only fetch documents published after this date (YYYY-MM-DD)")
+                        help="Only fetch documents published on/after this date (YYYY-MM-DD)")
+    parser.add_argument("--before", type=str, default=None,
+                        help="Only fetch documents published on/before this date (YYYY-MM-DD)")
     args = parser.parse_args()
 
+    # Default date ranges — the FR API caps at 10,000 results per query.
+    # For the Federal Reserve, the relevant corpus is:
+    #   Final Rules: 2000+ (binding regulations, need full history)
+    #   Proposed Rules: 2010+ (inform upcoming changes)
+    #   Notices: 2020+ (informational, high volume)
+    default_after = {
+        "final_rules": "2000-01-01",
+        "proposed_rules": "2010-01-01",
+        "notices": "2020-01-01",
+    }
+
     total_docs = 0
+    total_successes = 0
+    total_failures = []
     for doc_type in args.types:
-        log.info("── Fetching %s ──", doc_type)
-        after = args.after
-        # For notices, default to 2023+ unless overridden
-        if doc_type == "notices" and not after:
-            after = "2023-01-01"
+        after = args.after or default_after.get(doc_type)
+        before = args.before
+        log.info("── Fetching %s (from %s) ──", doc_type, after or "all time")
 
-        raw_docs = fetch_documents(doc_type, after_date=after)
-        log.info("Processing %d %s documents...", len(raw_docs), doc_type)
+        raw_docs = fetch_documents(doc_type, after_date=after, before_date=before)
+        log.info("Processing %d %s documents (newest first)...", len(raw_docs), doc_type)
 
+        successes = 0
+        failures = []
         for i, doc in enumerate(raw_docs):
             try:
                 process_document(doc)
+                successes += 1
             except Exception as e:
-                log.error("Error processing %s: %s", doc.get("document_number", "?"), e)
+                doc_num = doc.get("document_number", "?")
+                log.error("Error processing %s: %s", doc_num, e, exc_info=False)
+                failures.append(doc_num)
             if (i + 1) % 100 == 0:
-                log.info("  processed %d/%d", i + 1, len(raw_docs))
+                log.info("  processed %d/%d (%d successes, %d failures)",
+                         i + 1, len(raw_docs), successes, len(failures))
 
         total_docs += len(raw_docs)
+        total_successes += successes
+        total_failures.extend(failures)
+        log.info("  %s complete: %d/%d succeeded", doc_type, successes, len(raw_docs))
+        if failures:
+            log.warning("  Failed %s documents: %s", doc_type, failures[:20])
 
-    log.info("Federal Register scrape complete: %d total documents", total_docs)
+    log.info(
+        "Federal Register scrape complete: %d/%d succeeded, %d failures",
+        total_successes, total_docs, len(total_failures),
+    )
+    if total_failures:
+        log.warning("All failed document numbers: %s", total_failures)
 
 
 if __name__ == "__main__":

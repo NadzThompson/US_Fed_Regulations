@@ -1,0 +1,3767 @@
+# PART 210 — PART 210—COLLECTION OF CHECKS AND OTHER ITEMS BY FEDERAL RESERVE BANKS AND FUNDS TRANSFERS THROUGH THE FEDWIRE FUNDS SERVICE AND THE FEDNOW SERVICE (REGULATION J)
+
+**Regulation J** | 12 CFR Part 210 | Current as of 2026-03-09
+
+**Authority:** 12 U.S.C. 248(i) , (j), and 248-1, 342, 360, 464, 4001-4010, and 5001-5018.
+
+---
+
+## § 210.1 Authority, purpose, and scope.
+
+  The Board of Governors of the Federal Reserve System (Board) has issued this subpart pursuant to the Federal Reserve Act, sections 11 (i) and (j) (
+12 U.S.C. 248
+(i) and (j)), section 13 (
+12 U.S.C. 342
+), section 16 (
+12 U.S.C. 248(o)
+and
+360
+), and section 19(f) (
+12 U.S.C. 464
+); the Expedited Funds Availability Act (
+12 U.S.C. 4001
+et seq.
+); the Check Clearing for the 21st Century Act (
+12 U.S.C. 5001-5018
+) and other laws. This subpart governs the collection of checks and other cash and noncash items and the handling of returned checks by Federal Reserve Banks. Its purpose is to provide rules for collecting and returning items and settling balances.
+[
+53 FR 21984
+, June 13, 1988, as amended at Reg. J,
+59 FR 22965
+, May 4, 1994; Reg. J,
+69 FR 62557
+, Oct. 27, 2004]
+
+## § 210.2 Definitions.
+
+  As used in this subpart, unless the context otherwise requires:
+Account
+means an account on the books of a Federal Reserve Bank. A subaccount is an informational record of a subset of transactions that affect an account and is not a separate account.
+Actually and finally collected funds
+means cash or any other form of payment that is, or has become, final and irrevocable.
+Administrative Reserve Bank
+with respect to an entity means the Reserve Bank in whose District the entity is located, as determined under the procedure described in
+§ 204.3(g) of this chapter
+(Regulation D), even if the entity is not otherwise subject to that section.
+Bank
+means any person engaged in the business of banking. A branch or separate office of a bank is a separate bank to the extent provided in the Uniform Commercial Code.
+Bank draft
+means a check drawn by one bank on another bank.
+Banking day
+means the part of a day on which a bank is open to the public for carrying on substantially all of its banking functions.
+Cash item
+means—
+(
+1
+)
+A check other than one classified as a noncash item under this section; or
+(
+2
+)
+Any other item payable on demand and collectible at par that the Reserve Bank that receives the item is willing to accept as a cash item.
+Cash item
+does not include a returned check.
+Check
+means a check or an electronic check, as those terms are defined in
+§ 229.2 of this chapter
+(Regulation CC).
+Clock hour
+and
+clock half-hour.
+(
+1
+)
+Clock hour means a time that is on the hour, such as 1:00, 2:00, etc.
+(
+2
+)
+Clock half-hour means a time that is on the half-hour, such as 1:30, 2:30, etc.
+Fedwire Funds Service
+and
+Fedwire
+have the same meaning as that set forth in
+§ 210.26
+.
+Item.
+(
+1
+)
+Means—
+(
+i
+)
+An instrument or a promise or order to pay money, whether negotiable or not, that is—
+(
+A
+)
+Payable in a Federal Reserve District
+[
+1
+]
+(District);
+(
+B
+)
+Sent by a sender to a Reserve Bank for handling under this subpart; and
+(
+C
+)
+Collectible in funds acceptable to the Reserve Bank of the District in which the instrument is payable; or
+(
+ii
+)
+A check.
+(
+2
+)
+Unless otherwise indicated,
+item
+includes both a cash and a noncash item, and includes a returned check sent by a paying or returning bank.
+Item
+does not include a check that cannot be collected at par, or a payment order as defined in
+§ 210.26(i)
+and handled under
+subpart B of this part
+. The term also does not include an electronically-created item as defined in
+§ 229.2 of this chapter
+(Regulation CC).
+Nonbank payor
+means a payor of an item, other than a bank.
+Noncash item
+means an item that a receiving Reserve Bank classifies in its operating circulars as requiring special handling. The term also means an item normally received as a cash item if a Reserve Bank decides that special conditions require that it handle the item as a noncash item.
+Paying bank
+means—
+(
+1
+)
+The bank by which an item is payable unless the item is payable or collectible at or through another bank and is sent to the other bank for payment or collection;
+(
+2
+)
+The bank at or through which an item is payable or collectible and to which it sent for payment or collection; or
+(
+3
+)
+The bank whose routing number appears on a check in the MICR line or in fractional form (or in the MICR-line information that accompanies an electronic item) and to which the check is sent for payment or collection.
+Returned check
+means a cash item returned by a paying bank, including an electronic returned check as defined in
+§ 229.2 of this chapter
+(Regulation CC) and a notice of nonpayment in lieu of a returned check, whether or not a Reserve Bank handled the check for collection.
+Sender
+means any of the following entities that sends an item to a Reserve Bank for forward collection—
+(
+1
+)
+A depository institution, as defined in section 19(b) of the Federal Reserve Act (
+12 U.S.C. 461(b)
+);
+(
+2
+)
+A member bank, as defined in section 1 of the Federal Reserve Act (
+12 U.S.C. 221
+);
+(
+3
+)
+A clearing institution, defined as—
+(
+i
+)
+An institution that is not a depository institution but that maintains with a Reserve Bank the balance referred to in the first paragraph of section 13 of the Federal Reserve Act (
+12 U.S.C. 342
+); or
+(
+ii
+)
+An Edge corporation or agreement corporation that maintains an account with a Reserve Bank in conformity with
+part 211 of this chapter
+(Regulation K);
+(
+4
+)
+Another Reserve Bank;
+(
+5
+)
+An international organization for which a Reserve Bank is empowered to act as depositary or fiscal agent and maintains an account;
+(
+6
+)
+A foreign correspondent, defined as any of the following entities for which a Reserve Bank maintains an account: A foreign bank or banker, a foreign state as defined in section 25(b) of the Federal Reserve Act (
+12 U.S.C. 632
+), or a foreign correspondent or agency referred to in section 14(e) of that act (
+12 U.S.C. 358
+); or
+(
+7
+)
+A branch or agency of a foreign bank maintaining reserves under section 7 of the International Banking Act of 1978 (
+12 U.S.C. 347d
+,
+3105
+).
+State
+means a State of the United States, the District of Columbia, Puerto Rico, or a territory, possession, or dependency of the United States.
+Uniform Commercial Code
+and
+U.C.C.
+mean the Uniform Commercial Code as adopted in a state
+Terms not defined in this section.
+Unless the context otherwise requires—
+(
+1
+)
+The terms not defined herein have the meanings set forth in
+§ 229.2 of this chapter
+applicable to subpart C or D of
+part 229 of this chapter
+(Regulation CC), as appropriate; and
+(
+2
+)
+The terms not defined herein or in
+§ 229.2 of this chapter
+have the meanings set forth in the Uniform Commercial Code.
+[Reg. J,
+87 FR 34357
+, June 6, 2022]
+Footnotes -
+210.2
+[
+1
+]
+For purposes of this subpart, the Virgin Islands and Puerto Rico are deemed to be in the Second District, and Guam, American Samoa, and the Northern Mariana Islands in the Twelfth District.
+
+## § 210.3 General provisions.
+
+  (
+a
+)
+General.
+Each Reserve Bank shall receive and handle items in accordance with this subpart, and shall issue operating circulars governing the details of its handling of items and other matters deemed appropriate by the Reserve Bank. The circulars may, among other things, classify cash items and noncash items, require separate sorts and letters, provide different closing times for the receipt of different classes or types of items, provide for instructions by an Administrative Reserve Bank to other Reserve Banks, set forth terms of services, and establish procedures for adjustments on a Reserve Bank's books, including amounts, waiver of expenses, and payment of compensation. As deemed appropriate by the Reserve Bank, the circulars may also require the sender to provide warranties and indemnities that only items and any noncash items the Reserve Banks have agreed to handle will be sent to the Reserve Banks. The Reserve Banks may provide to a subsequent collecting bank and to the paying bank any warranties and indemnities provided by the sender pursuant to this
+paragraph (a)
+.
+(
+b
+)
+Binding effect.
+This subpart, together with subparts C and D of part 229 and the operating circulars of the Reserve Banks, are binding on all parties interested in an item handled by any Reserve Bank.
+(
+c
+)
+Government items.
+As depositaries and fiscal agents of the United States, Reserve Banks handle certain items payable by the United States or certain Federal agencies as cash or noncash items. To the extent provided by regulations issued by, and arrangements made with, the United States Treasury Department and other Government departments and agencies, the handling of such items is governed by this subpart. The Reserve Banks shall include in their operating circulars such information regarding these regulations and arrangements as the Reserve Banks deem appropriate.
+(
+d
+)
+Government senders.
+Except as otherwise provided by statutes of the United States, or regulations issued or arrangements made thereunder, this subpart and the operating circulars of the Reserve Banks apply to the following when acting as a sender: a department, agency, instrumentality, independent establishment, or office of the United States, or a wholly owned or controlled Government corporation, that maintains or uses an account with a Reserve Bank.
+(
+e
+)
+Foreign items.
+A Reserve Bank also may receive and handle certain items payable outside a Federal Reserve District, as provided in its operating circulars. The handling of such items in a state is governed by this subpart, and the handling of such items outside a state is governed by the local law.
+(
+f
+)
+Relation to other law.
+The provisions of this subpart supersede any inconsistent provisions of the Uniform Commercial Code, of any other state law, or of
+part 229 of this title
+, but only to the extent of the inconsistency.
+[
+45 FR 68634
+, Oct. 16, 1980, as amended at
+51 FR 21744
+, June 16, 1986;
+53 FR 21984
+, June 13, 1988; Reg. J,
+59 FR 22965
+, May 4, 1994;
+62 FR 48171
+, Sept. 15, 1997; Reg. J,
+69 FR 62558
+, Oct. 27, 2004;
+77 FR 21858
+, Apr. 12, 2012;
+83 FR 61518
+, Nov. 30, 2018]
+
+## § 210.4 Sending items to Reserve Banks.
+
+  (
+a
+)
+Sending of items.
+A sender's Administrative Reserve Bank may direct a sender other than a Reserve Bank to send any item to a specified Reserve Bank, whether or not the item is payable in the Reserve Bank's district.
+(
+b
+)
+Handling of items.
+(
+1
+)
+The following parties, in the following order, are deemed to have handled an item that is sent to a Reserve Bank for collection:
+(
+i
+)
+The initial sender;
+(
+ii
+)
+The initial sender's Administrative Reserve Bank (which is deemed to have accepted deposit of the item from the initial sender);
+(
+iii
+)
+The Reserve Bank that receives the item from the initial sender (if different from the initial sender's Administrative Reserve Bank); and
+(
+iv
+)
+Another Reserve Bank, if any, that receives the item from a Reserve Bank.
+(
+2
+)
+A Reserve Bank that is not described in
+paragraph (b)(1)
+of this section is not a person that handles an item and is not a collecting bank with respect to an item.
+(
+3
+)
+The identity and order of the parties under
+paragraph (b)(1)
+of this section determine the relationships and the rights and liabilities of the parties under this sub
+part, part 229 of this chapter
+(Regulation CC), section 13(1) and section 16(13) of the Federal Reserve Act, and the Uniform Commercial Code. An initial sender's Administrative Reserve Bank that is deemed to accept an item for deposit or handle an item is also deemed to be a sender with respect to that item. The Reserve Banks that are deemed to handle an item are deemed to be agents or subagents of the owner of the item, as provided in
+§ 210.6(a)
+.
+(
+c
+)
+Checks received at par.
+The Reserve Banks shall receive cash items and other checks at par.
+[Reg. J,
+77 FR 21858
+, Apr. 12, 2012;
+83 FR 61518
+, Nov. 30, 2018]
+
+## § 210.5 Sender's agreement; recovery by Reserve Bank.
+
+  (
+a
+)
+Sender's agreement.
+The warranties, indemnities, authorizations, and agreements made pursuant to this
+paragraph (a)
+may not be disclaimed and are made whether or not the item bears an indorsement of the sender. By sending an item to a Reserve Bank, the sender does all of the following.
+(
+1
+)
+Authorization to handle item.
+The sender authorizes the sender's Administrative Reserve Bank and any other Reserve Bank or collecting bank to which the item is sent to handle the item (and authorizes any Reserve Bank that handles settlement for the item to make accounting entries), subject to this subpart and to the Reserve Banks' operating circulars, and warrants its authority to give this authorization.
+(
+2
+)
+Warranties for all items.
+The sender warrants to each Reserve Bank handling the item that—
+(
+i
+)
+The sender is a person entitled to enforce the item or authorized to obtain payment of the item on behalf of a person entitled to enforce the item;
+(
+ii
+)
+The item has not been altered; and
+(
+iii
+)
+The item bears all indorsements applied by parties that previously handled the item for forward collection or return.
+(
+3
+)
+Warranties and indemnities as set forth in Regulation CC and U.C.C.
+As applicable and unless otherwise provided, the sender of an item makes to each Reserve Bank that handles the item all the warranties and indemnities set forth in and subject to the terms of subparts C and D of
+part 229 of this chapter
+(Regulation CC) and Article 4 of the U.C.C. The sender makes all the warranties set forth in and subject to the terms of 4-207 of the U.C.C. for an electronic check as if it were an item subject to the U.C.C.
+(
+4
+)
+Warranties and indemnities as set forth in Reserve Bank operating circulars.
+The sender makes any warranties and indemnities regarding the sending of items as set forth in an operating circular issued in accordance with
+§ 210.3(a)
+.
+(
+5
+)
+Sender's liability to Reserve Bank.
+(
+i
+)
+Except as provided in
+paragraphs (a)(5)(ii)
+and
+(iii)
+of this section, the sender agrees to indemnify each Reserve Bank for any loss or expense sustained (including attorneys' fees and expenses of litigation) resulting from—
+(
+A
+)
+The sender's lack of authority to make the warranty in
+paragraph (a)(1)
+of this section;
+(
+B
+)
+Any action taken by the Reserve Bank within the scope of its authority in handling the item; or
+(
+C
+)
+Any warranty or indemnity made by the Reserve Bank under
+§ 210.6(b)
+,
+part 229 of this chapter
+, the U.C.C., or, regarding the sending of items, an operating circular issued in accordance with
+§ 210.3(a)
+.
+(
+ii
+)
+A sender's liability for warranties and indemnities that the Reserve Bank makes for a substitute check, a paper or electronic representation thereof, or for an electronic check is subject to the following conditions and limitations—
+(
+A
+)
+A sender of an original check shall not be liable under
+paragraph (a)(5)(i)
+of this section for any amount that the Reserve Bank pays under
+subpart D of part 229 of this chapter
+, or under
+§ 229.34 of this chapter
+with respect to an electronic check, absent the sender's agreement to the contrary; and
+(
+B
+)
+Nothing in this subpart alters the liability of a sender of a substitute check or paper or electronic representation of a substitute check under
+subpart D of part 229 of this chapter
+, or a sender of an electronic check under
+§ 229.34 of this chapter
+.
+(
+iii
+)
+A sender shall not be liable for any amount that the Reserve Bank pays under this sub
+part or part 229 of this chapter
+that is attributable to the Reserve Bank's own lack of good faith or failure to exercise ordinary care.
+(
+b
+)
+Sender's liability under other law.
+Nothing in
+paragraph (a)
+of this section limits any warranty or indemnity by a sender (or a person that handled an item prior to the sender) arising under state law or regulation (such as the U.C.C.), other federal law or regulation (such as
+part 229 of this chapter
+), or an agreement with a Reserve Bank.
+(
+c
+)
+Recovery by Reserve Bank.
+(
+1
+)
+A Reserve Bank that has handled an item may recover as provided in
+paragraph (c)(2)
+of this section if an action or proceeding is brought against (or if defense is tendered to) the Reserve Bank based on—
+(
+i
+)
+The alleged failure of the sender to have the authority to make the warranty and agreement in
+paragraph (a)(1)
+of this section;
+(
+ii
+)
+Any action by the Reserve Bank within the scope of its authority in handling the item; or
+(
+iii
+)
+Any warranty or indemnity made by the Reserve Bank under
+§ 210.6(b)
+,
+part 229 of this chapter
+, or the U.C.C.
+(
+2
+)
+Upon entry of a final judgment or decree in an action or proceeding described in
+paragraph (c)(1)
+of this section, a Reserve Bank may recover from the sender the amount of attorneys' fees and other expenses of litigation incurred, as well as any amount the Reserve Bank is required to pay because of the judgment or decree or the tender of defense, together with interest thereon.
+(
+d
+)
+Methods of recovery.
+(
+1
+)
+The Reserve Bank may recover the amount stated in
+paragraph (c)
+of this section by charging any account on its books that is maintained or used by the sender (or by charging a Reserve Bank sender), if—
+(
+i
+)
+The Reserve Bank made seasonable written demand on the sender to assume defense of the action or proceeding; and
+(
+ii
+)
+The sender has not made any other arrangement for payment that is acceptable to the Reserve Bank.
+(
+2
+)
+The Reserve Bank is not responsible for defending the action or proceeding before using this method of recovery. A Reserve Bank that has been charged under this
+paragraph (d)
+may recover from its sender in the manner and under the circumstances set forth in this
+paragraph (d)
+.
+(
+3
+)
+A Reserve Bank's failure to avail itself of the remedy provided in this
+paragraph (d)
+does not prejudice its enforcement in any other manner of the indemnity agreement referred to in
+paragraph (a)(5)
+of this section.
+(
+e
+)
+Security interest.
+When a sender sends an item to a Reserve Bank, the sender and any prior collecting bank grant to the sender's Administrative Reserve Bank a security interest in all of their respective assets in the possession of, or held for the account of, any Reserve Bank to secure their respective obligations due or to become due to the Administrative Reserve Bank under this subpart or subpart C or D of
+part 229 of this chapter
+(Regulation CC). The security interest attaches when a warranty is breached or any other obligation to the Reserve Bank is incurred. If the Reserve Bank, in its sole discretion, deems itself insecure and gives notice thereof to the sender or prior collecting bank, or if the sender or prior collecting bank suspends payments or is closed, the Reserve Bank may take any action authorized by law to recover the amount of an obligation, including, but not limited to, the exercise of rights of set off, the realization on any available collateral, and any other rights it may have as a creditor under applicable law.
+[
+45 FR 68634
+, Oct. 16, 1980, as amended at
+51 FR 21745
+, June 16, 1986; Reg. J,
+59 FR 22965
+, May 4, 1994;
+62 FR 48171
+, Sept. 15, 1997, Reg. J,
+69 FR 62558
+, Oct. 27, 2004;
+70 FR 71224
+, Nov. 28, 2005;
+83 FR 61518
+, Nov. 30, 2018]
+
+## § 210.6 Status, warranties, and liability of Reserve Bank.
+
+  (
+a
+)
+(
+1
+)
+Status.
+A Reserve Bank that handles an item shall act as agent or subagent of the owner with respect to the item. This agency terminates when a Reserve Bank receives final payment for the item in actually and finally collected funds, a Reserve Bank makes the proceeds available for use by the sender, and the time for commencing all actions against the Reserve Bank has expired.
+(
+2
+)
+Limitations on Reserve Bank liability.
+A Reserve Bank shall not have or assume any liability with respect to an item or its proceeds except—
+(
+i
+)
+For the Reserve Bank's own lack of good faith or failure to exercise ordinary care;
+(
+ii
+)
+As provided in
+paragraph (b)
+of this section;
+(
+iii
+)
+As provided in an operating circular issued in accordance with
+§ 210.3(a)
+regarding the sending of items; and
+(
+iv
+)
+As provided in subparts C and D of
+part 229 of this chapter
+(Regulation CC).
+(
+3
+)
+Reliance on routing designation appearing on item.
+A Reserve Bank may present or send an item based on the routing number or other designation of a paying bank or nonbank payor appearing in any form on the item when the Reserve Bank receives it. A Reserve Bank shall not be responsible for any delay resulting from its acting on any designation, whether inscribed by magnetic ink or by other means, and whether or not the designation acted on is consistent with any other designation appearing on the item.
+(
+b
+)
+Warranties and liability.
+The following provisions apply when a Reserve Bank presents or sends an item.
+(
+1
+)
+Warranties for all items.
+The Reserve Bank warrants to a subsequent collecting bank and to the paying bank and any other payor that—
+(
+i
+)
+The Reserve Bank is a person entitled to enforce the item (or is authorized to obtain payment of the item on behalf of a person that is either entitled to enforce the item or authorized to obtain payment on behalf of a person entitled to enforce the item);
+(
+ii
+)
+The item has not been altered; and
+(
+iii
+)
+The item bears all indorsements applied by parties that previously handled the item for forward collection or return.
+(
+2
+)
+Warranties and indemnities as set forth in Reserve Bank operating circulars.
+The Reserve Bank makes any warranties and indemnities regarding the sending of items as set forth in an operating circular issued in accordance with
+§ 210.3(a)
+.
+(
+3
+)
+Warranties and indemnities as set forth in Regulation CC and U.C.C.
+As applicable and unless otherwise provided, the Reserve Bank makes all the warranties and indemnities set forth in and subject to the terms of subparts C and D of
+part 229 of this chapter
+(Regulation CC) and Article 4 of the U.C.C. The Reserve Bank makes all the warranties set forth in and subject to the terms of 4-207 of the U.C.C. for an electronic check as if it were an item subject to the U.C.C.
+(
+4
+)
+Indemnity for substitute check created from an electronic check.
+(
+i
+)
+Except as provided in
+paragraph (b)(4)(ii)
+of this section, the Reserve Bank shall indemnify the bank to which it transfers or presents an electronic check (the recipient bank) for the amount of any losses that the recipient bank incurs under
+subpart D of part 229 of this chapter
+(Regulation CC) for an indemnity that the recipient bank was required to make under
+subpart D of part 229 of this chapter
+in connection with a substitute check later created from the electronic check.
+(
+ii
+)
+The Reserve Bank shall not be liable under
+paragraph (b)(4)(i)
+of this section for any amount that the recipient bank pays under
+subpart D of part 229 of this chapter
+that is attributable to the lack of good faith or failure to exercise ordinary care of the recipient bank or a person that handled the item, in any form, after the recipient bank.
+(
+c
+)
+Time for commencing action against Reserve Bank.
+(
+1
+)
+A claim against a Reserve Bank for lack of good faith or failure to exercise ordinary care shall be barred unless the action on the claim is commenced within two years after the claim accrues. Such a claim accrues on the date when a Reserve Bank's alleged failure to exercise ordinary care or to act in good faith first results in damages to the claimant.
+(
+2
+)
+A claim that arises under
+paragraph (b)(3)
+of this section shall be barred unless the action on the claim is commenced within one year after the claim accrues. Such a claim accrues as of the date on which the claimant first learns, or by which the claimant reasonably should have learned, of the facts and circumstances giving rise to the claim.
+(
+3
+)
+This
+paragraph (c)
+does not alter the time limit for claims under
+§ 229.38(g) of this chapter
+(which include claims for breach of warranty under
+§ 229.34 of this chapter
+) or
+subpart D of part 229 of this chapter
+.
+[
+45 FR 68634
+, Oct. 16, 1980, as amended at
+51 FR 21745
+, June 16, 1986;
+53 FR 21984
+, June 13, 1988; Reg. J,
+59 FR 22966
+, May 4, 1994;
+62 FR 48172
+, Sept. 15, 1997; Reg. J,
+69 FR 62559
+, Oct. 27, 2004;
+70 FR 71225
+, Nov. 28, 2005;
+83 FR 61519
+, Nov. 30, 2018]
+
+## § 210.7 Presenting items for payment.
+
+  (
+a
+)
+Presenting or sending.
+As provided under State law or as otherwise permitted by this section:
+(
+1
+)
+A Reserve Bank or a subsequent collecting bank may present an item for payment or send the item for presentment and payment; and
+(
+2
+)
+A Reserve Bank may send an item to a subsequent collecting bank with authority to present it for payment or to send it for presentment and payment.
+(
+b
+)
+Place of presentment.
+A Reserve Bank or subsequent collecting bank may present an item—
+(
+1
+)
+At a place requested by the paying bank;
+(
+2
+)
+In accordance with
+§ 229.36 of this chapter
+(Regulation CC);
+(
+3
+)
+At a place requested by the nonbank payor, if the item is payable by a nonbank payor other than through or at a paying bank;
+(
+4
+)
+Under a special collection agreement consistent with this subpart; or
+(
+5
+)
+Through a clearinghouse and subject to its rules and practices.
+(
+c
+)
+Presenting or sending direct.
+A Reserve Bank or subsequent collecting bank may, with respect to an item that may be sent to the paying bank or nonbank payor in the Reserve Bank's District—
+(
+1
+)
+Present or send the item direct to the paying bank, or to a place requested by the paying bank; or
+(
+2
+)
+If the item is payable by a nonbank payor other than through a paying bank, present it direct to the nonbank payor. Documents, securities, or other papers accompanying a noncash item shall not be delivered to the nonbank payor before the item is paid unless the sender specifically authorizes delivery.
+(
+d
+)
+Item sent to another district.
+A Reserve Bank receiving an item that may be sent to a paying bank or nonbank payor in another District ordinarily sends the item to the Reserve Bank of the other District, but with the agreement of the other Reserve Bank, may present or send the item as if it were sent to a paying bank or nonbank payor in its own District.
+[
+45 FR 68634
+, Oct. 16, 1980, as amended at
+53 FR 21985
+, June 13, 1988;
+62 FR 48172
+, Sept. 15, 1997; Reg. J,
+83 FR 61520
+, Nov. 30, 2018]
+
+## § 210.8 Presenting noncash items for acceptance.
+
+  (
+a
+)
+A Reserve Bank or a subsequent collecting bank may, if instructed by the sender, present a noncash item for acceptance in any manner authorized by law if—
+(
+1
+)
+The item provides that it must be presented for acceptance;
+(
+2
+)
+The item may be presented elsewhere than at the residence or place of business of the payor; or
+(
+3
+)
+The date of payment of the item depends on presentment for acceptance.
+(
+b
+)
+Documents accompanying a noncash item shall not be delivered to the payor upon acceptance of the item unless the sender specifically authorizes delivery. A Reserve Bank shall not have or assume any other obligation to present or to send for presentment for acceptance any noncash item.
+[
+62 FR 48172
+, Sept. 15, 1997]
+
+## § 210.9 Settlement and payment.
+
+  (
+a
+)
+Settlement through Administrative Reserve Bank.
+A paying bank shall settle for an item under this subpart with its Administrative Reserve Bank, whether or not the paying bank received the item from that Reserve Bank. A paying bank's settlement with its Administrative Reserve Bank is deemed to be settlement with the Reserve Bank from which the paying bank received the item. A paying bank may settle for an item using any account on a Reserve Bank's books by agreement with its Administrative Reserve Bank, any other Reserve Bank holding the settlement account, and the account-holder. The paying bank remains responsible for settlement if the Reserve Bank holding the settlement account does not, for any reason, obtain settlement in that account.
+(
+b
+)
+Cash items
+—
+(
+1
+)
+Settlement obligation.
+On the day a paying bank receives
+[
+2
+]
+a cash item from a Reserve Bank, it shall settle for the item such that the proceeds of the settlement are available to its Administrative Reserve Bank by the close of Fedwire on that day, or it shall return the item by the later of the close of its banking day or the close of Fedwire. If the paying bank fails to settle for or return a cash item in accordance with this
+paragraph (b)(1)
+, it is accountable for the amount of the item as of the close of its banking day or the close of Fedwire on the day it receives the item, whichever is earlier.
+(
+2
+)
+Time of settlement.
+(
+i
+)
+On the day a paying bank receives a cash item from a Reserve Bank, it shall settle for the item so that the proceeds of the settlement are available to its Administrative Reserve Bank, or return the item, by the latest of—
+(
+A
+)
+The next clock hour or clock half-hour that is at least one half-hour after the paying bank receives the item;
+(
+B
+)
+8:30 a.m. eastern time; or
+(
+C
+)
+Such later time as provided in the Reserve Banks' operating circulars.
+(
+ii
+)
+If the paying bank fails to settle for or return a cash item in accordance with
+paragraph (b)(2)(i)
+of this section, it shall be subject to any applicable overdraft charges. Settlement under
+paragraph (b)(2)(i)
+of this section satisfies the settlement requirements of
+paragraph (b)(1)
+of this section.
+(
+3
+)
+Paying bank closes voluntarily.
+(
+i
+)
+If a paying bank closes voluntarily so that it does not receive a cash item on a day that is a banking day for a Reserve Bank, and the Reserve Bank makes a cash item available to the paying bank on that day, the paying bank shall either—
+(
+A
+)
+On that day, settle for the item so that the proceeds of the settlement are available to its Administrative Reserve Bank, or return the item, by the latest of the next clock hour or clock half-hour that is at least one half-hour after it ordinarily would have received the item, 8:30 a.m. eastern time, or such later time as provided in the Reserve Banks' operating circulars; or
+(
+B
+)
+On the next day that is a banking day for both the paying bank and the Reserve Bank, settle for the item so that the proceeds of the settlement are available to its Administrative Reserve Bank by 8:30 a.m. eastern time on that day or such later time as provided in the Reserve Banks' operating circulars; and compensate the Reserve Bank for the value of the float associated with the item in accordance with procedures provided in the Reserve Bank's operating circular.
+(
+ii
+)
+If a paying bank closes voluntarily so that it does not receive a cash item on a day that is a banking day for a Reserve Bank, and the Reserve Bank makes a cash item available to the paying bank on that day, the paying bank is not considered to have received the item until its next banking day, but it shall be subject to any applicable overdraft charges if it fails to settle for or return the item in accordance with
+paragraph (b)(3)(i)
+of this section. The settlement requirements of
+paragraphs (b)(1)
+and
+(2)
+of this section do not apply to a paying bank that settles in accordance with
+paragraph (b)(3)(i)
+of this section.
+(
+4
+)
+Reserve Bank closed.
+If a paying bank receives a cash item from a Reserve Bank on a banking day that is not a banking day for the Reserve Bank, the paying bank shall—
+(
+i
+)
+Settle for the item so that the proceeds of the settlement are available to its Administrative Reserve Bank by the close of the Fedwire Funds Service on the Reserve Bank's next banking day, or return the item by midnight of the day it receives the item (if the paying bank fails to settle for or return a cash item in accordance with this
+paragraph (b)(4)(i)
+, it shall become accountable for the amount of the item as of the close of its banking day on the day it receives the item); and
+(
+ii
+)
+Settle for the item so that the proceeds of the settlement are available to its Administrative Reserve Bank by 8:30 a.m. eastern time on the Reserve Bank's next banking day or such later time as provided in the Reserve Bank's operating circular, or return the item by midnight of the day it receives the item. If the paying bank fails to settle for or return a cash item in accordance with this
+paragraph (b)(4)(ii)
+, it shall be subject to any applicable overdraft charges. Settlement under this
+paragraph (b)(4)(ii)
+satisfies the settlement requirements of
+paragraph (b)(4)(i)
+of this section.
+(
+5
+)
+Manner of settlement.
+Settlement with a Reserve Bank under
+paragraphs (b)(1)
+through
+(4)
+of this section shall be made by debit to an account on the Reserve Bank's books or other form of settlement to which the Reserve Bank agrees, except that the Reserve Bank may, in its discretion, obtain settlement by charging the paying bank's account. A paying bank may not set off against the amount of a settlement under this section the amount of a claim with respect to another cash item, cash letter, or other claim under
+§ 229.34 of this chapter
+(Regulation CC) or other law.
+(
+6
+)
+Notice in lieu of return.
+If a cash item is unavailable for return, the paying bank may send a notice in lieu of return as provided in
+§ 229.31(f) of this chapter
+(Regulation CC).
+(
+c
+)
+Noncash items.
+A Reserve Bank may require the paying or collecting bank to which it has presented or sent a noncash item to pay for the item by a debit to an account maintained or used by the paying or collecting bank on the Reserve Bank's books or by any other form of settlement acceptable to the Reserve Bank.
+(
+d
+)
+Nonbank payor.
+A Reserve Bank may require a nonbank payor to which it has presented an item to pay for it by debit to an account on the Reserve Bank's books or other form of settlement acceptable to the Reserve Bank.
+(
+e
+)
+Liability of Reserve Bank.
+Except as set forth in
+§ 229.35(b) of this chapter
+(Regulation CC), a Reserve Bank shall not be liable for the failure of a collecting bank, paying bank, or nonbank payor to pay for an item, or for any loss resulting from the Reserve Bank's acceptance of any form of payment other than cash authorized in
+paragraphs (b)
+,
+(c)
+, and
+(d)
+of this section. A Reserve Bank that acts in good faith and exercises ordinary care shall not be liable for the nonpayment of, or failure to realize upon, any non-cash form of payment that it accepts under
+paragraphs (b)
+,
+(c)
+, and
+(d)
+of this section.
+[
+45 FR 68634
+, Oct. 16, 1980, as amended at
+49 FR 4200
+, Feb. 3, 1984;
+51 FR 21745
+, June 16, 1986;
+53 FR 21985
+, June 13, 1988;
+57 FR 46955
+, Oct. 14, 1992; Reg. J,
+59 FR 22966
+, May 4, 1994;
+62 FR 48172
+, Sept. 15, 1997;
+70 FR 71225
+, Nov. 28, 2005;
+79 FR 72111
+, Dec. 5, 2014;
+83 FR 61520
+, Nov. 30, 2018]
+Footnotes -
+210.9
+[
+2
+]
+A paying bank is deemed to receive a cash item on its next banking day if it receives the item—
+(1) On a day other than a banking day for it; or
+(2) On a banking day for it, but after a “cut-off hour” established by it in accordance with state law.
+
+## § 210.10 Time schedule and availability of credits for cash items and returned checks.
+
+  (
+a
+)
+Each Reserve Bank shall publish a time schedule indicating when the amount of any cash item or returned check received by it is counted toward the balance maintained to satisfy a reserve balance requirement for purposes of
+part 204 of this chapter
+(Regulation D) and becomes available for use by the sender or paying or returning bank. The Reserve Bank that holds the settlement account shall give either immediate or deferred credit to a sender, a paying bank, or a returning bank (other than a foreign correspondent) in accordance with the time schedule of the receiving Reserve Bank. A Reserve Bank ordinarily gives credit to a foreign correspondent only when the Reserve Bank receives payment of the item in actually and finally collected funds, but, in its discretion, a Reserve Bank may give immediate or deferred credit in accordance with its time schedule.
+(
+b
+)
+Notwithstanding its time schedule, a Reserve Bank may refuse at any time to permit the use of credit given by it for any cash item or returned check, and may defer availability after credit is received by the Reserve Bank for a period of time that is reasonable under the circumstances.
+[
+62 FR 48173
+, Sept. 15, 1997, as amended by Reg. J,
+77 FR 21858
+, Apr. 12, 2012;
+83 FR 61520
+, Nov. 30, 2018]
+
+## § 210.11 Availability of proceeds of noncash items; time schedule.
+
+  (
+a
+)
+Availability of credit.
+A Reserve Bank shall give credit to the sender for the proceeds of a noncash item when it receives payment in actually and finally collected funds (or advice from another Reserve Bank of such payment to it). The amount of the item is counted toward the balance maintained to satisfy a reserve balance requirement for purposes of
+part 204 of this chapter
+(Regulation D) and becomes available for use by the sender when the Reserve Bank receives the payment or advice, except as provided in
+paragraph (b)
+of this section.
+(
+b
+)
+Time schedule.
+A Reserve Bank may give credit for the proceeds of a noncash item subject to payment in actually and finally collected funds in accordance with a published time schedule. The time schedule shall indicate when the proceeds of the noncash item will be counted toward the balance maintained to satisfy a reserve balance requirement for purposes of
+part 204 of this chapter
+(Regulation D) and become available for use by the sender. A Reserve Bank may, however, refuse at any time to permit the use of credit given by it for a noncash item for which the Reserve Bank has not yet received payment in actually and finally collected funds.
+[Reg. J,
+77 FR 21858
+, Apr. 12, 2012, as amended at
+83 FR 61521
+, Nov. 30, 2018]
+
+## § 210.12 Return of cash items and handling of returned checks.
+
+  (
+a
+)
+Return of items
+—
+(
+1
+)
+Return of cash items handled by Reserve Banks.
+A paying bank that receives a cash item from a Reserve Bank, other than for immediate payment over the counter, and that settles for the item as provided in
+§ 210.9(b)
+, may, before it has finally paid the item, return the item to any Reserve Bank (unless its Administrative Reserve Bank directs it to return the item to a specific Reserve Bank) in accordance with
+subpart C of part 229 of this chapter
+(Regulation CC), the Uniform Commercial Code, and the Reserve Banks' operating circulars. A paying bank that receives a cash item from a Reserve Bank also may return the item prior to settlement, in accordance with
+§ 210.9(b)
+and the Reserve Banks' operating circulars. The rules or practices of a clearinghouse through which the item was presented, or a special collection agreement under which the item was presented, may not extend these return times, but may provide for a shorter return time.
+(
+2
+)
+Return of checks not handled by Reserve Banks.
+A paying bank that receives a check, other than from a Reserve Bank, and that determines not to pay the check, may send the returned check to any Reserve Bank (unless its Administrative Reserve Bank directs it to send the returned check to a specific Reserve Bank) in accordance with
+subpart C of part 229 of this chapter
+(Regulation CC), the Uniform Commercial Code, and the Reserve Banks' operating circulars. A returning bank may send a returned check to any Reserve Bank (unless its Administrative Reserve Bank directs it to send the returned check to a specific Reserve Bank) in accordance with
+subpart C of part 229 of this chapter
+(Regulation CC), the Uniform Commercial Code, and the Reserve Banks' operating circulars.
+(
+b
+)
+Handling of returned checks.
+(
+1
+)
+The following parties, in the following order, are deemed to have handled a returned check sent to a Reserve Bank under
+paragraph (a)
+of this section—
+(
+i
+)
+The paying or returning bank;
+(
+ii
+)
+The paying bank's or returning bank's Administrative Reserve Bank;
+(
+iii
+)
+The Reserve Bank that receives the returned check from the paying or returning bank (if different from the paying bank's or returning bank's Administrative Reserve Bank); and
+(
+iv
+)
+Another Reserve Bank, if any, that receives the returned check from a Reserve Bank.
+(
+2
+)
+A Reserve Bank that is not described in
+paragraph (b)(1)
+of this section is not a person that handles a returned check and is not a returning bank with respect to a returned check.
+(
+3
+)
+The identity and order of the parties under
+paragraph (b)(1)
+of this section determine the relationships and the rights and liabilities of the parties under this sub
+part, part 229 of this chapter
+(Regulation CC), and the Uniform Commercial Code.
+(
+c
+)
+Paying bank's and returning bank's agreement.
+The warranties, indemnities, authorizations, and agreements made pursuant to this
+paragraph (c)
+may not be disclaimed and are made whether or not the returned check bears an indorsement of the paying bank or returning bank. By sending a returned check to a Reserve Bank, the paying bank or returning bank does all of the following.
+(
+1
+)
+Authorization to handle returned check.
+The paying bank or returning bank authorizes the paying bank's or returning bank's Administrative Reserve Bank, and any other Reserve Bank or returning bank to which the returned check is sent, to handle the returned check (and authorizes any Reserve Bank that handles settlement for the returned check to make accounting entries) subject to this subpart and to the Reserve Banks' operating circulars.
+(
+2
+)
+Warranties for all returned checks.
+The paying bank or returning bank warrants to each Reserve Bank handling a returned check that the returned check bears all indorsements applied by parties that previously handled the returned check for forward collection or return.
+(
+3
+)
+Warranties and indemnities as set forth in Regulation CC.
+As applicable and unless otherwise provided, a paying bank or returning bank makes to each Reserve Bank that handles the returned check all the warranties and indemnities set forth in and subject to the terms of subparts C and D of
+part 229 of this chapter
+(Regulation CC).
+(
+4
+)
+Paying bank or returning bank's liability to Reserve Bank.
+(
+i
+)
+Except as provided in
+paragraph (c)(4)(ii)
+and
+(iii)
+of this section, a paying bank or returning bank agrees to indemnify each Reserve Bank for any loss or expense (including attorneys' fees and expenses of litigation) resulting from—
+(
+A
+)
+The paying or returning bank's lack of authority to give the authorization in
+paragraph (c)(1)
+of this section;
+(
+B
+)
+Any action taken by a Reserve Bank within the scope of its authority in handling the returned check; or
+(
+C
+)
+Any warranty or indemnity made by the Reserve Bank under
+paragraph (e)
+of this section or
+part 229 of this chapter
+.
+(
+ii
+)
+A paying bank's or returning bank's liability for warranties and indemnities that a Reserve Bank makes for a returned check that is a substitute check, a paper or electronic representation thereof, or an electronic returned check is subject to the following conditions and limitations—
+(
+A
+)
+A paying bank or returning bank that sent an original returned check shall not be liable for any amount that a Reserve Bank pays under
+subpart D of part 229 of this chapter
+, or under
+§ 229.34 of this chapter
+with respect to an electronic returned check, absent the paying bank's or returning bank's agreement to the contrary; and
+(
+B
+)
+Nothing in this subpart alters the liability under
+subpart D of part 229 of this chapter
+of a paying bank or returning bank that sent a substitute check or a paper or electronic representation of a substitute check or under
+§ 229.34 of this chapter
+of a paying bank or returning bank that sent an electronic returned check; and
+(
+iii
+)
+A paying bank or returning bank shall not be liable for any amount that the Reserve Bank pays under this sub
+part or part 229 of this chapter
+that is attributable to the Reserve Bank's own lack of good faith or failure to exercise ordinary care.
+(
+d
+)
+Paying bank or returning bank's liability under other law.
+Nothing in
+paragraph (c)
+of this section limits any warranty or indemnity by a returning bank or paying bank (or a person that handled an item prior to that bank) arising under state law or regulation (such as the U.C.C.), other federal law or regulation (such as
+part 229 of this chapter
+), or an agreement with a Reserve Bank.
+(
+e
+)
+Warranties by and liability of Reserve Bank
+—
+(
+1
+)
+Warranties and indemnities.
+The following provisions apply when a Reserve Bank handles a returned check under this subpart.
+(
+i
+)
+Warranties for all items.
+The Reserve Bank warrants to the bank to which it sends the returned check that the returned check bears all indorsements applied by parties that previously handled the returned check for forward collection or return.
+(
+ii
+)
+Warranties and indemnities as set forth in Regulation CC.
+As applicable and unless otherwise provided, the Reserve Bank makes all the warranties and indemnities set forth in and subject to the terms of subparts C and D of
+part 229 of this chapter
+(Regulation CC).
+(
+2
+)
+Indemnity for substitute check created from electronic returned check.
+(
+i
+)
+Except as provided in
+paragraph (e)(2)(ii)
+of this section, the Reserve Bank shall indemnify the bank to which it transfers or presents an electronic returned check (the recipient bank) for the amount of any losses that the recipient bank incurs under
+subpart D of part 229 of this chapter
+(Regulation CC) for an indemnity that the recipient bank was required to make under
+subpart D of part 229 of this chapter
+in connection with a substitute check later created from the electronic returned check.
+(
+ii
+)
+The Reserve Bank shall not be liable under
+paragraph (e)(2)(i)
+of this section for any amount that the recipient bank pays under
+subpart D of part 229 of this chapter
+that is attributable to the lack of good faith or failure to exercise ordinary care of the recipient bank or a person that handled the item, in any form, after the recipient bank.
+(
+3
+)
+Liability of Reserve Bank.
+A Reserve Bank shall not have or assume any other liability to any person except—
+(
+i
+)
+For the Reserve Bank's own lack of good faith or failure to exercise ordinary care;
+(
+ii
+)
+As provided in this
+paragraph (e)
+; and
+(
+iii
+)
+As provided in subparts C and D of
+part 229 of this chapter
+(Regulation CC).
+(
+f
+)
+Recovery by Reserve Bank.
+(
+1
+)
+A Reserve Bank that has handled a returned check may recover as provided in
+paragraph (f)(2)
+of this section if an action or proceeding is brought against (or if defense is tendered to) the Reserve Bank based on—
+(
+i
+)
+The alleged failure of the paying bank or returning bank to have the authority to give the authorization in
+paragraph (c)(1)
+of this section;
+(
+ii
+)
+Any action by the Reserve Bank within the scope of its authority in handling the returned check; or
+(
+iii
+)
+Any warranty or indemnity made by the Reserve Bank under
+paragraph (e)
+of this section or
+part 229 of this chapter
+; and
+(
+2
+)
+Upon entry of a final judgment or decree in an action or proceeding described in
+paragraph (f)(1)
+of this section, a Reserve Bank may recover from the paying bank or returning bank the amount of attorneys' fees and other expenses of litigation incurred, as well as any amount the Reserve Bank is required to pay because of the judgment or decree or the tender of defense, together with interest thereon.
+(
+g
+)
+Methods of recovery.
+(
+1
+)
+The Reserve Bank may recover the amount stated in
+paragraph (f)
+of this section by charging any account on its books that is maintained or used by the paying bank or returning bank (or by charging another returning Reserve Bank), if—
+(
+i
+)
+The Reserve Bank made seasonable written demand on the paying bank or returning bank to assume defense of the action or proceeding; and
+(
+ii
+)
+The paying bank or returning bank has not made any other arrangement for payment that is acceptable to the Reserve Bank.
+(
+2
+)
+The Reserve Bank is not responsible for defending the action or proceeding before using this method of recovery. A Reserve Bank that has been charged under this
+paragraph (g)
+may recover from the paying or returning bank in the manner and under the circumstances set forth in this
+paragraph (g)
+.
+(
+3
+)
+A Reserve Bank's failure to avail itself of the remedy provided in this
+paragraph (g)
+does not prejudice its enforcement in any other manner of the indemnity agreement referred to in
+paragraph (c)(4)
+of this section.
+(
+h
+)
+Reserve Bank's responsibility.
+A Reserve Bank shall handle a returned check, or a notice of nonpayment, in accordance with subpart C of part 229 and its operating circular.
+(
+i
+)
+Settlement.
+A subsequent returning bank or depositary bank shall settle with its Administrative Reserve Bank for returned checks in the same manner and by the same time as for cash items presented for payment under this subpart. Settlement with its Administrative Reserve Bank is deemed to be settlement with the Reserve Bank from which the returning bank or depositary bank received the item.
+(
+j
+)
+Security interest.
+When a paying or returning bank sends a returned check to a Reserve Bank, the paying bank, returning bank, and any prior returning bank grant to the paying bank's or returning bank's Administrative Reserve Bank a security interest in all of their respective assets in the possession of, or held for the account of, any Reserve Bank, to secure their respective obligations due or to become due to the Administrative Reserve Bank under this subpart or
+subpart C of part 229 of this chapter
+(Regulation CC). The security interest attaches when a warranty is breached or any other obligation to the Reserve Bank is incurred. If the Reserve Bank, in its sole discretion, deems itself insecure and gives notice thereof to the paying bank, returning bank, or prior returning bank, or if the paying bank, returning bank, or prior returning bank suspends payments or is closed, the Reserve Bank may take any action authorized by law to recover the amount of an obligation, including, but not limited to, the exercise of rights of set off, the realization on any available collateral, and any other rights it may have as a creditor under applicable law.
+[
+53 FR 21985
+, June 13, 1988, as amended at Reg. J,
+59 FR 22966
+, May 4, 1994;
+62 FR 48173
+, Sept. 15, 1997; Reg, J,
+69 FR 62560
+, Oct. 27, 2004;
+83 FR 61521
+, Nov. 30, 2018]
+
+## § 210.13 Unpaid items.
+
+  (
+a
+)
+Right of recovery.
+If a Reserve Bank does not receive payment in actually and finally collected funds for an item, the Reserve Bank shall recover by charge-back or otherwise the amount of the item from the sender, prior collecting bank, paying bank, or returning bank from or through which it was received, whether or not the item itself can be sent back. In the event of recovery from such a person, no person, including the owner or holder of the item, shall, for the purpose of obtaining payment of the amount of the item, have any interest in any reserve balance or other funds or property in the Reserve Bank's possession of the bank that failed to make payment in actually and finally collected funds.
+(
+b
+)
+Suspension or closing of bank.
+A Reserve Bank shall not pay or act on a draft, authorization to charge (including a charge authorized by
+§ 210.9(b)(5)
+), or other order on a reserve balance or other funds in its possession for the purpose of settling for items under
+§ 210.9
+or
+§ 210.12
+after it receives notice of suspension or closing of the bank making the settlement for that bank's own or another's account.
+[Reg. J,
+59 FR 22966
+, May 4, 1994, as amended at Reg. J,
+69 FR 62561
+, Oct. 27, 2004]
+
+## § 210.14 Extension of time limits.
+
+  If a bank (including a Reserve Bank) or nonbank payor is delayed in acting on an item beyond applicable time limits because of interruption of communication or computer facilities, suspension of payments by a bank or nonbank payor, war, emergency conditions, failure of equipment, or other circumstances beyond its control, its time for acting is extended for the time necessary to complete the action, if it exercises such diligence as the circumstances require.
+[Reg. J,
+59 FR 22967
+, May 4, 1994]
+
+## § 210.15 Direct presentment of certain warrants.
+
+  If a Reserve Bank elects to present direct to the payor a bill, note, or warrant that is issued and payable by a State or a political subdivision and that is a cash item not payable or collectible through a bank: (a) Sections 210.9, 210.12, and 210.13 and the operating circulars of the Reserve Banks apply to the payor as if it were a paying bank; (b)
+§ 210.14
+applies to the payor as if it were a bank; and (c) under
+§ 210.9
+each day on which the payor is open for the regular conduct of its affairs or the accommodation of the public is considered a banking day.
+
+## § 210.25 Authority, purpose, and scope.
+
+  (
+a
+)
+Authority and purpose.
+This subpart provides rules to govern funds transfers through the Fedwire Funds Service, and has been issued pursuant to the Federal Reserve Act—section 13 (
+12 U.S.C. 342
+), paragraph (f) of section 19 (
+12 U.S.C. 464
+), paragraph 14 of section 16 (
+12 U.S.C. 248(o)
+), and paragraphs (i) and (j) of section 11 (
+12 U.S.C. 248(i)
+and
+(j)
+)—and other laws and has the force and effect of federal law. This subpart is not a funds-transfer system rule as defined in Section 4A-501(b) of Article 4A.
+(
+b
+)
+Scope.
+(
+1
+)
+This subpart incorporates the provisions of Article 4A set forth in
+appendix A of this part
+. In the event of an inconsistency between the provisions of the sections of this subpart and
+appendix A of this part
+, the provisions of the sections of this subpart shall prevail. In the event of an inconsistency between the provisions this subpart and section 919 of the Electronic Fund Transfer Act, section 919 of the Electronic Fund Transfer Act shall prevail.
+(
+2
+)
+Except as otherwise provided in
+paragraphs (b)(3)
+and
+(4)
+of this section, this subpart, including Article 4A as set forth in
+appendix A of this part
+and operating circulars of the Federal Reserve Banks issued in accordance with
+paragraph (c)
+of this section, governs the rights and obligations of the following parties with respect to the Fedwire Funds Service:
+(
+i
+)
+Federal Reserve Banks that send or receive payment orders;
+(
+ii
+)
+Senders that send payment orders directly to a Federal Reserve Bank;
+(
+iii
+)
+Receiving banks that receive payment orders directly from a Federal Reserve Bank;
+(
+iv
+)
+Beneficiaries that receive payment for payment orders by means of credit to an account maintained or used at a Federal Reserve Bank; and
+(
+v
+)
+Other parties to a funds transfer any part of which is carried out through the Fedwire Funds Service to the same extent as if this subpart were considered a funds-transfer system rule under Article 4A.
+(
+3
+)
+This subpart governs a funds transfer that is sent through the Fedwire Funds Service, as provided in
+paragraph (b)(2)
+of this section, even though a portion of the funds transfer is governed by the Electronic Fund Transfer Act, but the portion of such funds transfer that is governed by the Electronic Fund Transfer Act (other than section 919 governing remittance transfers) is not governed by this subpart.
+(
+4
+)
+In the event that any portion of this Subpart establishes rights or obligations with respect to the availability of funds that are also governed by the Expedited Funds Availability Act or the Board's Regulation CC, Availability of Funds and Collection of Checks, those provisions of the Expedited Funds Availability Act or Regulation CC shall apply and the portion of this Subpart, including Article 4A as incorporated herein, shall not apply.
+(
+c
+)
+Operating Circulars.
+Each Federal Reserve Bank shall issue an Operating Circular consistent with this subpart that governs the details of its funds-transfer operations in connection with the Fedwire Funds Service and other matters it deems appropriate. Among other things, the Operating Circular may set cut-off times and funds-transfer business days; address security procedures offered by the Federal Reserve Banks to verify the authenticity of a payment order; specify format and media requirements for payment orders; specify the time and method of receipt, execution, and acceptance of a payment order and settlement of a Federal Reserve Bank's payment obligation for purposes of Article 4A; specify service terms governing ancillary features of the Fedwire Funds Service; provide for the acceptance of documents in electronic form to the extent any provision in Article 4A requires an agreement or other document to be in writing; identify messages that are not payment orders; and impose charges for funds-transfer services.
+(
+d
+)
+Government senders, receiving banks, and beneficiaries.
+Except as otherwise expressly provided by the statutes of the United States, the parties specified in
+paragraphs (b)(2)(ii)
+through
+(v)
+of this section include:
+(
+1
+)
+A department, agency, instrumentality, independent establishment, or office of the United States, or a wholly-owned or controlled Government corporation;
+(
+2
+)
+An international organization;
+(
+3
+)
+A foreign central bank; and
+(
+4
+)
+A department, agency, instrumentality, independent establishment, or office of a foreign government, or a wholly-owned or controlled corporation of a foreign government.
+(
+e
+)
+Financial messaging standards.
+Financial messaging standards (
+e.g.,
+ISO 20022), including the financial messaging components, elements, technical documentation, tags, and terminology used to implement those standards, do not confer or connote legal status or responsibilities. This subpart, including Article 4A as set forth in
+appendix A of this part
+, and the operating circulars of the Reserve Banks issued in accordance with
+paragraph (c)
+of this section govern the rights and obligations of parties to funds transfers sent through the Fedwire Funds Service as provided in
+paragraph (b)
+of this section. To the extent there is any inconsistency between a financial messaging standard adopted by the Fedwire Funds Service and this subpart, this subpart shall prevail.
+[
+55 FR 40801
+, Oct. 5, 1990;
+55 FR 47428
+, Nov. 13, 1990, as amended by Reg. J,
+77 FR 21859
+, Apr. 12, 2012;
+83 FR 61517
+,
+61522
+, Nov. 30, 2018;
+87 FR 34358
+, June 6, 2022]
+
+## § 210.26 Definitions.
+
+  As used in this subpart, the following definitions apply:
+Article 4A
+means Article 4A of the Uniform Commercial Code as set forth in
+appendix A of this part
+, which is incorporated into this subpart in accordance with
+§ 210.25(b)
+.
+Automated clearing house transfer
+means any transfer designated as an automated clearing house transfer in an operating circular issued by the Federal Reserve Banks.
+Beneficiary
+has the same meaning as in Article 4A except that the term is limited to a beneficiary in a funds transfer any portion of which is sent through the Fedwire Funds Service.
+Beneficiary's bank
+has the same meaning as in Article 4A, except that:
+(
+1
+)
+The term is limited to a beneficiary's bank in a funds transfer any portion of which is sent through the Fedwire Funds Service;
+(
+2
+)
+A Federal Reserve Bank need not be identified in the payment order in order to be the beneficiary's bank; and
+(
+3
+)
+The term includes a Federal Reserve Bank when that Federal Reserve Bank is the beneficiary of a payment order.
+Fedwire Funds Service
+means the funds-transfer system owned and operated by the Federal Reserve Banks that is used primarily for the transmission and settlement of payment orders governed by this subpart. The Fedwire Funds Service does not include the FedNow Service or the system for making automated clearing house transfers.
+Interdistrict transfer
+means a funds transfer involving entries to accounts maintained at two Federal Reserve Banks.
+Intradistrict transfer
+means a funds transfer involving entries to accounts maintained at one Federal Reserve Bank.
+Off-line bank
+means a bank that sends payment orders to and receives payment orders from a Federal Reserve Bank by telephone orally or by other means other than electronic data transmission.
+Payment order
+has the same meaning as in Article 4A except that the term includes only instructions sent or received through the Fedwire Funds Service and does not include automated clearing house transfers or any communication designated in an operating circular issued by a Federal Reserve Bank under this subpart as not being a payment order.
+Receiving bank
+has the same meaning as in Article 4A except that the term is limited to a receiving bank in a funds transfer any portion of which is sent through the Fedwire Funds Service.
+Sender
+has the same meaning as in Article 4A except that the term is limited to a sender in a funds transfer any portion of which is sent through the Fedwire Funds Service.
+Sender's account, receiving bank's account,
+and
+beneficiary's account
+mean the reserve, clearing, or other funds deposit account at a Federal Reserve Bank maintained or used by the sender, receiving bank, or beneficiary, respectively.
+Sender's Federal Reserve Bank
+and
+receiving bank's Federal Reserve Bank
+mean the Federal Reserve Bank at which the sender or receiving bank, respectively, maintains or uses an account.
+[Reg. J,
+87 FR 34358
+, June 6, 2022]
+
+## § 210.27 Reliance on identifying number.
+
+  (
+a
+)
+Reliance by a Federal Reserve Bank on number to identify an intermediary bank or beneficiary's bank.
+A Federal Reserve Bank may rely on the number in a payment order that identifies the intermediary bank or beneficiary's bank, even if it identifies a bank different from the bank identified by name in the payment order, if the Federal Reserve Bank does not know of such an inconsistency in identification. A Federal Reserve Bank has no duty to detect any such inconsistency in identification.
+(
+b
+)
+Reliance by a Federal Reserve Bank on number to identify beneficiary.
+A Federal Reserve Bank, acting as a beneficiary's bank, may rely on the number in a payment order that identifies the beneficiary, even if it identifies a person different from the person identified by name in the payment order, if the Federal Reserve Bank does not know of such an inconsistency in identification. A Federal Reserve Bank has no duty to detect any such inconsistency in identification.
+
+## § 210.28 Agreement of sender.
+
+  (
+a
+)
+Payment of sender's obligation to a Federal Reserve Bank.
+A sender (other than a Federal Reserve Bank), by maintaining or using an account with a Federal Reserve Bank, authorizes the sender's Federal Reserve Bank to obtain payment for the sender's payment orders by debiting the amount of the payment order from the sender's account.
+(
+b
+)
+Overdrafts.
+(
+1
+)
+A sender does not have the right to an overdraft in the sender's account. In the event an overdraft is created, the overdraft shall be due and payable immediately, without the need for a demand by the Federal Reserve Bank, at the earliest of the following times:
+(
+i
+)
+At the end of the Fedwire Funds Service funds-transfer business day;
+(
+ii
+)
+At the time the Federal Reserve Bank, in its sole discretion, deems itself insecure and gives notice thereof to the sender; or
+(
+iii
+)
+At the time the sender suspends payments or is closed.
+(
+2
+)
+The sender shall have in its account, at the time the overdraft is due and payable, a balance of actually and finally collected funds sufficient to cover the aggregate amount of all its obligations to the Federal Reserve Bank, whether the obligations result from the execution of a payment order or otherwise.
+(
+3
+)
+To secure any overdraft, as well as any other obligation due or to become due to its Federal Reserve Bank, each sender, by sending a payment order to a Federal Reserve Bank that is accepted by the Federal Reserve Bank, grants to the Federal Reserve Bank a security interest in all of the sender's assets in the possession or control of, or held for the account of, the Federal Reserve Bank. The security interest attaches when an overdraft, or any other obligation to the Federal Reserve Bank, becomes due and payable.
+(
+4
+)
+A Federal Reserve Bank may take any action authorized by law to recover the amount of an overdraft that is due and payable, including, but not limited to, the exercise of rights of set off, the realization on any available collateral, and any other rights it may have as a creditor under applicable law.
+(
+5
+)
+If a sender, other than a government sender described in
+§ 210.25(d)
+, incurs an overdraft in its account as a result of a debit to the account by a Federal Reserve Bank under
+paragraph (a)
+of this section, the account will be subject to any applicable overdraft charges, regardless of whether the overdraft has become due and payable. A Federal Reserve Bank may debit a sender's account under
+paragraph (a)
+of this section immediately on acceptance of the payment order.
+(
+c
+)
+Review of payment orders.
+A sender, by sending a payment order to a Federal Reserve Bank, agrees that for the purposes of sections 4A-204(a) and 4A-304 of Article 4A, a reasonable time to notify a Federal Reserve Bank of the relevant facts concerning an unauthorized or erroneously executed payment order is within 30 calendar days after the sender receives notice that the payment order was accepted or executed, or that the sender's account was debited with respect to the payment order.
+[
+55 FR 40801
+, Oct. 5, 1990, as amended at
+57 FR 46956
+, Oct. 14, 1992; Reg. J,
+87 FR 34359
+, June 6, 2022]
+
+## § 210.29 Agreement of receiving bank.
+
+  (
+a
+)
+Payment.
+A receiving bank (other than a Federal Reserve Bank) that receives a payment order from its Federal Reserve Bank authorizes that Federal Reserve Bank to pay for the payment order by crediting the amount of the payment order to the receiving bank's account.
+(
+b
+)
+Off-line banks.
+An off-line bank that does not expressly notify its Federal Reserve Bank in writing that it maintains an account for another bank warrants to that Federal Reserve Bank that the off-line bank does not act as an intermediary bank or a beneficiary's bank with respect to payment orders received through the Fedwire Funds Service for a beneficiary that is a bank.
+[
+55 FR 40801
+, Oct. 5, 1990;
+55 FR 47428
+, Nov. 13, 1990, as amended by Reg. J,
+83 FR 61522
+, Nov. 30, 2018]
+
+## § 210.30 Payment orders.
+
+  (
+a
+)
+Rejection.
+A sender shall not send a payment order to a Federal Reserve Bank unless authorized to do so by the Federal Reserve Bank. A Federal Reserve Bank may reject, or impose conditions that must be satisfied before it will accept, a payment order for any reason.
+(
+b
+)
+Selection of an intermediary bank.
+For an interdistrict transfer through the Fedwire Funds Service, a Federal Reserve Bank is authorized and directed to execute a payment order through another Federal Reserve Bank. A sender shall not send a payment order to a Federal Reserve Bank that requires the Federal Reserve Bank to send a payment order to an intermediary bank (other than a Federal Reserve Bank) unless that intermediary bank is designated in the sender's payment order. A sender shall not send to a Federal Reserve Bank a payment order through the Fedwire Funds Service that instructs use by a Federal Reserve Bank of a funds-transfer system or means of transmission other than the Fedwire Funds Service unless the Federal Reserve Bank agrees with the sender in writing to follow such instructions.
+(
+c
+)
+Execution date and payment date.
+A sender shall not send a payment order through the Fedwire Funds Service that instructs a Federal Reserve Bank to execute the payment order or to pay the beneficiary on a funds-transfer business day that is later than the Fedwire Funds Service funds-transfer business day on which the order is received by the Federal Reserve Bank, unless the Federal Reserve Bank agrees with the sender in writing to follow such instructions.
+[
+55 FR 40801
+, Oct. 5, 1990, as amended by Reg. J,
+87 FR 34359
+, June 6, 2022]
+
+## § 210.31 Payment by a Federal Reserve Bank to a receiving bank or beneficiary.
+
+  (
+a
+)
+Payment to a receiving bank.
+Payment of a Federal Reserve Bank's obligation to pay a receiving bank (other than a Federal Reserve Bank) occurs at the earlier of the time when the amount of the payment order is credited to the receiving bank's account or when the payment order is sent to the receiving bank.
+(
+b
+)
+Payment to a beneficiary.
+Payment by a Federal Reserve Bank to a beneficiary of a payment order, where the Federal Reserve Bank is the beneficiary's bank, occurs at the earlier of the time when the amount of the payment order is credited to the beneficiary's account or when notice of the credit is sent to the beneficiary.
+
+## § 210.32 Federal Reserve Bank liability; payment of compensation.
+
+  (
+a
+)
+Damages.
+In connection with its handling of a payment order under this subpart, a Federal Reserve Bank shall not be liable to a sender, receiving bank, beneficiary, or other Federal Reserve Bank, governed by this subpart, for any damages other than those payable under Article 4A. A Federal Reserve Bank shall not agree to be liable to a sender, receiving bank, beneficiary, or other Federal Reserve Bank for consequential damages under section 4A-305(d) of Article 4A.
+(
+b
+)
+Payment of compensation.
+(
+1
+)
+A Federal Reserve Bank shall satisfy its obligation, or that of another Federal Reserve Bank, to pay compensation in the form of interest under Article 4A by paying such compensation in the form of interest to a sender, receiving bank, beneficiary, or another party to the funds transfer that is entitled to such payment in an amount that is calculated in accordance with section 4A-506 of Article 4A.
+(
+2
+)
+If the sender or receiving bank that is the recipient of the payment of compensation is not the party entitled to compensation under Article 4A, the sender or receiving bank shall pass through the benefit of the compensation by making an interest payment, as of the day the compensation was paid by the Federal Reserve Bank, to the party entitled to compensation. The interest payment that is made to the party entitled to compensation shall not be less than the value of the compensation that was paid by the Federal Reserve Bank to the sender or receiving bank. The party entitled to compensation may agree to accept compensation in a form other than a direct interest payment, provided that such an alternative form of compensation is not less than the value of the interest payment that otherwise would be made.
+(
+c
+)
+Nonwaiver of right of recovery.
+Nothing in this subpart or any Operating Circular issued hereunder shall constitute, or be construed as constituting, a waiver by a Federal Reserve Bank of a cause of action for recovery under any applicable law of mistake and restitution.
+[
+55 FR 40801
+, Oct. 5, 1990, as amended by Reg. J,
+77 FR 21859
+, Apr. 12, 2012;
+83 FR 61517
+, Nov. 30, 2018;
+87 FR 34359
+, June 6, 2022]
+
+## § 210.40 Authority, purpose, and scope.
+
+  (
+a
+)
+Authority and purpose.
+This subpart provides rules to govern funds transfers through the FedNow Service, and has been issued pursuant to the Federal Reserve Act—section 13 (
+12 U.S.C. 342
+), paragraph (f) of section 19 (
+12 U.S.C. 464
+), paragraph 14 of section 16 (
+12 U.S.C. 248(o)
+), and paragraphs (i) and (j) of section 11 (
+12 U.S.C. 248(i)
+and
+(j)
+)—and other laws and has the force and effect of Federal law. This subpart is not a funds-transfer system rule as defined in Section 4A-501(b) of Article 4A.
+(
+b
+)
+Scope.
+(
+1
+)
+This subpart incorporates the provisions of Article 4A set forth in
+appendix A of this part
+. In the event of an inconsistency between the provisions of the sections of this subpart and
+appendix A of this part
+, the provisions of the sections of this subpart shall prevail.
+(
+2
+)
+Except as otherwise provided in
+paragraphs (b)(3)
+and
+(4)
+of this section, this subpart, including Article 4A as incorporated herein and operating circulars of the Federal Reserve Banks issued in accordance with
+paragraph (c)
+of this section, governs the rights and obligations of the following parties with respect to the FedNow Service:
+(
+i
+)
+Federal Reserve Banks that send or receive payment orders;
+(
+ii
+)
+Senders that send payment orders directly to a Federal Reserve Bank;
+(
+iii
+)
+Receiving banks that receive payment orders directly from a Federal Reserve Bank;
+(
+iv
+)
+Beneficiaries that receive payment for payment orders by means of credit to the beneficiary's settlement account; and
+(
+v
+)
+Other parties to a funds transfer any part of which is carried out through the FedNow Service to the same extent as if this subpart were considered a funds-transfer system rule under Article 4A.
+(
+3
+)
+A Federal Reserve Bank that is not the sender's Federal Reserve Bank, receiving bank's Federal Reserve Bank, or beneficiary's Federal Reserve Bank is not a party to the funds transfer for purposes of this subpart and Article 4A.
+(
+4
+)
+This subpart governs a funds transfer that is sent through the FedNow Service, even if a portion of the funds transfer is governed by the Electronic Fund Transfer Act, but in the event of an inconsistency between the provisions this subpart and the Electronic Fund Transfer Act, the Electronic Fund Transfer Act shall prevail to the extent of the inconsistency.
+(
+c
+)
+Operating Circulars.
+Each Federal Reserve Bank shall issue an Operating Circular consistent with this subpart that governs the details of its funds-transfer operations in connection with the FedNow Service and other matters it deems appropriate. Among other things, the Operating Circular may: set cut-off times and funds-transfer business days; address security procedures offered by the Federal Reserve Banks to verify the authenticity of a payment order; specify format and media requirements for payment orders; specify the time and method of receipt, execution, and acceptance of a payment order and settlement of a Federal Reserve Bank's payment obligation for purposes of Article 4A; prescribe time limits for the processing of payment orders; specify service terms governing ancillary features of the FedNow Service; provide for the acceptance of documents in electronic form to the extent any provision in Article 4A requires an agreement or other document to be in writing; identify messages that are not payment orders; and impose charges for funds-transfer services.
+(
+d
+)
+Government senders, receiving banks, and beneficiaries.
+Except as otherwise expressly provided by the statutes of the United States, the parties specified in
+paragraphs (b)(2)(ii)
+through
+(v)
+of this section include a department, agency, instrumentality, independent establishment, or office of the United States, or a wholly-owned or controlled government corporation.
+(
+e
+)
+Financial messaging standards.
+Financial messaging standards (
+e.g.,
+ISO 20022), including the financial messaging components, elements, technical documentation, tags, and terminology used to implement those standards, do not confer or connote legal status or responsibilities. This subpart, including Article 4A as incorporated herein, and the operating circulars of the Federal Reserve Banks issued in accordance with
+paragraph (c)
+of this section govern the rights and obligations of parties to funds transfers sent through the FedNow Service as provided in
+paragraph (b)
+of this section. To the extent there is any inconsistency between a financial messaging standard adopted by the Federal Reserve Banks for the FedNow Service and this subpart, this subpart shall prevail.
+
+## § 210.41 Definitions.
+
+  As used in this subpart, the following definitions apply:
+Article 4A
+means Article 4A of the Uniform Commercial Code as set forth in
+appendix A of this part
+, which is incorporated into this subpart in accordance with
+§ 210.40(b)
+.
+Beneficiary
+has the same meaning as in Article 4A, except that the term is limited to a beneficiary in a funds transfer that is sent through the FedNow Service.
+Beneficiary's bank
+has the same meaning as in Article 4A, except that:
+(
+1
+)
+The term is limited to a beneficiary's bank in a funds transfer that is sent through the FedNow Service;
+(
+2
+)
+A Federal Reserve Bank need not be identified in the payment order in order to be the beneficiary's bank; and
+(
+3
+)
+The term includes a Federal Reserve Bank when that Federal Reserve Bank is the beneficiary of a payment order.
+Federal Reserve Bank
+with respect to an entity means the Federal Reserve Bank in whose District the entity is located, as determined under the procedure described in
+Part 204 of this chapter
+(Regulation D), even if the entity is not otherwise subject to that section, or, if the entity maintains an account on the books of a different Federal Reserve Bank, the Federal Reserve Bank at which the entity maintains an account.
+FedNow Service
+means the funds-transfer system owned and operated by the Federal Reserve Banks to support instant payments that is used primarily for the transmission and settlement of payment orders governed by this subpart. The FedNow Service does not include the Fedwire Funds Service.
+Interdistrict transfer
+means a funds transfer involving entries to settlement accounts maintained at two Federal Reserve Banks.
+Payment order
+has the same meaning as in Article 4A, except that the term includes only instructions sent or received through the FedNow Service, and does not include automated clearing house transfers or any communication designated as not being a payment order in an Operating Circular issued by a Federal Reserve Bank under this subpart.
+Receiving bank
+has the same meaning as in Article 4A, except that the term is limited to a receiving bank in a funds transfer that is sent through the FedNow Service.
+Sender
+has the same meaning as in Article 4A, except that the term is limited to a sender in a funds transfer that is sent through the FedNow Service.
+Sender's settlement account, receiving bank's settlement account,
+and
+beneficiary's settlement account
+mean an account on the books of a Federal Reserve Bank maintained by the sender, receiving bank, or beneficiary, respectively. The term also includes any account on a Federal Reserve Bank's books used with respect to the FedNow Service by the sender, receiving bank, or beneficiary, respectively, by agreement with its Federal Reserve Bank, any other Federal Reserve Bank on whose books the settlement account is maintained, and the account-holder.
+
+## § 210.42 Reliance on identifying number.
+
+  (
+a
+)
+Reliance by a Federal Reserve Bank on number to identify a beneficiary's bank.
+A Federal Reserve Bank that receives a payment order from a sender containing a number that identifies the beneficiary's bank may rely on the number, even if it identifies a bank different from the bank identified by name in the payment order, if the Federal Reserve Bank does not know of such an inconsistency in identification. A Federal Reserve Bank has no duty to detect any such inconsistency in identification.
+(
+b
+)
+Reliance by a Federal Reserve Bank on number to identify beneficiary.
+A Federal Reserve Bank, acting as a beneficiary's bank, that receives a payment order from a sender containing a number that identifies the beneficiary may rely on the number, even if it identifies a person different from the person identified by name in the payment order, if the Federal Reserve Bank does not know of such an inconsistency in identification. A Federal Reserve Bank has no duty to detect any such inconsistency in identification.
+
+## § 210.43 Agreement of sender.
+
+  (
+a
+)
+Payment of sender's obligation to a Federal Reserve Bank.
+A sender (other than a Federal Reserve Bank), by maintaining or using a settlement account with a Federal Reserve Bank, authorizes the sender's Federal Reserve Bank to obtain payment for the sender's payment orders by debiting, or causing any other Federal Reserve Bank on whose books the settlement account is maintained to debit, the amount of the payment order from the settlement account. The sender remains responsible for payment if the Federal Reserve Bank on whose books the settlement account is maintained does not, for any reason, obtain payment by debiting that account.
+(
+b
+)
+Overdrafts.
+(
+1
+)
+A sender does not have the right to an overdraft in its settlement account. In the event an overdraft is created, the overdraft shall be due and payable immediately, without the need for a demand by the Federal Reserve Bank, at the earliest of the following times:
+(
+i
+)
+At the end of the FedNow funds-transfer business day;
+(
+ii
+)
+At the time the Federal Reserve Bank, in its sole discretion, deems itself insecure and gives notice thereof to the sender; or
+(
+iii
+)
+At the time the sender suspends payments or is closed.
+(
+2
+)
+The sender shall have in its settlement account, at the time the overdraft is due and payable, a balance of actually and finally collected funds sufficient to cover the aggregate amount of all its obligations to the Federal Reserve Bank, whether the obligations result from the acceptance of a payment order or otherwise.
+(
+3
+)
+To secure any overdraft, as well as any other obligation due or to become due to its Federal Reserve Bank, a sender, by sending a payment order to a Federal Reserve Bank that is accepted by the Federal Reserve Bank, grants to the Federal Reserve Bank a security interest in all of its assets in the possession or control of, or held for the account of, the Federal Reserve Bank. The security interest attaches when an overdraft, or any other obligation to the Federal Reserve Bank, becomes due and payable.
+(
+4
+)
+A Federal Reserve Bank may take any action authorized by law to recover the amount of an overdraft that is due and payable, including, but not limited to, the exercise of rights of set off, the realization on any available collateral, and any other rights it may have as a creditor under applicable law.
+(
+5
+)
+If a sender, other than a government sender described in
+§ 210.40(d)
+, incurs an overdraft in its settlement account as a result of a debit to the account by a Federal Reserve Bank under
+paragraph (a)
+of this section, the settlement account will be subject to any applicable overdraft charges, regardless of whether the overdraft has become due and payable. A Federal Reserve Bank may debit the settlement account under
+paragraph (a)
+of this section immediately on acceptance of the payment order.
+(
+c
+)
+Review of payment orders.
+A sender, by sending a payment order to a Federal Reserve Bank, agrees that for the purposes of sections 4A-204(a) and 4A-304 of Article 4A, a reasonable time to notify a Federal Reserve Bank of the relevant facts concerning an unauthorized or erroneously executed payment order is within 60 calendar days after the sender receives notice that the payment order was accepted or that the sender's settlement account was debited with respect to the payment order.
+
+## § 210.44 Agreement of receiving bank.
+
+  (
+a
+)
+Payment.
+A receiving bank (other than a Federal Reserve Bank) that receives a payment order from its Federal Reserve Bank authorizes that Federal Reserve Bank to pay for the payment order by crediting, or causing any other Federal Reserve Bank on whose books the settlement account is maintained to credit, the amount of the payment order to the settlement account.
+(
+b
+)
+Funds availability.
+(
+1
+)
+A beneficiary's bank (other than a Federal Reserve Bank) that accepts a payment order over the FedNow Service is obliged to pay the amount of the order to the beneficiary of the order immediately after its acceptance of the payment order, by crediting an account of the beneficiary in accordance with section 4A-405(a) of Article 4A. The rights and obligations with respect to the availability of funds are also governed by the Expedited Funds Availability Act and the Board's Regulation CC, Availability of Funds and Collection of Checks.
+(
+2
+)
+Nothing in
+paragraph (b)(1)
+of this section or any Operating Circular issued hereunder shall create any rights that the beneficiary or any party other than a Federal Reserve Bank may assert against the beneficiary's bank, or affect any liability of the beneficiary's bank to the beneficiary or any party other than a Federal Reserve Bank under Article 4A or other law.
+(
+3
+)
+In circumstances where the beneficiary's bank (other than a Federal Reserve Bank) has reasonable cause to believe that the beneficiary is not entitled or permitted to receive payment, the beneficiary's bank may notify its Federal Reserve Bank that it requires additional time to determine whether to accept the payment order. In the event the beneficiary's bank gives such notice to its Federal Reserve Bank, for purposes of this subpart and Article 4A the beneficiary's bank does not accept the payment order upon its receipt of payment in the amount of the payment order by a Federal Reserve Bank.
+
+## § 210.45 Payment orders.
+
+  (
+a
+)
+Rejection.
+A sender shall not send a payment order to a Federal Reserve Bank unless authorized to do so by the Federal Reserve Bank. A Federal Reserve Bank may reject, or impose conditions that must be satisfied before it will accept, a payment order for any reason.
+(
+b
+)
+Selection of an intermediary bank.
+For an interdistrict transfer through the FedNow Service, a Federal Reserve Bank is authorized and directed to execute a payment order through another Federal Reserve Bank. A sender shall not send a payment order to a Federal Reserve Bank that requires the Federal Reserve Bank to send a payment order to an intermediary bank (other than a Federal Reserve Bank). A sender shall not send to a Federal Reserve Bank a payment order through the FedNow Service that instructs use by a Federal Reserve Bank of a funds-transfer system or means of transmission other than the FedNow Service, unless the Federal Reserve Bank agrees with the sender in writing to follow such instructions.
+(
+c
+)
+Execution date and payment date.
+A sender shall not issue a payment order through the FedNow Service that instructs a Federal Reserve Bank to execute the payment order or to pay the beneficiary on a FedNow funds-transfer business day that is later than the funds-transfer business day on which the order is received by the Federal Reserve Bank, unless the Federal Reserve Bank agrees with the sender in writing to follow such instructions.
+
+## § 210.46 Payment by a Federal Reserve Bank to a receiving bank or beneficiary.
+
+  (
+a
+)
+Payment to a receiving bank.
+Payment of a Federal Reserve Bank's obligation to pay a receiving bank (other than a Federal Reserve Bank) occurs at the earlier of the time when the amount of the payment order is credited to the receiving bank's settlement account or when the payment order is sent to the receiving bank.
+(
+b
+)
+Payment to a beneficiary.
+Payment by a Federal Reserve Bank to a beneficiary of a payment order, where the Federal Reserve Bank is the beneficiary's bank, occurs at the earlier of the time when the amount of the payment order is credited to the beneficiary's settlement account or when notice of the credit is sent to the beneficiary.
+
+## § 210.47 Federal Reserve Bank liability; payment of compensation.
+
+  (
+a
+)
+Damages.
+In connection with its handling of a payment order under this subpart, a Federal Reserve Bank shall not be liable to a sender, receiving bank, beneficiary, or other Federal Reserve Bank, governed by this subpart, for any damages other than those payable under Article 4A. A Federal Reserve Bank shall not agree to be liable to a sender, receiving bank, beneficiary, or other Federal Reserve Bank for consequential damages under section 4A-305(d) of Article 4A.
+(
+b
+)
+Payment of compensation.
+(
+1
+)
+A Federal Reserve Bank shall satisfy its obligation, or that of another Federal Reserve Bank, to pay compensation in the form of interest under Article 4A by paying such compensation to a sender, receiving bank, beneficiary, or another party to the funds transfer that is entitled to such payment in an amount that is calculated in accordance with section 4A-506 of Article 4A.
+(
+2
+)
+If the sender or receiving bank that is the recipient of the payment of compensation is not the party entitled to compensation under Article 4A, the sender or receiving bank shall pass through the benefit of the compensation by making an interest payment, as of the day the compensation was paid by the Federal Reserve Bank, to the party entitled to compensation. The interest payment that is made to the party entitled to compensation shall not be less than the value of the compensation that was paid by the Federal Reserve Bank to the sender or receiving bank. The party entitled to compensation may agree to accept compensation in a form other than a direct interest payment, provided that such an alternative form of compensation is not less than the value of the interest payment that otherwise would be made.
+(
+c
+)
+Nonwaiver of right of recovery.
+Nothing in this subpart or any operating circular issued hereunder shall constitute, or be construed as constituting, a waiver by a Federal Reserve Bank of a cause of action for recovery under any applicable law of mistake and restitution.
+
+## Appendix A to Subpart B of Part 210—Commentary
+
+Appendix A to Subpart B of Part 210—Commentary
+The Commentary provides background material to explain the intent of the Board of Governors of the Federal Reserve System (Board) in adopting a particular provision in the subpart and to help readers interpret that provision. In some comments, examples are offered. The Commentary constitutes an official Board interpretation of
+subpart B of this part
+. Commentary is not provided for every provision of
+subpart B of this part
+, as some provisions are self-explanatory.
+Section 210.25—Authority, Purpose, and Scope
+(
+a
+)
+Authority and purpose.
+Section 210.25(a) states that the purpose of
+subpart B of this part
+is to provide rules to govern funds transfers through the Fedwire Funds Service and recites the Board's rulemaking authority for this subpart.
+Subpart B of this part
+is Federal law and is not a “funds-transfer system rule” as defined in section 4A-501(b) of Article 4A, Funds Transfers, of the Uniform Commercial Code (UCC), as set forth in
+appendix A of this part
+. Certain provisions of Article 4A may not be varied by a funds-transfer system rule, but under section 4A-107, regulations of the Board and operating circulars of the Federal Reserve Banks supersede inconsistent provisions of Article 4A to the extent of the inconsistency. In addition, regulations of the Board may preempt inconsistent provisions of state law. Accordingly,
+subpart B of this part
+supersedes or preempts inconsistent provisions of state law. It does not affect state law governing funds transfers that does not conflict with the provisions of
+subpart B of this part
+, such as Article 4A as enacted in any state, as such state law may apply to parties to funds transfers through the Fedwire Funds Service whose rights and obligations are not governed by
+subpart B of this part
+.
+(
+b
+)
+Scope.
+(
+1
+)
+Subpart B of this part
+incorporates the provisions of Article 4A set forth in
+appendix A of this part
+. The provisions set forth expressly in the sections of
+subpart B of this part
+supersede or preempt any inconsistent provisions of Article 4A as set forth in
+appendix A of this part
+or as enacted in any state. The official comments to Article 4A are not incorporated in
+subpart B of this part
+or this commentary to
+subpart B of this part
+, but the official comments may be useful in interpreting Article 4A as set forth in
+appendix A of this part
+. Because section 4A-105 refers to other provisions of the Uniform Commercial Code (
+e.g.,
+definitions in article 1 of the UCC), these other provisions of the UCC, as approved by the National Conference of Commissioners on Uniform State Laws, which is now also known as the Uniform Law Commission, and the American Law Institute, from time to time, are also incorporated into
+subpart B of this part
+.
+Subpart B of this part
+applies to any party to a funds transfer over the Fedwire Funds Service that is in privity with a Federal Reserve Bank. These parties include a sender (bank or nonbank) that sends a payment order directly to a Federal Reserve Bank, a receiving bank that receives a payment order directly from a Federal Reserve Bank, and a beneficiary that receives credit to an account that it uses or maintains at a Federal Reserve Bank as payment for a payment order accepted by a Federal Reserve Bank. Other parties to a funds transfer over the Fedwire Funds Service are covered by
+subpart B of this part
+to the same extent subpart B would apply to them if subpart B were a “funds-transfer system rule” under Article 4A that selected
+subpart B of this part
+as the governing law.
+(
+2
+)
+The scope of the applicability of a funds-transfer system rule under Article 4A is specified in section 4A-501(b), and the scope of the choice of law provision is specified in section 4A-507(c). Under section 4A-507(c), a choice of law provision is binding on the participants in a funds-transfer system and certain other parties having notice that the funds-transfer system might be used for the funds transfer and of the choice of law provision. The Uniform Commercial Code provides that a person has notice of a fact when the person has actual knowledge of it, receives a notice or notification of it, or has reason to know that it exists from all the facts and circumstances known to the person at the time in question. (See UCC section 1-202.) However, under sections 4A-507(b) and 4A-507(d), a choice of law by agreement of the parties takes precedence over a choice of law made by funds-transfer system rule.
+(
+3
+)
+If originators, receiving banks, and beneficiaries that are not in privity with a Federal Reserve Bank have the notice contemplated by section 4A-507(c) or if those parties agree to be bound by
+subpart B of this part
+,
+subpart B of this part
+generally would apply to payment orders between those remote parties, including participants in other funds-transfer systems. For example, a payment order may be sent from an originator's bank through a funds-transfer system other than the Fedwire Funds Service to a receiving bank which, in turn, executes that payment order by sending a payment order through the Fedwire Funds Service. Similarly, a Federal Reserve Bank may send a payment order through the Fedwire Funds Service to a receiving bank that sends it through a funds-transfer system other than the Fedwire Funds Service to the beneficiary's bank. In the first example, if the originator's bank has notice that the Fedwire Funds Service may be used to effect part of the funds transfer, the sending of the payment order through the other funds-transfer system to the receiving bank will be governed by
+subpart B of this part
+unless the parties to the payment order have agreed otherwise. In the second example, if the beneficiary's bank has notice that the Fedwire Funds Service may be used to effect part of the funds transfer, the sending of the payment order to the beneficiary's bank through the other funds-transfer system will be governed by
+subpart B of this part
+unless the parties have agreed otherwise. In both cases, the other funds-transfer system's rules would also apply to, at a minimum, the portion of these funds transfers being made through that funds transfer system. Because
+subpart B of this part
+is Federal law,
+subpart B of this part
+will take precedence over any funds-transfer system rule applicable to the remote sender or receiving bank or to a Federal Reserve Bank to the extent of any inconsistency. If remote parties to a funds transfer, a portion of which is sent through the Fedwire Funds Service, have expressly selected by agreement, in accordance with section 4A-507(b), a law other than
+subpart B of this part
+,
+subpart B of this part
+would not take precedence over the choice of law made by the agreement even though the remote parties had notice that the Fedwire Funds Service might be used and of the governing law. (See section 4A-507(d).) In addition,
+subpart B of this part
+would not apply to a funds transfer sent through another funds-transfer system where no Federal Reserve Bank handles the funds transfer, even though settlement for the funds transfer is made by means of a separate net settlement or funds transfer through the Fedwire Funds Service.
+(
+4
+)
+Under section 4A-108, Article 4A does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act (EFTA) (
+15 U.S.C. 1693
+et seq.
+). In general, Fedwire funds transfers to or from consumer accounts are exempt from the EFTA and Regulation E (
+12 CFR part 1005
+). A funds transfer from a consumer originator or a funds transfer to a consumer beneficiary could be carried out in part through the Fedwire Funds Service and in part through an automated clearinghouse or other means that is subject to the EFTA or Regulation E. In these cases, subpart B would not govern the portion of the funds transfer that is governed by the EFTA or Regulation E. (See the commentary to § 210.26 in this appendix, “Payment Order”.)
+(
+5
+)
+Section 919 of the EFTA, however, governs “remittance transfers,” which may include funds transfers over the Fedwire Funds Service. Section 919 of the EFTA sets out the obligations of remittance transfer providers with respect to consumer senders of remittance transfers. Section 919 of the EFTA generally does not affect the rights and obligations of financial institutions involved in a remittance transfer. To the extent that a Fedwire funds transfer is a “remittance transfer” governed by section 919 of the EFTA, it continues to be governed by
+subpart B of this part
+, except that, in the event of an inconsistency between the provisions of
+subpart B of this part
+and section 919 of the EFTA, section 919 of the EFTA shall prevail. For example, a consumer may initiate a remittance transfer governed by EFTA section 919 from the consumer's account at a depository institution, and the depository institution may initiate that transfer by sending a payment order to a Federal Reserve Bank through the Fedwire Funds Service. If the consumer subsequently exercised the right to cancel the remittance transfer and obtain a refund under the terms of section 919 of the EFTA, the depository institution would be required to comply with section 919 even if the institution does not have a right to reverse the payment order sent to the Federal Reserve Bank under
+subpart B of this part
+.
+(
+6
+)
+Finally, section 4A-404(a) provides that a beneficiary's bank is obliged to pay the amount of a payment order to the beneficiary on the payment date unless acceptance of the payment order occurs on the payment date after the close of the funds-transfer business day of the bank. The Expedited Funds Availability Act provides that funds received by a bank by wire transfer shall be available for withdrawal not later than the business day after the business day on which such funds are received (
+12 U.S.C. 4002(a)
+). That act also preempts any provision of state law that was not effective on September 1, 1989, that is inconsistent with that act or its implementing Regulation CC (
+12 CFR part 229
+). Accordingly, the Expedited Funds Availability Act and Regulation CC may preempt section 4A-404(a) as enacted in any state. In order to ensure that section 4A-404(a), or other provisions of Article 4A, as incorporated in
+subpart B of this part
+, do not take precedence over provisions of the Expedited Funds Availability Act, this section 210.25(b)(4) provides that where
+subpart B of this part
+establishes rights or obligations that are also governed by the Expedited Funds Availability Act or Regulation CC, the Expedited Funds Availability Act or Regulation CC provision shall apply and
+subpart B of this part
+shall not apply.
+(
+c
+)
+Operating Circulars.
+The Federal Reserve Banks issue Operating Circulars consistent with this subpart that contain additional provisions applicable to payment orders and other messages sent through the Fedwire Funds Service. Under section 4A-107, these Operating Circulars supersede inconsistent provisions of Article 4A, both as set forth in
+appendix A of this part
+and as enacted in any state. These Operating Circulars are not funds-transfer system rules, but, by their terms, they are binding on all parties covered by this subpart.
+(
+d
+)
+Government senders, receiving banks, and beneficiaries.
+This section clarifies that unless a statute of the United States provides otherwise,
+subpart B of this part
+applies to governmental entities, domestic or foreign, including foreign central banks as specified in
+paragraph (b)(1)
+of this section.
+(
+e
+)
+Financial messaging standards.
+This paragraph makes clear that financial messaging standards, including the financial messaging components, elements, technical documentation, tags, and terminology used to implement those standards, do not confer or connote legal status or responsibilities. Instead,
+subpart B of this part
+and Federal Reserve Bank operating circulars govern the rights and obligations of parties to funds transfers sent through the Fedwire Funds Service as provided in § 210.25(b). Thus, to the extent there is any inconsistency between a financial messaging standard adopted by the Fedwire Funds Service and
+subpart B of this part
+,
+subpart B of this part
+, including Article 4A as adopted in appendix B to
+subpart B of this part
+, will prevail. In the ISO 20022 financial messaging standard, for example, the term
+agent
+is used to refer to a variety of bank parties to a funds transfer (
+e.g., debtor agent,
+creditor agent, intermediary agent
+). Notwithstanding use of that term in the standard and in message tags, such banks are not the agents of any party to a funds transfer and owe no duty to any other party to such a funds transfer except as provided in
+subpart B of this part
+(including Article 4A) or by express agreement. The ISO 20022 financial messaging standard also permits information to be carried in a funds-transfer message regarding persons that are not parties to that funds transfer (
+e.g., ultimate debtor,
+ultimate creditor, initiating party
+) for regulatory, compliance, remittance, or other purposes. An “ultimate debtor” is not an “originator” as defined in Article 4A. The relationship between the ultimate debtor and the originator (what the ISO 20022 standard calls the “debtor”) is determined by law other than Article 4A.
+Section 210.26—Definitions
+Article 4A defines many terms (
+e.g., beneficiary, intermediary bank, receiving bank, security procedure
+) used in
+subpart B of this part
+. These terms are defined or listed in sections 4A-103 through 4A-105. These terms, such as the term
+bank
+(defined in section 4A-105(d)(2)), may differ from comparable terms in subpart A and
+subpart C of this part
+. As
+subpart B of this part
+incorporates consistent provisions of Article 4A, it incorporates these definitions unless these terms are expressly defined otherwise in
+subpart B of this part
+. Subpart B modifies the definitions of five Article 4A terms,
+beneficiary, beneficiary's bank, payment order, receiving bank,
+and
+sender
+. Subpart B also defines terms not defined in Article 4A.
+Article 4A. Article 4A
+means the version of that article of the Uniform Commercial Code set forth in
+appendix A of this part
+. It does not refer to the law of any particular state unless the context indicates otherwise. Subject to the express provisions of this subpart, this version of Article 4A is incorporated into this subpart and made Federal law for transactions covered by
+subpart B of this part
+. (
+See
+§ 210.25(b)(1) and accompanying commentary.) Because section 4A-105 refers to other provisions of the Uniform Commercial Code (
+e.g.,
+definitions in article 1 of the UCC), these other provisions of the UCC, as approved by the National Conference of Commissioners on Uniform State Laws, which is now also known as the Uniform Law Commission, and the American Law Institute, from time to time, are also incorporated into
+subpart B of this part
+.
+Beneficiary, beneficiary's bank, receiving bank,
+and
+sender.
+The definitions of “beneficiary,” “beneficiary's bank,” “receiving bank,” and “sender” in
+subpart B of this part
+differ from the definitions in sections 4A-103(a)(2) through (4). The subpart B definitions clarify that, for the purposes of
+subpart B of this part
+, these terms are limited to parties in a funds transfer that is sent through the Fedwire Funds Service. For example, the parties to a funds transfer that is sent through the FedNow Service would be governed by
+subpart C of this part
+, and would not be a “beneficiary,” “beneficiary's bank,” “receiving bank,” or “sender” governed by
+subpart B of this part
+. The subpart B definition of “beneficiary's bank” further clarifies that where a Federal Reserve Bank functions as the beneficiary's bank, it need not be identified in the payment order as the beneficiary's bank and that a Federal Reserve Bank that receives a payment order as beneficiary is also the beneficiary's bank with respect to that payment order.
+Fedwire Funds Service.
+This term refers to the funds-transfer system owned and operated by the Federal Reserve Banks that is governed by this subpart. The term does not refer to any particular computer, telecommunications facility, or funds transfer, but rather to the system as a whole, which may include transfers by telephone or by written instrument in particular circumstances. The term does not include the FedNow Service or the system used for automated clearing house transfers.
+Off-line bank.
+Most Fedwire payment orders are sent electronically from a sender to a Federal Reserve Bank or from a Federal Reserve Bank to a receiving bank. Banks that send payment orders to Federal Reserve Banks electronically are often referred to as on-line banks. Some Fedwire Funds Service participants, however, send payment orders to a Federal Reserve Bank or receive payment orders from a Federal Reserve Bank orally by telephone or, in unusual circumstances, in writing. A bank that does not use either a terminal or a computer that links it electronically to a terminal or computer at its Federal Reserve Bank to send payment orders through the Fedwire Funds Service is an off-line bank.
+Payment Order.
+(1) The definition of “payment order” in
+subpart B of this part
+differs from the section 4A-103(a)(1) definition. The subpart B definition clarifies that, for the purposes of
+subpart B of this part
+, the term includes only instructions transmitted through the Fedwire Funds Service. For example, instructions transmitted through the FedNow Service would be governed by
+subpart C of this part
+, and not
+subpart B of this part
+. Additionally, the subpart B definition provides that certain messages that are transmitted through the Fedwire Funds Service are not payment orders. Federal Reserve Banks and banks participating in the Fedwire Funds Service send various types of messages relating to payment orders or to other matters, through the Fedwire Funds Service, that are not intended to be payment orders. In some cases, messages sent through the Fedwire Funds Service, such as certain requests for credit transfer, may be payment orders under Article 4A, but are not treated as payment orders under subpart B because they are not an instruction to a Federal Reserve Bank to pay or cause another bank to pay money. Under the subpart B definition, these messages are not “payment orders” governed by
+subpart B of this part
+. The operating circulars of the Federal Reserve Banks may specify those messages that may be transmitted through the Fedwire Funds Service but that are not payment orders.
+(2)
+Subpart B of this part
+, including its incorporation of Article 4A, governs a payment order even though the originator's or beneficiary's account may be a consumer account established primarily for personal, family, or household purposes. Under section 4A-108, Article 4A does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act. That act and Regulation E (
+12 CFR part 1005
+) implementing it do not apply to funds transfers through the Fedwire Funds Service (see
+15 U.S.C. 1693a(7)(B)
+and
+12 CFR 1005.3(c)(3)
+), except that section 919 of the Electronic Fund Transfer Act may govern a Fedwire funds transfer that is a “remittance transfer.” Such remittance transfers that are Fedwire funds transfers continue to be governed by subpart B. Thus, subpart B applies to all funds transfers through the Fedwire Funds Service even though some such transfers involve originators or beneficiaries who are consumers. (
+See
+also § 210.25(b) and accompanying commentary.)
+Section 210.27—Reliance on Identifying Number
+(
+a
+)
+Reliance by a Federal Reserve Bank on number to identify intermediary bank or beneficiary's bank.
+Section 4A-208 provides that a receiving bank, such as a Federal Reserve Bank, may rely on the routing number of an intermediary bank or the beneficiary's bank specified in a payment order as identifying the appropriate intermediary bank or beneficiary's bank, even if the payment order identifies another bank by name, provided that the receiving bank does not know of the inconsistency. Under section 4A-208(b)(2), if the sender of the payment order is not a bank, a receiving bank may rely on the number only if the sender had notice before the receiving bank accepted the sender's order that the receiving bank might rely on the number. This section provides this notice to entities that are not banks, such as the Department of the Treasury, that send payment orders directly to a Federal Reserve Bank.
+(
+b
+)
+Reliance by a Federal Reserve Bank on number to identify beneficiary.
+Section 4A-207 provides that a beneficiary's bank, such as a Federal Reserve Bank, may rely on the number identifying a beneficiary, such as the beneficiary's account number, specified in a payment order as identifying the appropriate beneficiary, even if the payment order identifies another beneficiary by name, provided that the beneficiary's bank does not know of the inconsistency. Under section 4A-207(c)(2), if the originator is not a bank, an originator is not obliged to pay for a payment order if the originator did not have notice that the beneficiary's bank might rely on the identifying number and the person paid on the basis of the identifying number was not entitled to receive payment. This section of subpart B provides this notice to entities that are not banks, such as the Department of the Treasury, that are originators of payment orders sent directly by the originators to a Federal Reserve Bank, where that Federal Reserve Bank or another Federal Reserve Bank is the beneficiary's bank (
+see also
+section 4A-402(b), providing that a sender must pay a beneficiary's bank for a payment order accepted by the beneficiary's bank).
+Section 210.28—Agreement of Sender
+(
+a
+)
+Payment of sender's obligation to a Federal Reserve Bank.
+When a sender sends a payment order to a Federal Reserve Bank and the Federal Reserve Bank accepts the payment order by issuing a conforming order executing the sender's payment order, under section 4A-402 the sender is indebted to the Federal Reserve Bank for the amount of the payment order. Section 4A-403 specifies the various methods by which a sender may settle the obligation under section 4A-402. With respect to a payment order sent through the Fedwire Funds Service, the obligation of a sender (other than a Federal Reserve Bank) is settled by a debit to the account of the sender at a Federal Reserve Bank. Section 210.28(a) provides that a sender, other than a Federal Reserve Bank, that maintains or uses an account at a Federal Reserve Bank authorizes the Federal Reserve Bank to debit that account so that the Federal Reserve Bank can obtain payment for the payment order.
+(
+b
+)
+Overdrafts.
+(
+1
+)
+In some cases, debits to a sender's account will create an overdraft in the sender's account. The Board and the Federal Reserve Banks have established policies concerning when a Federal Reserve Bank will permit a bank to incur an overdraft in its account at a Federal Reserve Bank. These policies do not give a bank or other sender a right to an overdraft in its account. Subpart B clarifies that a sender does not have a right to such an overdraft. If an overdraft arises, it becomes immediately due and payable at the earliest of the following times: The end of the Fedwire Funds Service funds-transfer business day; the time the Federal Reserve Bank, in its sole discretion, deems itself insecure and gives notice to the sender; or the time that the sender suspends payments or is closed by governmental action, such as the appointment of a receiver. In some cases, a Federal Reserve Bank extends its Fedwire Funds Service operations beyond the standard cut-off time for that funds-transfer business day. For the purposes of this section, unless otherwise specified by the Federal Reserve Bank making such an extension, an overdraft becomes due and payable at the end of the extended operating hours. An overdraft becomes due and payable prior to a Federal Reserve Bank's cut-off time if the Federal Reserve Bank deems itself insecure and gives notice to the sender. A Federal Reserve Bank that deems itself insecure may give such notice in accordance with the provisions on notice in section 1-202(d) of the UCC, in accordance with any other applicable law or agreement, or by any other reasonable means. An overdraft also becomes due and payable at the time that a bank is closed or suspends payments. For example, an overdraft becomes due and payable if a receiver is appointed for the bank or the bank is prevented from making payments by governmental order. The Federal Reserve Bank need not make demand on the sender for the overdraft to become due and payable.
+(
+2
+)
+A sender must cover any overdraft and any other obligation of the sender to the Federal Reserve Bank by the time the overdraft becomes due and payable. By sending a payment order to a Federal Reserve Bank, the sender grants a security interest to the Federal Reserve Bank in all of the assets of the sender possessed or controlled by, or held for the account of, the Federal Reserve Bank in order to secure all obligations due or to become due to the Federal Reserve Bank. The security interest attaches when the overdraft, or other obligation of the sender to the Federal Reserve Bank, becomes due and payable. The security interest does not apply to assets held by the sender as custodian or trustee for the sender's customers or third parties. Once an overdraft is due and payable, a Federal Reserve Bank may exercise its right of setoff, liquidate collateral, or take other similar action to satisfy the obligation the sender owes to the Federal Reserve Bank.
+(
+c
+)
+Review of payment orders.
+(
+1
+)
+Under section 4A-204, a receiving bank is required to refund the principal amount of an unauthorized payment order that the sender was not obliged to pay, together with interest on the refundable amount calculated from the date that the receiving bank received payment to the date of the refund. The sender is not entitled to compensation in the form of interest if the sender fails to exercise ordinary care to determine that the order was not authorized and to notify the receiving bank within a reasonable period of time after the sender receives a notice that the payment order was accepted or that the sender's account was debited with respect to the order. Similarly, under section 4A-304, if a sender of a payment order that was erroneously executed does not notify the bank receiving the payment order within a reasonable time, the bank is not liable to the sender for compensation in the form of interest on any amount refundable to the sender. Section 210.28(c) establishes 30 calendar days as the reasonable period of time for the purposes of these provisions of Article 4A.
+(
+2
+)
+Section 4A-505 provides that, in order for a customer to assert a claim objecting to a debit to its account by a receiving bank, the customer must notify the receiving bank of its objection within one year after the customer received notification reasonably identifying the payment order.
+Subpart B of this part
+does not vary this one-year claim preclusion period.
+Section 210.29—Agreement of Receiving Bank
+(
+b
+)
+Off-line banks.
+(
+1
+)
+Generally, an on-line bank receiving payment orders or advices of credit for payment orders from a Federal Reserve Bank receives the payment orders or advices electronically a short time after the corresponding payment orders are received by the on-line bank's Federal Reserve Bank. An off-line bank receiving payment orders or advices of credit from a Federal Reserve Bank does not have an electronic connection with the Federal Reserve Bank; therefore, payment orders or advices are transmitted either by telephone on the day the payment order is received by the receiving bank's Federal Reserve Bank, or sent by courier or mail along with the off-line bank's daily account statement, on the funds-transfer business day following the day the payment order is received by the off-line bank's Federal Reserve Bank.
+(
+2
+)
+Under section 4A-302(a)(2), a Federal Reserve Bank must transmit payment orders at a time and by means reasonably necessary to allow payment to the beneficiary on the payment date, or as soon thereafter as is feasible. Therefore, where an off-line receiving bank is an intermediary bank or beneficiary's bank in a payment order, its Federal Reserve Bank attempts to transmit the payment order to the off-line bank by telephone on the day the payment order is received by the Federal Reserve Bank. A Federal Reserve Bank can generally identify these payment orders from the type code designated in the payment order.
+(
+3
+)
+Under section 4A-404(b), if a payment order instructs payment to the account of the beneficiary, the beneficiary's bank must notify the beneficiary of the receipt of a payment order before midnight of the next funds-transfer business day following the payment date. Where an off-line bank is the beneficiary of a payment order, telephone notice by a Federal Reserve Bank to the off-line bank of the receipt of the order is not required by Article 4A because the Federal Reserve Bank sends notice to the off-line bank by courier or mail, along with its daily account statement, on the day after the payment order is received by its Federal Reserve Bank. Payment orders for which an off-line bank is the beneficiary of the order are generally designated as settlement transactions.
+(
+4
+)
+If an off-line receiving bank maintains an account for another bank, the off-line bank may receive payment orders designated as settlement transactions in its capacity as beneficiary's bank or intermediary bank. A Federal Reserve Bank cannot readily distinguish these payment orders from settlement transactions for which the off-line bank is the beneficiary of the order. If an off-line bank notifies its Federal Reserve Bank that it maintains an account for another bank, the Federal Reserve Bank will attempt to telephone the off-line bank with respect to all settlement transactions received by such bank, whether the off-line bank is the beneficiary, the beneficiary's bank, or an intermediary bank in the payment order. Under this section, an off-line bank that does not expressly notify its Federal Reserve Bank in writing that it maintains an account for another bank warrants to that Federal Reserve Bank that it does not act as an intermediary bank or a beneficiary's bank for a bank beneficiary with respect to payment orders received through Fedwire.
+Section 210.30—Payment Orders
+(
+a
+)
+Rejection.
+(
+1
+)
+A sender must make arrangements with its Federal Reserve Bank before it can send payment orders to the Federal Reserve Bank. Federal Reserve Banks reserve the right to reject or impose conditions on the acceptance of payment orders for any reason. For example, a Federal Reserve Bank might reject or impose conditions on accepting a payment order where a sender does not have sufficient funds in its account with the Federal Reserve Bank to cover the amount of the sender's payment order and other obligations of the sender due or to become due to the Federal Reserve Bank. A Federal Reserve Bank may require a sender to execute a written agreement concerning security procedures or other matters before the sender may send payment orders to the Federal Reserve Bank.
+(
+b
+)
+Selection of an intermediary bank.
+(
+1
+)
+Under section 4A-302, if a receiving bank (other than a beneficiary's bank), such as a Federal Reserve Bank, accepts a payment order, it must issue a payment order that complies with the sender's order. The sender's order may include instructions concerning an intermediary bank to be used that must be followed by a receiving bank (
+see
+section 4A-302(a)(1)). If the sender does not designate any intermediary bank in its payment order, the receiving bank may select an intermediary bank through which the sender's payment order can be expeditiously issued to the beneficiary's bank so long as the receiving bank exercises ordinary care in selecting the intermediary bank (
+see
+section 4A-302(b)).
+(
+2
+)
+This section provides that in an interdistrict transfer, a Federal Reserve Bank is authorized and directed to select another Federal Reserve Bank as an intermediary bank. A sender may, however, instruct a Federal Reserve Bank to use a particular intermediary bank by designating that bank as the bank to be credited by that Federal Reserve Bank (or the second Federal Reserve Bank in the case of an interdistrict transfer) in its payment order, in which case the Federal Reserve Bank will send the payment order to that bank if that bank receives payment orders through the Fedwire Funds Service. A sender may not instruct a Federal Reserve Bank to use its discretion to select an intermediary bank other than a Federal Reserve Bank or an intermediary bank designated by the sender. In addition, a sender may not send a payment order through the Fedwire Funds Service that instructs a Federal Reserve Bank to use a funds-transfer system or means of transmission other than the Fedwire Funds Service unless the sender and the Federal Reserve Bank agree in writing to the use of that funds-transfer system or means of transmission.
+(
+c
+)
+Execution date and payment date.
+Generally, the Fedwire Funds Service is a same-day value transfer system through which funds may be transferred from the originator to the beneficiary on the same funds-transfer business day. A sender may not send a payment order to a Federal Reserve Bank that specifies an execution date or payment date later than the day on which the payment order is issued, unless the sender of the order and the Federal Reserve Bank agree in writing to the arrangement.
+Section 210.31—Payment by a Federal Reserve Bank to a Receiving Bank or Beneficiary
+(
+a
+)
+Payment to a receiving bank.
+(
+1
+)
+Under section 4A-402, when a Federal Reserve Bank executes a sender's payment order by issuing a conforming order to a receiving bank that accepts the payment order, the Federal Reserve Bank must pay the receiving bank the amount of the payment order. Section 210.29(a) authorizes a Federal Reserve Bank to make the payment by crediting the account at the Federal Reserve Bank maintained or used by the receiving bank. Section 210.31(a) provides that the payment occurs when the receiving bank's account is credited or when the payment order is sent by the Federal Reserve Bank to the receiving bank, whichever is earlier. Ordinarily, payment will occur during the funds-transfer business day a short time after the payment order is received, even if the receiving bank is an off-line bank. This credit is final and irrevocable when made and constitutes final settlement under section 4A-403. Payment does not waive a Federal Reserve Bank's right of recovery under the applicable law of mistake and restitution (
+see
+§ 210.32(c)), affect a Federal Reserve Bank's right to apply the funds to any obligation due or to become due to the Federal Reserve Bank, or affect legal process or claims by third parties on the funds.
+(
+2
+)
+This section on final payment does not apply to settlement for payment orders between Federal Reserve Banks. These payment orders are settled by other means.
+(
+b
+)
+Payment to a beneficiary.
+Section 210.31(b) specifies when a Federal Reserve Bank makes payment to a beneficiary for which it is the beneficiary's bank. As in the case of payment to a receiving bank, this payment occurs at the earlier of the time that the Federal Reserve Bank credits the beneficiary's account or sends notice of the credit to the beneficiary, and is final and irrevocable when made.
+Section 210.32—Federal Reserve Bank Liability; Payment of Compensation
+(
+a
+)
+Damages.
+(
+1
+)
+Under section 4A-305(d), damages for failure of a receiving bank to execute a payment order that it was obligated to execute by express agreement are limited to expenses in the transaction and incidental expenses and interest and do not include additional damages, including consequential damages, unless they are provided for in an express written agreement of the receiving bank. This section clarifies that in connection with the handling of payment orders, Federal Reserve Banks may not agree to be liable for consequential damages under this provision and shall not be liable for damages other than those that may be due under Article 4A to parties governed by this subpart. Any agreement in conflict with these provisions would not be effective, because it would be in violation of subpart B.
+(
+2
+)
+This section does not affect the ability of other parties to a funds transfer to agree to be liable for consequential damages, the liability of a Federal Reserve Bank under section 4A-404 (relating to obligation of beneficiary's bank to pay and give notice to beneficiary), or the liability to parties governed by subpart B for claims not based on the handling of a payment order under subpart B.
+(
+b
+)
+Payment of compensation.
+(
+1
+)
+Under article 4A, a Federal Reserve Bank may be required to pay compensation in the form of interest to another party in connection with its handling of a funds transfer. For example, payment of compensation in the form of interest is required in certain situations pursuant to sections 4A-204 (relating to refund of payment and duty of customer to report with respect to unauthorized payment order), 4A-209 (relating to acceptance of payment order), 4A-210 (relating to rejection of payment order), 4A-304 (relating to duty of sender to report erroneously executed payment order), 4A-305 (relating to liability for late or improper execution or failure to execute a payment order), 4A-402 (relating to obligation of sender to pay receiving bank), and 4A-404 (relating to obligation of beneficiary's bank to pay and give notice to beneficiary).
+(
+2
+)
+Section 210.32(b) requires Federal Reserve Banks to provide compensation through payment in the form of interest. Under section 4A-506(a), the amount of such interest may be determined by agreement between the sender and receiving bank or by funds-transfer system rule. If there is no such agreement, under section 4A-506(b), the amount of interest is based on the Federal funds rate. Similarly, compensation in the form of interest will be paid to government senders, receiving banks, or beneficiaries described in § 210.25(d) if they are entitled to interest under subpart B. A Federal Reserve Bank may also, in its discretion, pay compensation in the form of interest directly to a remote party to a Fedwire funds transfer that is entitled to interest, rather than providing compensation to its sender or receiving bank.
+(
+3
+)
+If a sender or receiving bank that received a payment of compensation is not the party entitled to compensation under Article 4A, the sender or receiving bank must pass the benefit of the payment made to it to the party that is entitled to compensation. The benefit may be passed on either in the form of a direct payment of interest or in the form of a compensating balance if the party entitled to interest agrees to accept the other form of compensation. In the latter case, the value of the compensating balance must be at least equivalent to the value of the interest payment that otherwise would have been provided.
+(
+c
+)
+Nonwaiver of right of recovery.
+Several sections of Article 4A allow a party to a funds transfer to make a claim pursuant to the applicable law of mistake and restitution. Nothing in
+subpart B of this part
+or any operating circular issued in accordance with
+subpart B of this part
+waives any such claim by a Federal Reserve Bank. A Federal Reserve Bank, however, may waive such a claim by express written agreement in order to settle litigation or for other purposes.
+[
+55 FR 40801
+, Oct. 5, 1990;
+55 FR 47428
+, Nov. 13, 1990, as amended by Reg. J,
+77 FR 21859
+, Apr. 12, 2012;
+83 FR 61517
+,
+61522
+, Nov. 30, 2018;
+87 FR 34359
+, June 6, 2022]
+
+## Appendix A to Subpart C of Part 210—Commentary
+
+Appendix A to Subpart C of Part 210—Commentary
+The Commentary provides background material to explain the intent of the Board of Governors of the Federal Reserve System (Board) in adopting a particular provision in the subpart and to help readers interpret that provision. In some comments, examples are offered. The Commentary constitutes an official Board interpretation of
+subpart C of this part
+. Commentary is not provided for every provision of
+subpart C of this part
+, as some provisions are self-explanatory.
+Section 210.40—Authority, Purpose, and Scope
+(
+a
+)
+Authority and purpose.
+Section 210.40(a) states that the purpose of
+subpart C of this part
+is to provide rules to govern funds transfers through the FedNow Service and recites the Board's rulemaking authority for this subpart.
+Subpart C of this part
+is Federal law and is not a “funds-transfer system rule,” as defined in section 4A-501(b) of Article 4A, Funds Transfers, of the Uniform Commercial Code (UCC), as set forth in
+appendix A of this part
+. Certain provisions of Article 4A may not be varied by a funds-transfer system rule, but under section 4A-107, regulations of the Board and Operating Circulars of the Federal Reserve Banks supersede inconsistent provisions of Article 4A to the extent of the inconsistency. In addition, regulations of the Board may preempt inconsistent provisions of state law. Accordingly,
+subpart C of this part
+supersedes or preempts inconsistent provisions of state law. It does not affect state law governing funds transfers that does not conflict with the provisions of
+subpart C of this part
+, such as Article 4A, as enacted in any state, as such state law may apply to parties to funds transfers through the FedNow Service whose rights and obligations are not governed by
+subpart C of this part
+.
+(
+b
+)
+Scope.
+(
+1
+)
+Subpart C of this part
+incorporates the provisions of Article 4A set forth in
+appendix A of this part
+. The provisions set forth expressly in the sections of
+subpart C of this part
+supersede or preempt any inconsistent provisions of Article 4A as set forth in
+appendix A of this part
+or as enacted in any state. The official comments to Article 4A are not incorporated in
+subpart C of this part
+or this commentary to
+subpart C of this part
+, but the official comments may be useful in interpreting Article 4A as set forth in
+appendix A of this part
+. Because section 4A-105 refers to other provisions of the Uniform Commercial Code (
+e.g.,
+definitions in article 1 of the UCC), these other provisions of the UCC, as approved by the National Conference of Commissioners on Uniform State Laws, which is now also known as the Uniform Law Commission, and the American Law Institute, from time to time, are also incorporated into
+subpart C of this part
+.
+Subpart C of this part
+applies to any party to a funds transfer sent through the FedNow Service that is in privity with a Federal Reserve Bank. These parties include a sender (bank or nonbank) that sends a payment order to a Federal Reserve Bank through the FedNow Service, a receiving bank that receives a payment order from a Federal Reserve Bank, and a beneficiary that receives credit to an account that it uses or maintains at a Federal Reserve Bank as payment for a payment order accepted by a Federal Reserve Bank.
+Subpart C of this part
+also applies to Federal Reserve Banks that send or receive payment orders over the FedNow Service. For example, if a sender settles its activity over the FedNow Service in the account of a correspondent bank, the sender's Federal Reserve Bank would be a bank in the funds transfer chain, but the Federal Reserve Bank of the correspondent bank would not be a sender or receiving bank with respect to the payment order and would not be a party to the funds transfer. Other parties to a funds transfer sent through the FedNow Service are covered by this subpart to the same extent that this subpart would apply to them if this subpart were a “funds-transfer system rule” under Article 4A that selected
+subpart C of this part
+as the governing law.
+(
+2
+)
+The scope of the applicability of a funds-transfer system rule under Article 4A is specified in section 4A-501(b), and the scope of the choice of law provision is specified in section 4A-507(c). Under section 4A-507(c), a choice of law provision is binding on the participants in a funds-transfer system and certain other parties having notice that the funds-transfer system might be used for the funds transfer and of the choice of law provision. The Uniform Commercial Code provides that a person has notice of a fact when the person has actual knowledge of it, receives a notice or notification of it, or has reason to know that it exists from all the facts and circumstances known to the person at the time in question. (
+See
+UCC sec. 1-202.) However, under sections 4A-507(b) and 4A-507(d), a choice of law by agreement of the parties takes precedence over a choice of law made by funds-transfer system rule.
+(
+3
+)
+With respect to funds transfers sent through the FedNow Service, if originators and beneficiaries that are not in privity with a Federal Reserve Bank have the notice contemplated by Section 4A-507(c) or if those parties agree to be bound by
+subpart C of this part
+,
+subpart C of this part
+generally would apply to those remote parties. If remote parties to a funds transfer, a portion of which is sent through the FedNow Service, have expressly selected by agreement a law other than
+subpart C of this part
+under section 4A-507(b),
+subpart C of this part
+would not take precedence over the choice of law made by the agreement even though the remote parties had notice that the FedNow Service may be used and of the governing law. (
+See
+4A-507(d).) In addition,
+subpart C of this part
+would not apply to a funds transfer sent through a funds-transfer system other than the FedNow Service, even though settlement for the funds transfer is made by means of a separate funds transfer through the FedNow Service.
+(
+4
+)
+Under section 4A-108, Article 4A does not apply to a funds transfer, any part of which is governed by the Electronic Fund Transfer Act (EFTA) (
+15 U.S.C. 1693
+et seq.
+). A funds transfer from a consumer originator or a funds transfer to a consumer beneficiary could be carried out through the FedNow Service and could potentially be subject to the EFTA and Regulation E (
+12 CFR part 1005
+) implementing it. If so, the funds transfer continues to also be governed by subpart C, except that, in the event of an inconsistency between the provisions of subpart C and the EFTA, the EFTA shall prevail to the extent of the inconsistency. (See also the commentary to section 210.41 in this appendix, “Payment Order.”) For example, a funds transfer may be initiated from a consumer's account at a depository institution, and the depository institution may execute that payment order by sending a conforming payment order to a Reserve Bank through the FedNow Service. If that transfer is subject to the EFTA, then examples of how the provisions of subpart C may govern the transfer include, but are not limited to, the following:
+(
+i
+)
+Where the consumer subsequently gives timely notice that the transfer was an unauthorized electronic fund transfer to its depository institution and exercises the right to obtain a refund under the EFTA, the depository institution would be required to comply with the EFTA and the applicable provisions of the EFTA would govern the institution's obligations to its customer, even if under subpart C the institution does not have a right to receive a refund or reverse the payment order sent to the Reserve Bank through the FedNow Service.
+(
+ii
+)
+Where the customer properly asserts an error under the EFTA with respect to the transfer and exercises the right to obtain a refund to correct the error under the EFTA, the depository institution would be required to comply with the EFTA and the applicable provisions of the EFTA would govern the institution's obligations to its customer, even if under subpart C the institution is obliged to pay its payment order sent to the Reserve Bank through the FedNow Service.
+(
+c
+)
+Operating Circulars.
+The Federal Reserve Banks issue Operating Circulars consistent with this subpart that contain additional provisions applicable to payment orders and other messages sent through the FedNow Service. Under section 4A-107, this Operating Circular supersedes inconsistent provisions of Article 4A, both as set forth in
+appendix A of this part
+and as enacted in any state. These Operating Circulars are not funds-transfer system rules, but, by their terms, they are binding on all parties covered by this subpart.
+(
+d
+)
+Government senders, receiving banks, and beneficiaries.
+This section clarifies that unless a statute of the United States provides otherwise,
+subpart C of this part
+applies to governmental entities.
+(
+e
+)
+Financial messaging standards.
+This paragraph makes clear that financial messaging standards, including the financial messaging components, elements, technical documentation, tags, and terminology used to implement those standards, do not confer or connote legal status or responsibilities. Instead,
+subpart C of this part
+and Federal Reserve Bank operating circulars govern the rights and obligations of parties to funds transfers sent through the FedNow Service as provided in § 210.40(b). Thus, to the extent there is any inconsistency between a financial messaging standard adopted by the FedNow Service and
+subpart C of this part
+,
+subpart C of this part
+, including Article 4A as set forth in
+appendix A of this part
+, will prevail. In the ISO 20022 financial messaging standard, for example, the term agent is used to refer to a variety of bank parties to a funds transfer (
+e.g., debtor agent, creditor agent, intermediary agent
+). Notwithstanding use of that term in the standard and in message tags, such banks are not the agents of any party to a funds transfer and owe no duty to any other party to such a funds transfer except as provided in
+subpart C of this part
+(including Article 4A) or by express agreement. The ISO 20022 financial messaging standard also permits information to be carried in a funds-transfer message regarding persons that are not parties to that funds transfer (
+e.g., ultimate debtor, ultimate creditor, initiating party
+) for regulatory, compliance, remittance, or other purposes. An “ultimate debtor” is not an “originator” as defined in Article 4A. The relationship between the ultimate debtor and the originator (what the ISO 20022 standard calls the “debtor”) is determined by law other than Article 4A.
+Section 210.41— Definitions
+Article 4A defines many terms (
+e.g., beneficiary, intermediary bank, receiving bank, security procedure
+) used in this subpart. These terms are defined or listed in sections 4A-103 through 4A-105. These terms, such as the term bank (defined in section 4A-105(d)(2)), may differ from comparable terms in subpart A and
+subpart B of this part
+. As
+subpart C of this part
+incorporates consistent provisions of Article 4A, it incorporates these definitions unless these terms are expressly defined otherwise in
+subpart C of this part
+. This subpart modifies the definitions of five Article 4A terms:
+beneficiary, beneficiary's bank, payment order, receiving bank,
+and
+sender
+. This subpart also defines terms not defined in Article 4A.
+Article 4A. Article 4A
+means the version of that article of the Uniform Commercial Code set forth in
+appendix A of this part
+. It does not refer to the law of any particular state unless the context indicates otherwise. Subject to the express provisions of this Subpart, this version of Article 4A is incorporated into this subpart and made Federal law for transactions covered by this subpart. (
+See
+§ 210.40(b)(1) and accompanying commentary.) Because section 4A-105 refers to other provisions of the Uniform Commercial Code (
+e.g.,
+definitions in article 1 of the UCC) these other provisions of the UCC, as approved by the National Conference of Commissioners on Uniform State Laws, which is now also known as the Uniform Law Commission, and the American Law Institute, from time to time, are also incorporated in
+subpart C of this part
+.
+Beneficiary, beneficiary's bank, receiving bank,
+and
+sender.
+The definitions of “beneficiary,” “beneficiary's bank,” “receiving bank,” and “sender” in
+subpart C of this part
+differ from the definitions in sections 4A-103(a)(2)-(4). The subpart C definition clarifies that, for the purposes of
+subpart C of this part
+, these terms are limited to parties in a funds transfer that is sent through the FedNow Service. For example, the parties to a funds transfer that is sent through the Fedwire Funds Service would be governed by
+subpart B of this part
+, and would not be a “beneficiary,” “beneficiary's bank,” “receiving bank,” or “sender” governed by subpart C. The definition of “beneficiary's bank” in subpart C further clarifies that where a Federal Reserve Bank functions as the beneficiary's bank, it need not be identified in the payment order as the beneficiary's bank and that a Federal Reserve Bank that receives a payment order as beneficiary is also the beneficiary's bank with respect to that payment order.
+The FedNow Service.
+The FedNow Service refers to the funds-transfer system owned and operated by the Federal Reserve Banks to support instant payments that is governed by this Subpart. The term does not refer to any particular computer, telecommunications facility, or funds transfer, but rather to the system as a whole. The FedNow Service does not include the Fedwire Funds Service or the system used for automated clearing house transfers.
+Payment Order.
+(
+1
+)
+The definition of “payment order” in
+subpart C of this part
+differs from the section 4A-103(a)(1) definition. The subpart C definition clarifies that, for the purposes of
+subpart C of this part
+, the term includes only instructions transmitted through the FedNow Service. For example, instructions transmitted through the Fedwire Funds Service would be governed by
+subpart B of this part
+, and not subpart C.
+Additionally, the subpart C definition provides that certain messages that are transmitted through the FedNow Service are not payment orders. Federal Reserve Banks and banks participating in the FedNow Service send various types of messages relating to payment orders or to other matters, through the FedNow Service, that are not intended to be payment orders. In some cases, messages sent through the FedNow Service, such as certain requests for payment, may be payment orders under Article 4A, but are not treated as payment orders under subpart C because they are not an instruction to a Federal Reserve Bank to pay or cause another bank to pay money. Under the subpart C definition, these messages are not “payment orders” governed by this subpart. The operating circulars of the Federal Reserve Banks may specify those messages that may be transmitted through the FedNow Service but that are not payment orders.
+(
+2
+)
+Subpart C, including its incorporation of Article 4A, governs a payment order even though the originator's or beneficiary's account may be a consumer account established primarily for personal, family, or household purposes. Under section 4A-108, Article 4A does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act. That Act, and Regulation E (
+12 CFR part 1005
+) implementing it, may govern a transfer through the FedNow Service that is from a consumer originator or to a consumer beneficiary. In the event that a transfer through the FedNow Service is subject to the EFTA, the transfer continues to also be governed by this subpart, except that, in the event of an inconsistency between the provisions of subpart C and the EFTA, the EFTA shall prevail to the extent of the inconsistency. (See also § 210.40(b) and accompanying commentary.) Thus, this subpart applies to all funds transfers through the FedNow Service even though some such transfers involve originators or beneficiaries that are consumers.
+Sender's settlement account, receiving bank's settlement acc
+ount, and
+beneficiary's settlement account.
+A FedNow participant must designate an account on the books of a Federal Reserve Bank that the Federal Reserve Banks may use to settle the participant's activity over the FedNow Service. A FedNow participant may settle its activity over the FedNow Service in its master account. Alternatively, it may designate the account of a correspondent bank that the Federal Reserve Banks may use to settle activity through the service, subject to the correspondent bank's agreement to any such designation.
+Section 210.42—Reliance on Identifying Number
+(
+a
+)
+Reliance by a Federal Reserve Bank on number to identify intermediary bank or beneficiary's bank.
+Section 4A-208 provides that a receiving bank, such as a Federal Reserve Bank, may rely on the routing number of an intermediary bank or the beneficiary's bank specified in a payment order as identifying the appropriate intermediary bank or beneficiary's bank, even if the payment order identifies another bank by name, provided that the receiving bank does not know of the inconsistency. Under section 4A-208(b)(2), if the sender of the payment order is not a bank, a receiving bank may rely on the number only if the sender had notice before the receiving bank accepted the sender's order that the receiving bank might rely on the number. This section provides this notice to entities that are not banks, such as the Department of the Treasury, that send payment orders directly to a Federal Reserve Bank through the FedNow Service.
+(
+b
+)
+Reliance by a Federal Reserve Bank on number to identify beneficiary.
+Section 4A-207 provides that a beneficiary's bank, such as a Federal Reserve Bank, may rely on the number identifying a beneficiary, such as the beneficiary's account number, specified in a payment order as identifying the appropriate beneficiary, even if the payment order identifies another beneficiary by name, provided that the beneficiary's bank does not know of the inconsistency. Under section 4A-207(c)(2), if the originator is not a bank, an originator is not obliged to pay for a payment order if the originator did not have notice that the beneficiary's bank might rely on the identifying number and the person paid on the basis of the identifying number was not entitled to receive payment. This section of subpart C provides this notice to entities that are not banks, such as the Department of the Treasury, that are originators of payment orders sent directly by the originators to a Federal Reserve Bank through the FedNow Service, where that Federal Reserve Bank or another Federal Reserve Bank is the beneficiary's bank (see also section 4A-402(b), providing that a sender must pay a beneficiary's bank for a payment order accepted by the beneficiary's bank).
+Section 210.43—Agreement of Sender
+(
+a
+)
+Payment of sender's obligation to a Federal Reserve Bank.
+When a sender sends a payment order to a Federal Reserve Bank and the Federal Reserve Bank accepts the payment order by issuing a conforming order executing the sender's payment order, under section 4A-402, the sender is indebted to the Federal Reserve Bank for the amount of the payment order. Section 4A-403 specifies the various methods by which a sender may settle the obligation under section 4A-402. With respect to a payment order sent through the FedNow Service, the obligation of a sender (other than a Federal Reserve Bank) is settled by a debit to the account of the sender at a Federal Reserve Bank. Section 210.43(a) provides that a sender, other than a Federal Reserve Bank, that maintains or uses a settlement account at a Federal Reserve Bank authorizes its Federal Reserve Bank to debit, or cause any other Federal Reserve Bank on whose books the settlement account is maintained to debit, that account, so that the Federal Reserve Bank can obtain payment for the payment order.
+(
+b
+)
+Overdrafts.
+(
+1
+)
+In some cases, debits to a sender's settlement account will create an overdraft in the settlement account. The Board and the Federal Reserve Banks have established policies concerning when a Federal Reserve Bank will permit a bank to incur an overdraft in its account at a Federal Reserve Bank. These policies do not give a bank or other sender a right to an overdraft in its account. Subpart C clarifies that a sender does not have a right to such an overdraft. If an overdraft arises, it becomes immediately due and payable at the earliest of the following times: The end of the FedNow funds-transfer business day; the time the Federal Reserve Bank in its sole discretion, deems itself insecure and gives notice to the sender; or the time that the sender suspends payments or is closed by governmental action, such as the appointment of a receiver. In some cases, a Federal Reserve Bank extends its FedNow operations beyond the standard cut-off time for that FedNow funds-transfer business day. For the purposes of this section, unless otherwise specified by the Federal Reserve Bank making such an extension, an overdraft becomes due and payable at the end of the extended operating hours. An overdraft becomes due and payable prior to a Federal Reserve Bank's cut-off time if the Federal Reserve Bank deems itself insecure and gives notice to the sender. A Federal Reserve Bank that deems itself insecure may give such notice in accordance with the provisions on notice in section 1-202(d) of the UCC, in accordance with any other applicable law or agreement, or by any other reasonable means. An overdraft also becomes due and payable at the time that a bank is closed or suspends payments. For example, an overdraft becomes due and payable if a receiver is appointed for the bank or the bank is prevented from making payments by governmental order. The Federal Reserve Bank need not make demand on the sender for the overdraft to become due and payable.
+(
+2
+)
+A sender must cover any overdraft and any other obligation of the sender to the Federal Reserve Bank by the time the overdraft becomes due and payable. By sending a payment order to a Federal Reserve Bank, the sender grants a security interest to the Federal Reserve Bank in all of the assets of the sender possessed or controlled by, or held for the account of, the Federal Reserve Bank in order to secure all obligations due or to become due to the Federal Reserve Bank. The security interest attaches when the overdraft, or other obligation of the sender to the Federal Reserve Bank, becomes due and payable. The security interest does not apply to assets held by the sender as custodian or trustee for the sender's customers or third parties. Once an overdraft is due and payable, a Federal Reserve Bank may exercise its right of set off, liquidate collateral, or take other similar action to satisfy the obligation the sender owes to the Federal Reserve Bank.
+(
+c
+)
+Review of payment orders.
+(
+1
+)
+Under section 4A-204, a receiving bank is required to refund the principal amount of an unauthorized payment order that the sender was not obliged to pay, together with interest on the refundable amount calculated from the date that the receiving bank received payment to the date of the refund. The sender is not entitled to compensation in the form of interest if the sender fails to exercise ordinary care to determine that the order was not authorized and to notify the receiving bank within a reasonable time after the sender receives a notice that the payment order was accepted or that the sender's account was debited with respect to the order. Similarly, under section 4A-304, if a sender of a payment order that was erroneously executed does not notify the bank receiving the payment order within a reasonable time, the bank is not liable to the sender for compensation in the form of interest on any amount refundable to the sender. Section 210.43(c) establishes 60 calendar days as the reasonable period of time for the purposes of these provisions of Article 4A.
+(
+2
+)
+Section 4A-505 provides that in order for a customer to assert a claim objecting to a debit to its account by a receiving bank, the customer must notify the receiving bank of its objection within one year after the customer received notification reasonably identifying the payment order.
+Subpart C of this part
+does not vary this one-year claim preclusion period.
+Section 210.44—Agreement of Receiving Bank
+(
+b
+)
+Funds availability.
+(
+1
+)
+Section 4A-209(b) provides that a beneficiary's bank accepts a payment order at the earliest of certain specified events, including when the bank receives payment for the entire amount of the order from the sender (
+see
+section 4A-209(b)(2)). Section 4A-404(a) provides that if a beneficiary's bank accepts a payment order, it is obliged to pay the amount of a payment order to the beneficiary on the payment date unless acceptance of the payment order occurs on the payment date after the close of the funds-transfer business day of the bank. Section 4A-405(a) provides that if a beneficiary's bank pays the beneficiary by crediting an account of the beneficiary on its own books, payment of the bank's obligation under Section 4A-404(a) occurs when and to the extent
+(
+i
+)
+the bank notifies the beneficiary that it may withdraw the amount of the credit,
+(
+ii
+)
+the bank lawfully applies the credit to a debt of the beneficiary, or
+(
+iii
+)
+funds with respect to the payment order are otherwise made available to the beneficiary by the bank.
+(
+2
+)
+Section 210.44(b)(1) provides that if a FedNow participant that is the beneficiary's bank accepts a payment order, it must pay the beneficiary by credit to the beneficiary's account in accordance with section 4A-405(a) of Article 4A, and it must do so immediately after its acceptance of the payment order. This section further clarifies that the provisions of the Expedited Funds Availability Act (
+12 U.S.C. 4002(a)
+) and its implementing regulation, Regulation CC (
+12 CFR part 229
+), also govern. Regulation CC provides that funds received by a bank by an electronic payment shall be available for withdrawal not later than the business day after the banking day on which such funds are received. (
+12 CFR 229.10(b)
+.) Because
+Subpart C of this part
+requires funds to be made available on a more prompt basis than the availability requirements of the Expedited Funds Availability Act and Regulation CC, that act and Regulation CC do not preempt or invalidate subpart C. For example, if a beneficiary's bank accepts a payment order through the FedNow Service at 10 a.m. but does not make funds available to the beneficiary until 5 p.m., the bank has failed to satisfy its obligations under
+subpart C of this part
+even if it has satisfied its obligations under Regulation CC.
+(
+3
+)
+Section 210.44(b)(2) clarifies that the obligation for the beneficiary's bank to provide immediate funds availability to the beneficiary under § 210.44(b)(1), and any Operating Circular issued in accordance with subpart C, should not be construed as creating any rights that the beneficiary or any party other than a Federal Reserve Bank may assert against the beneficiary's bank, or affect any liability of the beneficiary's bank to the beneficiary or any party other than a Federal Reserve Bank under Article 4A or other law. In the example above, where the beneficiary's bank accepts a payment order through the FedNow Service at 10 a.m. but does not make funds available to the beneficiary until 5 p.m., the bank has failed to satisfy its obligations under § 210.44(b)(1) but the beneficiary would not have a claim or right to assert against the bank under that provision.
+(
+4
+)
+Section 210.46(a) provides that payment by a Federal Reserve Bank to a receiving bank occurs when the receiving bank's settlement account is credited or when the payment order is sent by the Federal Reserve Bank to the receiving bank, whichever is earlier, and would ordinarily be considered acceptance of the payment order by the beneficiary's bank under section 4A-209(b). Section 210.44(b)(3) provides that notwithstanding section 4A-209(b), in certain circumstances a beneficiary's bank is not deemed to accept a payment order at such time as it receives payment from its Federal Reserve Bank. Specifically, where the beneficiary's bank has reasonable cause to believe that the beneficiary is not entitled or permitted to receive payment and the beneficiary's bank notifies its Federal Reserve Bank that it requires additional time to determine whether to accept the payment order, this section provides that for purposes of subpart C and Article 4A, the beneficiary's bank does not accept the payment order even if it has received payment for the entire amount of the order from its Federal Reserve Bank as provided in § 210.46.
+For example, if the beneficiary's bank has reasonable cause to believe that making funds available to the beneficiary may violate applicable U.S. sanctions, the beneficiary's bank may notify its Federal Reserve Bank that it requires additional time to determine whether to accept the payment order, including to investigate if the beneficiary is subject to applicable sanctions. As an additional example, if the beneficiary's bank has reasonable cause to believe that a particular payment order may be related to fraudulent activity, the beneficiary's bank may notify its Federal Reserve Bank that it requires additional time to determine whether to accept the payment order, including to investigate the suspected fraudulent activity. In both examples, in the event the beneficiary's bank gives such notice, the beneficiary's bank would not be deemed to have accepted the payment order at the time it receives payment from its Federal Reserve Bank.
+Section 210.45—Payment Orders
+(
+a
+)
+Rejection.
+(
+1
+)
+A sender must make arrangements with its Federal Reserve Bank before it can send payment orders to the Federal Reserve Bank. Federal Reserve Banks reserve the right to reject or impose conditions on the acceptance of payment orders for any reason. For example, a Federal Reserve Bank might reject or impose conditions on accepting a payment order where a sender does not have sufficient funds in its settlement account with the Federal Reserve Bank to cover the amount of the sender's payment order and other obligations of the sender due or to become due to the Federal Reserve Bank. As a further example, a Federal Reserve Bank may reject a payment order that is not successfully processed within time limits established by the Federal Reserve Banks. A Federal Reserve Bank may require a sender to execute a written agreement concerning security procedures or other matters before the sender may send payment orders to the Federal Reserve Bank.
+(
+b
+)
+Selection of an intermediary bank.
+(
+1
+)
+Under section 4A-302, if a receiving bank (other than a beneficiary's bank), such as a Federal Reserve Bank, accepts a payment order, it must issue a payment order that complies with the sender's order. The sender's order may include instructions concerning an intermediary bank to be used that must be followed by a receiving bank (see section 4A-302(a)(1)). If the sender does not designate any intermediary bank in its payment order, the receiving bank may select an intermediary bank through which the sender's payment order can be expeditiously issued to the beneficiary's bank so long as the receiving bank exercises ordinary care in selecting the intermediary bank (see section 4A-302(b)).
+(
+2
+)
+This section provides that in an interdistrict transfer, a Federal Reserve Bank is authorized and directed to select another Federal Reserve Bank as an intermediary bank. A sender may not instruct a Federal Reserve Bank to use a particular intermediary bank or to use its discretion to select an intermediary bank other than a Federal Reserve Bank. In addition, a sender may not send a payment order through the FedNow Service that instructs a Federal Reserve Bank to use a funds-transfer system or means of transmission other than the FedNow Service, unless the sender and the Federal Reserve Bank agree in writing to the use of that funds-transfer system or means of transmission.
+(
+c
+)
+Execution date and payment date.
+(
+1
+)
+Under 4A-301(b), the “execution date” of a payment order means the day on which the receiving bank may properly issue a payment order in execution of the sender's order. Under section 4A-401, the “payment date” of a payment order is the day on which the amount of the order is payable to the beneficiary by the beneficiary's bank. The execution date and the payment date may be determined by instruction of the sender but cannot be earlier than the day the order is received and, unless otherwise determined, is the day the order is received (see sections 4A-301(b) and 4A-401). Section 4A-106, provides for the time that a payment order is received, including in the event that a receiving bank fixes a cut-off time for the receipt and processing of payment orders. If the bank receives a payment order after its cut-off time, the bank may treat the payment order as received at the opening of the next funds-transfer business day (see section 4A-106(a)).
+(
+2
+)
+The FedNow Service is designed to be an instant value transfer system through which funds may be transferred from the originator to the beneficiary on the same funds-transfer business day. This section provides that a sender may not send a payment order to a Federal Reserve Bank that specifies an execution date or payment date later than the day on which the payment order is issued, unless the sender of the order and the Federal Reserve Bank agree in writing to the arrangement.
+Section 210.46—Payment by a Federal Reserve Bank to a Receiving Bank or Beneficiary
+(
+a
+)
+Payment to a receiving bank.
+(
+1
+)
+Under section 4A-402, when a Federal Reserve Bank executes a sender's payment order by issuing a conforming order to a receiving bank that accepts the payment order, the Federal Reserve Bank must pay the receiving bank the amount of the payment order. Section 210.44(a) authorizes a Federal Reserve Bank to make the payment by crediting, or causing any other Federal Reserve Bank on whose books the settlement account is maintained to credit, the settlement account of the receiving bank. Section 210.46(a) provides that the payment occurs when the receiving bank's settlement account is credited or when the payment order is sent by the Federal Reserve Bank to the receiving bank, whichever is earlier. Ordinarily, payment will occur during the FedNow funds-transfer business day a short time after the payment order is received. This credit is final and irrevocable when made and constitutes final settlement under section 4A-403. Payment does not waive a Federal Reserve Bank's right of recovery under the applicable law of mistake and restitution (
+see
+§ 210.47(c)), affect a Federal Reserve Bank's right to apply the funds to any obligation due or to become due to the Federal Reserve Bank, or affect legal process or claims by third parties on the funds.
+(
+2
+)
+This section on final payment does not apply to settlement for payment orders between Federal Reserve Banks. These payment orders are settled by other means.
+(
+b
+)
+Payment to a beneficiary.
+Section 210.46(b) specifies when a Federal Reserve Bank makes payment to a beneficiary for which it is the beneficiary's bank. As in the case of payment to a receiving bank, this payment occurs at the earlier of the time that the Federal Reserve Bank credits the beneficiary's settlement account or sends notice of the credit to the beneficiary, and is final and irrevocable when made.
+Section 210.47—Federal Reserve Bank Liability; Payment of Compensation
+(
+a
+)
+Damages.
+(
+1
+)
+Under section 4A-305(d), damages for failure of a receiving bank to execute a payment order that it was obligated to execute by express agreement are limited to expenses in the transaction and incidental expenses and interest and do not include additional damages, including consequential damages, unless they are provided for in an express written agreement of the receiving bank. This section clarifies that in connection with the handling of payment orders, Federal Reserve Banks may not agree to be liable for consequential damages under this provision and shall not be liable for damages other than those that may be due under Article 4A to parties governed by this subpart. Any agreement in conflict with these provisions would not be effective, because it would be in violation of subpart C.
+(
+2
+)
+This section does not affect the ability of other parties to a funds transfer to agree to be liable for consequential damages, the liability of a Federal Reserve Bank under section 4A-404 (relating to obligation of beneficiary's bank to pay and give notice to beneficiary), or the liability to parties governed by subpart C for claims not based on the handling of a payment order under subpart C.
+(
+b
+)
+Payment of compensation.
+(
+1
+)
+Under Article 4A, a Federal Reserve Bank may be required to pay compensation in the form of interest to another party in connection with its handling of a funds transfer. For example, payment of compensation in the form of interest is required in certain situations pursuant to sections 4A-204 (relating to refund of payment and duty of customer to report with respect to unauthorized payment order), 4A-209 (relating to acceptance of payment order), 4A-210 (relating to rejection of payment order), 4A-304 (relating to duty of sender to report erroneously executed payment order), 4A-305 (relating to liability for late or improper execution or failure to execute a payment order), 4A-402 (relating to obligation of sender to pay receiving bank), and 4A-404 (relating to obligation of beneficiary's bank to pay and give notice to beneficiary).
+(
+2
+)
+Section 210.47(b) requires Federal Reserve Banks to provide compensation through payment in the form of interest. Under section 4A-506(a), the amount of such interest may be determined by agreement between the sender and receiving bank or by funds-transfer system rule. If there is no such agreement, under section 4A-506(b), the amount of interest is based on the Federal funds rate. Similarly, compensation in the form of interest will be paid to government senders, receiving banks, or beneficiaries described in § 210.40(d) if they are entitled to interest under subpart C. A Federal Reserve Bank may also, in its discretion, pay compensation in the form of interest directly to a remote party to a transfer through the FedNow Service that is entitled to interest, rather than providing compensation to its sender or receiving bank.
+(
+3
+)
+If a sender or receiving bank that received a payment of compensation is not the party entitled to compensation under Article 4A, the sender or receiving bank must pass the benefit of the compensation payment made to it to the party that is entitled to compensation. The benefit may be passed on either in the form of a direct payment of interest or in the form of a compensating balance, if the party entitled to interest agrees to accept the other form of compensation. In the latter case, the value of the compensating balance must be at least equivalent to the value of the interest payment that otherwise would have been provided.
+(
+c
+)
+Nonwaiver of right of recovery.
+Several sections of Article 4A allow a party to a funds transfer to make a claim pursuant to the applicable law of mistake and restitution. Nothing in
+subpart C of this part
+or any Operating Circular issued in accordance with
+subpart C of this part
+waives any such claim by a Federal Reserve Bank. A Federal Reserve Bank, however, may waive such a claim by express written agreement in order to settle litigation or for other purposes.
+
+## Appendix A to Part 210—Article 4A, Funds Transfers
+
+Appendix A to Part 210—Article 4A, Funds Transfers
+Part 1—Subject Matter and Definitions
+Section 4A-101. Short Title
+This Article may be cited as Uniform Commercial Code—Funds Transfers.
+Section 4A-102. Subject Matter
+Except as otherwise provided in section 4A-108, this Article applies to funds transfers defined in section 4A-104.
+Section 4A-103. Payment Order—Definitions
+(
+a
+)
+In this Article:
+(
+1
+)
+Payment order means an instruction of a sender to a receiving bank, transmitted orally, electronically, or in writing, to pay, or to cause another bank to pay, a fixed or determinable amount of money to a beneficiary if:
+(
+i
+)
+The instruction does not state a condition to payment to the beneficiary other than time of payment,
+(
+ii
+)
+The receiving bank is to be reimbursed by debiting an account of, or otherwise receiving payment from, the sender, and
+(
+iii
+)
+The instruction is transmitted by the sender directly to the receiving bank or to an agent, funds-transfer system, or communication system for transmittal to the receiving bank.
+(
+2
+)
+Beneficiary means the person to be paid by the beneficiary's bank.
+(
+3
+)
+“Beneficiary's bank”
+means the bank identified in a payment order in which an account of the beneficiary is to be credited pursuant to the order or which otherwise is to make payment to the beneficiary if the order does not provide for payment to an account.
+(
+4
+)
+Receiving bank means the bank to which the sender's instruction is addressed.
+(
+5
+)
+Sender means the person giving the instruction to the receiving bank.
+(
+b
+)
+If an instruction complying with
+paragraph (a)(1)
+of this section is to make more than one payment to a beneficiary, the instruction is a separate payment order with respect to each payment.
+(
+c
+)
+A payment order is issued when it is sent to the receiving bank.
+Section 4A-104. Funds Transfer—Definitions
+In this Article:
+(
+a
+)
+Funds transfer means the series of transactions, beginning with the originator's payment order, made for the purpose of making payment to the beneficiary of the order. The term includes any payment order issued by the originator's bank or an intermediary bank intended to carry out the originator's payment order. A funds transfer is completed by acceptance by the beneficiary's bank of a payment order for the benefit of the beneficiary of the originator's payment order.
+(
+b
+)
+Intermediary bank means a receiving bank other than the originator's bank or the beneficiary's bank.
+(
+c
+)
+Originator means the sender of the first payment order in a funds transfer.
+(
+d
+)
+Originator's bank means:
+(
+1
+)
+The receiving bank to which the payment order of the originator is issued if the originator is not a bank; or
+(
+2
+)
+The originator if the originator is a bank.
+Section 4A-105. Other Definitions
+(
+a
+)
+In this Article:
+(
+1
+)
+Authorized account means a deposit account of a customer in a bank designated by the customer as a source of payment of payment orders issued by the customer to the bank. If a customer does not so designate an account, any account of the customer is an authorized account if payment of a payment order from that account is not inconsistent with a restriction on the use of that account.
+(
+2
+)
+Bank means a person engaged in the business of banking and includes a savings bank, savings and loan association, credit union, and trust company. A branch or separate office of a bank is a separate bank for purposes of this Article.
+(
+3
+)
+Customer means a person, including a bank, having an account with a bank or from whom a bank has agreed to receive payment orders.
+(
+4
+)
+Funds-transfer business day of a receiving bank means the part of a day during which the receiving bank is open for the receipt, processing, and transmittal of payment orders and cancellations and amendments of payment orders.
+(
+5
+)
+Funds-transfer system means a wire transfer network, automated clearing house, or other communication system of a clearing house or other association of banks through which a payment order by a bank may be transmitted to the bank to which the order is addressed.
+(
+6
+)
+Good faith means honesty in fact and the observance of reasonable commercial standards of fair dealing.
+(
+7
+)
+Prove with respect to a fact means to meet the burden of establishing the fact (Section 1-201(8)).
+(
+b
+)
+Other definitions applying to this Article and the sections in which they appear are:
+“Acceptance”
+.....Sec. 4A-209
+“Beneficiary”
+.....Sec. 4A-103
+“Beneficiary's bank”
+.....Sec. 4A-103
+“Executed”
+.....Sec. 4A-301
+“Execution date”
+.....Sec. 4A-301
+“Funds transfer”
+.....Sec. 4A-104
+“Funds-transfer system rule”
+.....Sec. 4A-501
+“Intermediary bank”
+.....Sec. 4A-104
+“Originator”
+.....Sec. 4A-104
+“Originator's bank”
+.....Sec. 4A-104
+“Payment by beneficiary's bank to beneficiary”
+.....Sec. 4A-405
+“Payment by originator to beneficiary”
+.....Sec. 4A-406
+“Payment by sender to receiving bank”
+.....Sec. 4A-403
+“Payment date”
+.....Sec. 4A-401
+“Payment order”
+.....Sec. 4A-103
+“Receiving bank”
+.....Sec. 4A-103
+“Security procedure”
+.....Sec. 4A-201
+“Sender”
+.....Sec. 4A-103
+(
+c
+)
+The following definitions in Article 4 apply to this Article:
+“Clearing house”
+.....Sec. 4-104
+“Item”
+.....Sec. 4-104
+“Suspends payments”
+.....Sec. 4-104
+(
+d
+)
+In addition Article 1 contains general definitions and principles of construction and interpretation applicable throughout this Article.
+Section 4A-106. Time Payment Order Is Received
+(
+a
+)
+The time of receipt of a payment order or communication canceling or amending a payment order is determined by the rules applicable to receipt of a notice stated in Section 1-201(27). A receiving bank may fix a cut-off time or times on a funds-transfer business day for the receipt and processing of payment orders and communications canceling or amending payment orders. Different cut-off times may apply to payment orders, cancellations, or amendments, or to different categories of payment orders, cancellations, or amendments. A cut-off time may apply to senders generally or different cut-off times may apply to different senders or categories of payment orders. If a payment order or communication canceling or amending a payment order is received after the close of a funds-transfer business day or after the appropriate cut-off time on a funds-transfer business day, the receiving bank may treat the payment order or communication as received at the opening of the next funds-transfer business day.
+(
+b
+)
+If this Article refers to an execution date or payment date or states a day on which a receiving bank is required to take action, and the date or day does not fall on a funds-transfer business day, the next day that is a funds-transfer business day is treated as the date or day stated, unless the contrary is stated in this Article.
+Section 4A-107. Federal Reserve Regulations and Operating Circulars
+Regulations of the Board of Governors of the Federal Reserve System and operating circulars of the Federal Reserve Banks supersede any inconsistent provision of this Article to the extent of the inconsistency.
+Section 4A-108. Relationship to Electronic Fund Transfer Act
+(
+a
+)
+Except as provided in subsection (b), this Article does not apply to a funds transfer any part of which is governed by the Electronic Fund Transfer Act of 1978 (Title XX, Pub. L. 95-630, 92 Stat. 3728,
+15 U.S.C. 1693
+et seq.
+) as amended from time to time.
+(
+b
+)
+This Article applies to a funds transfer that is a remittance transfer as defined in the Electronic Fund Transfer Act (
+15 U.S.C. 1693o-1
+) as amended from time to time, unless the remittance transfer is an electronic fund transfer as defined in the Electronic Fund Transfer Act (
+15 U.S.C. 1693a
+) as amended from time to time.
+(
+c
+)
+In a funds transfer to which this Article applies, in the event of an inconsistency between an applicable provision of this Article and an applicable provision of the Electronic Fund Transfer Act, the provision of the Electronic Fund Transfer Act governs to the extent of the inconsistency.
+Part 2—Issue and Acceptance of Payment Order
+Section 4A-201. Security Procedure
+Security procedure means a procedure established by agreement of a customer and a receiving bank for the purpose of (i) verifying that a payment order or communication amending or canceling a payment order is that of the customer, or (ii) detecting error in the transmission or the content of the payment order or communication. A security procedure may require the use of algorithms or other codes, identifying words or numbers, encryption, callback procedures, or similar security devices. Comparison of a signature on a payment order or communication with an authorized specimen signature of the customer is not by itself a security procedure.
+Section 4A-202. Authorized and Verified Payment Orders
+(
+a
+)
+A payment order received by the receiving bank is the authorized order of the person identified as sender if that person authorized the order or is otherwise bound by it under the law of agency.
+(
+b
+)
+If a bank and its customer have agreed that the authenticity of payment orders issued to the bank in the name of the customer as sender will be verified pursuant to a security procedure, a payment order received by the receiving bank is effective as the order of the customer, whether or not authorized, if
+(
+i
+)
+the security procedure is a commercially reasonable method of providing security against unauthorized payment orders, and
+(
+ii
+)
+the bank proves that it accepted the payment order in good faith and in compliance with the security procedure and any written agreement or instruction of the customer restricting acceptance of payment orders issued in the name of the customer. The bank is not required to follow an instruction that violates a written agreement with the customer or notice of which is not received at a time and in a manner affording the bank a reasonable opportunity to act on it before the payment order is accepted.
+(
+c
+)
+Commercial reasonableness of a security procedure is a question of law to be determined by considering the wishes of the customer expressed to the bank, the circumstances of the customer known to the bank, including the size, type, and frequency of payment orders normally issued by the customer to the bank, alternative security procedures offered to the customer, and security procedures in general use by customers and receiving banks similarly situated. A security procedure is deemed to be commercially reasonable if
+(
+i
+)
+the security procedure was chosen by the customer after the bank offered, and the customer refused, a security procedure that was commercially reasonable for that customer, and
+(
+ii
+)
+the customer expressly agreed in writing to be bound by any payment order, whether or not authorized, issued in its name and accepted by the bank in compliance with the security procedure chosen by the customer.
+(
+d
+)
+The term sender in this Article includes the customer in whose name a payment order is issued if the order is the authorized order of the customer under subsection (a) of this section, or it is effective as the order of the customer under subsection (b) of this section.
+(
+e
+)
+This section applies to amendments and cancellations of payment orders to the same extent it applies to payment orders.
+(
+f
+)
+Except as provided in this section and in section 4A-203(a)(1), rights and obligations arising under this section or section 4A-203 may not be varied by agreement.
+Section 4A-203. Unenforceability of Certain Verified Payment Orders
+(
+a
+)
+If an accepted payment order is not, under section 4A-202(a), an authorized order of a customer identified as sender, but is effective as an order of the customer pursuant to section 4A-202(b), the following rules apply:
+(
+1
+)
+By express written agreement, the receiving bank may limit the extent to which it is entitled to enforce or retain payment of the payment order.
+(
+2
+)
+The receiving bank is not entitled to enforce or retain payment of the payment order if the customer proves that the order was not caused, directly or indirectly, by a person
+(
+i
+)
+entrusted at any time with duties to act for the customer with respect to payment orders or the security procedure, or
+(
+ii
+)
+who obtained access to transmitting facilities of the customer or who obtained, from a source controlled by the customer and without authority of the receiving bank, information facilitating breach of the security procedure, regardless of how the information was obtained or whether the customer was at fault. Information includes any access device, computer software, or the like.
+(
+b
+)
+This section applies to amendments of payment orders to the same extent it applies to payment orders.
+Section 4A-204. Refund of Payment and Duty of Customer To Report With Respect to Unauthorized Payment Order
+(
+a
+)
+If a receiving bank accepts a payment order issued in the name of its customer as sender which is
+(
+i
+)
+not authorized and not effective as the order of the customer under section 4A-202, or
+(
+ii
+)
+not enforceable, in whole or in part, against the customer under section 4A-203, the bank shall refund any payment of the payment order received from the customer to the extent the bank is not entitled to enforce payment and shall pay interest on the refundable amount calculated from the date the bank received payment to the date of the refund. However, the customer is not entitled to interest from the bank on the amount to be refunded if the customer fails to exercise ordinary care to determine that the order was not authorized by the customer and to notify the bank of the relevant facts within a reasonable time not exceeding 90 days after the date the customer received notification from the bank that the order was accepted or that the customer's account was debited with respect to the order The bank is not entitled to any recovery from the customer on account of a failure by the customer to give notification as stated in this section.
+(
+b
+)
+Reasonable time under subsection (a) of this section may be fixed by agreement as stated in section 1-204(1), but the obligation of a receiving bank to refund payment as stated in subsection (a) may not otherwise be varied by agreement.
+Section 4A-205. Erroneous Payment Orders
+(
+a
+)
+If an accepted payment order was transmitted pursuant to a security procedure for the detection of error and the payment order
+(
+i
+)
+erroneously instructed payment to a beneficiary not intended by the sender,
+(
+ii
+)
+erroneously instructed payment in an amount greater than the amount intended by the sender, or
+(
+iii
+)
+was an erroneously transmitted duplicate of a payment order previously sent by the sender, the following rules apply:
+(
+1
+)
+If the sender proves that the sender or a person acting on behalf of the sender pursuant to section 4A-206 complied with the security procedure and that the error would have been detected if the receiving bank had also complied, the sender is not obliged to pay the order to the extent stated in this paragraphs (2) and (3).
+(
+2
+)
+If the funds transfer is completed on the basis of an erroneous payment order described in clause (i) or (iii) of subsection (a), the sender is not obliged to pay the order and the receiving bank is entitled to recover from the beneficiary any amount paid to the beneficiary to the extent allowed by the law governing mistake and restitution.
+(
+3
+)
+If the funds transfer is completed on the basis of a payment order described in clause (ii) of subsection (a), the sender is not obliged to pay the order to the extent the amount received by the beneficiary is greater than the amount intended by the sender. In that case, the receiving bank is entitled to recover from the beneficiary the excess amount received to the extent allowed by the law governing mistake and restitution.
+(
+b
+)
+If
+(
+i
+)
+the sender of an erroneous payment order described in subsection (a) is not obliged to pay all or part of the order, and
+(
+ii
+)
+the sender receives notification from the receiving bank that the order was accepted by the bank or that the sender's account was debited with respect to the order, the sender has a duty to exercise ordinary care, on the basis of information available to the sender, to discover the error with respect to the order and to advise the bank of the relevant facts within a reasonable time, not exceeding 90 days, after the bank's notification was received by the sender. If the bank proves that the sender failed to perform that duty, the sender is liable to the bank for the loss the bank proves it incurred as a result of the failure, but the liability of the sender may not exceed the amount of the sender's order.
+(
+c
+)
+This section applies to amendments to payment orders to the same extent it applies to payment orders.
+Section 4A-206. Transmission of Payment Order Through Funds-Transfer or Other Communication System
+(
+a
+)
+If a payment order addressed to a receiving bank is transmitted to a funds-transfer system or other third-party communication system for transmittal to the bank, the system is deemed to be an agent of the sender for the purpose of transmitting the payment order to the bank. If there is a discrepancy between the terms of the payment order transmitted to the system and the terms of the payment order transmitted by the system to the bank, the terms of the payment order of the sender are those transmitted by the system. This section does not apply to a funds-transfer system of the Federal Reserve Banks.
+(
+b
+)
+This section applies to cancellations and amendments of payment orders to the same extent it applies to payment orders.
+Section 4A-207. Misdescription of Beneficiary
+(
+a
+)
+Subject to subsection (b), if, in a payment order received by the beneficiary's bank, the name, bank account number, or other identification of the beneficiary refers to a nonexistent or unidentifiable person or account, no person has rights as a beneficiary of the order and acceptance of the order cannot occur.
+(
+b
+)
+If a payment order received by the beneficiary's bank identifies the beneficiary both by name and by an identifying or bank account number and the name and number identify different persons, the following rules apply:
+(
+1
+)
+Except as otherwise provided in subsection (c), if the beneficiary's bank does not know that the name and number refer to different persons, it may rely on the number as the proper identification of the beneficiary of the order. The beneficiary's bank need not determine whether the name and number refer to the same person.
+(
+2
+)
+If the beneficiary's bank pays the person identified by name or knows that the name and number identify different persons, no person has rights as beneficiary except the person paid by the beneficiary's bank if that person was entitled to receive payment from the originator of the funds transfer. If no person has rights as beneficiary, acceptance of the order cannot occur.
+(
+c
+)
+If
+(
+i
+)
+a payment order described in subsection (b) is accepted,
+(
+ii
+)
+the originator's payment order described the beneficiary inconsistently by name and number, and
+(
+iii
+)
+the beneficiary's bank pays the person identified by number as permitted by subsection (b)(1), the following rules apply:
+(
+1
+)
+If the originator is a bank, the originator is obliged to pay its order.
+(
+2
+)
+If the originator is not a bank and proves that the person identified by number was not entitled to receive payment from the originator, the originator is not obliged to pay its order unless the originator's bank proves that the originator, before acceptance of the originator's order, had notice that payment of a payment order issued by the originator might be made by the beneficiary's bank on the basis of an identifying or bank account number even if it identifies a person different from the named beneficiary. Proof of notice may be made by any admissible evidence. The originator's bank satisfies the burden of proof if it proves that the originator, before the payment order was accepted, signed a writing stating the information to which the notice relates.
+(
+d
+)
+In a case governed by subsection (b)(1), if the beneficiary's bank rightfully pays the person identified by number and that person was not entitled to receive payment from the originator, the amount paid may be recovered from that person to the extent allowed by the law governing mistake and restitution as follows:
+(
+1
+)
+If the originator is obliged to pay its payment order as stated in subsection (c), the originator has the right to recover.
+(
+2
+)
+If the originator is not a bank and is not obliged to pay its payment order, the originator's bank has the right to recover.
+Section 4A-208. Misdescription of Intermediary Bank or Beneficiary's Bank
+(
+a
+)
+This subsection applies to a payment order identifying an intermediary bank or the beneficiary's bank only by an identifying number.
+(
+1
+)
+The receiving bank may rely on the number as the proper identification of the intermediary or beneficiary's bank and need not determine whether the number identifies a bank.
+(
+2
+)
+The sender is obliged to compensate the receiving bank for any loss and expenses incurred by the receiving bank as a result of its reliance on the number in executing or attempting to execute the order.
+(
+b
+)
+This subsection applies to a payment order identifying an intermediary bank or the beneficiary's bank both by name and an identifying number if the name and number identify different persons.
+(
+1
+)
+If the sender is a bank, the receiving bank may rely on the number as the proper identification of the intermediary or beneficiary's bank if the receiving bank, when it executes the sender's order, does not know that the name and number identify different persons. The receiving bank need not determine whether the name and number refer to the same person or whether the number refers to a bank. The sender is obliged to compensate the receiving bank for any loss and expenses incurred by the receiving bank as a result of its reliance on the number in executing or attempting to execute the order.
+(
+2
+)
+If the sender is not a bank and the receiving bank proves that the sender, before the payment order was accepted, had notice that the receiving bank might rely on the number as the proper identification of the intermediary or beneficiary's bank even if it identifies a person different from the bank identified by name, the rights and obligations of the sender and the receiving bank are governed by subsection (b)(1), as though the sender were a bank. Proof of notice may be made by any admissible evidence. The receiving bank satisfies the burden of proof if it proves that the sender, before the payment order was accepted, signed a writing stating the information to which the notice relates.
+(
+3
+)
+Regardless of whether the sender is a bank, the receiving bank may rely on the name as the proper identification of the intermediary or beneficiary's bank if the receiving bank, at the time it executes the sender's order, does not know that the name and number identify different persons. The receiving bank need not determine whether the name and number refer to the same person.
+(
+4
+)
+If the receiving bank knows that the name and number identify different persons, reliance on either the name or the number in executing the sender's payment order is a breach of the obligation stated in section 4A-302(a)(1).
+Section 4A-209. Acceptance of Payment Order
+(
+a
+)
+Subject to subsection (d), a receiving bank other than the beneficiary's bank accepts a payment order when it executes the order.
+(
+b
+)
+Subject to subsections (c) and (d), a beneficiary's bank accepts a payment order at the earliest of the following times:
+(
+1
+)
+When the bank
+(
+i
+)
+pays the beneficiary as stated in section 4A-405(a) or 4A-405(b), or
+(
+ii
+)
+notifies the beneficiary of receipt of the order or that the account of the beneficiary has been credited with respect to the order unless the notice indicates that the bank is rejecting the order or that funds with respect to the order may not be withdrawn or used until receipt of payment from the sender of the order;
+(
+2
+)
+When the bank receives payment of the entire amount of the sender's order pursuant to section 4A-403(a)(1) or (2); or
+(
+3
+)
+The opening of the next funds-transfer business day of the bank following the payment date of the order if, at that time, the amount of the sender's order is fully covered by a withdrawable credit balance in an authorized account of the sender or the bank has otherwise received full payment from the sender, unless the order was rejected before that time or is rejected within
+(
+i
+)
+one hour after that time, or
+(
+ii
+)
+one hour after the opening of the next business day of the sender following the payment date if that time is later. If notice of rejection is received by the sender after the payment date and the authorized account of the sender does not bear interest, the bank is obliged to pay interest to the sender on the amount of the order for the number of days elapsing after the payment date to the day the sender receives notice or learns that the order was not accepted, counting that day as an elapsed day. If the withdrawable credit balance during that period falls below the amount of the order, the amount of interest payable is reduced accordingly.
+(
+c
+)
+Acceptance of a payment order cannot occur before the order is received by the receiving bank. Acceptance does not occur under subsection (b)(2) or (3) if the beneficiary of the payment order does not have an account with the receiving bank, the account has been closed, or the receiving bank is not permitted by law to receive credits for the beneficiary's account.
+(
+d
+)
+A payment order issued to the originator's bank cannot be accepted until the payment date if the bank is the beneficiary's bank, or the execution date if the bank is not the beneficiary's bank. If the originator's bank executes the originator's payment order before the execution date or pays the beneficiary of the originator's payment order before the payment date and the payment order is subsequently canceled pursuant to section 4A-211(b), the bank may recover from the beneficiary any payment received to the extent allowed by the law governing mistake and restitution.
+Section 4A-210. Rejection of Payment Order
+(
+a
+)
+A payment order is rejected by the receiving bank by a notice of rejection transmitted to the sender orally, electronically, or in writing. A notice of rejection need not use any particular words and is sufficient if it indicates that the receiving bank is rejecting the order or will not execute or pay the order. Rejection is effective when the notice is given if transmission is by a means that is reasonable in the circumstances. If notice of rejection is given by a means that is not reasonable, rejection is effective when the notice is received. If an agreement of the sender and receiving bank establishes the means to be used to reject a payment order,
+(
+i
+)
+any means complying with the agreement is reasonable, and
+(
+ii
+)
+any means not complying is not reasonable unless no significant delay in receipt of the notice resulted from the use of the noncomplying means.
+(
+b
+)
+This subsection applies if a receiving bank other than the beneficiary's bank fails to execute a payment order despite the existence on the execution date of a withdrawable credit balance in an authorized account of the sender sufficient to cover the order. If the sender does not receive notice of rejection of the order on the execution date and the authorized account of the sender does not bear interest, the bank is obliged to pay interest to the sender on the amount of the order for the number of days elapsing after the execution date to the earlier of the day the order is canceled pursuant to section 4A-211(d) or the day the sender receives notice or learns that the order was not executed, counting the final day of the period as an elapsed day. If the withdrawable credit balance during that period falls below the amount of the order, the amount of interest is reduced accordingly.
+(
+c
+)
+If a receiving bank suspends payments, all unaccepted payment orders issued to it are deemed rejected at the time the bank suspends payments.
+(
+d
+)
+Acceptance of a payment order precludes a later rejection of the order. Rejection of a payment order precludes a later acceptance of the order.
+Section 4A-211. Cancellation and Amendment of Payment Order
+(
+a
+)
+A communication of the sender of a payment order canceling or amending the order may be transmitted to the receiving bank orally, electronically, or in writing. If a security procedure is in effect between the sender and the receiving bank, the communication is not effective to cancel or amend the order unless the communication is verified pursuant to the security procedure or the bank agrees to the cancellation or amendment.
+(
+b
+)
+Subject to subsection (a), a communication by the sender canceling or amending a payment order is effective to cancel or amend the order if notice of the communication is received at a time and in a manner affording the receiving bank a reasonable opportunity to act on the communication before the bank accepts the payment order.
+(
+c
+)
+After a payment order has been accepted, cancellation or amendment of the order is not effective unless the receiving bank agrees or a funds-transfer system rule allows cancellation or amendment without agreement of the bank.
+(
+1
+)
+With respect to a payment order accepted by a receiving bank other than the beneficiary's bank, cancellation or amendment is not effective unless a conforming cancellation or amendment of the payment order issued by the receiving bank is also made.
+(
+2
+)
+With respect to a payment order accepted by the beneficiary's bank, cancellation or amendment is not effective unless the order was issued in execution of an unauthorized payment order, or because of a mistake by a sender in the funds transfer which resulted in the issuance of a payment order
+(
+i
+)
+that is a duplicate of a payment order previously issued by the sender,
+(
+ii
+)
+that orders payment to a beneficiary not entitled to receive payment from the originator, or
+(
+iii
+)
+that orders payment in an amount greater than the amount the beneficiary was entitled to receive from the originator. If the payment order is canceled or amended, the beneficiary's bank is entitled to recover from the beneficiary any amount paid to the beneficiary to the extent allowed by the law governing mistake and restitution.
+(
+d
+)
+An unaccepted payment order is canceled by operation of law at the close of the fifth funds-transfer business day of the receiving bank after the execution date or payment date of the order.
+(
+e
+)
+A canceled payment order cannot be accepted. If an accepted payment order is canceled, the acceptance is nullified and no person has any right or obligation based on the acceptance. Amendment of a payment order is deemed to be cancellation of the original order at the time of amendment and issue of a new payment order in the amended form at the same time.
+(
+f
+)
+Unless otherwise provided in an agreement of the parties or in a funds-transfer system rule, if the receiving bank, after accepting a payment order, agrees to cancellation or amendment of the order by the sender or is bound by a funds-transfer system rule allowing cancellation or amendment without the bank's agreement, the sender, whether or not cancellation or amendment is effective, is liable to the bank for any loss and expenses, including reasonable attorney's fees, incurred by the bank as a result of the cancellation or amendment or attempted cancellation or amendment.
+(
+g
+)
+A payment order is not revoked by the death or legal incapacity of the sender unless the receiving bank knows of the death or of an adjudication of incapacity by a court of competent jurisdiction and has reasonable opportunity to act before acceptance of the order.
+(
+h
+)
+A funds-transfer system rule is not effective to the extent it conflicts with subsection (c)(2) of this section.
+Section 4A-212. Liability and Duty of Receiving Bank Regarding Unaccepted Payment Order
+If a receiving bank fails to accept a payment order that it is obliged by express agreement to accept, the bank is liable for breach of the agreement to the extent provided in the agreement or in this Article, but does not otherwise have any duty to accept a payment order or, before acceptance, to take any action, or refrain from taking action, with respect to the order except as provided in this Article or by express agreement. Liability based on acceptance arises only when acceptance occurs as stated in section 4A-209, and liability is limited to that provided in this Article. A receiving bank is not the agent of the sender or beneficiary of the payment order it accepts, or of any other party to the funds transfer, and the bank owes no duty to any party to the funds transfer except as provided in this Article or by express agreement.
+Part 3—Execution of Sender's Payment Order by Receiving Bank
+Section 4A-301. Execution and Execution Date
+(
+a
+)
+A payment order is “executed” by the receiving bank when it issues a payment order intended to carry out the payment order received by the bank. A payment order received by the beneficiary's bank can be accepted but cannot be executed.
+(
+b
+)
+Execution date of a payment order means the day on which the receiving bank may properly issue a payment order in execution of the sender's order. The execution date may be determined by instruction of the sender but cannot be earlier than the day the order is received and, unless otherwise determined, is the day the order is received. If the sender's instruction states a payment date, the execution date is the payment date or an earlier date on which execution is reasonably necessary to allow payment to the beneficiary on the payment date.
+Section 4A-302. Obligations of Receiving Bank in Execution of Payment Order
+(
+a
+)
+Except as provided in subsections (b) through (d), if the receiving bank accepts a payment order pursuant to section 4A-209(a), the bank has the following obligations in executing the order:
+(
+1
+)
+The receiving bank is obliged to issue, on the execution date, a payment order complying with the sender's order and to follow the sender's instructions concerning
+(
+i
+)
+any intermediary bank or funds-transfer system to be used in carrying out the funds transfer, or
+(
+ii
+)
+the means by which payment orders are to be transmitted in the funds transfer. If the originator's bank issues a payment order to an intermediary bank, the originator's bank is obliged to instruct the intermediary bank according to the instruction of the originator. An intermediary bank in the funds transfer is similarly bound by an instruction given to it by the sender of the payment order it accepts.
+(
+2
+)
+If the sender's instruction states that the funds transfer is to be carried out telephonically or by wire transfer or otherwise indicates that the funds transfer is to be carried out by the most expeditious means, the receiving bank is obliged to transmit its payment order by the most expeditious available means, and to instruct any intermediary bank accordingly. If a sender's instruction states a payment date, the receiving bank is obliged to transmit its payment order at a time and by means reasonably necessary to allow payment to the beneficiary on the payment date or as soon thereafter as is feasible.
+(
+b
+)
+Unless otherwise instructed, a receiving bank executing a payment order may
+(
+i
+)
+use any funds-transfer system if use of that system is reasonable in the circumstances, and
+(
+ii
+)
+issue a payment order to the beneficiary's bank or to an intermediary bank through which a payment order conforming to the sender's order can expeditiously be issued to the beneficiary's bank if the receiving bank exercises ordinary care in the selection of the intermediary bank. A receiving bank is not required to follow an instruction of the sender designating a funds-transfer system to be used in carrying out the funds transfer if the receiving bank, in good faith, determines that it is not feasible to follow the instruction or that following the instruction would unduly delay completion of the funds transfer.
+(
+c
+)
+Unless subsection (a)(2) applies or the receiving bank is otherwise instructed, the bank may execute a payment order by transmitting its payment order by first class mail or by any means reasonable in the circumstances. If the receiving bank is instructed to execute the sender's order by transmitting its payment order by the means stated or by any means as expeditious as the means stated.
+(
+d
+)
+Unless instructed by the sender,
+(
+i
+)
+the receiving bank may not obtain payment of its charges for services and expenses in connection with the execution of the sender's order by issuing a payment order in an amount equal to the amount of the sender's order less the amount of the charges, and
+(
+ii
+)
+may not instruct a subsequent receiving bank to obtain payment of its charges in the same manner.
+Section 4A-303. Erroneous Execution of Payment Order
+(
+a
+)
+A receiving bank that
+(
+i
+)
+executes the payment order of the sender by issuing a payment order in an amount greater than the amount of the sender's order, or
+(
+ii
+)
+issues a payment order in execution of the sender's order and then issues a duplicate order, is entitled to payment of the amount of the sender's order under section 4A-402(c) if that subsection is otherwise satisfied. The bank is entitled to recover from the beneficiary of the erroneous order the excess payment received to the extent allowed by the law governing mistake and restitution.
+(
+b
+)
+A receiving bank that executes the payment order of the sender by issuing a payment order in an amount less than the amount of the sender's order is entitled to payment of the amount of the sender's order under section 4A-402(c) if
+(
+i
+)
+that subsection is otherwise satisfied and
+(
+ii
+)
+the bank corrects its mistake by issuing an additional payment order for the benefit of the beneficiary of the sender's order. If the error is not corrected, the issuer of the erroneous order is entitled to receive or retain payment from the sender of the order it accepted only to the extent of the amount of the erroneous order. This subsection does not apply if the receiving bank executes the sender's payment order by issuing a payment order in an amount less than the amount of the sender's order for the purpose of obtaining payment of its charges for services and expenses pursuant to instruction of the sender.
+(
+c
+)
+If a receiving bank executes the payment order of the sender by issuing a payment order to a beneficiary different from the beneficiary of the sender's order and the funds transfer is completed on the basis of that error, the sender of the payment order that was erroneously executed and all previous senders in the funds transfer are not obliged to pay the payment orders they issued. The issuer of the erroneous order is entitled to recover from the beneficiary of the order the payment received to the extent allowed by the law governing mistake and restitution.
+Section 4A-304. Duty of Sender To Report Erroneously Executed Payment Order
+If the sender of a payment order that is erroneously executed as stated in section 4A-303 receives notification from the receiving bank that the order was executed or that the sender's account was debited with respect to the order, the sender has a duty to exercise ordinary care to determine, on the basis of information available to the sender, that the order was erroneously executed and to notify the bank of the relevant facts within a reasonable time not exceeding 90 days after the notification from the bank was received by the sender. If the sender fails to perform that duty, the bank is not obliged to pay interest on any amount refundable to the sender under section 4A-402(d) for the period before the bank learns of the execution error. The bank is not entitled to any recovery from the sender on account of a failure by the sender to perform the duty stated in this section.
+Section 4A-305. Liability for Late or Improper Execution or Failure To Execute Payment Order
+(
+a
+)
+If a funds transfer is completed but execution of a payment order by the receiving bank in breach of section 4A-302 results in delay in payment to the beneficiary, the bank is obliged to pay interest to either the originator or the beneficiary of the funds transfer for the period of delay caused by the improper execution. Except as provided in subsection (c), additional damages are not recoverable.
+(
+b
+)
+If execution of a payment order by a receiving bank in breach of section 4A-302 results in
+(
+i
+)
+noncompletion of the funds transfer,
+(
+ii
+)
+failure to use an intermediary bank designated by the originator, or
+(
+iii
+)
+issuance of a payment order that does not comply with the terms of the payment order of the originator, the bank is liable to the originator for its expenses in the funds transfer and for incidental expenses and interest losses, to the extent not covered by subsection (a), resulting from the improper execution. Except as provided in subsection (c), additional damages are not recoverable.
+(
+c
+)
+In addition to the amounts payable under subsections (a) and (b), damages, including consequential damages, are recoverable to the extent provided in an express written agreement of the receiving bank.
+(
+d
+)
+If a receiving bank fails to execute a payment order it was obliged by express agreement to execute, the receiving bank is liable to the sender for its expenses in the transaction and for incidential expenses and interest losses resulting from the failure to execute. Additional damages, including consequential damages, are recoverable to the extent provided in an express written agreement of the receiving bank, but are not otherwise recoverable.
+(
+e
+)
+Reasonable attorney's fees are recoverable if demand for compensation under subsection (a) or (b) of this section is made and refused before an action is brought on the claim. If a claim is made for breach of an agreement under subsection (d) and the agreement does not provide for damages, reasonable attorney's fees are recoverable if demand for compensation under subsection (d) is made and refused before an action is brought on the claim.
+(
+f
+)
+Except as stated in this section, the liability of a receiving bank under subsections (a) and (b) of this section may not be varied by agreement.
+Part 4—Payment
+Section 4A-401. Payment Date
+Payment date of a payment order means the day on which the amount of the order is payable to the beneficiary by the beneficiary's bank. The payment date may be determined by instruction of the sender but cannot be earlier than the day the order is received by the beneficiary's bank and, unless otherwise determined, is the day the order is received by the beneficiary's bank.
+Section 4A-402. Obligation of Sender To Pay Receiving Bank
+(
+a
+)
+This section is subject to sections 4A-205 and 4A-207.
+(
+b
+)
+With respect to a payment order issued to the beneficiary's bank, acceptance of the order by the bank obliges the sender to pay the bank the amount of the order, but payment is not due until the payment date of the order.
+(
+c
+)
+This subsection is subject to subsection (e) and to section 4A-303. With respect to a payment order issued to a receiving bank other than the beneficiary's bank, acceptance of the order by the receiving bank obliges the sender to pay the bank the amount of the sender's order. Payment by the sender is not due until the execution date of the sender's order. The obligation of that sender to pay its payment order is excused if the funds transfer is not completed by acceptance by the beneficiary's bank of a payment order instructing payment to the beneficiary of that sender's payment order.
+(
+d
+)
+If the sender of a payment order pays the order and was not obliged to pay all or part of the amount paid, the bank receiving payment is obliged to refund payment to the extent the sender was not obliged to pay. Except as provided in sections 4A-204 and 4A-304, interest is payable on the refundable amount from the date of payment.
+(
+e
+)
+If a funds transfer is not completed as stated in subsection (c) and an intermediary bank is obliged to refund payment as stated in subsection (d) but is unable to do so because not permitted by applicable law or because the bank suspends payments, a sender in the funds transfer that executed a payment order in compliance with an instruction, as stated in section 4A-302(a)(1), to route the funds transfer through that intermediary bank is entitled to receive or retain payment from the sender of the payment order that it accepted. The first sender in the funds transfer that issued an instruction requiring routing through that intermediary bank is subrogated to the right of the bank that paid the intermediary bank to refund as stated in subsection (d) of this section.
+(
+f
+)
+The right of the sender of a payment order to be excused from the obligation to pay the order as stated in this subsection (c) or to receive refund under subsection (d) may not be varied by agreement.
+Section 4A-403. Payment by Sender to Receiving Bank
+(
+a
+)
+Payment of the sender's obligation under section 4A-402 to pay the receiving bank occurs as follows:
+(
+1
+)
+If the sender is a bank, payment occurs when the receiving bank receives final settlement of the obligation through a Federal Reserve Bank or through a funds-transfer system.
+(
+2
+)
+If the sender is a bank and the sender
+(
+i
+)
+credited an account of the receiving bank with the sender, or
+(
+ii
+)
+caused an account of the receiving bank in another bank to be credited, payment occurs when the credit is withdrawn or, if not withdrawn, at midnight of the day on which the credit is withdrawable and the receiving bank learns of that fact.
+(
+3
+)
+If the receiving bank debits an account of the sender with the receiving bank, payment occurs when the debit is made to the extent the debit is covered by a withdrawable credit balance in the account.
+(
+b
+)
+If the sender and receiving bank are members of a funds-transfer system that nets obligations multilaterally among participants, the receiving bank receives final settlement when settlement is complete in accordance with the rules of the system. The obligation of the sender to pay the amount of a payment order transmitted through the funds-transfer system may be satisfied, to the extent permitted by the rules of the system, by setting off and applying against the sender's obligation the right of the sender to receive payment from the receiving bank of the amount of any other payment order transmitted to the sender by the receiving bank through the funds-transfer system. The aggregate balance of obligations owed by each sender to each receiving bank in the funds-transfer system may be satisfied, to the extent permitted by the rules of the system, by setting off and applying against that balance the aggregate balance of obligations owed to the sender by other members of the system. The aggregate balance is determined after the right of setoff stated in the second sentence of this subsection has been exercised.
+(
+c
+)
+If two banks transmit payment orders to each other under an agreement that settlement of the obligations of each bank to the other under section 4A-402 will be made at the end of the day or other period, the total amount owed with respect to all orders transmitted by one bank shall be set off against the total amount owed with respect to all orders transmitted by the other bank. To the extent of the setoff, each bank has made payment to the other.
+(
+d
+)
+In a case not covered by
+paragraph (a)
+of this section, the time when payment of the sender's obligation under section 4A-402(b) or 4A-402(c) occurs is governed by applicable principles of law that determine when an obligation is satisfied.
+Section 4A-404. Obligation of Beneficiary's Bank to Pay and Give Notice to Beneficiary
+(
+a
+)
+Subject to sections 4A-211(e), 4A-405(d), and 4A-405(e), if a beneficiary's bank accepts a payment order, the bank is obliged to pay the amount of the order to the beneficiary of the order. Payment is due on the payment date of the order, but if acceptance occurs on the payment date after the close of the funds-transfer business day of the bank, payment is due on the next funds-transfer business day. If the bank refuses to pay after demand by the beneficiary and receipt of notice of particular circumstances that will give rise to consequential damages as a result of nonpayment, the beneficiary may recover damages resulting from the refusal to pay to the extent the bank had notice of the damages, unless the bank proves that it did not pay because of a reasonable doubt concerning the right of the beneficiary to payment.
+(
+b
+)
+If a payment order accepted by the beneficiary's bank instructs payment to an account of the beneficiary, the bank is obliged to notify the beneficiary of receipt of the order before midnight of the next funds-transfer business day following the payment date. If the payment order does not instruct payment to an account of the beneficiary, the bank is required to notify the beneficiary only if notice is required by the order. Notice may be given by first class mail or any other means reasonable in the circumstances. If the bank fails to give the required notice, the bank is obliged to pay interest to the beneficiary on the amount of the payment order from the day notice should have been given until the day the beneficiary learned of receipt of the payment order by the bank. No other damages are recoverable. Reasonable attorney's fees are also recoverable if demand for interest is made and refused before an action is brought on the claim.
+(
+c
+)
+The right of a beneficiary to receive payment and damages as stated in subsection (a) may not be varied by agreement or a funds-transfer system rule. The right of a beneficiary to be notified as stated in subsection (b) of this section may be varied by agreement of the beneficiary or by a funds-transfer system rule if the beneficiary is notified of the rule before initiation of the funds transfer.
+Section 4A-405. Payment by Beneficiary's Bank To Beneficiary
+(
+a
+)
+If the beneficiary's bank credits an account of the beneficiary of a payment order, payment of the bank's obligation under section 4A-404(a) occurs when and to the extent
+(
+i
+)
+the beneficiary is notified of the right to withdraw the credit,
+(
+ii
+)
+the bank lawfully applies the credit to a debt of the beneficiary, or
+(
+iii
+)
+funds with respect to the order are otherwise made available to the beneficiary by the bank.
+(
+b
+)
+If the beneficiary's bank does not credit an account of the beneficiary of a payment order, the time when payment of the bank's obligation under section 4A-404(a) occurs is governed by principles of law that determine when an obligation is satisfied.
+(
+c
+)
+Except as stated in
+paragraphs (d)
+and
+(e)
+of this section, if the beneficiary's bank pays the beneficiary of a payment order under a condition to payment or agreement of the beneficiary giving the bank the right to recover payment from the beneficiary if the bank does not receive payment of the order, the condition to payment or agreement is not enforceable.
+(
+d
+)
+A funds-transfer system rule may provide that payments made to beneficiaries of funds transfer made through the system are provisional until receipt of payment by the beneficiary's bank of the payment order it accepted. A beneficiary's bank that makes a payment that is provisional under the rule is entitled to refund from the beneficiary if
+(
+i
+)
+the rule requires that both the beneficiary and the originator be given notice of the provisional nature of the payment before the funds transfer is initiated,
+(
+ii
+)
+the beneficiary, the beneficiary's bank and the originator's bank agreed to be bound by the rule, and
+(
+iii
+)
+the beneficiary's bank did not receive payment of the payment order that it accepted. If the beneficiary is obliged to refund payment to the beneficiary's bank, acceptance of the payment order by the beneficiary's bank is nullified and no payment by the originator of the funds transfer to the beneficiary occurs under section 4A-406.
+(
+e
+)
+This paragraph applies to a funds transfer that includes a payment order transmitted over a funds-transfer system that
+(
+i
+)
+nets obligations-multilaterally among participants, and
+(
+ii
+)
+has in effect a loss-sharing agreement among participants for the purpose of providing funds necessary to complete settlement of the obligations of one or more participants that do not meet their settlement obligations. If the beneficiary's bank in the funds transfer accepts a payment order and the system fails to complete settlement pursuant to its rules with respect to any payment order in the funds transfer, (i) the acceptance by the beneficiary's bank is nullified and no person has any right or obligation based on the acceptance, (ii) the beneficiary's bank is entitled to recover payment from the beneficiary, (iii) no payment by the originator to the beneficiary occurs under section 4A-406, and (iv) subject to section 4A-402(e), each sender in the funds transfer is excused from its obligation to pay its payment order under section 4A-402(c) because the funds transfer has not been completed.
+Section 4A-406. Payment by Originator to Beneficiary; Discharge of Underlying Obligation
+(
+a
+)
+Subject to sections 4A-211(e), 4A-405(d), and 4A-405(e), the originator of a funds transfer pays the beneficiary of the originator's payment order
+(
+i
+)
+at the time a payment order for the benefit of the beneficiary is accepted by the beneficiary's bank in the funds transfer and
+(
+ii
+)
+in an amount equal to the amount of the order *40813 accepted by the beneficiary's bank, but not more than the amount of the originator's order.
+(
+b
+)
+If payment under
+paragraph (a)
+of this section is made to satisfy an obligation, the obligation is discharged to the same extent discharge would result from payment to the beneficiary of the same amount in money, unless
+(
+i
+)
+the payment under subsection (a) was made by a means prohibited by the contract of the beneficiary with respect to the obligation;
+(
+ii
+)
+the beneficiary, within a reasonable time after receiving notice of receipt of the order by the beneficiary's bank, notified the originator of the beneficiary's refusal of the payment;
+(
+iii
+)
+funds with respect to the order were not withdrawn by the beneficiary or applied to a debt of the beneficiary; and
+(
+iv
+)
+the beneficiary would suffer a loss that could reasonably have been avoided if payment had been made by a means complying with the contract. If payment by the originator does not result in discharge under this section, the originator is subrogated to the rights of the beneficiary to receive payment from the beneficiary's bank under section 4A-404(a).
+(
+c
+)
+For the purpose of determining whether discharge of an obligation occurs under
+paragraph (b)
+of this section, if the beneficiary's bank accepts a payment order in an amount equal to the amount of the originator's payment order less charges of one or more receiving banks in the funds transfer, payment to the beneficiary is deemed to be in the amount of the originator's order unless upon demand by the beneficiary the originator does not pay the beneficiary the amount of the deducted charges.
+(
+d
+)
+Rights of the originator or of the beneficiary of a funds transfer under this section may be varied only by agreement of the originator and the beneficiary.
+Part 5—Miscellaneous Provisions
+Section 4A-501. Variation by Agreement and Effect of Funds-Transfer System Rule
+(
+a
+)
+Except as otherwise provided in this Article, the rights and obligations of a party to a funds transfer may be varied by agreement of the affected party.
+(
+b
+)
+Funds-transfer system rule means a rule of an association of banks
+(
+i
+)
+governing transmission of payment orders by means of a funds-transfer system of the association or rights and obligations with respect to those orders, or
+(
+ii
+)
+to the extent the rule governs rights and obligations between banks that are parties to a funds transfer in which a Federal Reserve Bank, acting as an intermediary bank, sends a payment order to the beneficiary's bank. Except as otherwise provided in this Article, a funds-transfer system rule governing rights and obligations between participating banks using the system may be effective even if the rule conflicts with this Article and indirectly affects another party to the funds transfer who does not consent to the rule. A funds-transfer system rule may also govern rights and obligations of parties other than participating banks using the system to the extent stated in sections 4A-404(c), 4A-405(d), and 4A-507(c).
+Section 4A-502. Creditor Process Served on Receiving Bank; Setoff by Beneficiary's Bank
+(
+a
+)
+As used in this section, creditor process means levy, attachment, garnishment, notice of lien, sequestration, or similar process issued by or on behalf of a creditor or other claimant with respect to an account.
+(
+b
+)
+This subsection applies to creditor process with respect to an authorized account of the sender of a payment order if the creditor process is served on the receiving bank. For the purpose of determining rights with respect to the creditor process, if the receiving bank accepts the payment order the balance in the authorized account is deemed to be reduced by the amount of the payment order to the extent the bank did not otherwise receive payment of the order, unless the creditor process is served at a time and in a manner affording the bank a reasonable opportunity to act on it before the bank accepts the payment order.
+(
+c
+)
+If a beneficiary's bank has received a payment order for payment to the beneficiary's account in the bank, the following rules apply:
+(
+1
+)
+The bank may credit the beneficiary's account. The amount credited may be set off against an obligation owed by the beneficiary to the bank or may be applied to satisfy creditor process served on the bank with respect to the account.
+(
+2
+)
+The bank may credit the beneficiary's account and allow withdrawal of the amount credited unless creditor process with respect to the account is served at a time and in a manner affording the bank a reasonable opportunity to act to prevent withdrawal.
+(
+3
+)
+If creditor process with respect to the beneficiary's account has been served and the bank has had a reasonable opportunity to act on it, the bank may not reject the payment order except for a reason unrelated to the service of process.
+(
+d
+)
+Creditor process with respect to a payment by the originator to the beneficiary pursuant to a funds transfer may be served only on the beneficiary's bank with respect to the debt owned by that bank to the beneficiary. Any other bank served with the creditor process is not obliged to act with respect to the process.
+Section 4A-503. Injunction or Restraining Order With Respect to Funds Transfer
+For proper cause and in compliance with applicable law, a court may restrain:
+(
+i
+)
+a person from issuing a payment order to initiate a funds transfer,
+(
+ii
+)
+an originator's bank from executing the payment order of the originator, or
+(
+iii
+)
+the beneficiary's bank from releasing funds to the beneficiary or the beneficiary from withdrawing the funds. A court may not otherwise restrain a person from issuing a payment order, paying or receiving payment of a payment order, or otherwise acting with respect to a funds transfer.
+Section 4A-504. Order In Which Items and Payment Orders May Be Charged to Account; Order of Withdrawals from Account
+(
+a
+)
+If a receiving bank has received more than one payment order of the sender or one or more payment orders and other items that are payable from the sender's account, the bank may charge the sender's account with respect to the various orders and items in any sequence.
+(
+b
+)
+In determining whether a credit to an account has been withdrawn by the holder of the account or applied to a debt of the holder of the account, credits first made to the account are first withdrawn or applied.
+Section 4A-505. Preclusion of Objection to Debit of Customer's Account
+If a receiving bank has received payment from its customer with respect to a payment order issued in the name of the customer as sender and accepted by the bank, and the customer received notification reasonably identifying the order, the customer is precluded from asserting that the bank is not entitled to retain the payment unless the customer notifies the bank of the customer's objection to the payment within one year after the notification was received by the customer.
+Section 4A-506. Rate of Interest
+(
+a
+)
+If, under this Article, a receiving bank is obliged to pay interest with respect to a payment order issued to the bank, the amount payable may be determined
+(
+i
+)
+by agreement of the sender and receiving bank, or
+(
+ii
+)
+by a funds-transfer system rule if the payment order is transmitted through a funds-transfer system.
+(
+b
+)
+If the amount of interest is not determined by an agreement or rule as stated in subsection (a), the amount is calculated by multiplying the applicable Federal Funds rate by the amount on which interest is payable, and then multiplying the product by the number of days for which interest is payable. The applicable Federal Funds rate is the average of the Federal Funds rates published by the Federal Reserve Bank of New York for each of the days for which interest is payable divided by 360. The Federal Funds rate for any day on which a published rate is not available is the same as the published rate for the next preceding day for which there is a published rate. If a receiving bank that accepted a payment order is required to refund payment to the sender of the order because the funds transfer was not completed, but the failure to complete was not due to any fault by the bank, the interest payable is reduced by a percentage equal to the reserve requirement on deposits of the receiving bank.
+Section 4A-507. Choice of Law
+(
+a
+)
+The following rules apply unless the affected parties otherwise agree or
+paragraph (c)
+of this section applies:
+(
+1
+)
+The rights and obligations between the sender of a payment order and the receiving bank are governed by the law of the jurisdiction in which the receiving bank is located.
+(
+2
+)
+The rights and obligations between the beneficiary's bank and the beneficiary are governed by the law of the jurisdiction in which the beneficiary's bank is located.
+(
+3
+)
+The issue of when payment is made pursuant to a funds transfer by the originator to the beneficiary is governed by the law of the jurisdiction in which the beneficiary's bank is located.
+(
+b
+)
+If the parties described in each subsection of
+paragraph (a)
+of this section have made an agreement selecting the law of a particular jurisdiction to govern rights and obligations between each other, the law of that jurisdiction governs those rights and obligations, whether or not the payment order or the funds transfer bears a reasonable relation to that jurisdiction.
+(
+c
+)
+A funds-transfer system rule may select the law of a particular jurisdiction to govern
+(
+i
+)
+rights and obligations between participating banks with respect to payment orders transmitted or processed through the system, or
+(
+ii
+)
+the rights and obligations of some or all parties to a funds transfer any part of which is carried out by means of the system. A choice of law made pursuant to clause (i) is binding on participating banks. A choice of law made pursuant to clause (ii) is binding on the originator, other sender, or a receiving bank having notice that the funds-transfer system might be used in the funds transfer and of the choice of law by the system when the originator, other sender, or receiving bank issued or accepted a payment order. The beneficiary of a funds transfer is bound by the choice of law if, when the funds transfer is initiated, the beneficiary has notice that the funds-transfer system might be used in the funds transfer and of the choice of law by the system. The law of a jurisdiction selected pursuant to this subsection may govern, whether or not that law bears a reasonable relation to the matter in issue.
+(
+d
+)
+In the event of inconsistency between an agreement under
+paragraph (b)
+of this section and a choice-of-law rule under
+paragraph (c)
+of this section, the agreement under paragraph (b) prevails.
+(
+e
+)
+If a funds transfer is made by use of more than one funds-transfer system and there is inconsistency between choice-of-law rules of the systems, the matter in issue is governed by the law of the selected jurisdiction that has the most significant relationship to the matter in issue.
+[Reg. J,
+87 FR 34369
+, June 6, 2022]
+

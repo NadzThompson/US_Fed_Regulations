@@ -1,517 +1,1219 @@
-# PART 234 — DESIGNATED FINANCIAL MARKET UTILITIES (REGULATION HH)
+# PART 234 — PART 234—DESIGNATED FINANCIAL MARKET UTILITIES (REGULATION HH)
 
 **Regulation HH** | 12 CFR Part 234 | Current as of 2026-03-09
 
 **Authority:** 12 U.S.C. 5461 et seq.
 
-**Source:** 77 FR 45919 , Aug. 2, 2012, unless otherwise noted.
-
 ---
 
 ## § 234.1 Authority, purpose, and scope.
 
-  ( a ) Authority. This part is issued under the authority of sections 805, 806, and 810 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) ( Pub. L. 111-203 , 124 Stat. 1376; 12 U.S.C. 5464 , 5465 , and 5469 ).
-
-  ( b ) Purpose and scope. This part establishes risk-management standards governing the operations related to the payment, clearing, and settlement activities of designated financial market utilities. In addition, this part sets out requirements and procedures for a designated financial market utility that proposes to make a change to its rules, procedures, or operations that could materially affect the nature or level of risks presented by the designated financial market utility and for which the Board is the Supervisory Agency (as defined below). The risk management standards do not apply, however, to a designated financial market utility that is a derivatives clearing organization registered under section 5b of the Commodity Exchange Act ( 7 U.S.C. 7a-1 ) or a clearing agency registered with the Securities and Exchange Commission under section 17A of the Securities Exchange Act of 1934 ( 15 U.S.C. 78q-1 ), which are governed by the risk-management standards promulgated by the Commodity Futures Trading Commission or the Securities and Exchange Commission, respectively, for which each is the Supervisory Agency. This part also sets out standards, restrictions, and guidelines regarding a Federal Reserve Bank establishing and maintaining an account for, and providing services to, a designated financial market utility. In addition, this part sets forth the terms under which a Reserve Bank may pay a designated financial market utility interest on the designated financial market utility's balances held at the Reserve Bank.
+  (
+a
+)
+Authority.
+This part is issued under the authority of sections 805, 806, and 810 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Dodd-Frank Act) (
+Pub. L. 111-203
+, 124 Stat. 1376;
+12 U.S.C. 5464
+,
+5465
+, and
+5469
+).
+(
+b
+)
+Purpose and scope.
+This part establishes risk-management standards governing the operations related to the payment, clearing, and settlement activities of designated financial market utilities. In addition, this part sets out requirements and procedures for a designated financial market utility that proposes to make a change to its rules, procedures, or operations that could materially affect the nature or level of risks presented by the designated financial market utility and for which the Board is the Supervisory Agency (as defined below). The risk management standards do not apply, however, to a designated financial market utility that is a derivatives clearing organization registered under section 5b of the Commodity Exchange Act (
+7 U.S.C. 7a-1
+) or a clearing agency registered with the Securities and Exchange Commission under section 17A of the Securities Exchange Act of 1934 (
+15 U.S.C. 78q-1
+), which are governed by the risk-management standards promulgated by the Commodity Futures Trading Commission or the Securities and Exchange Commission, respectively, for which each is the Supervisory Agency. This part also sets out standards, restrictions, and guidelines regarding a Federal Reserve Bank establishing and maintaining an account for, and providing services to, a designated financial market utility. In addition, this part sets forth the terms under which a Reserve Bank may pay a designated financial market utility interest on the designated financial market utility's balances held at the Reserve Bank.
+[
+77 FR 45919
+, Aug. 2, 2012, as amended at
+78 FR 76979
+, Dec. 20, 2013]
 
 ## § 234.2 Definitions.
 
-  ( a ) Backtest means the ex post comparison of realized outcomes with margin model forecasts to analyze and monitor model performance and overall margin coverage.
-
-  ( b ) Central counterparty means an entity that interposes itself between counterparties to contracts traded in one or more financial markets, becoming the buyer to every seller and the seller to every buyer.
-
-  ( c ) Central securities depository means an entity that provides securities accounts and central safekeeping services.
-
-  ( d ) Critical operations and critical services refer to any operations or services that the designated financial market utility identifies under § 234.3(a)(3)(iii)(A) .
-
-  ( e ) Designated financial market utility means a financial market utility that is currently designated by the Financial Stability Oversight Council under section 804 of the Dodd-Frank Act ( 12 U.S.C. 5463 ).
-
-  ( f ) Financial market utility has the same meaning as the term is defined in section 803(6) of the Dodd-Frank Act ( 12 U.S.C. 5462(6) ).
-
-  ( g ) Link means, for purposes of § 234.3(a)(20) , a set of contractual and operational arrangements between two or more central counterparties, central securities depositories, or securities settlement systems, or between one or more of these financial market utilities and one or more trade repositories, that connect them directly or indirectly, such as for the purposes of participating in settlement, cross margining, or expanding their services to additional instruments and participants.
-
-  ( h ) Operational risk means the risk that deficiencies in information systems or internal processes, human errors, management failures, or disruptions from external events will result in the reduction, deterioration, or breakdown of services provided by the designated financial market utility.
-
-  ( i ) Orderly wind-down means the actions of a designated financial market utility to effect the permanent cessation, sale, or transfer of one or more of its critical operations or services in a manner that would not increase the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the U.S. financial system.
-
-  ( j ) Recovery means, for purposes of § 234.3(a)(3) and (15) , the actions of a designated financial market utility, consistent with its rules, procedures, and other ex ante contractual arrangements, to address any uncovered loss, liquidity shortfall, or capital inadequacy, whether arising from participant default or other causes (such as business, operational, or other structural weaknesses), including actions to replenish any depleted prefunded financial resources and liquidity arrangements, as necessary to maintain the designated financial market utility's viability as a going concern and to continue its provision of critical services.
-
-  ( k ) Securities settlement system means an entity that enables securities to be transferred and settled by book entry and allows transfers of securities free of or against payment.
-
-  ( l ) Stress test means the estimation of credit or liquidity exposures that would result from the realization of potential stress scenarios, such as extreme price changes, multiple defaults, and changes in other valuation inputs and assumptions.
-
-  ( m ) Supervisory Agency has the same meaning as the term is defined in section 803(8) of the Dodd-Frank Act ( 12 U.S.C. 5462(8) ).
-
-  ( n ) Third party means any entity, other than a participant of a designated financial market utility acting in that capacity, with which a designated financial market utility maintains a business arrangement, by contract or otherwise.
-
-  ( o ) Trade repository means an entity that maintains a centralized electronic record of transaction data, such as a swap data repository or a security-based swap data repository.
+  (
+a
+)
+Backtest
+means the
+ex post
+comparison of realized outcomes with margin model forecasts to analyze and monitor model performance and overall margin coverage.
+(
+b
+)
+Central counterparty
+means an entity that interposes itself between counterparties to contracts traded in one or more financial markets, becoming the buyer to every seller and the seller to every buyer.
+(
+c
+)
+Central securities depository
+means an entity that provides securities accounts and central safekeeping services.
+(
+d
+)
+Critical operations
+and
+critical services
+refer to any operations or services that the designated financial market utility identifies under
+§ 234.3(a)(3)(iii)(A)
+.
+(
+e
+)
+Designated financial market utility
+means a financial market utility that is currently designated by the Financial Stability Oversight Council under section 804 of the Dodd-Frank Act (
+12 U.S.C. 5463
+).
+(
+f
+)
+Financial market utility
+has the same meaning as the term is defined in section 803(6) of the Dodd-Frank Act (
+12 U.S.C. 5462(6)
+).
+(
+g
+)
+Link
+means, for purposes of
+§ 234.3(a)(20)
+, a set of contractual and operational arrangements between two or more central counterparties, central securities depositories, or securities settlement systems, or between one or more of these financial market utilities and one or more trade repositories, that connect them directly or indirectly, such as for the purposes of participating in settlement, cross margining, or expanding their services to additional instruments and participants.
+(
+h
+)
+Operational risk
+means the risk that deficiencies in information systems or internal processes, human errors, management failures, or disruptions from external events will result in the reduction, deterioration, or breakdown of services provided by the designated financial market utility.
+(
+i
+)
+Orderly wind-down
+means the actions of a designated financial market utility to effect the permanent cessation, sale, or transfer of one or more of its critical operations or services in a manner that would not increase the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the U.S. financial system.
+(
+j
+)
+Recovery
+means, for purposes of
+§ 234.3(a)(3)
+and
+(15)
+, the actions of a designated financial market utility, consistent with its rules, procedures, and other
+ex ante
+contractual arrangements, to address any uncovered loss, liquidity shortfall, or capital inadequacy, whether arising from participant default or other causes (such as business, operational, or other structural weaknesses), including actions to replenish any depleted prefunded financial resources and liquidity arrangements, as necessary to maintain the designated financial market utility's viability as a going concern and to continue its provision of critical services.
+(
+k
+)
+Securities settlement system
+means an entity that enables securities to be transferred and settled by book entry and allows transfers of securities free of or against payment.
+(
+l
+)
+Stress test
+means the estimation of credit or liquidity exposures that would result from the realization of potential stress scenarios, such as extreme price changes, multiple defaults, and changes in other valuation inputs and assumptions.
+(
+m
+)
+Supervisory Agency
+has the same meaning as the term is defined in section 803(8) of the Dodd-Frank Act (
+12 U.S.C. 5462(8)
+).
+(
+n
+)
+Third party
+means any entity, other than a participant of a designated financial market utility acting in that capacity, with which a designated financial market utility maintains a business arrangement, by contract or otherwise.
+(
+o
+)
+Trade repository
+means an entity that maintains a centralized electronic record of transaction data, such as a swap data repository or a security-based swap data repository.
+[Reg. HH,
+89 FR 18765
+, Mar. 15, 2024]
 
 ## § 234.3 Standards for designated financial market utilities.
 
-  ( a ) A designated financial market utility must implement rules, procedures, or operations designed to ensure that it meets or exceeds the following risk-management standards with respect to its payment, clearing, and settlement activities.
-
-    ( 1 ) Legal basis. The designated financial market utility has a well-founded, clear, transparent, and enforceable legal basis for each material aspect of its activities in all relevant jurisdictions.
-
-    ( 2 ) Governance. The designated financial market utility has governance arrangements that—
-
-      ( i ) Are clear, transparent, and documented;
-
-      ( ii ) Promote the safety and efficiency of the designated financial market utility;
-
-      ( iii ) Support the stability of the broader financial system, other relevant public interest considerations such as fostering fair and efficient markets, and the legitimate interests of relevant stakeholders, including the designated financial market utility's owners, participants, and participants' customers; and
-
-      ( iv ) Are designed to ensure—
-
-        ( A ) Lines of responsibility and accountability are clear and direct;
-
-        ( B ) The roles and responsibilities of the board of directors and senior management are clearly specified;
-
-        ( C ) The board of directors consists of suitable individuals having appropriate skills to fulfill its multiple roles;
-
-        ( D ) The board of directors includes a majority of individuals who are not executives, officers, or employees of the designated financial market utility or an affiliate of the designated financial market utility;
-
-        ( E ) The board of directors establishes policies and procedures to identify, address, and manage potential conflicts of interest of board members and to review its performance and the performance of individual board members on a regular basis;
-
-        ( F ) The board of directors establishes a clear, documented risk-management framework that includes the designated financial market utility's risk-tolerance policy, assigns responsibilities and accountability for risk decisions, and addresses decisionmaking in crises and emergencies;
-
-        ( G ) Senior management has the appropriate experience, skills, and integrity necessary to discharge operational and risk-management responsibilities;
-
-        ( H ) The risk-management function has sufficient authority, resources, and independence from other operations of the designated financial market utility, and has a direct reporting line to and is overseen by a committee of the board of directors;
-
-        ( I ) The internal audit function has sufficient authority, resources, and independence from management, and has a direct reporting line to and is overseen by a committee of the board of directors; and
-
-        ( J ) Major decisions of the board of directors are clearly disclosed to relevant stakeholders, including the designated financial market utility's owners, participants, and participants' customers, and, where there is a broad market impact, the public.
-
-    ( 3 ) Framework for the comprehensive management of risks. The designated financial market utility has a sound risk-management framework for comprehensively managing legal, credit, liquidity, operational, general business, custody, investment, and other risks that arise in or are borne by the designated financial market utility. This framework is subject to periodic review and includes—
-
-      ( i ) Risk-management policies, procedures, and systems that enable the designated financial market utility to identify, measure, monitor, and manage the risks that arise in or are borne by the designated financial market utility, including those posed by other entities as a result of interdependencies;
-
-      ( ii ) Risk-management policies, procedures, and systems that enable the designated financial market utility to identify, measure, monitor, and manage the material risks that it poses to other entities, such as other financial market utilities, trade repositories, settlement banks, liquidity providers, or service providers, as a result of interdependencies; and
-
-      ( iii ) Integrated plans for the designated financial market utility's recovery and orderly wind-down that—
-
-        ( A ) Identify the designated financial market utility's critical operations and services related to payment, clearing, and settlement;
-
-        ( B ) Identify scenarios that may potentially prevent it from being able to provide its critical operations and services as a going concern, including uncovered credit losses (as described in paragraph (a)(4)(vi)(A) of this section), uncovered liquidity shortfalls (as described in paragraph (a)(7)(viii)(A) of this section), and general business losses (as described in paragraph (a)(15) of this section);
-
-        ( C ) Identify criteria that could trigger the implementation of the recovery or orderly wind-down plan;
-
-        ( D ) Include rules, procedures, policies, and any other tools the designated financial market utility would use in a recovery or orderly wind-down to address the scenarios identified under paragraph (a)(3)(iii)(B) of this section;
-
-        ( E ) Include procedures to ensure timely implementation of the recovery and orderly wind-down plans in the scenarios identified under paragraph (a)(3)(iii)(B) of this section;
-
-        ( F ) Include procedures for informing the Board, as soon as practicable, if the designated financial market utility is considering initiating recovery or orderly wind-down; and
-
-        ( G ) Are reviewed the earlier of every two years or after changes to the system or the environment in which the designated financial market utility operates that would significantly affect the viability or execution of the plans.
-
-    ( 4 ) Credit risk. The designated financial market utility effectively measures, monitors, and manages its credit exposures to participants and those arising from its payment, clearing, and settlement processes. In this regard, the designated financial market utility maintains sufficient financial resources to cover its credit exposure to each participant fully with a high degree of confidence. In addition, the designated financial market utility—
-
-      ( i ) If it operates as a central counterparty, maintains additional prefunded financial resources that are sufficient to cover its credit exposure under a wide range of significantly different stress scenarios that includes the default of the participant and its affiliates that would potentially cause the largest aggregate credit exposure to the designated financial market utility in extreme but plausible market conditions;
-
-      ( ii ) If it operates as a central counterparty, may be directed by the Board to maintain additional prefunded financial resources that are sufficient to cover its credit exposure under a wide range of significantly different stress scenarios that includes the default of the two participants and their affiliates that would potentially cause the largest aggregate credit exposure to the designated financial market utility in extreme but plausible market conditions. The Board may consider such a direction if the central counterparty—
-
-        ( A ) Is involved in activities with a more-complex risk profile, such as clearing financial instruments characterized by discrete jump-to-default price changes or that are highly correlated with potential participant defaults, or
-
-        ( B ) Has been determined by another jurisdiction to be systemically important in that jurisdiction;
-
-      ( iii ) If it operates as a central counterparty, determines the amount and regularly tests the sufficiency of the total financial resources available to meet the requirements of this paragraph by—
-
-        ( A ) On a daily basis, conducting a stress test of its total financial resources using standard and predetermined stress scenarios, parameters, and assumptions;
-
-        ( B ) On at least a monthly basis, and more frequently when the products cleared or markets served experience high volatility or become less liquid, or when the size or concentration of positions held by the central counterparty's participants increases significantly, conducting a comprehensive and thorough analysis of the existing stress scenarios, models, and underlying parameters and assumptions such that the designated financial market utility meets its required level of default protection in light of current and evolving market conditions; and
-
-        ( C ) Having clear procedures to report the results of its stress tests to decisionmakers at the central counterparty and using these results to evaluate the adequacy of and adjust its total financial resources;
-
-      ( iv ) If it operates as a central counterparty, excludes assessments for additional default or guaranty fund contributions (that is, default or guaranty fund contributions that are not prefunded) in its calculation of financial resources available to meet the total financial resource requirement under this paragraph;
-
-      ( v ) At least annually, provides for a validation of the designated financial market utility's risk-management models used to determine the sufficiency of its total financial resources that—
-
-        ( A ) Includes the designated financial market utility's models used to comply with the collateral provisions under paragraph (a)(5) of this section and models used to determine initial margin under paragraph (a)(6) of this section; and
-
-        ( B ) Is performed by a qualified person who does not perform functions associated with the model (except as part of the annual model validation), does not report to such a person, and does not have a financial interest in whether the model is determined to be valid; and
-
-      ( vi ) Establishes rules and procedures that explicitly—
-
-        ( A ) Address allocation of credit losses the designated financial market utility may face if its collateral and other financial resources are insufficient to cover fully its credit exposures, including the repayment of any funds a designated financial market utility may borrow from liquidity providers; and
-
-        ( B ) Describe the designated financial market utility's process to replenish any financial resources that the designated financial market utility may employ during a stress event, including a participant default.
-
-    ( 5 ) Collateral. If it requires collateral to manage its or its participants' credit exposure, the designated financial market utility accepts collateral with low credit, liquidity, and market risks and sets and enforces conservative haircuts and concentration limits, in order to ensure the value of the collateral in the event of liquidation and that the collateral can be used in a timely manner. In this regard, the designated financial market utility—
-
-      ( i ) Establishes prudent valuation practices and develops haircuts that are tested regularly and take into account stressed market conditions;
-
-      ( ii ) Establishes haircuts that are calibrated to include relevant periods of stressed market conditions to reduce the need for procyclical adjustments;
-
-      ( iii ) Provides for annual validation of its haircut procedures, as part of its risk-management model validation under paragraph (a)(4)(v) of this section;
-
-      ( iv ) Avoids concentrated holdings of any particular type of asset where the concentration could significantly impair the ability to liquidate such assets quickly without significant adverse price effects;
-
-      ( v ) Uses a collateral management system that is well-designed and operationally flexible such that it, among other things,—
-
-        ( A ) Accommodates changes in the ongoing monitoring and management of collateral; and
-
-        ( B ) Allows for the timely valuation of collateral and execution of any collateral or margin calls.
-
-    ( 6 ) Margin. If it operates as a central counterparty, the designated financial market utility covers its credit exposures to its participants for all products by establishing a risk-based margin system that—
-
-      ( i ) Is conceptually and methodologically sound for the risks and particular attributes of each product, portfolio, and markets it serves, as demonstrated by documented and empirical evidence supporting design choices, methods used, variables selected, theoretical bases, key assumptions, and limitations;
-
-      ( ii ) Establishes margin levels commensurate with the risks and particular attributes of each product, portfolio, and market it serves;
-
-      ( iii ) Has a reliable source of timely price data;
-
-      ( iv ) Has procedures and sound valuation models for addressing circumstances in which pricing data are not readily available or reliable;
-
-      ( v ) Marks participant positions to market and collects variation margin at least daily and has the operational capacity to make intraday margin calls and payments, both scheduled and unscheduled, to participants;
-
-      ( vi ) Generates initial margin requirements sufficient to cover potential changes in the value of each participant's position during the interval between the last margin collection and the closeout of positions following a participant default by—
-
-        ( A ) Ensuring that initial margin meets an established single-tailed confidence level of at least 99 percent with respect to the estimated distribution of future exposure; and
-
-        ( B ) Using a conservative estimate of the time horizons for the effective hedging or closeout of the particular types of products cleared, including in stressed market conditions; and
-
-      ( vii ) Is monitored on an ongoing basis and regularly reviewed, tested, and verified through—
-
-        ( A ) Daily backtests;
-
-        ( B ) Monthly sensitivity analyses, performed more frequently during stressed market conditions or significant fluctuations in participant positions, with this analysis taking into account a wide range of parameters and assumptions that reflect possible market conditions that captures a variety of historical and hypothetical conditions, including the most volatile periods that have been experienced by the markets the designated financial market utility serves; and
-
-        ( C ) Annual model validations of the designated financial market utility's margin models and related parameters and assumptions, as part of its risk-management model validation under paragraph (a)(4)(v) of this section.
-
-    ( 7 ) Liquidity risk. The designated financial market utility effectively measures, monitors, and manages the liquidity risk that arises in or is borne by the designated financial market utility. In this regard, the designated financial market utility—
-
-      ( i ) Has effective operational and analytical tools to identify, measure, and monitor its settlement and funding flows on an ongoing and timely basis, including its use of intraday liquidity;
-
-      ( ii ) Maintains sufficient liquid resources in all relevant currencies to effect same-day and, where applicable, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of significantly different potential stress scenarios that includes the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the designated financial market utility in extreme but plausible market conditions;
-
-      ( iii ) Holds, for purposes of meeting the minimum liquid resource requirement under paragraph (a)(7)(ii) of this section,—
-
-        ( A ) cash in each relevant currency at the central bank of issue or creditworthy commercial banks;
-
-        ( B ) assets that are readily available and convertible into cash, through committed arrangements without material adverse change conditions, such as collateralized lines of credit, foreign exchange swaps, and repurchase agreements; or
-
-        ( C ) subject to the determination of the Board, highly marketable collateral and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions;
-
-      ( iv ) Evaluates and confirms, at least annually, whether each provider of the arrangements as described in paragraphs (a)(7)(iii)(B) and (C) of this section has sufficient information to understand and manage that provider's associated liquidity risks, and whether the provider has the capacity to perform;
-
-      ( v ) Maintains and tests its procedures and operational capacity for accessing each type of liquid resource required under this paragraph at least annually;
-
-      ( vi ) Determines the amount and regularly tests the sufficiency of the liquid resources necessary to meet the minimum liquid resource requirement under this paragraph by—
-
-        ( A ) On a daily basis, conducting a stress test of its liquid resources using standard and predetermined stress scenarios, parameters, and assumptions;
-
-        ( B ) On at least a monthly basis, and more frequently when products cleared or markets served experience high volatility or become less liquid, or when the size or concentration of positions held by the designated financial market utility's participants increases significantly, conducting a comprehensive and thorough analysis of the existing stress scenarios, models, and underlying parameters and assumptions such that the designated financial market utility meets its identified liquidity needs and resources in light of current and evolving market conditions; and
-
-        ( C ) Having clear procedures to report the results of its stress tests to decisionmakers at the designated financial market utility and using these results to evaluate the adequacy of and make adjustments to its liquidity risk-management framework;
-
-      ( vii ) At least annually, provides for a validation of its liquidity risk-management model by a qualified person who does not perform functions associated with the model (except as part of the annual model validation), does not report to such a person, and does not have a financial interest in whether the model is determined to be valid; and
-
-      ( viii ) Establishes rules and procedures that explicitly—
-
-        ( A ) Address potential liquidity shortfalls that would not be covered by the designated financial market utility's liquid resources and avoid unwinding, revoking, or delaying the same-day settlement of payment obligations; and
-
-        ( B ) Describe the designated financial market utility's process to replenish any liquid resources that it may employ during a stress event, including a participant default.
-
-    ( 8 ) Settlement finality. The designated financial market utility provides clear and certain final settlement intraday or in real time as appropriate, and at a minimum, by the end of the value date. The designated financial market utility clearly defines the point at which settlement is final and the point after which unsettled payments, transfer instructions, or other settlement instructions may not be revoked by a participant.
-
-    ( 9 ) Money settlements. The designated financial market utility conducts its money settlements in central bank money where practical and available. If central bank money is not used, the designated financial market utility minimizes and strictly controls the credit and liquidity risks arising from conducting its money settlements in commercial bank money, including settlement on its own books. If it conducts its money settlements at a commercial bank, the designated financial market utility—
-
-      ( i ) Establishes and monitors adherence to criteria based on high standards for its settlement banks that take account of, among other things, their applicable regulatory and supervisory frameworks, creditworthiness, capitalization, access to liquidity, and operational reliability;
-
-      ( ii ) Monitors and manages the concentration of credit and liquidity exposures to its commercial settlement banks; and
-
-      ( iii ) Ensures that its legal agreements with its settlement banks state clearly—
-
-        ( A ) When transfers on the books of individual settlement banks are expected to occur;
-
-        ( B ) That transfers are final when funds are credited to the recipient's account; and
-
-        ( C ) That the funds credited to the recipient are available immediately for retransfer or withdrawal.
-
-    ( 10 ) Physical deliveries. A designated financial market utility that operates as a central counterparty, securities settlement system, or central securities depository clearly states its obligations with respect to the delivery of physical instruments or commodities and identifies, monitors, and manages the risks associated with such physical deliveries.
-
-    ( 11 ) Central securities depositories. A designated financial market utility that operates as a central securities depository has appropriate rules and procedures to help ensure the integrity of securities issues and minimizes and manages the risks associated with the safekeeping and transfer of securities. In this regard, the designated financial market utility maintains securities in an immobilized or dematerialized form for their transfer by book entry.
-
-    ( 12 ) Exchange-of-value settlement systems. If it settles transactions that involve the settlement of two linked obligations, such as a transfer of securities against payment or the exchange of one currency for another, the designated financial market utility eliminates principal risk by conditioning the final settlement of one obligation upon the final settlement of the other.
-
-    ( 13 ) Participant-default rules and procedures. The designated financial market utility has effective and clearly defined rules and procedures to manage a participant default that are designed to ensure that the designated financial market utility can take timely action to contain losses and liquidity pressures so that it can continue to meet its obligations. In this regard, the designated financial market utility tests and reviews its default procedures, including any closeout procedures, at least annually or following material changes to these rules and procedures.
-
-    ( 14 ) Segregation and portability. A designated financial market utility that operates as a central counterparty has rules and procedures that enable the segregation and portability of positions of a participant's customers and the collateral provided to the designated financial market utility with respect to those positions.
-
-    ( 15 ) General business risk. The designated financial market utility identifies, monitors, and manages its general business risk, which is the risk of losses that may arise from its administration and operation as a business enterprise (including losses from execution of business strategy, negative cash flows, or unexpected and excessively large operating expenses) that are neither related to participant default nor separately covered by financial resources maintained for credit or liquidity risk. In this regard, in addition to holding financial resources required to manage credit risk ( paragraph (a)(4) of this section) and liquidity risk ( paragraph (a)(7) of this section), the designated financial market utility—
-
-      ( i ) Maintains liquid net assets funded by equity that are at all times sufficient to ensure a recovery or orderly wind-down of critical operations and services such that it—
-
-        ( A ) Holds unencumbered liquid financial assets, such as cash or highly liquid securities, that are sufficient to cover the greater of—
-
-          ( 1 ) The cost to implement the plans to address general business losses as required under paragraph (a)(3)(iii) of this section and
-
-          ( 2 ) Six months of current operating expenses or as otherwise determined by the Board; and
-
-        ( B ) Holds equity, such as common stock, disclosed reserves, and other retained earnings, that is at all times greater than or equal to the amount of unencumbered liquid financial assets that are required to be held under paragraph (a)(15)(i)(A) of this section; and
-
-      ( ii ) Maintains a viable plan, approved by the board of directors, for raising additional equity should the designated financial market utility's equity fall below the amount required under paragraph (a)(15)(i) of this section, and updates the plan the earlier of every two years or following changes to the designated financial market utility or the environment in which it operates that would significantly affect the viability or execution of the plan.
-
-    ( 16 ) Custody and investment risks. The designated financial market utility—
-
-      ( i ) Safeguards its own and its participants' assets and minimizes the risk of loss on and delay in access to these assets by—
-
-        ( A ) Holding its own and its participants' assets at supervised and regulated entities that have accounting practices, safekeeping procedures, and internal controls that fully protect these assets; and
-
-        ( B ) Evaluating its exposures to its custodian banks, taking into account the full scope of its relationships with each; and
-
-      ( ii ) Invests its own and its participants' assets—
-
-        ( A ) In instruments with minimal credit, market, and liquidity risks, such as investments that are secured by, or are claims on, high-quality obligors and investments that allow for timely liquidation with little, if any, adverse price effect; and
-
-        ( B ) Using an investment strategy that is consistent with its overall risk-management strategy and fully disclosed to its participants.
-
-    ( 17 ) Operational risk. The designated financial market utility manages its operational risks by establishing a robust operational risk-management framework that is approved by the board of directors. In this regard, the designated financial market utility—
-
-      ( i ) Identifies the plausible sources of operational risk, both internal and external, and mitigates their impact through the use of appropriate systems, policies, procedures, and controls—including those specific systems, policies, procedures, or controls required pursuant to this paragraph (a)(17) —that are reviewed, audited, and tested periodically and after major changes such that—
-
-        ( A ) The designated financial market utility conducts tests—
-
-          ( 1 ) In accordance with a documented testing framework that addresses, at a minimum, scope, frequency, participation, interdependencies, and reporting; and
-
-          ( 2 ) That assess whether the designated financial market utility's systems, policies, procedures, or controls function as intended;
-
-        ( B ) The designated financial market utility reviews the design, implementation, and testing of affected and similar systems, policies, procedures, and controls, after material operational incidents, including the material operational incidents described in paragraph (a)(17)(vi)(A) of this section, or after changes to the environment in which the designated financial market utility operates that could significantly affect the plausible sources or mitigants of operational risk; and
-
-        ( C ) The designated financial market utility remediates as soon as possible, following established governance processes, deficiencies in systems, policies, procedures, or controls identified in the process of review or testing;
-
-      ( ii ) Identifies, monitors, and manages the risks its operations might pose to other entities such as those referenced in paragraph (a)(3)(ii) of this section;
-
-      ( iii ) Has systems, policies, procedures, and controls that are designed to achieve clearly defined objectives to ensure a high degree of security and operational reliability;
-
-      ( iv ) Has systems that have adequate, scalable capacity to handle increasing stress volumes and achieve the designated financial market utility's service-level objectives;
-
-      ( v ) Has comprehensive physical, information, and cyber security policies, procedures, and controls that enable the designated financial market utility to identify, monitor, and manage potential and evolving vulnerabilities and threats;
-
-      ( vi ) Has a documented framework for incident management that provides for the prompt detection, analysis, and escalation of an incident, appropriate procedures for addressing an incident, and incorporation of lessons learned following an incident. This framework includes a plan for notification and communication of material operational incidents to identified relevant entities that ensures the designated financial market utility—
-
-        ( A ) Immediately notifies the Board, in accordance with the process established by the Board, when the designated financial market utility activates its business continuity plan or has a reasonable basis to conclude that—
-
-          ( 1 ) There is an actual or likely disruption, or material degradation, to any critical operations or services, or to its ability to fulfill its obligations on time; or
-
-          ( 2 ) There is unauthorized entry or a vulnerability that could allow unauthorized entry into the designated financial market utility's computer, network, electronic, technical, automated, or similar systems that affects or has the potential to affect its critical operations or services; and
-
-        ( B ) Establishes criteria and processes providing for timely communication and responsible disclosure of material operational incidents to the designated financial market utility's participants and other relevant entities, such that—
-
-          ( 1 ) Affected participants are notified immediately of actual disruptions or material degradations to any critical operations or services, or to the designated financial market utility's ability to fulfill its obligations on time; and
-
-          ( 2 ) Participants and other relevant entities, as identified in the designated financial market utility's plan for notification and communication, are notified in a timely manner of material operational incidents described in paragraph (a)(17)(vi)(A) of this section, as appropriate, taking into account the risks and benefits of the disclosure to the designated financial market utility and such participants and other relevant entities;
-
-      ( vii ) Has business continuity management that provides for rapid recovery and timely resumption of critical operations and services and fulfillment of its obligations, including in the event of a wide-scale disruption or a major disruption;
-
-      ( viii ) Has a business continuity plan that—
-
-        ( A ) Incorporates the use of two sites providing for sufficient redundancy supporting critical operations that are located at a sufficient geographical distance from each other to have a distinct risk profile;
-
-        ( B ) Is designed to enable critical systems, including information technology systems, to recover and resume critical operations and services no later than two hours following disruptive events;
-
-        ( C ) Is designed to enable it to complete settlement by the end of the day of the disruption, even in case of extreme circumstances;
-
-        ( D ) Sets out criteria and processes by which the designated financial market utility will reestablish availability for affected participants and other entities following a disruption to the designated financial market utility's critical operations or services;
-
-        ( E ) Provides for testing, pursuant to the requirements under paragraphs (a)(17)(i)(A) and (C) of this section, at least annually, of the designated financial market utility's business continuity arrangements, including the people, processes, and technologies of the sites required under paragraph (a)(17)(viii)(A) of this section, such that—
-
-          ( 1 ) The designated financial market utility can demonstrate that it can run live production at the sites required under paragraph (a)(17)(viii)(A) of this section;
-
-          ( 2 ) The designated financial market utility assesses the capability of its systems and effectiveness of its procedures for data recovery and data reconciliation to meet the recovery and resumption objectives under paragraphs (a)(17)(viii)(B) and (C) of this section, even in case of extreme circumstances, including in the event of data loss or data corruption; and
-
-          ( 3 ) The designated financial market utility can demonstrate that it has geographically dispersed staff who can effectively run the operations and manage the business of the designated financial market utility; and
-
-        ( F ) Is reviewed, pursuant to the requirements under paragraphs (a)(17)(i)(B) and (C) of this section, at least annually, in order to—
-
-          ( 1 ) Incorporate lessons learned from actual and averted disruptions; and
-
-          ( 2 ) Update scenarios and assumptions in order to ensure responsiveness to the evolving risk environment and incorporate new and evolving sources of operational risk; and
-
-      ( ix ) Has systems, policies, procedures, and controls that effectively identify, monitor, and manage risks associated with third-party relationships, and that ensure that, for any service that is performed for the designated financial market utility by a third party, risks are identified, monitored, and managed to the same extent as if the designated financial market utility were performing the service itself. In this regard, the designated financial market utility—
-
-        ( A ) Regularly conducts risk assessments of third parties;
-
-        ( B ) Establishes information-sharing arrangements, as appropriate, with third parties that provide services material to any of the designated financial market utility's critical operations or services; and
-
-        ( C ) Addresses in its business continuity management and testing, as appropriate, third parties that provide services material to any of the designated financial market utility's critical operations or services.
-
-    ( 18 ) Access and participation requirements. The designated financial market utility has objective, risk-based, and publicly disclosed criteria for participation, which permit fair and open access. The designated financial market utility—
-
-      ( i ) Monitors compliance with its participation requirements on an ongoing basis and has the authority to impose more-stringent restrictions or other risk controls on a participant in situations where the designated financial market utility determines the participant poses heightened risk to the designated financial market utility; and
-
-      ( ii ) Has clearly defined and publicly disclosed procedures for facilitating the suspension and orderly exit of a participant that fails to meet the participation requirements.
-
-    ( 19 ) Tiered participation arrangements. The designated financial market utility identifies, monitors, and manages the material risks arising from arrangements in which firms that are not direct participants in the designated financial market utility rely on the services provided by direct participants to access the designated financial market utility's payment, clearing, or settlement facilities, whether the risks are borne by the designated financial market utility or by its participants as a result of their participation. The designated financial market utility—
-
-      ( i ) Conducts an analysis to determine whether material risks arise from tiered participation arrangements;
-
-      ( ii ) Where material risks are identified, mitigates or manages such risks; and
-
-      ( iii ) Reviews and updates the analysis conducted under paragraph (a)(19)(i) of this section the earlier of every two years or following material changes to the system design or operations or the environment in which the designated financial market utility operates if those changes could affect the analysis conducted under paragraph (a)(19)(i) of this section.
-
-    ( 20 ) Links. If it operates as a central counterparty, securities settlement system, or central securities depository and establishes a link with one or more of these types of financial market utilities or trade repositories, the designated financial market utility identifies, monitors, and manages risks related to this link. In this regard, each central counterparty in a link arrangement with another central counterparty covers, at least on a daily basis, its current and potential future exposures to the linked central counterparty and its participants, if any, fully with a high degree of confidence without reducing the central counterparty's ability to fulfill its obligations to its own participants.
-
-    ( 21 ) Efficiency and effectiveness. The designated financial market utility—
-
-      ( i ) Is efficient and effective in meeting the requirements of its participants and the markets it serves, in particular, with regard to its—
-
-        ( A ) Clearing and settlement arrangement;
-
-        ( B ) Risk-management policies, procedures, and systems;
-
-        ( C ) Scope of products cleared and settled; and
-
-        ( D ) Use of technology and communication procedures;
-
-      ( ii ) Has clearly defined goals and objectives that are measurable and achievable, such as minimum service levels, risk-management expectations, and business priorities; and
-
-      ( iii ) Has policies and procedures for the regular review of its efficiency and effectiveness.
-
-    ( 22 ) Communication procedures and standards. The designated financial market utility uses, or at a minimum accommodates, relevant internationally accepted communication procedures and standards in order to facilitate efficient payment, clearing, and settlement.
-
-    ( 23 ) Disclosure of rules, key procedures, and market data. The designated financial market utility—
-
-      ( i ) Has clear and comprehensive rules and procedures;
-
-      ( ii ) Publicly discloses all rules and key procedures, including key aspects of its default rules and procedures;
-
-      ( iii ) Provides sufficient information to enable participants to have an accurate understanding of the risks, fees, and other material costs they incur by participating in the designated financial market utility;
-
-      ( iv ) Provides a comprehensive public disclosure of its legal, governance, risk management, and operating framework, that includes—
-
-        ( A ) Executive summary. An executive summary of the key points from paragraphs (a)(23)(iv)(B) through (D) of this section;
-
-        ( B ) Summary of major changes since the last update of the disclosure. A summary of the major changes since the last update of paragraph (a)(23)(iv)(C) , (D) , or (E) of this section;
-
-        ( C ) General background on the designated financial market utility. A description of—
-
-          ( 1 ) The designated financial market utility's function and the markets it serves,
-
-          ( 2 ) Basic data and performance statistics on its services and operations, such as basic volume and value statistics by product type, average aggregate intraday exposures to its participants, and statistics on the designated financial market utility's operational reliability, and
-
-          ( 3 ) The designated financial market utility's general organization, legal and regulatory framework, and system design and operations;
-
-        ( D ) Standard-by-standard summary narrative. A comprehensive narrative disclosure for each applicable standard set forth in this paragraph (a) with sufficient detail and context to enable a reader to understand the designated financial market utility's approach to controlling the risks and addressing the requirements in each standard; and
-
-        ( E ) List of publicly available resources. A list of publicly available resources, including those referenced in the disclosure, that may help a reader understand how the designated financial market utility controls its risks and addresses the requirements set forth in this paragraph (a) ; and
-
-      ( v ) Updates the public disclosure under paragraph (a)(23)(iv) of this section the earlier of every two years or to reflect changes to its system or the environment in which it operates that would significantly change the accuracy of the statements provided under paragraph (a)(23)(iv) of this section.
-
-  ( b ) The Board, by order, may apply heightened risk-management standards to a particular designated financial market utility in accordance with the risks presented by that designated financial market utility. The Board, by order, may waive the application of a standard or standards to a particular designated financial market utility where the risks presented by or the design of that designated financial market utility would make the application of the standard or standards inappropriate.
+  (
+a
+)
+A designated financial market utility must implement rules, procedures, or operations designed to ensure that it meets or exceeds the following risk-management standards with respect to its payment, clearing, and settlement activities.
+(
+1
+)
+Legal basis.
+The designated financial market utility has a well-founded, clear, transparent, and enforceable legal basis for each material aspect of its activities in all relevant jurisdictions.
+(
+2
+)
+Governance.
+The designated financial market utility has governance arrangements that—
+(
+i
+)
+Are clear, transparent, and documented;
+(
+ii
+)
+Promote the safety and efficiency of the designated financial market utility;
+(
+iii
+)
+Support the stability of the broader financial system, other relevant public interest considerations such as fostering fair and efficient markets, and the legitimate interests of relevant stakeholders, including the designated financial market utility's owners, participants, and participants' customers; and
+(
+iv
+)
+Are designed to ensure—
+(
+A
+)
+Lines of responsibility and accountability are clear and direct;
+(
+B
+)
+The roles and responsibilities of the board of directors and senior management are clearly specified;
+(
+C
+)
+The board of directors consists of suitable individuals having appropriate skills to fulfill its multiple roles;
+(
+D
+)
+The board of directors includes a majority of individuals who are not executives, officers, or employees of the designated financial market utility or an affiliate of the designated financial market utility;
+(
+E
+)
+The board of directors establishes policies and procedures to identify, address, and manage potential conflicts of interest of board members and to review its performance and the performance of individual board members on a regular basis;
+(
+F
+)
+The board of directors establishes a clear, documented risk-management framework that includes the designated financial market utility's risk-tolerance policy, assigns responsibilities and accountability for risk decisions, and addresses decisionmaking in crises and emergencies;
+(
+G
+)
+Senior management has the appropriate experience, skills, and integrity necessary to discharge operational and risk-management responsibilities;
+(
+H
+)
+The risk-management function has sufficient authority, resources, and independence from other operations of the designated financial market utility, and has a direct reporting line to and is overseen by a committee of the board of directors;
+(
+I
+)
+The internal audit function has sufficient authority, resources, and independence from management, and has a direct reporting line to and is overseen by a committee of the board of directors; and
+(
+J
+)
+Major decisions of the board of directors are clearly disclosed to relevant stakeholders, including the designated financial market utility's owners, participants, and participants' customers, and, where there is a broad market impact, the public.
+(
+3
+)
+Framework for the comprehensive management of risks.
+The designated financial market utility has a sound risk-management framework for comprehensively managing legal, credit, liquidity, operational, general business, custody, investment, and other risks that arise in or are borne by the designated financial market utility. This framework is subject to periodic review and includes—
+(
+i
+)
+Risk-management policies, procedures, and systems that enable the designated financial market utility to identify, measure, monitor, and manage the risks that arise in or are borne by the designated financial market utility, including those posed by other entities as a result of interdependencies;
+(
+ii
+)
+Risk-management policies, procedures, and systems that enable the designated financial market utility to identify, measure, monitor, and manage the material risks that it poses to other entities, such as other financial market utilities, trade repositories, settlement banks, liquidity providers, or service providers, as a result of interdependencies; and
+(
+iii
+)
+Integrated plans for the designated financial market utility's recovery and orderly wind-down that—
+(
+A
+)
+Identify the designated financial market utility's critical operations and services related to payment, clearing, and settlement;
+(
+B
+)
+Identify scenarios that may potentially prevent it from being able to provide its critical operations and services as a going concern, including uncovered credit losses (as described in
+paragraph (a)(4)(vi)(A)
+of this section), uncovered liquidity shortfalls (as described in
+paragraph (a)(7)(viii)(A)
+of this section), and general business losses (as described in
+paragraph (a)(15)
+of this section);
+(
+C
+)
+Identify criteria that could trigger the implementation of the recovery or orderly wind-down plan;
+(
+D
+)
+Include rules, procedures, policies, and any other tools the designated financial market utility would use in a recovery or orderly wind-down to address the scenarios identified under
+paragraph (a)(3)(iii)(B)
+of this section;
+(
+E
+)
+Include procedures to ensure timely implementation of the recovery and orderly wind-down plans in the scenarios identified under
+paragraph (a)(3)(iii)(B)
+of this section;
+(
+F
+)
+Include procedures for informing the Board, as soon as practicable, if the designated financial market utility is considering initiating recovery or orderly wind-down; and
+(
+G
+)
+Are reviewed the earlier of every two years or after changes to the system or the environment in which the designated financial market utility operates that would significantly affect the viability or execution of the plans.
+(
+4
+)
+Credit risk.
+The designated financial market utility effectively measures, monitors, and manages its credit exposures to participants and those arising from its payment, clearing, and settlement processes. In this regard, the designated financial market utility maintains sufficient financial resources to cover its credit exposure to each participant fully with a high degree of confidence. In addition, the designated financial market utility—
+(
+i
+)
+If it operates as a central counterparty, maintains additional prefunded financial resources that are sufficient to cover its credit exposure under a wide range of significantly different stress scenarios that includes the default of the participant and its affiliates that would potentially cause the largest aggregate credit exposure to the designated financial market utility in extreme but plausible market conditions;
+(
+ii
+)
+If it operates as a central counterparty, may be directed by the Board to maintain additional prefunded financial resources that are sufficient to cover its credit exposure under a wide range of significantly different stress scenarios that includes the default of the two participants and their affiliates that would potentially cause the largest aggregate credit exposure to the designated financial market utility in extreme but plausible market conditions. The Board may consider such a direction if the central counterparty—
+(
+A
+)
+Is involved in activities with a more-complex risk profile, such as clearing financial instruments characterized by discrete jump-to-default price changes or that are highly correlated with potential participant defaults, or
+(
+B
+)
+Has been determined by another jurisdiction to be systemically important in that jurisdiction;
+(
+iii
+)
+If it operates as a central counterparty, determines the amount and regularly tests the sufficiency of the total financial resources available to meet the requirements of this paragraph by—
+(
+A
+)
+On a daily basis, conducting a stress test of its total financial resources using standard and predetermined stress scenarios, parameters, and assumptions;
+(
+B
+)
+On at least a monthly basis, and more frequently when the products cleared or markets served experience high volatility or become less liquid, or when the size or concentration of positions held by the central counterparty's participants increases significantly, conducting a comprehensive and thorough analysis of the existing stress scenarios, models, and underlying parameters and assumptions such that the designated financial market utility meets its required level of default protection in light of current and evolving market conditions; and
+(
+C
+)
+Having clear procedures to report the results of its stress tests to decisionmakers at the central counterparty and using these results to evaluate the adequacy of and adjust its total financial resources;
+(
+iv
+)
+If it operates as a central counterparty, excludes assessments for additional default or guaranty fund contributions (that is, default or guaranty fund contributions that are not prefunded) in its calculation of financial resources available to meet the total financial resource requirement under this paragraph;
+(
+v
+)
+At least annually, provides for a validation of the designated financial market utility's risk-management models used to determine the sufficiency of its total financial resources that—
+(
+A
+)
+Includes the designated financial market utility's models used to comply with the collateral provisions under
+paragraph (a)(5)
+of this section and models used to determine initial margin under
+paragraph (a)(6)
+of this section; and
+(
+B
+)
+Is performed by a qualified person who does not perform functions associated with the model (except as part of the annual model validation), does not report to such a person, and does not have a financial interest in whether the model is determined to be valid; and
+(
+vi
+)
+Establishes rules and procedures that explicitly—
+(
+A
+)
+Address allocation of credit losses the designated financial market utility may face if its collateral and other financial resources are insufficient to cover fully its credit exposures, including the repayment of any funds a designated financial market utility may borrow from liquidity providers; and
+(
+B
+)
+Describe the designated financial market utility's process to replenish any financial resources that the designated financial market utility may employ during a stress event, including a participant default.
+(
+5
+)
+Collateral.
+If it requires collateral to manage its or its participants' credit exposure, the designated financial market utility accepts collateral with low credit, liquidity, and market risks and sets and enforces conservative haircuts and concentration limits, in order to ensure the value of the collateral in the event of liquidation and that the collateral can be used in a timely manner. In this regard, the designated financial market utility—
+(
+i
+)
+Establishes prudent valuation practices and develops haircuts that are tested regularly and take into account stressed market conditions;
+(
+ii
+)
+Establishes haircuts that are calibrated to include relevant periods of stressed market conditions to reduce the need for procyclical adjustments;
+(
+iii
+)
+Provides for annual validation of its haircut procedures, as part of its risk-management model validation under
+paragraph (a)(4)(v)
+of this section;
+(
+iv
+)
+Avoids concentrated holdings of any particular type of asset where the concentration could significantly impair the ability to liquidate such assets quickly without significant adverse price effects;
+(
+v
+)
+Uses a collateral management system that is well-designed and operationally flexible such that it, among other things,—
+(
+A
+)
+Accommodates changes in the ongoing monitoring and management of collateral; and
+(
+B
+)
+Allows for the timely valuation of collateral and execution of any collateral or margin calls.
+(
+6
+)
+Margin.
+If it operates as a central counterparty, the designated financial market utility covers its credit exposures to its participants for all products by establishing a risk-based margin system that—
+(
+i
+)
+Is conceptually and methodologically sound for the risks and particular attributes of each product, portfolio, and markets it serves, as demonstrated by documented and empirical evidence supporting design choices, methods used, variables selected, theoretical bases, key assumptions, and limitations;
+(
+ii
+)
+Establishes margin levels commensurate with the risks and particular attributes of each product, portfolio, and market it serves;
+(
+iii
+)
+Has a reliable source of timely price data;
+(
+iv
+)
+Has procedures and sound valuation models for addressing circumstances in which pricing data are not readily available or reliable;
+(
+v
+)
+Marks participant positions to market and collects variation margin at least daily and has the operational capacity to make intraday margin calls and payments, both scheduled and unscheduled, to participants;
+(
+vi
+)
+Generates initial margin requirements sufficient to cover potential changes in the value of each participant's position during the interval between the last margin collection and the closeout of positions following a participant default by—
+(
+A
+)
+Ensuring that initial margin meets an established single-tailed confidence level of at least 99 percent with respect to the estimated distribution of future exposure; and
+(
+B
+)
+Using a conservative estimate of the time horizons for the effective hedging or closeout of the particular types of products cleared, including in stressed market conditions; and
+(
+vii
+)
+Is monitored on an ongoing basis and regularly reviewed, tested, and verified through—
+(
+A
+)
+Daily backtests;
+(
+B
+)
+Monthly sensitivity analyses, performed more frequently during stressed market conditions or significant fluctuations in participant positions, with this analysis taking into account a wide range of parameters and assumptions that reflect possible market conditions that captures a variety of historical and hypothetical conditions, including the most volatile periods that have been experienced by the markets the designated financial market utility serves; and
+(
+C
+)
+Annual model validations of the designated financial market utility's margin models and related parameters and assumptions, as part of its risk-management model validation under
+paragraph (a)(4)(v)
+of this section.
+(
+7
+)
+Liquidity risk.
+The designated financial market utility effectively measures, monitors, and manages the liquidity risk that arises in or is borne by the designated financial market utility. In this regard, the designated financial market utility—
+(
+i
+)
+Has effective operational and analytical tools to identify, measure, and monitor its settlement and funding flows on an ongoing and timely basis, including its use of intraday liquidity;
+(
+ii
+)
+Maintains sufficient liquid resources in all relevant currencies to effect same-day and, where applicable, intraday and multiday settlement of payment obligations with a high degree of confidence under a wide range of significantly different potential stress scenarios that includes the default of the participant and its affiliates that would generate the largest aggregate liquidity obligation for the designated financial market utility in extreme but plausible market conditions;
+(
+iii
+)
+Holds, for purposes of meeting the minimum liquid resource requirement under
+paragraph (a)(7)(ii)
+of this section,—
+(
+A
+)
+cash in each relevant currency at the central bank of issue or creditworthy commercial banks;
+(
+B
+)
+assets that are readily available and convertible into cash, through committed arrangements without material adverse change conditions, such as collateralized lines of credit, foreign exchange swaps, and repurchase agreements; or
+(
+C
+)
+subject to the determination of the Board, highly marketable collateral and investments that are readily available and convertible into cash with prearranged and highly reliable funding arrangements, even in extreme but plausible market conditions;
+(
+iv
+)
+Evaluates and confirms, at least annually, whether each provider of the arrangements as described in
+paragraphs (a)(7)(iii)(B)
+and
+(C)
+of this section has sufficient information to understand and manage that provider's associated liquidity risks, and whether the provider has the capacity to perform;
+(
+v
+)
+Maintains and tests its procedures and operational capacity for accessing each type of liquid resource required under this paragraph at least annually;
+(
+vi
+)
+Determines the amount and regularly tests the sufficiency of the liquid resources necessary to meet the minimum liquid resource requirement under this paragraph by—
+(
+A
+)
+On a daily basis, conducting a stress test of its liquid resources using standard and predetermined stress scenarios, parameters, and assumptions;
+(
+B
+)
+On at least a monthly basis, and more frequently when products cleared or markets served experience high volatility or become less liquid, or when the size or concentration of positions held by the designated financial market utility's participants increases significantly, conducting a comprehensive and thorough analysis of the existing stress scenarios, models, and underlying parameters and assumptions such that the designated financial market utility meets its identified liquidity needs and resources in light of current and evolving market conditions; and
+(
+C
+)
+Having clear procedures to report the results of its stress tests to decisionmakers at the designated financial market utility and using these results to evaluate the adequacy of and make adjustments to its liquidity risk-management framework;
+(
+vii
+)
+At least annually, provides for a validation of its liquidity risk-management model by a qualified person who does not perform functions associated with the model (except as part of the annual model validation), does not report to such a person, and does not have a financial interest in whether the model is determined to be valid; and
+(
+viii
+)
+Establishes rules and procedures that explicitly—
+(
+A
+)
+Address potential liquidity shortfalls that would not be covered by the designated financial market utility's liquid resources and avoid unwinding, revoking, or delaying the same-day settlement of payment obligations; and
+(
+B
+)
+Describe the designated financial market utility's process to replenish any liquid resources that it may employ during a stress event, including a participant default.
+(
+8
+)
+Settlement finality.
+The designated financial market utility provides clear and certain final settlement intraday or in real time as appropriate, and at a minimum, by the end of the value date. The designated financial market utility clearly defines the point at which settlement is final and the point after which unsettled payments, transfer instructions, or other settlement instructions may not be revoked by a participant.
+(
+9
+)
+Money settlements.
+The designated financial market utility conducts its money settlements in central bank money where practical and available. If central bank money is not used, the designated financial market utility minimizes and strictly controls the credit and liquidity risks arising from conducting its money settlements in commercial bank money, including settlement on its own books. If it conducts its money settlements at a commercial bank, the designated financial market utility—
+(
+i
+)
+Establishes and monitors adherence to criteria based on high standards for its settlement banks that take account of, among other things, their applicable regulatory and supervisory frameworks, creditworthiness, capitalization, access to liquidity, and operational reliability;
+(
+ii
+)
+Monitors and manages the concentration of credit and liquidity exposures to its commercial settlement banks; and
+(
+iii
+)
+Ensures that its legal agreements with its settlement banks state clearly—
+(
+A
+)
+When transfers on the books of individual settlement banks are expected to occur;
+(
+B
+)
+That transfers are final when funds are credited to the recipient's account; and
+(
+C
+)
+That the funds credited to the recipient are available immediately for retransfer or withdrawal.
+(
+10
+)
+Physical deliveries.
+A designated financial market utility that operates as a central counterparty, securities settlement system, or central securities depository clearly states its obligations with respect to the delivery of physical instruments or commodities and identifies, monitors, and manages the risks associated with such physical deliveries.
+(
+11
+)
+Central securities depositories.
+A designated financial market utility that operates as a central securities depository has appropriate rules and procedures to help ensure the integrity of securities issues and minimizes and manages the risks associated with the safekeeping and transfer of securities. In this regard, the designated financial market utility maintains securities in an immobilized or dematerialized form for their transfer by book entry.
+(
+12
+)
+Exchange-of-value settlement systems.
+If it settles transactions that involve the settlement of two linked obligations, such as a transfer of securities against payment or the exchange of one currency for another, the designated financial market utility eliminates principal risk by conditioning the final settlement of one obligation upon the final settlement of the other.
+(
+13
+)
+Participant-default rules and procedures.
+The designated financial market utility has effective and clearly defined rules and procedures to manage a participant default that are designed to ensure that the designated financial market utility can take timely action to contain losses and liquidity pressures so that it can continue to meet its obligations. In this regard, the designated financial market utility tests and reviews its default procedures, including any closeout procedures, at least annually or following material changes to these rules and procedures.
+(
+14
+)
+Segregation and portability.
+A designated financial market utility that operates as a central counterparty has rules and procedures that enable the segregation and portability of positions of a participant's customers and the collateral provided to the designated financial market utility with respect to those positions.
+(
+15
+)
+General business risk.
+The designated financial market utility identifies, monitors, and manages its general business risk, which is the risk of losses that may arise from its administration and operation as a business enterprise (including losses from execution of business strategy, negative cash flows, or unexpected and excessively large operating expenses) that are neither related to participant default nor separately covered by financial resources maintained for credit or liquidity risk. In this regard, in addition to holding financial resources required to manage credit risk (
+paragraph (a)(4)
+of this section) and liquidity risk (
+paragraph (a)(7)
+of this section), the designated financial market utility—
+(
+i
+)
+Maintains liquid net assets funded by equity that are at all times sufficient to ensure a recovery or orderly wind-down of critical operations and services such that it—
+(
+A
+)
+Holds unencumbered liquid financial assets, such as cash or highly liquid securities, that are sufficient to cover the greater of—
+(
+1
+)
+The cost to implement the plans to address general business losses as required under
+paragraph (a)(3)(iii)
+of this section and
+(
+2
+)
+Six months of current operating expenses or as otherwise determined by the Board; and
+(
+B
+)
+Holds equity, such as common stock, disclosed reserves, and other retained earnings, that is at all times greater than or equal to the amount of unencumbered liquid financial assets that are required to be held under
+paragraph (a)(15)(i)(A)
+of this section; and
+(
+ii
+)
+Maintains a viable plan, approved by the board of directors, for raising additional equity should the designated financial market utility's equity fall below the amount required under
+paragraph (a)(15)(i)
+of this section, and updates the plan the earlier of every two years or following changes to the designated financial market utility or the environment in which it operates that would significantly affect the viability or execution of the plan.
+(
+16
+)
+Custody and investment risks.
+The designated financial market utility—
+(
+i
+)
+Safeguards its own and its participants' assets and minimizes the risk of loss on and delay in access to these assets by—
+(
+A
+)
+Holding its own and its participants' assets at supervised and regulated entities that have accounting practices, safekeeping procedures, and internal controls that fully protect these assets; and
+(
+B
+)
+Evaluating its exposures to its custodian banks, taking into account the full scope of its relationships with each; and
+(
+ii
+)
+Invests its own and its participants' assets—
+(
+A
+)
+In instruments with minimal credit, market, and liquidity risks, such as investments that are secured by, or are claims on, high-quality obligors and investments that allow for timely liquidation with little, if any, adverse price effect; and
+(
+B
+)
+Using an investment strategy that is consistent with its overall risk-management strategy and fully disclosed to its participants.
+(
+17
+)
+Operational risk.
+The designated financial market utility manages its operational risks by establishing a robust operational risk-management framework that is approved by the board of directors. In this regard, the designated financial market utility—
+(
+i
+)
+Identifies the plausible sources of operational risk, both internal and external, and mitigates their impact through the use of appropriate systems, policies, procedures, and controls—including those specific systems, policies, procedures, or controls required pursuant to this
+paragraph (a)(17)
+—that are reviewed, audited, and tested periodically and after major changes such that—
+(
+A
+)
+The designated financial market utility conducts tests—
+(
+1
+)
+In accordance with a documented testing framework that addresses, at a minimum, scope, frequency, participation, interdependencies, and reporting; and
+(
+2
+)
+That assess whether the designated financial market utility's systems, policies, procedures, or controls function as intended;
+(
+B
+)
+The designated financial market utility reviews the design, implementation, and testing of affected and similar systems, policies, procedures, and controls, after material operational incidents, including the material operational incidents described in
+paragraph (a)(17)(vi)(A)
+of this section, or after changes to the environment in which the designated financial market utility operates that could significantly affect the plausible sources or mitigants of operational risk; and
+(
+C
+)
+The designated financial market utility remediates as soon as possible, following established governance processes, deficiencies in systems, policies, procedures, or controls identified in the process of review or testing;
+(
+ii
+)
+Identifies, monitors, and manages the risks its operations might pose to other entities such as those referenced in
+paragraph (a)(3)(ii)
+of this section;
+(
+iii
+)
+Has systems, policies, procedures, and controls that are designed to achieve clearly defined objectives to ensure a high degree of security and operational reliability;
+(
+iv
+)
+Has systems that have adequate, scalable capacity to handle increasing stress volumes and achieve the designated financial market utility's service-level objectives;
+(
+v
+)
+Has comprehensive physical, information, and cyber security policies, procedures, and controls that enable the designated financial market utility to identify, monitor, and manage potential and evolving vulnerabilities and threats;
+(
+vi
+)
+Has a documented framework for incident management that provides for the prompt detection, analysis, and escalation of an incident, appropriate procedures for addressing an incident, and incorporation of lessons learned following an incident. This framework includes a plan for notification and communication of material operational incidents to identified relevant entities that ensures the designated financial market utility—
+(
+A
+)
+Immediately notifies the Board, in accordance with the process established by the Board, when the designated financial market utility activates its business continuity plan or has a reasonable basis to conclude that—
+(
+1
+)
+There is an actual or likely disruption, or material degradation, to any critical operations or services, or to its ability to fulfill its obligations on time; or
+(
+2
+)
+There is unauthorized entry or a vulnerability that could allow unauthorized entry into the designated financial market utility's computer, network, electronic, technical, automated, or similar systems that affects or has the potential to affect its critical operations or services; and
+(
+B
+)
+Establishes criteria and processes providing for timely communication and responsible disclosure of material operational incidents to the designated financial market utility's participants and other relevant entities, such that—
+(
+1
+)
+Affected participants are notified immediately of actual disruptions or material degradations to any critical operations or services, or to the designated financial market utility's ability to fulfill its obligations on time; and
+(
+2
+)
+Participants and other relevant entities, as identified in the designated financial market utility's plan for notification and communication, are notified in a timely manner of material operational incidents described in
+paragraph (a)(17)(vi)(A)
+of this section, as appropriate, taking into account the risks and benefits of the disclosure to the designated financial market utility and such participants and other relevant entities;
+(
+vii
+)
+Has business continuity management that provides for rapid recovery and timely resumption of critical operations and services and fulfillment of its obligations, including in the event of a wide-scale disruption or a major disruption;
+(
+viii
+)
+Has a business continuity plan that—
+(
+A
+)
+Incorporates the use of two sites providing for sufficient redundancy supporting critical operations that are located at a sufficient geographical distance from each other to have a distinct risk profile;
+(
+B
+)
+Is designed to enable critical systems, including information technology systems, to recover and resume critical operations and services no later than two hours following disruptive events;
+(
+C
+)
+Is designed to enable it to complete settlement by the end of the day of the disruption, even in case of extreme circumstances;
+(
+D
+)
+Sets out criteria and processes by which the designated financial market utility will reestablish availability for affected participants and other entities following a disruption to the designated financial market utility's critical operations or services;
+(
+E
+)
+Provides for testing, pursuant to the requirements under
+paragraphs (a)(17)(i)(A)
+and
+(C)
+of this section, at least annually, of the designated financial market utility's business continuity arrangements, including the people, processes, and technologies of the sites required under
+paragraph (a)(17)(viii)(A)
+of this section, such that—
+(
+1
+)
+The designated financial market utility can demonstrate that it can run live production at the sites required under
+paragraph (a)(17)(viii)(A)
+of this section;
+(
+2
+)
+The designated financial market utility assesses the capability of its systems and effectiveness of its procedures for data recovery and data reconciliation to meet the recovery and resumption objectives under
+paragraphs (a)(17)(viii)(B)
+and
+(C)
+of this section, even in case of extreme circumstances, including in the event of data loss or data corruption; and
+(
+3
+)
+The designated financial market utility can demonstrate that it has geographically dispersed staff who can effectively run the operations and manage the business of the designated financial market utility; and
+(
+F
+)
+Is reviewed, pursuant to the requirements under
+paragraphs (a)(17)(i)(B)
+and
+(C)
+of this section, at least annually, in order to—
+(
+1
+)
+Incorporate lessons learned from actual and averted disruptions; and
+(
+2
+)
+Update scenarios and assumptions in order to ensure responsiveness to the evolving risk environment and incorporate new and evolving sources of operational risk; and
+(
+ix
+)
+Has systems, policies, procedures, and controls that effectively identify, monitor, and manage risks associated with third-party relationships, and that ensure that, for any service that is performed for the designated financial market utility by a third party, risks are identified, monitored, and managed to the same extent as if the designated financial market utility were performing the service itself. In this regard, the designated financial market utility—
+(
+A
+)
+Regularly conducts risk assessments of third parties;
+(
+B
+)
+Establishes information-sharing arrangements, as appropriate, with third parties that provide services material to any of the designated financial market utility's critical operations or services; and
+(
+C
+)
+Addresses in its business continuity management and testing, as appropriate, third parties that provide services material to any of the designated financial market utility's critical operations or services.
+(
+18
+)
+Access and participation requirements.
+The designated financial market utility has objective, risk-based, and publicly disclosed criteria for participation, which permit fair and open access. The designated financial market utility—
+(
+i
+)
+Monitors compliance with its participation requirements on an ongoing basis and has the authority to impose more-stringent restrictions or other risk controls on a participant in situations where the designated financial market utility determines the participant poses heightened risk to the designated financial market utility; and
+(
+ii
+)
+Has clearly defined and publicly disclosed procedures for facilitating the suspension and orderly exit of a participant that fails to meet the participation requirements.
+(
+19
+)
+Tiered participation arrangements.
+The designated financial market utility identifies, monitors, and manages the material risks arising from arrangements in which firms that are not direct participants in the designated financial market utility rely on the services provided by direct participants to access the designated financial market utility's payment, clearing, or settlement facilities, whether the risks are borne by the designated financial market utility or by its participants as a result of their participation. The designated financial market utility—
+(
+i
+)
+Conducts an analysis to determine whether material risks arise from tiered participation arrangements;
+(
+ii
+)
+Where material risks are identified, mitigates or manages such risks; and
+(
+iii
+)
+Reviews and updates the analysis conducted under
+paragraph (a)(19)(i)
+of this section the earlier of every two years or following material changes to the system design or operations or the environment in which the designated financial market utility operates if those changes could affect the analysis conducted under
+paragraph (a)(19)(i)
+of this section.
+(
+20
+)
+Links.
+If it operates as a central counterparty, securities settlement system, or central securities depository and establishes a link with one or more of these types of financial market utilities or trade repositories, the designated financial market utility identifies, monitors, and manages risks related to this link. In this regard, each central counterparty in a link arrangement with another central counterparty covers, at least on a daily basis, its current and potential future exposures to the linked central counterparty and its participants, if any, fully with a high degree of confidence without reducing the central counterparty's ability to fulfill its obligations to its own participants.
+(
+21
+)
+Efficiency and effectiveness.
+The designated financial market utility—
+(
+i
+)
+Is efficient and effective in meeting the requirements of its participants and the markets it serves, in particular, with regard to its—
+(
+A
+)
+Clearing and settlement arrangement;
+(
+B
+)
+Risk-management policies, procedures, and systems;
+(
+C
+)
+Scope of products cleared and settled; and
+(
+D
+)
+Use of technology and communication procedures;
+(
+ii
+)
+Has clearly defined goals and objectives that are measurable and achievable, such as minimum service levels, risk-management expectations, and business priorities; and
+(
+iii
+)
+Has policies and procedures for the regular review of its efficiency and effectiveness.
+(
+22
+)
+Communication procedures and standards.
+The designated financial market utility uses, or at a minimum accommodates, relevant internationally accepted communication procedures and standards in order to facilitate efficient payment, clearing, and settlement.
+(
+23
+)
+Disclosure of rules, key procedures, and market data.
+The designated financial market utility—
+(
+i
+)
+Has clear and comprehensive rules and procedures;
+(
+ii
+)
+Publicly discloses all rules and key procedures, including key aspects of its default rules and procedures;
+(
+iii
+)
+Provides sufficient information to enable participants to have an accurate understanding of the risks, fees, and other material costs they incur by participating in the designated financial market utility;
+(
+iv
+)
+Provides a comprehensive public disclosure of its legal, governance, risk management, and operating framework, that includes—
+(
+A
+)
+Executive summary.
+An executive summary of the key points from
+paragraphs (a)(23)(iv)(B)
+through
+(D)
+of this section;
+(
+B
+)
+Summary of major changes since the last update of the disclosure.
+A summary of the major changes since the last update of
+paragraph (a)(23)(iv)(C)
+,
+(D)
+, or
+(E)
+of this section;
+(
+C
+)
+General background on the designated financial market utility.
+A description of—
+(
+1
+)
+The designated financial market utility's function and the markets it serves,
+(
+2
+)
+Basic data and performance statistics on its services and operations, such as basic volume and value statistics by product type, average aggregate intraday exposures to its participants, and statistics on the designated financial market utility's operational reliability, and
+(
+3
+)
+The designated financial market utility's general organization, legal and regulatory framework, and system design and operations;
+(
+D
+)
+Standard-by-standard summary narrative.
+A comprehensive narrative disclosure for each applicable standard set forth in this
+paragraph (a)
+with sufficient detail and context to enable a reader to understand the designated financial market utility's approach to controlling the risks and addressing the requirements in each standard; and
+(
+E
+)
+List of publicly available resources.
+A list of publicly available resources, including those referenced in the disclosure, that may help a reader understand how the designated financial market utility controls its risks and addresses the requirements set forth in this
+paragraph (a)
+; and
+(
+v
+)
+Updates the public disclosure under
+paragraph (a)(23)(iv)
+of this section the earlier of every two years or to reflect changes to its system or the environment in which it operates that would significantly change the accuracy of the statements provided under
+paragraph (a)(23)(iv)
+of this section.
+(
+b
+)
+The Board, by order, may apply heightened risk-management standards to a particular designated financial market utility in accordance with the risks presented by that designated financial market utility. The Board, by order, may waive the application of a standard or standards to a particular designated financial market utility where the risks presented by or the design of that designated financial market utility would make the application of the standard or standards inappropriate.
+[
+77 FR 45919
+, Aug. 2, 2012, as amended at
+79 FR 65558
+, Nov. 5, 2014; Reg. HH,
+89 FR 18766
+, Mar. 15, 2024]
 
 ## § 234.4 Changes to rules, procedures, or operations.
 
-  ( a ) Advance notice.
-
-    ( 1 ) A designated financial market utility shall provide at least 60-days advance notice to the Board of any proposed change to its rules, procedures, or operations that could materially affect the nature or level of risks presented by the designated financial market utility.
-
-    ( 2 ) The notice of the proposed change shall describe—
-
-      ( i ) The nature of the change and expected effects on risks to the designated financial market utility, its participants, or the market; and
-
-      ( ii ) How the designated financial market utility plans to manage any identified risks.
-
-    ( 3 ) The Board may require the designated financial market utility to provide additional information necessary to assess the effect the proposed change would have on the nature or level of risks associated with the utility's payment, clearing, or settlement activities and the sufficiency of any proposed risk-management techniques.
-
-    ( 4 ) A designated financial market utility shall not implement a change to which the Board has an objection.
-
-    ( 5 ) The Board will notify the designated financial market utility of any objection before the end of 60 days after the later of—
-
-      ( i ) The date the Board receives the notice of proposed change; or
-
-      ( ii ) The date the Board receives any further information it requests for consideration of the notice.
-
-    ( 6 ) A designated financial market utility may implement a change if it has not received an objection to the proposed change before the end of 60 days after the later of—
-
-      ( i ) The date the Board receives the notice of proposed change; or
-
-      ( ii ) The date the Board receives any further information it requests for consideration of the notice.
-
-    ( 7 ) With respect to proposed changes that raise novel or complex issues, the Board may, by written notice during the 60-day review period, extend the review period for an additional 60 days. Any extension under this paragraph will extend the time periods under paragraphs (a)(5) and (a)(6) of this section to 120 days.
-
-    ( 8 ) A designated financial market utility may implement a proposed change before the expiration of the applicable review period if the Board notifies the designated financial market utility in writing that the Board does not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Board.
-
-  ( b ) Emergency changes.
-
-    ( 1 ) A designated financial market utility may implement a change that would otherwise require advance notice under this section if it determines that—
-
-      ( i ) An emergency exists; and
-
-      ( ii ) Immediate implementation of the change is necessary for the designated financial market utility to continue to provide its services in a safe and sound manner.
-
-    ( 2 ) The designated financial market utility shall provide notice of any such emergency change to the Board as soon as practicable and no later than 24 hours after implementation of the change.
-
-    ( 3 ) In addition to the information required for changes requiring advance notice in paragraph (a)(2) of this section, the notice of an emergency change shall describe—
-
-      ( i ) The nature of the emergency; and
-
-      ( ii ) The reason the change was necessary for the designated financial market utility to continue to provide its services in a safe and sound manner.
-
-    ( 4 ) The Board may require modification or rescission of the change if it finds that the change is not consistent with the purposes of the Dodd-Frank Act or any applicable rules, order, or standards prescribed under section 805(a) of the Dodd-Frank Act.
-
-  ( c ) Materiality.
-
-    ( 1 ) The term “materially affect the nature or level of risks presented” in paragraph (a)(1) of this section means matters as to which there is a reasonable possibility that the change would materially affect the overall nature or level of risk presented by the designated financial market utility, including risk arising in the performance of payment, clearing, or settlement functions.
-
-    ( 2 ) A change to rules, procedures, or operations that would materially affect the nature or level of risks presented includes, but is not limited to, changes that materially affect any one or more of the following:
-
-      ( i ) Participant eligibility or access criteria;
-
-      ( ii ) Product eligibility;
-
-      ( iii ) Risk management;
-
-      ( iv ) Settlement failure or default procedures;
-
-      ( v ) Financial resources;
-
-      ( vi ) Business continuity and disaster recovery plans;
-
-      ( vii ) Daily or intraday settlement procedures;
-
-      ( viii ) The scope of services, including the addition of a new service or discontinuation of an existing service;
-
-      ( ix ) Technical design or operating platform, which results in non-routine changes to the underlying technological framework for payment, clearing, or settlement functions; or
-
-      ( x ) Governance.
-
-    ( 3 ) A change to rules, procedures, or operations that does not meet the conditions of paragraph (c)(2) of this section and would not materially affect the nature or level of risks presented includes, but is not limited to the following:
-
-      ( i ) A routine technology systems upgrade;
-
-      ( ii ) A change in a fee, price, or other charge for services provided by the designated financial market utility;
-
-      ( iii ) A change related solely to the administration of the designated financial market utility or related to the routine, daily administration, direction, and control of employees; or
-
-      ( iv ) A clerical change and other non-substantive revisions to rules, procedures, or other documentation.
+  (
+a
+)
+Advance notice.
+(
+1
+)
+A designated financial market utility shall provide at least 60-days advance notice to the Board of any proposed change to its rules, procedures, or operations that could materially affect the nature or level of risks presented by the designated financial market utility.
+(
+2
+)
+The notice of the proposed change shall describe—
+(
+i
+)
+The nature of the change and expected effects on risks to the designated financial market utility, its participants, or the market; and
+(
+ii
+)
+How the designated financial market utility plans to manage any identified risks.
+(
+3
+)
+The Board may require the designated financial market utility to provide additional information necessary to assess the effect the proposed change would have on the nature or level of risks associated with the utility's payment, clearing, or settlement activities and the sufficiency of any proposed risk-management techniques.
+(
+4
+)
+A designated financial market utility shall not implement a change to which the Board has an objection.
+(
+5
+)
+The Board will notify the designated financial market utility of any objection before the end of 60 days after the later of—
+(
+i
+)
+The date the Board receives the notice of proposed change; or
+(
+ii
+)
+The date the Board receives any further information it requests for consideration of the notice.
+(
+6
+)
+A designated financial market utility may implement a change if it has not received an objection to the proposed change before the end of 60 days after the later of—
+(
+i
+)
+The date the Board receives the notice of proposed change; or
+(
+ii
+)
+The date the Board receives any further information it requests for consideration of the notice.
+(
+7
+)
+With respect to proposed changes that raise novel or complex issues, the Board may, by written notice during the 60-day review period, extend the review period for an additional 60 days. Any extension under this paragraph will extend the time periods under
+paragraphs (a)(5)
+and
+(a)(6)
+of this section to 120 days.
+(
+8
+)
+A designated financial market utility may implement a proposed change before the expiration of the applicable review period if the Board notifies the designated financial market utility in writing that the Board does not object to the proposed change and authorizes the designated financial market utility to implement the change on an earlier date, subject to any conditions imposed by the Board.
+(
+b
+)
+Emergency changes.
+(
+1
+)
+A designated financial market utility may implement a change that would otherwise require advance notice under this section if it determines that—
+(
+i
+)
+An emergency exists; and
+(
+ii
+)
+Immediate implementation of the change is necessary for the designated financial market utility to continue to provide its services in a safe and sound manner.
+(
+2
+)
+The designated financial market utility shall provide notice of any such emergency change to the Board as soon as practicable and no later than 24 hours after implementation of the change.
+(
+3
+)
+In addition to the information required for changes requiring advance notice in
+paragraph (a)(2)
+of this section, the notice of an emergency change shall describe—
+(
+i
+)
+The nature of the emergency; and
+(
+ii
+)
+The reason the change was necessary for the designated financial market utility to continue to provide its services in a safe and sound manner.
+(
+4
+)
+The Board may require modification or rescission of the change if it finds that the change is not consistent with the purposes of the Dodd-Frank Act or any applicable rules, order, or standards prescribed under section 805(a) of the Dodd-Frank Act.
+(
+c
+)
+Materiality.
+(
+1
+)
+The term “materially affect the nature or level of risks presented” in
+paragraph (a)(1)
+of this section means matters as to which there is a reasonable possibility that the change would materially affect the overall nature or level of risk presented by the designated financial market utility, including risk arising in the performance of payment, clearing, or settlement functions.
+(
+2
+)
+A change to rules, procedures, or operations that would materially affect the nature or level of risks presented includes, but is not limited to, changes that materially affect any one or more of the following:
+(
+i
+)
+Participant eligibility or access criteria;
+(
+ii
+)
+Product eligibility;
+(
+iii
+)
+Risk management;
+(
+iv
+)
+Settlement failure or default procedures;
+(
+v
+)
+Financial resources;
+(
+vi
+)
+Business continuity and disaster recovery plans;
+(
+vii
+)
+Daily or intraday settlement procedures;
+(
+viii
+)
+The scope of services, including the addition of a new service or discontinuation of an existing service;
+(
+ix
+)
+Technical design or operating platform, which results in non-routine changes to the underlying technological framework for payment, clearing, or settlement functions; or
+(
+x
+)
+Governance.
+(
+3
+)
+A change to rules, procedures, or operations that does not meet the conditions of
+paragraph (c)(2)
+of this section and would not materially affect the nature or level of risks presented includes, but is not limited to the following:
+(
+i
+)
+A routine technology systems upgrade;
+(
+ii
+)
+A change in a fee, price, or other charge for services provided by the designated financial market utility;
+(
+iii
+)
+A change related solely to the administration of the designated financial market utility or related to the routine, daily administration, direction, and control of employees; or
+(
+iv
+)
+A clerical change and other non-substantive revisions to rules, procedures, or other documentation.
+[
+77 FR 45919
+, Aug. 2, 2012. Redesignated at
+79 FR 65562
+, Nov. 5, 2014]
 
 ## § 234.5 Access to Federal Reserve Bank accounts and services.
 
-  ( a ) This section applies to any designated financial market utility for which the Board may authorize a Federal Reserve Bank to open an account or provide services in accordance with section 806(a) of the Dodd-Frank Act. Upon receipt of Board authorization and subject to any limitations, restrictions, or other requirements established by the Board, a Federal Reserve Bank may enter into agreements governing the details of its accounts and services with a designated financial market utility, consistent with this section and any other applicable Board direction. The agreements may include, among other things, provisions regarding documentation to establish the account and receive services, conditions imposed on the account and services, service charges, reporting, accounting for activity in the account, liability and duty of care, and termination.
-
-  ( b ) A Federal Reserve Bank should ensure that its establishment and maintenance of an account for or provision of services to a designated financial market utility does not create undue credit, settlement, or other risk to the Reserve Bank. In order to establish and maintain an account with a Federal Reserve Bank or receive financial services from a Federal Reserve Bank, the designated financial market utility must be in compliance with the Supervisory Agency's regulatory and supervisory requirements regarding financial resources, liquidity, participant default management, and other aspects of risk management, as determined by the Supervisory Agency. In addition, at a minimum, the designated financial market utility must, in the Federal Reserve Bank's judgment—
-
-    ( 1 ) Be in generally sound financial condition, including maintenance of sufficient working capital and cash flow to permit the designated financial market utility to continue as a going concern and to meet its current and projected operating expenses under a range of scenarios;
-
-    ( 2 ) Be in compliance with Board orders and policies, Federal Reserve Bank account agreements and, as applicable, operating circulars, and other applicable Federal Reserve requirements regarding the establishment and maintenance of an account at a Federal Reserve Bank and the receipt of financial services from a Federal Reserve Bank; and
-
-    ( 3 ) Have an ongoing ability, including during periods of market stress or a participant default, to meet all of its obligations under its agreement for a Federal Reserve Bank account and services, including by maintaining—
-
-      ( i ) Sufficient liquid resources to meet its obligations under the account agreement;
-
-      ( ii ) The operational capacity to ensure that such liquid resources are available to satisfy the account obligations on a timely basis in accordance with the account agreement; and
-
-      ( iii ) Sound money settlement processes designed to adequately monitor its Federal Reserve Bank account on an intraday basis, process money transfers through its account in an orderly manner, and complete final money settlement no later than the value date.
-
-  ( c ) The Board will consult with the Supervisory Agency of a designated financial market utility prior to authorizing a Federal Reserve Bank to open an account, and periodically thereafter, to ascertain the views of the Supervisory Agency regarding the designated financial market utility's compliance with the requirements in paragraph (b) of this section.
-
-  ( d ) In addition to any right that a Reserve Bank has to limit or terminate an account or the use of a service pursuant to its account agreement, the Board may direct the Federal Reserve Bank to impose limits, restrictions, or other conditions on the availability or use of a Federal Reserve Bank account or service by a designated financial market utility, including directing the Reserve Bank to terminate the use of a particular service or to close the account. If the Reserve Bank determines that a designated financial market utility no longer complies with one or more of the minimum conditions in subsection (b), the Reserve Bank will consult with the Board regarding continued maintenance of the account and provision of services.
+  (
+a
+)
+This section applies to any designated financial market utility for which the Board may authorize a Federal Reserve Bank to open an account or provide services in accordance with section 806(a) of the Dodd-Frank Act. Upon receipt of Board authorization and subject to any limitations, restrictions, or other requirements established by the Board, a Federal Reserve Bank may enter into agreements governing the details of its accounts and services with a designated financial market utility, consistent with this section and any other applicable Board direction. The agreements may include, among other things, provisions regarding documentation to establish the account and receive services, conditions imposed on the account and services, service charges, reporting, accounting for activity in the account, liability and duty of care, and termination.
+(
+b
+)
+A Federal Reserve Bank should ensure that its establishment and maintenance of an account for or provision of services to a designated financial market utility does not create undue credit, settlement, or other risk to the Reserve Bank. In order to establish and maintain an account with a Federal Reserve Bank or receive financial services from a Federal Reserve Bank, the designated financial market utility must be in compliance with the Supervisory Agency's regulatory and supervisory requirements regarding financial resources, liquidity, participant default management, and other aspects of risk management, as determined by the Supervisory Agency. In addition, at a minimum, the designated financial market utility must, in the Federal Reserve Bank's judgment—
+(
+1
+)
+Be in generally sound financial condition, including maintenance of sufficient working capital and cash flow to permit the designated financial market utility to continue as a going concern and to meet its current and projected operating expenses under a range of scenarios;
+(
+2
+)
+Be in compliance with Board orders and policies, Federal Reserve Bank account agreements and, as applicable, operating circulars, and other applicable Federal Reserve requirements regarding the establishment and maintenance of an account at a Federal Reserve Bank and the receipt of financial services from a Federal Reserve Bank; and
+(
+3
+)
+Have an ongoing ability, including during periods of market stress or a participant default, to meet all of its obligations under its agreement for a Federal Reserve Bank account and services, including by maintaining—
+(
+i
+)
+Sufficient liquid resources to meet its obligations under the account agreement;
+(
+ii
+)
+The operational capacity to ensure that such liquid resources are available to satisfy the account obligations on a timely basis in accordance with the account agreement; and
+(
+iii
+)
+Sound money settlement processes designed to adequately monitor its Federal Reserve Bank account on an intraday basis, process money transfers through its account in an orderly manner, and complete final money settlement no later than the value date.
+(
+c
+)
+The Board will consult with the Supervisory Agency of a designated financial market utility prior to authorizing a Federal Reserve Bank to open an account, and periodically thereafter, to ascertain the views of the Supervisory Agency regarding the designated financial market utility's compliance with the requirements in
+paragraph (b)
+of this section.
+(
+d
+)
+In addition to any right that a Reserve Bank has to limit or terminate an account or the use of a service pursuant to its account agreement, the Board may direct the Federal Reserve Bank to impose limits, restrictions, or other conditions on the availability or use of a Federal Reserve Bank account or service by a designated financial market utility, including directing the Reserve Bank to terminate the use of a particular service or to close the account. If the Reserve Bank determines that a designated financial market utility no longer complies with one or more of the minimum conditions in subsection (b), the Reserve Bank will consult with the Board regarding continued maintenance of the account and provision of services.
+[
+78 FR 76979
+, Dec. 20, 2013. Redesignated and amended at
+79 FR 65562
+, Nov. 5, 2014]
 
 ## § 234.6 Interest on balances.
 
-  ( a ) A Federal Reserve Bank may pay interest on balances maintained by a designated financial market utility at the Federal Reserve Bank in accordance with this section and under such other terms and conditions as the Board may prescribe.
+  (
+a
+)
+A Federal Reserve Bank may pay interest on balances maintained by a designated financial market utility at the Federal Reserve Bank in accordance with this section and under such other terms and conditions as the Board may prescribe.
+(
+b
+)
+Interest on balances paid under this section shall be at the rate paid on balances maintained by depository institutions or another rate determined by the Board from time to time, not to exceed the general level of short-term interest rates.
+(
+c
+)
+For purposes of this section, “short-term interest rates” shall have the same meaning as the meaning provided for that term in
+§ 204.10(b)(3) of this chapter
+.
+[
+78 FR 76979
+, Dec. 20, 2013. Redesignated at
+79 FR 65562
+, Nov. 5, 2014]
 
-  ( b ) Interest on balances paid under this section shall be at the rate paid on balances maintained by depository institutions or another rate determined by the Board from time to time, not to exceed the general level of short-term interest rates.
-
-  ( c ) For purposes of this section, “short-term interest rates” shall have the same meaning as the meaning provided for that term in § 204.10(b)(3) of this chapter .

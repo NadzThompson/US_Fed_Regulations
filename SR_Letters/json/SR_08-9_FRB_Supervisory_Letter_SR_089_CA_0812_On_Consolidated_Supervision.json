@@ -1,0 +1,218 @@
+{
+  "doc_id": "usfed.sr08-9.20081016.letter",
+  "doc_family_id": "usfed.sr08-9",
+  "title": "FRB: Supervisory Letter SR 08-9 / CA 08-12 on consolidated supervision of bank holding companies and the combined U.S. operations of foreign banking organizations -- October 16, 2008 -- Revised January 9, 2026",
+  "title_normalized": "FRB: Supervisory Letter SR 08-9 / CA 08-12 on consolidated supervision of bank holding companies and the combined U.S. operations of foreign banking organizations -- October 16, 2008 -- Revised January 9, 2026",
+  "short_title": "SR 08-9",
+  "slug": "sr-letter-sr08-9",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "sr_letter",
+  "publication_type": "SR Letter",
+  "publication_type_normalized": "sr_letter",
+  "nova_tier": 2,
+  "authority_class": "primary_normative",
+  "authority_level": "supervisory_guidance",
+  "prudential_weight": 0.5,
+  "status": "active",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 08-9"
+  ],
+  "section_path": "Federal Reserve System > Supervision and Regulation > SR Letters > SR 08-9",
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "current_version_flag": true,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "paragraph_role": "scope_statement",
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "contains_deadline": false,
+  "contains_parameter": true,
+  "contains_assignment": false,
+  "is_appendix": false,
+  "depth": 0,
+  "version_id": "2008-10-16",
+  "version_label": "2008",
+  "citation_anchor": "#sr08-9",
+  "sr_letter_number": "SR 08-9",
+  "sr_year": 2008,
+  "sr_sequence": 9,
+  "topic_code": "",
+  "joint_letters": [
+    "CA 08-12"
+  ],
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "issuing_division": "Division of Supervision and Regulation",
+  "document_date_raw": "2008-10-16",
+  "document_date_iso": "2008-10-16",
+  "effective_date_start": "2008-10-16",
+  "effective_date_end": null,
+  "applicability_raw": "",
+  "supersedes": [],
+  "related_letters": [
+    "SR 17-13",
+    "SR 17-13"
+  ],
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": true,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": true,
+  "applies_to_nonbank_financial": false,
+  "applies_to_edge_agreement_corps": false,
+  "applies_to_large_institutions": true,
+  "word_count_raw_body": 6447,
+  "section_headings": [
+    "Board of Governors of the Federal Reserve System",
+    "Supervision and Regulation Letters",
+    "SR 08-9 / CA 08-12:",
+    "Notes:",
+    "Board of Governorsof theFederal Reserve System",
+    "Tools and Information",
+    "Stay Connected",
+    "On January 9, 2026:"
+  ],
+  "toc_depth": 8,
+  "has_appendices": true,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "12 CFR 208",
+    "SR 08-9",
+    "SR 17-13"
+  ],
+  "pdf_attachments": [
+    "SR 08-9 - Letter.pdf",
+    "SR 08-9 - Attachment 1 - Guidance for the Consolidated Supervision of Domestic Bank Holding Companies that are Large Complex Banking.pdf",
+    "SR 08-9 - Attachment 2 - Guidance for the Consolidated Supervision of Regional Bank Holding Companies.pdf",
+    "SR 08-9 - Attachment 3 - Guidance for the Supervision of the Combined U.S. Operations of Foreign Banking Organizations that are Large Complex.pdf",
+    "SR 08-9 - Attachment 4 - Guidance for the Supervision of the Combined U.S. Operations of Multi-office Foreign Banking Organizations.pdf",
+    "SR 08-9 - Attachment 5 - Definitions of Key Terms for Consolidated Supervision.pdf"
+  ],
+  "pdf_attachments_detail": [
+    {
+      "filename": "SR 08-9 - Letter.pdf",
+      "original_filename": "SR0809.pdf",
+      "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809.pdf",
+      "local_path": "SR_Letters/pdf/SR 08-9 - Letter.pdf",
+      "description": "PDF"
+    },
+    {
+      "filename": "SR 08-9 - Attachment 1 - Guidance for the Consolidated Supervision of Domestic Bank Holding Companies that are Large Complex Banking.pdf",
+      "original_filename": "SR0809a1.pdf",
+      "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809a1.pdf",
+      "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 1 - Guidance for the Consolidated Supervision of Domestic Bank Holding Companies that are Large Complex Banking.pdf",
+      "description": "Guidance for the Consolidated Supervision of Domestic Bank Holding Companies that are Large Complex Banking Organizations"
+    },
+    {
+      "filename": "SR 08-9 - Attachment 2 - Guidance for the Consolidated Supervision of Regional Bank Holding Companies.pdf",
+      "original_filename": "SR0809a2.pdf",
+      "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809a2.pdf",
+      "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 2 - Guidance for the Consolidated Supervision of Regional Bank Holding Companies.pdf",
+      "description": "Guidance for the Consolidated Supervision of Regional Bank Holding Companies"
+    },
+    {
+      "filename": "SR 08-9 - Attachment 3 - Guidance for the Supervision of the Combined U.S. Operations of Foreign Banking Organizations that are Large Complex.pdf",
+      "original_filename": "SR0809b1.pdf",
+      "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809b1.pdf",
+      "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 3 - Guidance for the Supervision of the Combined U.S. Operations of Foreign Banking Organizations that are Large Complex.pdf",
+      "description": "Guidance for the Supervision of the Combined U.S. Operations of Foreign Banking Organizations that are Large Complex Banking Organizations"
+    },
+    {
+      "filename": "SR 08-9 - Attachment 4 - Guidance for the Supervision of the Combined U.S. Operations of Multi-office Foreign Banking Organizations.pdf",
+      "original_filename": "SR0809b2.pdf",
+      "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809b2.pdf",
+      "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 4 - Guidance for the Supervision of the Combined U.S. Operations of Multi-office Foreign Banking Organizations.pdf",
+      "description": "Guidance for the Supervision of the Combined U.S. Operations of Multi-office Foreign Banking Organizations"
+    },
+    {
+      "filename": "SR 08-9 - Attachment 5 - Definitions of Key Terms for Consolidated Supervision.pdf",
+      "original_filename": "SR0809c.pdf",
+      "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809c.pdf",
+      "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 5 - Definitions of Key Terms for Consolidated Supervision.pdf",
+      "description": "Definitions of Key Terms for Consolidated Supervision"
+    }
+  ],
+  "attachment_count": 6,
+  "include_in_primary_corpus": true,
+  "include_in_context_corpus": true,
+  "include_in_support_corpus": true,
+  "content_source": "Federal Reserve Website",
+  "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809.htm",
+  "source_html_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809.htm",
+  "canonical_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809.htm",
+  "scraped_on": "2026-04-02",
+  "enriched_timestamp": "2026-04-02T00:41:59Z",
+  "connected_files": {
+    "source_html_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809.htm",
+    "raw_html_local": "SR_Letters/raw_html/SR_08-9_FRB_Supervisory_Letter_SR_089_CA_0812_On_Consolidated_Supervision.html",
+    "metadata_json": "SR_Letters/json/SR_08-9_FRB_Supervisory_Letter_SR_089_CA_0812_On_Consolidated_Supervision.json",
+    "markdown_summary": "SR_Letters/md/SR_08-9_FRB_Supervisory_Letter_SR_089_CA_0812_On_Consolidated_Supervision.md",
+    "pdf_attachments": [
+      {
+        "filename": "SR 08-9 - Letter.pdf",
+        "original_filename": "SR0809.pdf",
+        "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809.pdf",
+        "local_path": "SR_Letters/pdf/SR 08-9 - Letter.pdf",
+        "description": "PDF"
+      },
+      {
+        "filename": "SR 08-9 - Attachment 1 - Guidance for the Consolidated Supervision of Domestic Bank Holding Companies that are Large Complex Banking.pdf",
+        "original_filename": "SR0809a1.pdf",
+        "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809a1.pdf",
+        "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 1 - Guidance for the Consolidated Supervision of Domestic Bank Holding Companies that are Large Complex Banking.pdf",
+        "description": "Guidance for the Consolidated Supervision of Domestic Bank Holding Companies that are Large Complex Banking Organizations"
+      },
+      {
+        "filename": "SR 08-9 - Attachment 2 - Guidance for the Consolidated Supervision of Regional Bank Holding Companies.pdf",
+        "original_filename": "SR0809a2.pdf",
+        "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809a2.pdf",
+        "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 2 - Guidance for the Consolidated Supervision of Regional Bank Holding Companies.pdf",
+        "description": "Guidance for the Consolidated Supervision of Regional Bank Holding Companies"
+      },
+      {
+        "filename": "SR 08-9 - Attachment 3 - Guidance for the Supervision of the Combined U.S. Operations of Foreign Banking Organizations that are Large Complex.pdf",
+        "original_filename": "SR0809b1.pdf",
+        "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809b1.pdf",
+        "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 3 - Guidance for the Supervision of the Combined U.S. Operations of Foreign Banking Organizations that are Large Complex.pdf",
+        "description": "Guidance for the Supervision of the Combined U.S. Operations of Foreign Banking Organizations that are Large Complex Banking Organizations"
+      },
+      {
+        "filename": "SR 08-9 - Attachment 4 - Guidance for the Supervision of the Combined U.S. Operations of Multi-office Foreign Banking Organizations.pdf",
+        "original_filename": "SR0809b2.pdf",
+        "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809b2.pdf",
+        "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 4 - Guidance for the Supervision of the Combined U.S. Operations of Multi-office Foreign Banking Organizations.pdf",
+        "description": "Guidance for the Supervision of the Combined U.S. Operations of Multi-office Foreign Banking Organizations"
+      },
+      {
+        "filename": "SR 08-9 - Attachment 5 - Definitions of Key Terms for Consolidated Supervision.pdf",
+        "original_filename": "SR0809c.pdf",
+        "source_url": "https://www.federalreserve.gov/supervisionreg/srletters/SR0809c.pdf",
+        "local_path": "SR_Letters/pdf/SR 08-9 - Attachment 5 - Definitions of Key Terms for Consolidated Supervision.pdf",
+        "description": "Definitions of Key Terms for Consolidated Supervision"
+      }
+    ]
+  },
+  "bm25_text": "SR 08-9 FRB: Supervisory Letter SR 08-9 / CA 08-12 on consolidated supervision of bank holding companies and the combined U.S. operations of foreign banking organizations -- October 16, 2008 -- Revised January 9, 2026  Board of Governors of the Federal Reserve System Supervision and Regulation Letters SR 08-9 / CA 08-12: Notes: Board of Governorsof theFederal Reserve System Tools and Information Stay Connected On January 9, 2026:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 08-9: FRB: Supervisory Letter SR 08-9 / CA 08-12 on consolidated supervision of bank holding companies and the combined U.S. operations of foreign banking organizations --",
+  "normalized_text_sha256": "463ef027676e299f903371735851769608af168265affd1d4bcd134c2e0b5515",
+  "normalized_md_path": "SR_Letters/md/SR_08-9_FRB_Supervisory_Letter_SR_089_CA_0812_On_Consolidated_Supervision.md",
+  "canonical_json_path": "SR_Letters/json/SR_08-9_FRB_Supervisory_Letter_SR_089_CA_0812_On_Consolidated_Supervision.json",
+  "raw_html_path": "SR_Letters/raw_html/SR_08-9_FRB_Supervisory_Letter_SR_089_CA_0812_On_Consolidated_Supervision.html",
+  "parser_version": "nova-sr-scraper-v2",
+  "normalizer_version": "nova-sr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "original_effective_date": "2008-10-16",
+  "version_sort_key": "2008-10-16"
+}

@@ -21,8 +21,9 @@ ECFR_PART_URL = "https://www.ecfr.gov/api/renderer/v1/content/enhanced/{date}/ti
 FR_API_BASE = "https://www.federalregister.gov/api/v1"
 FR_DOCUMENTS_URL = f"{FR_API_BASE}/documents.json"
 
-SR_LISTING_URL = "https://www.federalreserve.gov/supervisionreg/srletters/srlettersbyyear.htm"
-SR_LETTER_BASE = "https://www.federalreserve.gov/supervisionreg/srletters"
+SR_LISTING_URL = "https://www.federalreserve.gov/supervisionreg/srletters.htm"
+SR_ALL_YEARS_URL = "https://www.federalreserve.gov/supervisionreg/srletters/sr-letters-all-years.htm"
+SR_LETTER_BASE = "https://www.federalreserve.gov"
 
 # ─── Scope: 12 CFR Chapter II (Federal Reserve System) ───────────────────────
 CFR_TITLE = 12
@@ -69,16 +70,16 @@ def nova_tier_for_part(part_number: int) -> int:
 FR_AGENCY_IDS = [466]  # Federal Reserve System agency ID
 FR_CONDITIONS = {
     "final_rules": {
-        "type[]": "RULE",
-        "agencies[]": "federal-reserve-system",
+        "type": "RULE",
+        "agencies": "federal-reserve-system",
     },
     "proposed_rules": {
-        "type[]": "PRORULE",
-        "agencies[]": "federal-reserve-system",
+        "type": "PRORULE",
+        "agencies": "federal-reserve-system",
     },
     "notices": {
-        "type[]": "NOTICE",
-        "agencies[]": "federal-reserve-system",
+        "type": "NOTICE",
+        "agencies": "federal-reserve-system",
     },
 }
 
@@ -92,10 +93,10 @@ SCRAPE_DATE = datetime.utcnow().strftime("%Y-%m-%d")
 PARSER_VERSIONS = {
     "ecfr": "nova-ecfr-scraper-v1",
     "fr": "nova-fr-api-v1",
-    "sr": "nova-sr-scraper-v1",
+    "sr": "nova-sr-scraper-v2",
 }
 ENRICHER_VERSIONS = {
     "ecfr": "nova-ecfr-enricher-v2",
     "fr": "nova-fr-enricher-v2",
-    "sr": "nova-sr-enricher-v1",
+    "sr": "nova-sr-enricher-v2",
 }

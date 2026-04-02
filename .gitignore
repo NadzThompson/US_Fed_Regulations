@@ -8,7 +8,6 @@ __pycache__/
 *.pyo
 
 # Temporary files
-*.zip
 *.tmp
 
 # IDE
@@ -21,3 +20,12 @@ __pycache__/
 # Scraper artifacts
 scrape_fed_regulations.py
 regulations_metadata.json
+
+# Large content folders — zipped versions are committed instead
+# To unzip after cloning, run: python scrapers/unzip_content.py
+ecfr/pdf/
+SR_Letters/pdf/
+federal_register/pdf/
+federal_register/raw_html/
+federal_register/html/
+federal_register/md/

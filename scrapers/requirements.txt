@@ -1,5 +1,4 @@
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 lxml>=4.9.0
-html2text>=2024.2.26
-hashlib-additional>=1.0.1; python_version < "3.0"
+xhtml2pdf>=0.2.17

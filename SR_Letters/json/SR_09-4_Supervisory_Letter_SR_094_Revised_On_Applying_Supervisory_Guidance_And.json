@@ -1,0 +1,270 @@
+{
+  "doc_id": "usfed.sr09-4.20090224.letter",
+  "doc_family_id": "usfed.sr09-4",
+  "title": "Supervisory Letter SR 09-4 (Revised) on Applying Supervisory Guidance and Regulations on the Payment of Dividends, Stock Redemptions, and Stock Repurchases at Bank Holding Companies -- February 24, 2009 -- Revised March 27, 2009",
+  "title_normalized": "Supervisory Letter SR 09-4 (Revised) on Applying Supervisory Guidance and Regulations on the Payment of Dividends, Stock Redemptions, and Stock Repurchases at Bank Holding Companies -- February 24, 2009 -- Revised March 27, 2009",
+  "short_title": "SR 09-4",
+  "slug": "sr-letter-sr09-4",
+  "regulator": "Federal Reserve System",
+  "regulator_acronym": "FRS",
+  "jurisdiction": "United States",
+  "document_class": "sr_letter",
+  "publication_type": "SR Letter",
+  "publication_type_normalized": "sr_letter",
+  "nova_tier": 2,
+  "authority_class": "primary_normative",
+  "authority_level": "supervisory_guidance",
+  "prudential_weight": 0.5,
+  "status": "active",
+  "heading_path": [
+    "Federal Reserve System",
+    "Supervision and Regulation",
+    "SR Letters",
+    "SR 09-4"
+  ],
+  "section_path": "Federal Reserve System > Supervision and Regulation > SR Letters > SR 09-4",
+  "structural_level": "document",
+  "normative_weight": "advisory",
+  "current_version_flag": true,
+  "is_primary_normative": false,
+  "is_supporting_interpretive": true,
+  "is_context_only": false,
+  "paragraph_role": "scope_statement",
+  "contains_definition": false,
+  "contains_formula": false,
+  "contains_requirement": false,
+  "contains_deadline": false,
+  "contains_parameter": false,
+  "contains_assignment": false,
+  "is_appendix": false,
+  "depth": 0,
+  "version_id": "2009-02-24",
+  "version_label": "2009",
+  "citation_anchor": "#sr09-4",
+  "sr_letter_number": "SR 09-4",
+  "sr_year": 2009,
+  "sr_sequence": 4,
+  "topic_code": "",
+  "joint_letters": [],
+  "issuing_agency": "Board of Governors of the Federal Reserve System",
+  "issuing_division": "Division of Supervision and Regulation",
+  "document_date_raw": "2009-02-24",
+  "document_date_iso": "2009-02-24",
+  "effective_date_start": "2009-02-24",
+  "effective_date_end": null,
+  "applicability_raw": "",
+  "supersedes": [],
+  "related_letters": [],
+  "superseded_by_doc_id": null,
+  "supersedes_doc_id": null,
+  "applies_to_state_member_banks": false,
+  "applies_to_bank_holding_companies": true,
+  "applies_to_savings_loan_holding": false,
+  "applies_to_foreign_banking_orgs": true,
+  "applies_to_nonbank_financial": false,
+  "applies_to_edge_agreement_corps": false,
+  "applies_to_large_institutions": true,
+  "word_count_raw_body": 4612,
+  "section_headings": [
+    "Supervision and Regulation Letters",
+    "SR 09-4",
+    "Applying Supervisory Guidance and Regulations on the Payment of Dividends, Stock Redemptions, and Stock Repurchases at Bank Holding Companies",
+    "Attachment(s):",
+    "Notes:"
+  ],
+  "toc_depth": 5,
+  "has_appendices": true,
+  "has_tables": false,
+  "table_count": 0,
+  "has_footnotes": false,
+  "footnote_count": 0,
+  "inline_cross_references": [
+    "Regulation Y",
+    "Regulation Y",
+    "SR 09-4"
+  ],
+  "pdf_attachments": [
+    "SR 09-4 - Print version.pdf",
+    "SR 09-4 - Attachment 1 - Attachment A (February 2009).pdf",
+    "SR 09-4 - Attachment 2 - Attachment B (February 2009).pdf",
+    "SR 09-4 - Attachment 3 - Frequently Asked Questions re SR letter 09-4 (March 2009).pdf",
+    "SR 09-4 - Attachment 4 - Attachment C (July 2020).pdf",
+    "SR 09-4 - Attachment 5 - Attachment A(February 2009).pdf",
+    "SR 09-4 - Attachment 6 - Attachment B(February 2009).pdf",
+    "SR 09-4 - Attachment 7 - Frequently Asked Questions re SR letter 09-4(March 2009).pdf",
+    "SR 09-4 - Attachment 8 - Attachment C(July 2020).pdf",
+    "SR 09-4 - Attachment 9 - httpfrwebgate.access.gpo.govcgi-bingetdoc.cgidbname=110_cong_public_laws&docid=fpubl343.110.pdf.pdf"
+  ],
+  "pdf_attachments_detail": [
+    {
+      "filename": "SR 09-4 - Print version.pdf",
+      "original_filename": "SR0904.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Print version.pdf",
+      "description": "Print version (PDF)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 1 - Attachment A (February 2009).pdf",
+      "original_filename": "sr0904a1.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/sr0904a1.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 1 - Attachment A (February 2009).pdf",
+      "description": "Attachment A (February 2009)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 2 - Attachment B (February 2009).pdf",
+      "original_filename": "sr0904a2.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/sr0904a2.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 2 - Attachment B (February 2009).pdf",
+      "description": "Attachment B (February 2009)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 3 - Frequently Asked Questions re SR letter 09-4 (March 2009).pdf",
+      "original_filename": "sr0904a3.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/sr0904a3.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 3 - Frequently Asked Questions re SR letter 09-4 (March 2009).pdf",
+      "description": "Frequently Asked Questions re:   SR letter 09-4 (March 2009)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 4 - Attachment C (July 2020).pdf",
+      "original_filename": "sr0904a4.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/sr0904a4.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 4 - Attachment C (July 2020).pdf",
+      "description": "Attachment C (July 2020)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 5 - Attachment A(February 2009).pdf",
+      "original_filename": "SR0904a1.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904a1.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 5 - Attachment A(February 2009).pdf",
+      "description": "Attachment A(February 2009)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 6 - Attachment B(February 2009).pdf",
+      "original_filename": "SR0904a2.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904a2.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 6 - Attachment B(February 2009).pdf",
+      "description": "Attachment B(February 2009)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 7 - Frequently Asked Questions re SR letter 09-4(March 2009).pdf",
+      "original_filename": "SR0904a3.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904a3.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 7 - Frequently Asked Questions re SR letter 09-4(March 2009).pdf",
+      "description": "Frequently Asked Questions re:  SR letter 09-4(March 2009)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 8 - Attachment C(July 2020).pdf",
+      "original_filename": "SR0904a4.pdf",
+      "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904a4.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 8 - Attachment C(July 2020).pdf",
+      "description": "Attachment C(July 2020)"
+    },
+    {
+      "filename": "SR 09-4 - Attachment 9 - httpfrwebgate.access.gpo.govcgi-bingetdoc.cgidbname=110_cong_public_laws&docid=fpubl343.110.pdf.pdf",
+      "original_filename": "getdoc.cgi?dbname=110_cong_public_laws&docid=f:publ343.110.pdf",
+      "source_url": "http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_public_laws&docid=f:publ343.110.pdf",
+      "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 9 - httpfrwebgate.access.gpo.govcgi-bingetdoc.cgidbname=110_cong_public_laws&docid=fpubl343.110.pdf.pdf",
+      "description": "http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_public_laws&docid=f:publ343.110.pdf"
+    }
+  ],
+  "attachment_count": 10,
+  "include_in_primary_corpus": true,
+  "include_in_context_corpus": true,
+  "include_in_support_corpus": true,
+  "content_source": "Federal Reserve Website",
+  "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904.htm",
+  "source_html_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904.htm",
+  "canonical_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904.htm",
+  "scraped_on": "2026-04-02",
+  "enriched_timestamp": "2026-04-02T00:42:12Z",
+  "connected_files": {
+    "source_html_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904.htm",
+    "raw_html_local": "SR_Letters/raw_html/SR_09-4_Supervisory_Letter_SR_094_Revised_On_Applying_Supervisory_Guidance_And.html",
+    "metadata_json": "SR_Letters/json/SR_09-4_Supervisory_Letter_SR_094_Revised_On_Applying_Supervisory_Guidance_And.json",
+    "markdown_summary": "SR_Letters/md/SR_09-4_Supervisory_Letter_SR_094_Revised_On_Applying_Supervisory_Guidance_And.md",
+    "pdf_attachments": [
+      {
+        "filename": "SR 09-4 - Print version.pdf",
+        "original_filename": "SR0904.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Print version.pdf",
+        "description": "Print version (PDF)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 1 - Attachment A (February 2009).pdf",
+        "original_filename": "sr0904a1.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/sr0904a1.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 1 - Attachment A (February 2009).pdf",
+        "description": "Attachment A (February 2009)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 2 - Attachment B (February 2009).pdf",
+        "original_filename": "sr0904a2.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/sr0904a2.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 2 - Attachment B (February 2009).pdf",
+        "description": "Attachment B (February 2009)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 3 - Frequently Asked Questions re SR letter 09-4 (March 2009).pdf",
+        "original_filename": "sr0904a3.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/sr0904a3.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 3 - Frequently Asked Questions re SR letter 09-4 (March 2009).pdf",
+        "description": "Frequently Asked Questions re:   SR letter 09-4 (March 2009)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 4 - Attachment C (July 2020).pdf",
+        "original_filename": "sr0904a4.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/sr0904a4.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 4 - Attachment C (July 2020).pdf",
+        "description": "Attachment C (July 2020)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 5 - Attachment A(February 2009).pdf",
+        "original_filename": "SR0904a1.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904a1.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 5 - Attachment A(February 2009).pdf",
+        "description": "Attachment A(February 2009)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 6 - Attachment B(February 2009).pdf",
+        "original_filename": "SR0904a2.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904a2.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 6 - Attachment B(February 2009).pdf",
+        "description": "Attachment B(February 2009)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 7 - Frequently Asked Questions re SR letter 09-4(March 2009).pdf",
+        "original_filename": "SR0904a3.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904a3.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 7 - Frequently Asked Questions re SR letter 09-4(March 2009).pdf",
+        "description": "Frequently Asked Questions re:  SR letter 09-4(March 2009)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 8 - Attachment C(July 2020).pdf",
+        "original_filename": "SR0904a4.pdf",
+        "source_url": "https://www.federalreserve.gov/boarddocs/srletters/2009/SR0904a4.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 8 - Attachment C(July 2020).pdf",
+        "description": "Attachment C(July 2020)"
+      },
+      {
+        "filename": "SR 09-4 - Attachment 9 - httpfrwebgate.access.gpo.govcgi-bingetdoc.cgidbname=110_cong_public_laws&docid=fpubl343.110.pdf.pdf",
+        "original_filename": "getdoc.cgi?dbname=110_cong_public_laws&docid=f:publ343.110.pdf",
+        "source_url": "http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_public_laws&docid=f:publ343.110.pdf",
+        "local_path": "SR_Letters/pdf/SR 09-4 - Attachment 9 - httpfrwebgate.access.gpo.govcgi-bingetdoc.cgidbname=110_cong_public_laws&docid=fpubl343.110.pdf.pdf",
+        "description": "http://frwebgate.access.gpo.gov/cgi-bin/getdoc.cgi?dbname=110_cong_public_laws&docid=f:publ343.110.pdf"
+      }
+    ]
+  },
+  "bm25_text": "SR 09-4 Supervisory Letter SR 09-4 (Revised) on Applying Supervisory Guidance and Regulations on the Payment of Dividends, Stock Redemptions, and Stock Repurchases at Bank Holding Companies -- February 24, 2009 -- Revised March 27, 2009  Supervision and Regulation Letters SR 09-4 Applying Supervisory Guidance and Regulations on the Payment of Dividends, Stock Redemptions, and Stock Repurchases at Bank Holding Companies Attachment(s): Notes:",
+  "vector_text_prefix": "Federal Reserve SR Letter SR 09-4: Supervisory Letter SR 09-4 (Revised) on Applying Supervisory Guidance and Regulations on the Payment of Dividends, Stock Redemptions, and Stock Repurchases at Bank H",
+  "normalized_text_sha256": "6894b0c2a4ac4f3bcfad7d8410bc662ff7bd92b063b93c5c9612ca4423c4461a",
+  "normalized_md_path": "SR_Letters/md/SR_09-4_Supervisory_Letter_SR_094_Revised_On_Applying_Supervisory_Guidance_And.md",
+  "canonical_json_path": "SR_Letters/json/SR_09-4_Supervisory_Letter_SR_094_Revised_On_Applying_Supervisory_Guidance_And.json",
+  "raw_html_path": "SR_Letters/raw_html/SR_09-4_Supervisory_Letter_SR_094_Revised_On_Applying_Supervisory_Guidance_And.html",
+  "parser_version": "nova-sr-scraper-v2",
+  "normalizer_version": "nova-sr-enricher-v2",
+  "quality_score": 100,
+  "quality_flags": [],
+  "original_effective_date": "2009-02-24",
+  "version_sort_key": "2009-02-24"
+}
